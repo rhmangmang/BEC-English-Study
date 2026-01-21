@@ -13,26 +13,29 @@
 | as long as | 10 | 高 | 2026-01-21 | 包含实战演练 |
 | every so often | 10 | 高 | 2026-01-21 | 包含实战演练 |
 | commute | 10 | 高 | 2026-01-21 | 包含实战演练 |
-| at last | 5 | 高 | 2026-01-21 | 02BEC |
-| do a course | 5 | 高 | 2026-01-21 | 02BEC |
-| be popular with | 5 | 高 | 2026-01-21 | 02BEC |
-| be spread out | 5 | 高 | 2026-01-21 | 02BEC |
-| on a project | 5 | 高 | 2026-01-21 | 02BEC |
+| at last | 5 | 高 | 2026-01-21 | |
+| do a course | 5 | 高 | 2026-01-21 | |
+| be popular with | 5 | 高 | 2026-01-21 | |
+| be spread out | 5 | 高 | 2026-01-21 | |
+| on a project | 5 | 高 | 2026-01-21 | |
+| study for | 5 | 高 | 2026-01-21 | 区分了 Certificate vs Certification |
+| working life | 5 | 高 | 2026-01-21 | 掌握了 How long does it last 句式 |
 
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
-| 2026-01-19 | 01BEC 居家办公核心表达强化训练 (Part 1) | ✅ | 完成 4 个语言点 |
-| 2026-01-20 | 01BEC 居家办公核心表达强化训练 (Part 2 & 3) | ✅ | 完成 6 个语言点 |
-| 2026-01-21 | 01BEC 实战演练 + 02BEC 社交表达训练 | ✅ | 累计掌握 14 个核心短语 |
+| 2026-01-19 | 01BEC 强化训练 (Part 1) | ✅ | |
+| 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |
+| 2026-01-21 | 01BEC 实战 + 02BEC 社交 + 03BEC 口语 | ✅ | 累计掌握 16 个核心短语 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
 - [x] Talent 的数 (已掌握)
-- [ ] 职场正式请求/指令的语气选择 (Request/Require vs Apply for/Command)
+- [x] Certificate vs Certification (已掌握)
+- [ ] 职场正式请求/指令的语气选择 (Request vs Command)
 
 ## 下一步计划 (Next Steps)
 
-1. [ ] 开启 `texts/03BEC` 课文学习。
-2. [ ] 复习已掌握的 14 个短语，进行一次综合测试。
+1. [ ] 继续 03BEC 剩余短语：commute in/out, frequently.
+2. [ ] 进行 01-03 模块的综合复习测试。
