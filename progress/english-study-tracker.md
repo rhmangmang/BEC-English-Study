@@ -29,13 +29,28 @@
 | 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |
 | 2026-01-21 | 01BEC 实战 + 02BEC 社交 + 03BEC 口语 | ✅ | 累计掌握 16 个核心短语 |
 
+| commute in | 5 | 高 | 2026-01-22 | 掌握了进城通勤的方向感 |
+| commute out | 5 | 高 | 2026-01-22 | 纠正了 consider doing 的用法 |
+| spread out across | 10 | 高 | 2026-01-22 | 纠正了介词从 in 到 across 的转变 |
+| Request/Require | 5 | 高 | 2026-01-22 | 语气修正，淘汰了 command/wanna |
+
+## 学习记录概览 (Session Overview)
+
+| 日期 | 主要内容 | 状态 | 备注 |
+| :--- | :--- | :---: | :--- |
+| 2026-01-19 | 01BEC 强化训练 (Part 1) | ✅ | |
+| 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |
+| 2026-01-21 | 01BEC 实战 + 02BEC 社交 + 03BEC 口语 | ✅ | 累计掌握 16 个核心短语 |
+| 2026-01-22 | 03BEC 深度 + 语气修正 + 介词专项 | ✅ | 纠正了职场语气和介词弱项 |
+
 ## 待解决的知识缺口 (Knowledge Gaps)
 
 - [x] Talent 的数 (已掌握)
 - [x] Certificate vs Certification (已掌握)
-- [ ] 职场正式请求/指令的语气选择 (Request vs Command)
+- [x] 职场正式请求/指令的语气选择 (已通过专项训练掌握)
+- [ ] 集合名词 (User base, Staff) 的单复数逻辑
 
 ## 下一步计划 (Next Steps)
 
-1. [ ] 继续 03BEC 剩余短语：commute in/out, frequently.
-2. [ ] 进行 01-03 模块的综合复习测试。
+1. [ ] 进行 01-03 模块的综合复习测试。
+2. [ ] 开启 04BEC 或职场会议专项训练。
