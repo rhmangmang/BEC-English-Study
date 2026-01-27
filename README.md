@@ -1,3 +1,4 @@
+![img_4.png](img_4.png)
 方法：
 1.电脑端点分享后，ctrl+A复制全文
 2.将全文内容用gemini加工，prompt:
