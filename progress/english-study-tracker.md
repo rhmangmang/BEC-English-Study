@@ -30,11 +30,15 @@
 | on + specific days | 10 | 极高 | 2026-01-27 | 彻底根除 in Friday 错误 |
 | spend on / use for | 10 | 极高 | 2026-01-27 | 区分清晰 |
 | talk to sb about sth | 5 | 高 | 2026-01-26 | |
-| **potential (noun)** | 5 | 高 | 2026-01-27 | 纠正词性错误 |
-| **Time Adverbials** | 5 | 高 | 2026-01-27 | at a time / back then |
-| **With a turnover of...** | 5 | 高 | 2026-01-27 | 05BEC 新增 |
-| **Note that...** | 5 | 高 | 2026-01-27 | 05BEC 新增 |
-| **Depend on/upon** | 5 | 高 | 2026-01-27 | 05BEC 新增 |
+| potential (noun) | 5 | 高 | 2026-01-27 | 纠正词性错误 |
+| Time Adverbials | 5 | 高 | 2026-01-27 | at a time / back then |
+| **With a turnover of...** | 5 | 高 | 2026-01-28 | 掌握状语前置 |
+| **Note that...** | 5 | 高 | 2026-01-28 | 掌握祈使句用法 |
+| **Depend on/upon** | 5 | 高 | 2026-01-27 | 区分 Given/Depending on |
+| **Division vs Department** | 5 | 极高 | 2026-01-28 | 彻底理解层级关系 |
+| **By + Noun** | 5 | 极高 | 2026-01-28 | 分类法掌握 (Region, Product) |
+| **Dedicated to** | 5 | 极高 | 2026-01-28 | 牢记 +ing 形式 |
+| **Of interest** | 5 | 极高 | 2026-01-28 | 掌握 Formal 表达 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -46,21 +50,18 @@
 | 2026-01-22 | 03BEC 深度 + 语气修正 + 介词专项 | ✅ | |
 | 2026-01-25 | 04BEC 福利与激励 (Benefits) | ✅ | |
 | 2026-01-26 | 04BEC 深度 + 介词/搭配专项纠偏 | ✅ | |
-| 2026-01-27 | **01-04 综合测试** + **05BEC (Presentation) 启动** | ✅ | 综合测试满分，开启新章 |
+| 2026-01-27 | 01-04 综合测试 + 05BEC 启动 | ✅ | 综合测试满分 |
+| 2026-01-28 | **05BEC 深度训练** + **Mini-Presentation** | ✅ | 完结 05BEC 所有知识点 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
-- [x] Potential 的词性用法 (已修复)
-- [x] 职位前的冠词 (已修复)
-- [x] 模糊时间状语 (已修复)
-- [x] spend for / in days (已修复)
+- [x] Division vs Department (已修复)
+- [x] Dedicated to + do/doing (已修复)
+- [ ] **Given vs Depending on**: 在 Presentation 中曾误用 Depending on 表示“鉴于”，需留意后续复现。
 - [ ] **Headquarters 谓语**: 偶尔用复数谓语，需强化单数概念。
 - [ ] **Profit vs Revenue**: 翻译时需区分利润与营收。
-- [ ] **Marketing vs Advertisement**: 区分宏观营销与具体广告。
-- [ ] **Division vs Department**: 尚未进行专门辨析训练 (05BEC 待办)。
-- [ ] **By + Noun**: 尚未训练数据分类表达 (05BEC 待办)。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **05BEC 深度训练**: 针对 Division/Department, By region, Dedicated to, Of interest 等剩余疑问点进行造句。
-2.  [ ] **Presentation 实战**: 模拟一分钟公司介绍。
+1.  [ ] **06BEC 启动**: 读取 06BEC 文本，分析新语言点。
+2.  [ ] **Presentation 复盘**: 下次热身时，让学生口头复述一次修正后的公司介绍。
