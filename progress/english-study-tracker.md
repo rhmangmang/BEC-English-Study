@@ -60,6 +60,7 @@
 - [ ] **Given vs Depending on**: 在 Presentation 中曾误用 Depending on 表示“鉴于”，需留意后续复现。
 - [ ] **Headquarters 谓语**: 偶尔用复数谓语，需强化单数概念。
 - [ ] **Profit vs Revenue**: 翻译时需区分利润与营收。
+- [ ] **Marketing vs Advertisement**: 区分宏观营销与具体广告。
 
 ## 下一步计划 (Next Steps)
 
