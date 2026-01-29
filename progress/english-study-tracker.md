@@ -37,8 +37,14 @@
 | **Depend on/upon** | 5 | 高 | 2026-01-27 | 区分 Given/Depending on |
 | **Division vs Department** | 5 | 极高 | 2026-01-28 | 彻底理解层级关系 |
 | **By + Noun** | 5 | 极高 | 2026-01-28 | 分类法掌握 (Region, Product) |
-| **Dedicated to** | 5 | 极高 | 2026-01-28 | 牢记 +ing 形式 |
-| **Of interest** | 5 | 极高 | 2026-01-28 | 掌握 Formal 表达 |
+| Dedicated to | 5 | 极高 | 2026-01-28 | 牢记 +ing 形式 |
+| Of interest | 5 | 极高 | 2026-01-28 | 掌握 Formal 表达 |
+| **market (verb)** | 5 | 高 | 2026-01-29 | 区分名词/动词用法 |
+| **turnover** | 5 | 高 | 2026-01-29 | 掌握 Revenue 含义 |
+| **begin by doing** | 5 | 极高 | 2026-01-29 | |
+| **key figures** | 5 | 高 | 2026-01-29 | 注意 emphasize 无 on |
+| **be structured** | 5 | 极高 | 2026-01-29 | |
+| **trends** | 5 | 高 | 2026-01-29 | 需留意 Mixed Conditional |
 
 ## 学习记录概览 (Session Overview)
 
@@ -52,15 +58,16 @@
 | 2026-01-26 | 04BEC 深度 + 介词/搭配专项纠偏 | ✅ | |
 | 2026-01-27 | 01-04 综合测试 + 05BEC 启动 | ✅ | 综合测试满分 |
 | 2026-01-28 | **05BEC 深度训练** + **Mini-Presentation** | ✅ | 完结 05BEC 所有知识点 |
+| 2026-01-29 | **06BEC 全面训练** (Xerox Case) | ✅ | 覆盖8个核心语言点 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
 - [x] Division vs Department (已修复)
 - [x] Dedicated to + do/doing (已修复)
+- [ ] **Tag Questions (反义疑问句)**: 容易在实义动词 (do/did) 和系动词 (be) 之间混淆。
+- [ ] **Mixed Conditionals (混合虚拟)**: "Past Cause -> Present Result" 结构需强化。
+- [ ] **Transitive Verbs**: 需注意 emphasize, discuss 等词后不加介词。
 - [ ] **Given vs Depending on**: 在 Presentation 中曾误用 Depending on 表示“鉴于”，需留意后续复现。
-- [ ] **Headquarters 谓语**: 偶尔用复数谓语，需强化单数概念。
-- [ ] **Profit vs Revenue**: 翻译时需区分利润与营收。
-- [ ] **Marketing vs Advertisement**: 区分宏观营销与具体广告。
 
 ## 下一步计划 (Next Steps)
 
