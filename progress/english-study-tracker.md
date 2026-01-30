@@ -44,7 +44,10 @@
 | **begin by doing** | 5 | 极高 | 2026-01-29 | |
 | **key figures** | 5 | 高 | 2026-01-29 | 注意 emphasize 无 on |
 | **be structured** | 5 | 极高 | 2026-01-29 | |
-| **trends** | 5 | 高 | 2026-01-29 | 需留意 Mixed Conditional |
+| **Franchise / Franchisee** | 5 | 高 | 2026-01-30 | 掌握 invest in 搭配 |
+| **Tried and tested** | 5 | 极高 | 2026-01-30 | 商务搭配极佳 |
+| **Need to like** | 5 | 极高 | 2026-01-30 | 掌握 Mixed Conditional |
+| **Sole trader** | 5 | 高 | 2026-01-30 | 掌握个体经营者概念 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -59,17 +62,18 @@
 | 2026-01-27 | 01-04 综合测试 + 05BEC 启动 | ✅ | 综合测试满分 |
 | 2026-01-28 | **05BEC 深度训练** + **Mini-Presentation** | ✅ | 完结 05BEC 所有知识点 |
 | 2026-01-29 | **06BEC 全面训练** (Xerox Case) | ✅ | 覆盖8个核心语言点 |
+| 2026-01-30 | **06BEC 实战演练** + **08BEC 启动** | ✅ | 攻克 Mixed Conditionals |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
 - [x] Division vs Department (已修复)
 - [x] Dedicated to + do/doing (已修复)
-- [ ] **Tag Questions (反义疑问句)**: 容易在实义动词 (do/did) 和系动词 (be) 之间混淆。
-- [ ] **Mixed Conditionals (混合虚拟)**: "Past Cause -> Present Result" 结构需强化。
+- [ ] **Tag Questions (反义疑问句)**: 需注意指代一致性 (he/she vs it) 及避免双重疑问。
+- [x] **Mixed Conditionals (混合虚拟)**: 已掌握 (2026-01-30)。
 - [ ] **Transitive Verbs**: 需注意 emphasize, discuss 等词后不加介词。
-- [ ] **Given vs Depending on**: 在 Presentation 中曾误用 Depending on 表示“鉴于”，需留意后续复现。
+- [ ] **Articles (冠词)**: 需注意可数名词单数形式前的 a/an。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **06BEC 启动**: 读取 06BEC 文本，分析新语言点。
-2.  [ ] **Presentation 复盘**: 下次热身时，让学生口头复述一次修正后的公司介绍。
+1.  [ ] **08BEC 继续**: 深入挖掘 08BEC 剩余语言点。
+2.  [ ] **Tag Question 专项突破**: 开局进行针对性小测试。
