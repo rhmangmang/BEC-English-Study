@@ -51,11 +51,11 @@
 | Start-up capital | 5 | 极高 | 2026-01-31 | 彻底纠正 capital/capitol 拼写 |
 | Tend to be | 5 | 极高 | 2026-01-31 | 掌握否定位置 tend not to be |
 | As low as / As high as | 5 | 极高 | 2026-01-31 | 精准描述数值区间 |
-| Subjunctive Past (Virtual) | 5 | 高 | 2026-02-01 | 掌握 If had done, would have done |
-| Tag Questions (Advanced) | 5 | 极高 | 2026-02-01 | 攻克 Nobody, I don't think |
-| **Take ... straight to ...** | 5 | 极高 | 2026-02-01 | 09BEC 核心短语 |
-| **There's no point in ...** | 5 | 高 | 2026-02-01 | 09BEC 掌握逻辑主语用法 |
-| **Confirm** | 5 | 极高 | 2026-02-01 | 09BEC 掌握 Everyone 一致性 |
+| **give sb an update on sth** | 5 | 极高 | 2026-02-02 | 掌握 Who...to 与虚拟语气结合 |
+| **all one word** | 5 | 极高 | 2026-02-02 | 商务拼写场景应用熟练 |
+| **It's just to ...** | 5 | 高 | 2026-02-02 | 理解形式主语 it 的指代 |
+| **be there for** | 5 | 高 | 2026-02-02 | 区分目的语义 |
+| Subjunctive Past (Virtual) | 10 | 极高 | 2026-02-02 | 肌肉记忆已建立，否定词序正确 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -73,6 +73,7 @@
 | 2026-01-30 | 06BEC 实战演练 + 08BEC 启动 | ✅ | 攻克 Mixed Conditionals |
 | 2026-01-31 | Tag Question 专项 + 08BEC 深度训练 | ✅ | 攻克指代一致性与范围描述 |
 | 2026-02-01 | **Grammar Intensive** (08BEC) + **09BEC Start** | ✅ | 攻克虚拟语气过去时，启动 Seminar 话题 |
+| 2026-02-02 | **09BEC Deep Dive** + **Subjunctive Mastery** | ✅ | 彻底固化 Type 3 虚拟语气与前单后复 Tag Questions |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -80,8 +81,8 @@
 - [x] Dedicated to + do/doing (已修复)
 - [x] Tag Questions (反义疑问句): 彻底修复指代一致性与否定前移逻辑 (2026-02-01)。
 - [x] Mixed Conditionals (混合虚拟): 已掌握 (2026-01-30)。
-- [ ] **Subjunctive Past (Virtual)**: 虽已练习，但 If 从句中 `had` vs `have` 的肌肉记忆仍需加强 (2026-02-01 仍有错误)。
-- [ ] **Tag Questions (There be)**: 需注意 `is there` 而非 `is it`。
+- [x] **Subjunctive Past (Virtual)**: 肌肉记忆已固化 (2026-02-02)。
+- [x] **Tag Questions (There be)**: 掌握 `is there` (2026-02-02)。
 - [ ] **Transitive Verbs**: 需注意 emphasize, discuss 等词后不加介词。
 
 ## 下一步计划 (Next Steps)
