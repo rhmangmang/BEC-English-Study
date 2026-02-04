@@ -8,7 +8,7 @@
     - 10BEC (Planning a Seminar) 文本深度分析
     - 基于提问的造句训练 (Sentence Construction Drill)
 
-## 提出的问题
+## 学生提出的问题 (Raw Questions from 10BEC)
 
 ### 问题 1: Logical Subject of Gerund (动名词的逻辑主语)
 - **学生的问题**: "There's no point in both of us interrupting our weekend. 这句话是什么意思？both of us 在这句话中的成分是什么？... 我可以在 in 后面加对应的逻辑主语，对吗？"
@@ -60,14 +60,16 @@
 | **Prepositions** | "...prefer **to** the restaurant?" | "...prefer **the** restaurant?" | 介词多余 (`prefer + noun`) |
 | **Vocabulary** | "...use that **project**?" | "...use that **projector**?" | 词汇拼写/含义混淆 |
 | **Vocabulary** | "Calling for **what**?" | "**Regarding**...?" / "**Reason** for calling?" | 语用错误 (语气过于生硬) |
+| **Vocabulary** | "...cut **off** the orders" | "...**halve** / **reduce** the orders" | 词汇含义混淆 (`Cut off`=切断) |
+| **Spelling** | "...produce any **stares**..." | "...produce any **spares / parts**..." | 拼写错误 |
 
-## 识别出的知识差距
+## 识别出的知识差距 (Identified Deficiencies)
 
-| 主题 | 严重程度 | 备注 |
+| 主题 | 严重程度 | 备注 (详细不足分析) |
 | :--- | :------- | :--- |
-| **Adj vs Verb (Be/Do)** | 高 | `Are you worry` 这类错误表明系表结构与动宾结构的界限在口语输出时容易模糊，需重点纠正。 |
-| **Tag Logic (Negative)** | 中 | 对于 `no`, `never` 引导的否定主句，反义疑问句尾巴容易习惯性用否定 (`isn't it`)，需强化“前否后肯”规则。 |
-| **Collocations** | 低 | 像 `prefer to + noun` 这种错误属于对特定词汇搭配的不熟悉，随着积累可改善。 |
+| **Adj vs Verb (Be/Do)** | **高 (Critical)** | **系统性弱点**。学生在口语直觉输出时，经常混淆 `Are you + adj` 和 `Do you + verb`。例如 `Are you worry`。这表明底层语法直觉仍受中式思维（无词性屈折变化）干扰，需要大量快速反应训练来重塑。 |
+| **Tag Logic (Negative)** | 中 | 对于 `no`, `never` 引导的否定主句，学生习惯性忽略“前否”而使用否定尾巴 (`isn't it`)。这属于逻辑处理的滞后，尚未形成“见到 no 立即转肯定”的条件反射。 |
+| **Business Vocabulary Precision** | 中 | 存在多个词汇误用：`project` (项目) vs `projector` (投影仪)；`cut off` (切断) vs `halve` (减半)；`stares` (凝视) vs `parts` (零件)。这表明在商务实物和动作的精准描述上积累不足。 |
 
 ## 今日掌握的主题
 
@@ -86,8 +88,8 @@
 
 ## 下次会话的行动项
 
--   **复习**: "Be vs Do" Quick Fire Drill (e.g., Are you worried vs Do you worry)。
--   **练习**: Vocabulary Check (Project vs Projector)。
+-   **复习 (Drill)**: "Be vs Do" Quick Fire Drill (e.g., Are you worried vs Do you worry)。
+-   **练习 (Vocab)**: Vocabulary Check (Project vs Projector; Cut off vs Halve)。
 -   **探索**: 进入 11BEC，但在新课文中继续监控基础语法的准确性。
 
 ## 备注
