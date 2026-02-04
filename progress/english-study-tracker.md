@@ -56,6 +56,14 @@
 | **It's just to ...** | 5 | 高 | 2026-02-02 | 理解形式主语 it 的指代 |
 | **be there for** | 5 | 高 | 2026-02-02 | 区分目的语义 |
 | Subjunctive Past (Virtual) | 10 | 极高 | 2026-02-02 | 肌肉记忆已建立，否定词序正确 |
+| **There's no point in doing** | 5 | 极高 | 2026-02-04 | 掌握逻辑主语与反义疑问 |
+| **Future Continuous (will be doing)** | 5 | 高 | 2026-02-04 | 掌握商务“既定行程”语气 |
+| **Noun + to say + clause** | 5 | 极高 | 2026-02-04 | 商务转述结构熟练 |
+| **not ... any longer** | 5 | 极高 | 2026-02-04 | 区分否定/条件句义 |
+| **Collective Nouns (Security are)** | 5 | 极高 | 2026-02-04 | 掌握英式复数动词用法 |
+| **Implied Objects (confirm)** | 5 | 极高 | 2026-02-04 | 商务高效省略 |
+| **Logical Subject (me doing)** | 5 | 极高 | 2026-02-04 | 攻克介词后逻辑主语 |
+| **Spoken Ellipsis** | 5 | 中上 | 2026-02-04 | 电话用语省略 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -74,6 +82,7 @@
 | 2026-01-31 | Tag Question 专项 + 08BEC 深度训练 | ✅ | 攻克指代一致性与范围描述 |
 | 2026-02-01 | **Grammar Intensive** (08BEC) + **09BEC Start** | ✅ | 攻克虚拟语气过去时，启动 Seminar 话题 |
 | 2026-02-02 | **09BEC Deep Dive** + **Subjunctive Mastery** | ✅ | 彻底固化 Type 3 虚拟语气与前单后复 Tag Questions |
+| 2026-02-04 | **10BEC Grammar Drill** (Based on Qs) | ✅ | 攻克逻辑主语、集体名词及商务省略句 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
