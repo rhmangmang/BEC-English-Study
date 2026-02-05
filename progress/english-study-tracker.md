@@ -63,7 +63,11 @@
 | **Collective Nouns (Security are)** | 5 | 极高 | 2026-02-04 | 掌握英式复数动词用法 |
 | **Implied Objects (confirm)** | 5 | 极高 | 2026-02-04 | 商务高效省略 |
 | **Logical Subject (me doing)** | 5 | 极高 | 2026-02-04 | 攻克介词后逻辑主语 |
-| **Spoken Ellipsis** | 5 | 中上 | 2026-02-04 | 电话用语省略 |
+| Spoken Ellipsis | 5 | 中上 | 2026-02-04 | 电话用语省略 |
+| **have sth coming up** | 5 | 极高 | 2026-02-04 | 掌握动态日程描述 |
+| **help with + Noun** | 5 | 极高 | 2026-02-04 | 掌握名词短语概括任务 |
+| **just in case** | 5 | 高 | 2026-02-04 | 掌握独立用法与从句区别 |
+| **have a booking for** | 5 | 高 | 2026-02-04 | 掌握名词化表达 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -83,6 +87,7 @@
 | 2026-02-01 | **Grammar Intensive** (08BEC) + **09BEC Start** | ✅ | 攻克虚拟语气过去时，启动 Seminar 话题 |
 | 2026-02-02 | **09BEC Deep Dive** + **Subjunctive Mastery** | ✅ | 彻底固化 Type 3 虚拟语气与前单后复 Tag Questions |
 | 2026-02-04 | **10BEC Grammar Drill** (Based on Qs) | ✅ | 攻克逻辑主语、集体名词及商务省略句 |
+| 2026-02-04 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
