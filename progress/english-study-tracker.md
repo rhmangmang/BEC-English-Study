@@ -59,6 +59,10 @@
 | Mixed Conditionals (混合虚拟) | 15 | 极高 | 2026-02-06 | 彻底攻克，在长句中直觉准确 |
 | **try doing sth** | 5 | 极高 | 2026-02-06 | 掌握“尝试某种方法”语义 |
 | **be supposed to** | 5 | 极高 | 2026-02-06 | 掌握商务计划/规范语气 |
+| **check with sb** | 5 | 极高 | 2026-02-06 | 掌握核实/征求意见搭配 |
+| **read back to sb** | 5 | 极高 | 2026-02-06 | 掌握电话确认地道表达 |
+| **be on one's mobile** | 5 | 极高 | 2026-02-06 | 区分 phone/mobile 与状态表达 |
+| **call sb at (place)** | 5 | 极高 | 2026-02-06 | 明确 at 后接拨打目的地 |
 | **There's no point in doing** | 5 | 极高 | 2026-02-04 | 掌握逻辑主语与反义疑问 |
 | **Future Continuous (will be doing)** | 5 | 高 | 2026-02-04 | 掌握商务“既定行程”语气 |
 | **Noun + to say + clause** | 5 | 极高 | 2026-02-04 | 商务转述结构熟练 |
@@ -91,7 +95,7 @@
 | 2026-02-02 | **09BEC Deep Dive** + **Subjunctive Mastery** | ✅ | 彻底固化 Type 3 虚拟语气与前单后复 Tag Questions |
 | 2026-02-04 | **10BEC Grammar Drill** (Based on Qs) | ✅ | 攻克逻辑主语、集体名词及商务省略句 |
 | 2026-02-05 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
-| 2026-02-06 | **12BEC Start** + **Mixed Conditionals Mastery** | ✅ | 彻底解决混合虚拟语气，启动 12BEC |
+| 2026-02-06 | **12BEC (Taking Messages)** | ✅ | 全量覆盖 6 个核心语言点，彻底固化混合虚拟语气 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -106,5 +110,5 @@
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **12BEC Second Half**: 攻克 `read back to you` 和 `check with`。
-2.  [ ] **Quick Fire Drill**: 下次开场针对 `be supposed to` 和 `try doing` 进行快速混搭对答。
+1.  [ ] **13BEC Start**: 启动 13BEC 文本学习与造句训练。
+2.  [ ] **Quick Fire Drill**: 下次开场针对 12BEC 核心短语进行混搭快速对答。
