@@ -55,7 +55,10 @@
 | **all one word** | 5 | 极高 | 2026-02-02 | 商务拼写场景应用熟练 |
 | **It's just to ...** | 5 | 高 | 2026-02-02 | 理解形式主语 it 的指代 |
 | **be there for** | 5 | 高 | 2026-02-02 | 区分目的语义 |
-| Subjunctive Past (Virtual) | 10 | 极高 | 2026-02-02 | 肌肉记忆已建立，否定词序正确 |
+| Subjunctive Past (Virtual) | 10 | 极高 | 2026-02-06 | 肌肉记忆已建立，否定词序正确 |
+| Mixed Conditionals (混合虚拟) | 15 | 极高 | 2026-02-06 | 彻底攻克，在长句中直觉准确 |
+| **try doing sth** | 5 | 极高 | 2026-02-06 | 掌握“尝试某种方法”语义 |
+| **be supposed to** | 5 | 极高 | 2026-02-06 | 掌握商务计划/规范语气 |
 | **There's no point in doing** | 5 | 极高 | 2026-02-04 | 掌握逻辑主语与反义疑问 |
 | **Future Continuous (will be doing)** | 5 | 高 | 2026-02-04 | 掌握商务“既定行程”语气 |
 | **Noun + to say + clause** | 5 | 极高 | 2026-02-04 | 商务转述结构熟练 |
@@ -87,19 +90,21 @@
 | 2026-02-01 | **Grammar Intensive** (08BEC) + **09BEC Start** | ✅ | 攻克虚拟语气过去时，启动 Seminar 话题 |
 | 2026-02-02 | **09BEC Deep Dive** + **Subjunctive Mastery** | ✅ | 彻底固化 Type 3 虚拟语气与前单后复 Tag Questions |
 | 2026-02-04 | **10BEC Grammar Drill** (Based on Qs) | ✅ | 攻克逻辑主语、集体名词及商务省略句 |
-| 2026-02-04 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
+| 2026-02-05 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
+| 2026-02-06 | **12BEC Start** + **Mixed Conditionals Mastery** | ✅ | 彻底解决混合虚拟语气，启动 12BEC |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
 - [x] Division vs Department (已修复)
 - [x] Dedicated to + do/doing (已修复)
 - [x] Tag Questions (反义疑问句): 彻底修复指代一致性与否定前移逻辑 (2026-02-01)。
-- [x] Mixed Conditionals (混合虚拟): 已掌握 (2026-01-30)。
+- [x] Mixed Conditionals (混合虚拟): 彻底掌握 (2026-02-06)。
 - [x] **Subjunctive Past (Virtual)**: 肌肉记忆已固化 (2026-02-02)。
 - [x] **Tag Questions (There be)**: 掌握 `is there` (2026-02-02)。
 - [ ] **Transitive Verbs**: 需注意 emphasize, discuss 等词后不加介词。
+- [ ] **Double -ing Avoidance**: 避免 `Trying changing` 类的重叠用法。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **09BEC Role-play**: 模拟研讨会策划电话会议。
-2.  [ ] **Quick Fire Drill**: 下次开场针对 `If I had done` 和 `There is..., isn't there?` 进行快速对答。
+1.  [ ] **12BEC Second Half**: 攻克 `read back to you` 和 `check with`。
+2.  [ ] **Quick Fire Drill**: 下次开场针对 `be supposed to` 和 `try doing` 进行快速混搭对答。
