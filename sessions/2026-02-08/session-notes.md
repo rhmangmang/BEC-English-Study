@@ -3,7 +3,7 @@
 ## 会话概览
 
 - **日期**: 2026-02-08
-- **时长**: 约 120 分钟
+- **时长**: 约 150 分钟
 - **主要主题**: 
     - 13BEC 核心语言点训练 (problem with, read through, on record)
     - 14BEC 委婉商务表达与协调 (It's just that, put back by, go on doing, convenient for)
@@ -36,36 +36,42 @@
 - **学生的问题**: 可以用 "convenient to them" 吗？
 - **给出的解释**: 强调在商务安排（时间、地点）语境下，必须使用 "for"。
 
-## 重点错题记录 (Error Log for Targeted Practice)
+## 重点错题与表现不足详情 (Error Log & Performance Gaps)
 
-| 涉及知识点 | 原始错误句子 | 纠正后的正确表达 | 错误类型 | 深度分析 |
+| 涉及知识点 | 原始/不佳表达 | 纠正/地道表达 | 错误类型 | 深度分析 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Mixed Conditional** | "...would **have not been** confused..." | "...would **not be** confused (**now**)..." | 时态位移 | 逻辑混淆了“对过去假设”与“对现在影响”。 |
-| **Transitive Verbs** | "mention **about**..." | "mention..." | 及物动词误区 | 中式思维“提到关于”导致的介词冗余。 |
-| **Question Structure** | "**Why need to**..." | "**Why do we need to**..." | 句式结构缺失 | 缺失助动词。已通过热身训练纠正。 |
-| **Pronoun Case** | "convenient for **they**" | "convenient for **them**" | 代词格错误 | 介词后误用主格。 |
-| **Article Usage** | "no **the** problem" | "no problem" | 冠词冗余 | `no` 后面直接接名词，不加定语。 |
-| **Compound Adjectives** | "a month duration" | "a **one-month** duration" | 语法精细度 | 缺乏数词修饰。 |
+| **Spelling** | "submiting" | "submitting" | 拼写错误 | 重读闭音节单词变 -ing 需双写末尾辅音。 |
+| **Nouns (Logic)** | "all the **codes**" | "all the **code**" | 词性逻辑 | 软件开发中的代码作为整体是不可数名词；codes 指验证码或条码。 |
+| **Business Register** | "You **wanna**..." | "You **want to**..." | 语域不当 | BEC 场景中 `wanna` 过于非正式，应坚持使用完整形式。 |
+| **Tag Question** | "...want to..., **do you**?" | "...want to..., **don't you**?" | 语法规则 | 肯定主句需接否定尾句，反之亦然（肯定/否定极性匹配）。 |
+| **Idiomatic Usage** | "keep it original" | "stick to the plan" | 中式英语 | 习惯性字面翻译，需强化商务固定搭配 `stick to`。 |
+| **Mixed Conditional** | "...would **have not been**" | "...would **not be** (now)" | 时态位移 | 在长句中容易混淆对“过去假设”与“现在状态影响”的区分。 |
+| **Target Phrase** | "Is it just **because**..." | "Is it just **that**..." | 句式准确度 | 练习 `It's just that` 时习惯性退回基础的 `because`。 |
+| **Pronoun Case** | "convenient for **they**" | "convenient for **them**" | 代词格错误 | 介词 `for` 后必须使用宾格。 |
+| **Article Usage** | "no **the** problem" | "no problem" | 语法精细度 | `no` 具有限定词属性，不能与冠词 `the` 连用。 |
+| **Time Reference** | "on holiday **today**" | "on holiday **then**" | 指代缺失 | 在对话中未能使用 `then` 承接上下文的时间锚点。 |
 
 ## 识别出的知识差距 (Knowledge Gaps)
 
-| 主题 | 严重程度 | 备注 |
+| 主题 | 严重程度 | 备注 (针对性建议) |
 | :--- | :------- | :--- |
-| **Transitive Verb Immunity** | 低 | **已通过 14BEC 专项练习大幅改观**。需在下次随机测试中抽查 `discuss`。 |
-| **Pronoun Case after Prep** | 中 | 需注意介词后代词宾格的瞬间反应力。 |
-| **Business Softeners** | 低 | 已掌握 `It's just that` 和 `if you could`。 |
+| **Register Awareness** | 中 | 需区分 Spoken English (wanna) 与 Professional BEC English (want to)。 |
+| **Tag Question Polarity** | 中 | 这种瞬间反应的极性转换（肯否相反）还需加强练习。 |
+| **Uncountable Logic** | 低 | 需记住 code, information, advice 等职场不可数名词。 |
+| **Time Referencing** | 中 | 需形成“用 then 指代前文讨论的时间点”的习惯，以提高沟通效率。 |
 
 ## 今日掌握的主题
 
 | 主题 | 信心程度 | 备注 |
 | :--- | :------- | :--- |
-| **It's just that...** | 极高 | 能熟练用于铺垫负面消息。 |
-| **put it back by** | 极高 | 掌握了延期时间的精准表达。 |
+| **It's just that...** | 极高 | 能熟练用于铺垫负面消息，语气软化效果好。 |
+| **put it back by** | 极高 | 掌握了延期时间的精准表达，`by` 的使用非常准确。 |
 | **go on doing** | 极高 | 明确了动作重复性的内涵。 |
-| **convenient for** | 极高 | 彻底根除 "convenient to"。 |
-| **Mixed Conditionals** | 极高 | 在复杂句式中表现极稳。 |
+| **convenient for** | 极高 | 彻底根除 "convenient to" 错误。 |
+| **Transitive Verbs** | 高 | `agree/discuss/mention` 后面不加介词的意识已初步建立。 |
 
 ## 下次会话的行动项
 
--   **专项热身**: 混合 `agree`, `discuss`, `mention` 的 3 个及物动词填空。
--   **15BEC Start**: 启动 15BEC 文本分析。
+-   **专项热身 1**: 3 个反义疑问句（重点练习极性转换）。
+-   **专项热身 2**: 3 个包含 `then` 指代和 `agree` (及物) 的混合长句。
+-   **15BEC Start**: 启动 15BEC 文本分析与造句训练。
