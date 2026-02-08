@@ -78,7 +78,15 @@
 | **read through** | 5 | 高 | 2026-02-08 | 掌握“通读/核对”语义 |
 | **on record** | 5 | 极高 | 2026-02-08 | 掌握 have/put/keep ... on record |
 | **Spotlight (Exam/Tech)** | 5 | 高 | 2026-02-08 | 掌握类比用法 |
-| **Mixed Conditionals (混合虚拟)** | 25 | 极高 | 2026-02-08 | 彻底攻克，在 13BEC 综合句式中直觉准确 |
+| **Mixed Conditionals (混合虚拟)** | 30 | 极高 | 2026-02-08 | 彻底攻克，在 13/14BEC 综合句式中直觉准确 |
+| **It's just that...** | 5 | 极高 | 2026-02-08 | 掌握商务委婉铺垫语气 |
+| **put it back by** | 5 | 极高 | 2026-02-08 | 掌握延期时间长度搭配 |
+| **go on doing** | 5 | 极高 | 2026-02-08 | 掌握动作重复/状态延续语义 |
+| **be convenient for** | 5 | 极高 | 2026-02-08 | 彻底根除 convenient to 错误 |
+| **if you could** | 5 | 极高 | 2026-02-08 | 掌握句末语气软化补丁 |
+| **then (time reference)** | 5 | 极高 | 2026-02-08 | 掌握商务简洁时间指代 |
+| **confirm (transitive)** | 5 | 极高 | 2026-02-08 | 掌握及物动词核实用法 |
+| **agree (transitive)** | 5 | 极高 | 2026-02-08 | 彻底根除 agree on/about 冗余 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -100,7 +108,7 @@
 | 2026-02-04 | **10BEC Grammar Drill** | ✅ | 攻克逻辑主语、集体名词及商务省略句 |
 | 2026-02-05 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
 | 2026-02-06 | **12BEC (Taking Messages)** | ✅ | 彻底固化混合虚拟语气 |
-| 2026-02-08 | **13BEC (Exam Spotlight - Telephone Problems)** | ✅ | 攻克 problem with, read through, on record |
+| 2026-02-08 | **13 & 14BEC (Telephone Problems & Coordination)** | ✅ | 攻克 put back, go on doing, agree (transitive) |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -108,11 +116,12 @@
 - [x] Dedicated to + do/doing (已修复)
 - [x] Tag Questions (反义疑问句): 彻底修复 (2026-02-01)
 - [x] Mixed Conditionals (混合虚拟): 彻底掌握 (2026-02-08)
-- [ ] **Transitive Verbs**: 需注意 mention, emphasize, discuss 等词后不加介词。
-- [ ] **Questions with "need"**: 纠正 "Why need to" 为 "Why do we need to"。
+- [x] **Transitive Verbs**: 针对 mention, emphasize, discuss, agree 的介词脱敏训练初见成效。
+- [x] **Questions with "need"**: 纠正 "Why need to" 为 "Why do we need to"。
+- [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **Quick Fire Drill**: 下次开场针对 `mention` 和 `Why do we need to` 进行快速纠偏。
-2.  [ ] **14BEC Start**: 启动 14BEC 文本分析与造句训练。
+1.  [ ] **Quick Fire Drill**: 下次开场混合 `agree`, `discuss`, `mention` 填空。
+2.  [ ] **15BEC Start**: 启动 15BEC 文本分析与造句训练。

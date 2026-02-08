@@ -3,54 +3,69 @@
 ## 会话概览
 
 - **日期**: 2026-02-08
-- **时长**: 约 60 分钟
+- **时长**: 约 120 分钟
 - **主要主题**: 
-    - 13BEC 核心语言点训练 (problem with, read through, on record, Spotlight)
+    - 13BEC 核心语言点训练 (problem with, read through, on record)
+    - 14BEC 委婉商务表达与协调 (It's just that, put back by, go on doing, convenient for)
     - 混合虚拟语气 (Mixed Conditionals) 在职场场景中的深度应用
+    - 及物动词 (mention, emphasize, discuss, agree) 专项纠偏
 
 ## 提出的问题
 
-### 问题 1: 公司部门前的冠词
-- **学生的问题**: "I think we should not use 'the' before the company's department"
-- **初始理解**: 认为部门作为通称不需要加冠词。
-- **给出的解释**: 强调指代公司内部特定的职能部门时，它是唯一的、特指的单元。
-- **理解检查**: 学生随后准确识别出应使用 "the"。
+### 问题 1: "It's just that..." 的理解
+- **学生的问题**: 怎么理解 "It's just that you know you wanted to film..."？
+- **初始理解**: 觉得句子结构复杂。
+- **给出的解释**: 强调这是商务沟通中委婉引出话题、铺垫后续请求的“软化”表达。
 
-### 问题 2: 规避 Double -ing
-- **学生的问题**: 如何处理 "Trying changing" 这种结构？
-- **初始理解**: 提议通过改变句式来解决。
-- **给出的解释**: 确认使用形式主语 "It" (It's worth trying...) 或转换动词形式是避开重叠 -ing 的最佳职场表达方式。
+### 问题 2: "If you could" 的作用
+- **学生的问题**: "If you could" 的作用是什么？
+- **初始理解**: 询问是否能做到。
+- **给出的解释**: 解释为“委婉的试探性补丁”，通常放在句末，即便对方做不到也给出了台阶。
+
+### 问题 3: "go on doing" 的持续性
+- **学生的问题**: "go on doing" 表示持续做某事，但说话者并没有每时每刻都在做。
+- **初始理解**: 对“持续”的时间跨度有疑问。
+- **给出的解释**: 澄清其指代“动作的反复发生或状态的延续”，而非物理时间上的不间断。
+
+### 问题 4: "agreed" 后的介词
+- **学生的问题**: 为什么 "the dates we agreed" 后面没有 on 或 about？
+- **初始理解**: 习惯性认为需要介词。
+- **给出的解释**: 明确 "agree" 作为及物动词表示“敲定/商定具体事项”时直接接宾语。
+
+### 问题 5: "convenient for" vs "to"
+- **学生的问题**: 可以用 "convenient to them" 吗？
+- **给出的解释**: 强调在商务安排（时间、地点）语境下，必须使用 "for"。
 
 ## 重点错题记录 (Error Log for Targeted Practice)
 
 | 涉及知识点 | 原始错误句子 | 纠正后的正确表达 | 错误类型 | 深度分析 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Past Perfect (Subjunctive)** | "...there **had have** no problems..." | "...there **had been** no problems..." | 助动词逻辑错误 | 容易受到 "have problems" 惯性影响，在虚拟语气 If 从句中忘记使用 had been。 |
-| **Mixed Conditional** | "...would **have not been** confused..." | "...would **not be** confused (**now**)..." | 时态位移错误 | 逻辑混淆了“对过去结果的假设”与“对现在状态的影响”，需强化“时间锚点”意识。 |
-| **Transitive Verbs** | "mention **about** any information..." | "mention any information..." | 及物动词误区 | 这是一个顽固的“中式英语”习惯，受“提到关于...”影响，需与 emphasize 一起进行对比脱敏训练。 |
-| **Question Structure** | "**Why need to** read through..." | "**Why do we need to** read through..." | 句式结构缺失 | 缺失了助动词 do 或情态动词 should。这是口语缩略语在书面表达中的错误迁移。 |
-| **Compound Adjectives** | "12 issue magazines" | "12-**issue** magazines" | 语法精细度 | 忽略了数词+名词作定语时需加连字符且名词用单数的规则。 |
-| **Prepositions** | "operations **to** the database" | "operations **on** the database" | 介词搭配不当 | 习惯性使用 to 表示方向，忽略了对设备、数据库等进行“操作”的固定搭配是 on。 |
+| **Mixed Conditional** | "...would **have not been** confused..." | "...would **not be** confused (**now**)..." | 时态位移 | 逻辑混淆了“对过去假设”与“对现在影响”。 |
+| **Transitive Verbs** | "mention **about**..." | "mention..." | 及物动词误区 | 中式思维“提到关于”导致的介词冗余。 |
+| **Question Structure** | "**Why need to**..." | "**Why do we need to**..." | 句式结构缺失 | 缺失助动词。已通过热身训练纠正。 |
+| **Pronoun Case** | "convenient for **they**" | "convenient for **them**" | 代词格错误 | 介词后误用主格。 |
+| **Article Usage** | "no **the** problem" | "no problem" | 冠词冗余 | `no` 后面直接接名词，不加定语。 |
+| **Compound Adjectives** | "a month duration" | "a **one-month** duration" | 语法精细度 | 缺乏数词修饰。 |
 
 ## 识别出的知识差距 (Knowledge Gaps)
 
-| 主题 | 严重程度 | 备注 (针对性建议) |
+| 主题 | 严重程度 | 备注 |
 | :--- | :------- | :--- |
-| **Transitive Verb Immunity** | 中 | `mention` 后加 `about` 是本课最典型的错误。建议下次练习时混合 mention, discuss, emphasize 等词，强制性要求不加介词。 |
-| **Interrogative Logic** | 中 | `Why need to` 结构反映出对英语助动词体系的瞬间反应力还需加强。下次需多练“为什么需要/为什么要”这类疑问句。 |
-| **Mixed Conditional Tense Pivot** | 低 | 虽然整体掌握极好，但在长句（如嵌套了 spotlight 等复杂成分时）容易在主句瞬间退回 `would have done`。需训练在出口前先看“时间状语（now）”。 |
-| **Noun Modifiers** | 中 | 对“12期杂志”这类商务数量描述，首选课文的 `subscription to 12 issues`，若用作定语需严格遵守连字符规则。 |
+| **Transitive Verb Immunity** | 低 | **已通过 14BEC 专项练习大幅改观**。需在下次随机测试中抽查 `discuss`。 |
+| **Pronoun Case after Prep** | 中 | 需注意介词后代词宾格的瞬间反应力。 |
+| **Business Softeners** | 低 | 已掌握 `It's just that` 和 `if you could`。 |
 
 ## 今日掌握的主题
 
 | 主题 | 信心程度 | 备注 |
 | :--- | :------- | :--- |
-| **problem with** | 极高 | 已经能完美区分故障（with）与话题（about）。 |
-| **on record** | 极高 | 能熟练在 have, put, keep 等动词后变换使用该短语。 |
-| **read through** | 极高 | 明确了“通读、检查”的商务动作含义。 |
+| **It's just that...** | 极高 | 能熟练用于铺垫负面消息。 |
+| **put it back by** | 极高 | 掌握了延期时间的精准表达。 |
+| **go on doing** | 极高 | 明确了动作重复性的内涵。 |
+| **convenient for** | 极高 | 彻底根除 "convenient to"。 |
+| **Mixed Conditionals** | 极高 | 在复杂句式中表现极稳。 |
 
 ## 下次会话的行动项
 
--   **专项热身 1**: 3 个包含 `mention` 的句子，禁止使用 `about`。
--   **专项热身 2**: 3 个以 `Why do we need to...` 或 `Why should we...` 开头的选择疑问句。
--   **挑战**: 编写一个包含“12期订阅”、“存档记录”和“混合虚拟语气”的超级长句。
+-   **专项热身**: 混合 `agree`, `discuss`, `mention` 的 3 个及物动词填空。
+-   **15BEC Start**: 启动 15BEC 文本分析。
