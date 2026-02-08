@@ -29,35 +29,26 @@
 
 ### 问题 3: "It's just that..." 的理解 (14BEC)
 - **学生的问题**: 怎么理解 "It's just that you know you wanted to film..."？
-- **给出的解释**: 强调这是商务沟通中委婉引出话题、铺垫后续请求的“软化”表达，避免直接抛出问题让对方意外。
+- **给出的解释**: 强调这是商务沟通中委婉引出话题、铺垫后续请求的“软化”表达。
 
 ### 问题 4: "If you could" 的作用 (14BEC)
-- **学生的问题**: "If you could" 的作用是什么？怎么理解？
-- **给出的解释**: 解释为“委婉的试探性补丁”，通常作为补充放在句末，即便对方做不到也给出了礼貌的台阶。
+- **学生的问题**: "If you could" 的作用是什么？
+- **给出的解释**: 解释为“委婉的试探性补丁”，通常作为补充放在句末，即便对方做不到也给出了台阶。
 
-### 问题 5: "go on doing" 的持续性
-- **学生的问题**: 说话者并没有每时每刻都在做，为什么用 go on doing？
-- **给出的解释**: 澄清其指代“动作的反复发生或状态的延续”，而非物理时间上的不间断。
+## 重点错题记录与表现不足详情 (Detailed Exercise Shortcomings)
 
-### 问题 6: "agreed" 后的介词
-- **学生的问题**: 为什么 "the dates we agreed" 后面没有 on 或 about？
-- **给出的解释**: 明确 "agree" 作为及物动词表示“敲定/商定具体事项”时直接接宾语。
-
-## 重点错题记录与表现不足详情 (Error Log & Detailed Gaps)
-
-| 涉及知识点 | 原始/错误句子 | 纠正后的正确表达 | 深度分析 (不足之处) |
+| 涉及知识点 | 原始/错误完整句子 | 纠正后的正确表达 | 深度分析 (不足之处) |
 | :--- | :--- | :--- | :--- |
-| **Mixed Conditional** | "...there **had have** no..." | "...there **had been** no..." | 对过去完成时的助动词组合掌握不稳。 |
-| **Mixed Conditional** | "...would **have not been**" | "...would **not be** (now)" | 在长句中容易混淆对“过去假设”与“现在状态”的区分，出现时态位移。 |
-| **Transitive Verbs** | "mention **about**..." | "mention..." | 及物动词误加介词是顽固习惯（受中文“提到关于”影响）。 |
-| **Question Structure** | "**Why need to**..." | "**Why do we need to**..." | 疑问句结构缺失助动词。已通过 14BEC 练习有明显改观。 |
-| **Punctuation** | "12 issue magazines" | "12-issue magazines" | 忽略了复合定语连接符及名词单数化的规则。 |
-| **Business Register** | "You **wanna**..." | "You **want to**..." | **语气不足**：BEC 场景中误用极度非正式缩写。 |
-| **Tag Question** | "...want to..., **do you**?" | "...want to..., **don't you**?" | **极性失准**：反义疑问句“前肯后否”的瞬间反应力待加强。 |
-| **Phrase Avoidance** | (使用 Do you prefer) | (应使用 convenient for) | **规避现象**：练习中下意识使用简单词替代新学的高级商务短语。 |
-| **Semantic Context** | "factory is not convenient" | "dates are not convenient" | **语义应用偏差**：将方便误用于建筑而非时间/计划。 |
-| **Pronoun Case** | "convenient for **they**" | "convenient for **them**" | 介词后误用代词主格。 |
-| **Noun Logic** | "all the **codes**" | "all the **code**" | 忽视了软件开发中 code 作为不可数名词的属性。 |
+| **Spelling** | "He emphasized the importance of **submiting** on time" | "...submitting..." | 双写末尾辅音规则掌握不牢。 |
+| **Noun Logic** | "Why do they need to examine all the **codes** again?" | "...all the **code**..." | 忽视了软件开发中 code 作为不可数名词的属性。 |
+| **Business Register** | "**You wanna** change the supplier, if you could, **do you**?" | "You **want to**... **don't you**?" | **语气不足**：误用极度非正式缩写；**极性失准**：反义疑问句肯否匹配错误。 |
+| **Phrase Avoidance** | "**Do you prefer** Monday morning or Friday afternoon?" | "**Is ... convenient for you**, or..." | **规避现象**：下意识使用简单词替代目标高级商务短语 `convenient for`。 |
+| **Semantic Context** | "Is it just because **the printing factory is not convenient**?" | "...the dates aren't convenient for them." | **语义偏差**：将方便误用于建筑（工厂）而非时间/计划。 |
+| **Pronoun Case** | "...date isn't convenient for **they** or **they** have..." | "...convenient for **them** or **they**..." | 介词 `for` 后误用代词主格。 |
+| **Article Usage** | "If only there was **no the problem**, we could have **fix** it" | "...there was **no problem**... **fixed** it" | `no` 后面冗余 `the`；`could have` 后动词未用过去分词。 |
+| **Time Reference** | "I will not be here. I will be on holiday **today**." | "I will be on holiday **then**." | **指代缺失**：未能使用 `then` 承接上下文已讨论的时间点。 |
+| **Tense (Aspect)** | "**Why do they put** the meeting back by three days again?" | "**Why are they putting**... / **Why have they put**..." | 对正在讨论的变动误用一般现在时（问规律）。 |
+| **Target Phrase** | "Why do these dates not work? Is it just **because**..." | "...Is it just **that** they aren't convenient...?" | **句式准确度**：练习目标短语时习惯性退回基础词汇。 |
 
 ## 识别出的知识差距
 
@@ -66,21 +57,22 @@
 | **Active Extraction** | 高 | 需克服“避难就易”心理，在练习中强制使用目标高级短语。 |
 | **Register Awareness** | 中 | 需严格区分口语缩写与职场正式表达。 |
 | **Tag Question Polarity** | 中 | 肯否转换需形成条件反射。 |
-| **Transitive Verbs** | 低 | mention, discuss, agree, emphasize 后面不加介词的意识已初步建立。 |
+| **Uncountable Logic** | 低 | 记住 code (代码) 在职场中作为整体是不可数的。 |
 
 ## 今日掌握的主题
 
 | 主题 | 信心程度 | 备注 |
 | :--- | :------- | :--- |
 | **Mixed Conditionals** | 极高 | 已能稳定处理“If had done, would do/be”结构。 |
-| **on record** | 极高 | 掌握了名词状态描述和动词短语的多种变体。 |
 | **It's just that...** | 极高 | 掌握了商务委婉铺垫语气。 |
 | **put it back by** | 极高 | 掌握了延期时间长度搭配。 |
 | **be convenient for** | 极高 | 彻底纠正了 convenient to 错误。 |
+| **agree (transitive)** | 极高 | **彻底掌握敲定/商定具体事项的及物用法，不加介词。** |
+| **on record** | 极高 | 掌握了名词状态描述和动词短语的多种变体。 |
 | **read through** | 高 | 明确了其与简单 read 的区别。 |
 
 ## 下次会话的行动项
 
 -   **专项热身 1**: 3 个反义疑问句（重点练习极性转换）。
 -   **专项热身 2**: 3 个包含 `then` 指代和 `agree` (及物) 的混合长句。
--   **15BEC Start**: 启动 15BEC 文本分析与语言点提取。说明：已完整合并 13BEC 与 14BEC 练习的所有细节。
+-   **15BEC Start**: 启动 15BEC 文本分析与语言点提取。说明：已还原完整错误原句，并补全了 agree (transitive) 主题。
