@@ -5,7 +5,7 @@
 - **日期**: 2026-02-09
 - **时长**: 约 100 分钟
 - **主要主题**:
-    - 08BEC 深度挖掘与造句训练（IT 职场场景）
+    - 15BEC 深度挖掘与造句训练（IT 职场场景）
     - 核心短语应用：`be in`, `get hold of`, `will do`, `schedule sb. for`, `sent over`, `problem with`, `for the rest of the day`, `do a diploma`
     - 语法深度练习：宾语从句时态辨析、虚拟语气混合时态应用、反义疑问句指代一致性
 
@@ -98,4 +98,4 @@
 
 -   **专项热身 1**: 3 个混合虚拟语气句练习。
 -   **专项热身 2**: 3 个 `There be` 句型反义疑问句。
--   **15BEC Start**: 启动 15BEC 文本分析。
+-   **16BEC Start**: 启动 16BEC 文本分析。
