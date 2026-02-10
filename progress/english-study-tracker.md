@@ -95,6 +95,10 @@
 | **for the rest of the day** | 5 | 极高 | 2026-02-09 | 熟练用于交代日程 |
 | **do a diploma** | 5 | 极高 | 2026-02-09 | 掌握英式教育背景描述 |
 | **agree (transitive)** | 5 | 极高 | 2026-02-08 | 彻底根除 agree on/about 冗余 |
+| **make something known** | 5 | 极高 | 2026-02-10 | 掌握被动语态变换 |
+| **the impossible** | 5 | 极高 | 2026-02-10 | 掌握 achieve/overcome 搭配 |
+| **onto (preposition)** | 5 | 极高 | 2026-02-10 | 掌握动态方向感 (upload/deploy) |
+| **linked to (post-modifier)** | 5 | 极高 | 2026-02-10 | 掌握分词作后置定语 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -117,6 +121,8 @@
 | 2026-02-05 | **11BEC (Leaving Messages)** | ✅ | 攻克 coming up, help with, just in case |
 | 2026-02-06 | **12BEC (Taking Messages)** | ✅ | 彻底固化混合虚拟语气 |
 | 2026-02-08 | **13 & 14BEC (Telephone Problems & Coordination)** | ✅ | 攻克 put back, go on doing, agree (transitive) |
+| 2026-02-09 | **15BEC (Schedules & Arrangements)** | ✅ | 攻克 be in, schedule sb for, sent over |
+| 2026-02-10 | **16BEC (Advertising on the Web)** | ✅ | 攻克 make known, the impossible, onto, linked to |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -132,4 +138,4 @@
 ## 下一步计划 (Next Steps)
 
 1.  [ ] **Quick Fire Drill**: 下次开场混合 `agree`, `discuss`, `mention` 填空。
-2.  [ ] **15BEC Start**: 启动 15BEC 文本分析与造句训练。
+2.  [ ] **16BEC Continue**: 完成 `sign up for`, `keep statistics on`, `any lower` 的造句训练。
