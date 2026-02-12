@@ -99,6 +99,14 @@
 | **the impossible** | 5 | 极高 | 2026-02-10 | 掌握 achieve/overcome 搭配 |
 | **onto (preposition)** | 5 | 极高 | 2026-02-10 | 掌握动态方向感 (upload/deploy) |
 | **linked to (post-modifier)** | 5 | 极高 | 2026-02-10 | 掌握分词作后置定语 |
+| **sign up for** | 5 | 极高 | 2026-02-11 | 掌握报名/订阅/注册三义 |
+| **need (Main vs Modal)** | 5 | 极高 | 2026-02-11 | 精准区分 don't need to 和 needn't |
+| **any lower (省略句)** | 5 | 极高 | 2026-02-11 | 掌握表语/状语双重属性 |
+| **Condition + and + Result** | 5 | 极高 | 2026-02-11 | 掌握紧凑因果句式 |
+| **keep statistics on** | 5 | 极高 | 2026-02-11 | 区分 keep vs save |
+| **starting points for** | 5 | 极高 | 2026-02-12 | 掌握 for 表对象/适用范围 |
+| **get ... on ...** | 5 | 高 | 2026-02-12 | 纠正 haven't got; 掌握 shared drive 搭配 |
+| **someone on the ground** | 5 | 高 | 2026-02-12 | 掌握字面义与引申义(一线/实地) |
 
 ## 学习记录概览 (Session Overview)
 
@@ -123,6 +131,8 @@
 | 2026-02-08 | **13 & 14BEC (Telephone Problems & Coordination)** | ✅ | 攻克 put back, go on doing, agree (transitive) |
 | 2026-02-09 | **15BEC (Schedules & Arrangements)** | ✅ | 攻克 be in, schedule sb for, sent over |
 | 2026-02-10 | **16BEC (Advertising on the Web)** | ✅ | 攻克 make known, the impossible, onto, linked to |
+| 2026-02-11 | **16BEC 深度训练 (续)** | ✅ | 攻克 sign up for, need, any lower, Condition+and, keep statistics on |
+| 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -134,8 +144,11 @@
 - [x] **Questions with "need"**: 纠正 "Why need to" 为 "Why do we need to"。
 - [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
+- [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
+- [ ] **already vs earlier**: 需区分“已经(already)”和“更早(earlier)”在虚拟语气中的差异。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **Quick Fire Drill**: 下次开场混合 `agree`, `discuss`, `mention` 填空。
-2.  [ ] **16BEC Continue**: 完成 `sign up for`, `keep statistics on`, `any lower` 的造句训练。
+1.  [ ] **16BEC Final**: 完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。
+2.  [ ] **Review Drill**: 对 anyone/someone (否定句代词) 和 already/earlier 进行随机抽查。
+3.  [ ] **17BEC Start**: 完成 16BEC 后进入 17BEC。
