@@ -107,6 +107,9 @@
 | **starting points for** | 5 | 极高 | 2026-02-12 | 掌握 for 表对象/适用范围 |
 | **get ... on ...** | 5 | 高 | 2026-02-12 | 纠正 haven't got; 掌握 shared drive 搭配 |
 | **someone on the ground** | 5 | 高 | 2026-02-12 | 掌握字面义与引申义(一线/实地) |
+| **adverts for** | 5 | 高 | 2026-02-13 | 掌握 run/place adverts 搭配 |
+| **that's what it's like** | 5 | 中上 | 2026-02-13 | 疑问句形式满分；嵌套插入结构待巩固 |
+| **find ... (to be) effective** | 5 | 高 | 2026-02-13 | 掌握否定时 not to be 不可省略 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -133,6 +136,7 @@
 | 2026-02-10 | **16BEC (Advertising on the Web)** | ✅ | 攻克 make known, the impossible, onto, linked to |
 | 2026-02-11 | **16BEC 深度训练 (续)** | ✅ | 攻克 sign up for, need, any lower, Condition+and, keep statistics on |
 | 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
+| 2026-02-13 | **16BEC Final + 完结** | ✅ | 攻克 adverts for, that's what it's like, find...(to be) effective |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -145,10 +149,15 @@
 - [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
-- [ ] **already vs earlier**: 需区分“已经(already)”和“更早(earlier)”在虚拟语气中的差异。
+- [x] **already vs earlier**: 已在 2026-02-13 虚拟语气中正确使用 earlier，基本修复。
+- [ ] **what it’s like 嵌套结构**: what + you think/he said + it's like 仍需巩固。
+- [ ] **选择疑问句结构**: 偶尔用 Where 开头代替 Do...A or B，需巩固。
+- [ ] **find 否定结构**: 否定时 to be 不可省略 (not to be practical)，刚学需巩固。
 
 ## 下一步计划 (Next Steps)
 
-1.  [ ] **16BEC Final**: 完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。
-2.  [ ] **Review Drill**: 对 anyone/someone (否定句代词) 和 already/earlier 进行随机抽查。
-3.  [ ] **17BEC Start**: 完成 16BEC 后进入 17BEC。
+1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
+2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
+3.  [ ] **17BEC Start**: 进入 17BEC 新课文学习。
+4.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
+5.  [ ] **Review Drill**: 巩固 `find 否定结构` (not to be) 和 选择疑问句 (Do...A or B?)。
