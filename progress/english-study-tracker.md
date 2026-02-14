@@ -110,6 +110,9 @@
 | **adverts for** | 5 | 高 | 2026-02-13 | 掌握 run/place adverts 搭配 |
 | **that's what it's like** | 5 | 中上 | 2026-02-13 | 疑问句形式满分；嵌套插入结构待巩固 |
 | **find ... (to be) effective** | 5 | 高 | 2026-02-13 | 掌握否定时 not to be 不可省略 |
+| **sort through** | 5 | 极高 | 2026-02-13 | 掌握整理/梳理语义，spend+doing 已纠正 |
+| **work out** | 5 | 极高 | 2026-02-13 | 掌握代词宾语规则 work it out |
+| **off sick** | 5 | 极高 | 2026-02-13 | 5题全满分，职场休病假搭配 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -136,7 +139,7 @@
 | 2026-02-10 | **16BEC (Advertising on the Web)** | ✅ | 攻克 make known, the impossible, onto, linked to |
 | 2026-02-11 | **16BEC 深度训练 (续)** | ✅ | 攻克 sign up for, need, any lower, Condition+and, keep statistics on |
 | 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
-| 2026-02-13 | **16BEC Final + 完结** | ✅ | 攻克 adverts for, that's what it's like, find...(to be) effective |
+| 2026-02-13 | **16BEC Final + 17BEC Start** | ✅ | 16BEC完结; 17BEC攻克 sort through, work out, off sick |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -151,13 +154,16 @@
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
 - [x] **already vs earlier**: 已在 2026-02-13 虚拟语气中正确使用 earlier，基本修复。
 - [ ] **what it’s like 嵌套结构**: what + you think/he said + it's like 仍需巩固。
-- [ ] **选择疑问句结构**: 偶尔用 Where 开头代替 Do...A or B，需巩固。
+- [x] **选择疑问句结构**: 晚间 3 次选择疑问句全部正确，已明显改善 (2026-02-13)。
 - [ ] **find 否定结构**: 否定时 to be 不可省略 (not to be practical)，刚学需巩固。
+- [ ] **spend + doing**: spend 后必须接动名词，纠正后已理解，需验证。
+- [ ] **Phrasal verb 宾语规则**: 代词放中间(work it out)，不能和名词同时出现。
 
 ## 下一步计划 (Next Steps)
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
-3.  [ ] **17BEC Start**: 进入 17BEC 新课文学习。
-4.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
-5.  [ ] **Review Drill**: 巩固 `find 否定结构` (not to be) 和 选择疑问句 (Do...A or B?)。
+3.  [x] **17BEC Start**: ~~进入 17BEC 新课文学习。~~ ✅ 2026-02-13 晚 完成 sort through, work out, off sick
+4.  [ ] **17BEC Continue**: 完成 `delegate (verb)` 和 `bother` 的造句训练。
+5.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
+6.  [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
