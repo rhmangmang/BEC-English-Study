@@ -115,6 +115,11 @@
 | **off sick** | 5 | 极高 | 2026-02-13 | 5题全满分，职场休病假搭配 |
 | **delegate (verb)** | 5 | 极高 | 2026-02-14 | 掌握 delegate + task + to + person |
 | **bother** | 5 | 高 | 2026-02-14 | 掌握 sorry to bother you; 注意反义疑问句句型 |
+| **borrow one's expertise in** | 5 | 高 | 2026-02-14 | 掌握隐喻用法，area 优于 aspect |
+| **do a great job on** | 5 | 极高 | 2026-02-14 | on 限定做得好的对象，注意加 job |
+| **the deadline for** | 5 | 极高 | 2026-02-14 | 5题全满分，for 限定截止日期对象 |
+| **give sth priority** | 5 | 极高 | 2026-02-14 | 掌握 give priority to 双重结构 |
+| **be in charge of** | 5 | 极高 | 2026-02-14 | 掌握负责/主管搭配，注意 subjunctive were |
 
 ## 学习记录概览 (Session Overview)
 
@@ -142,7 +147,7 @@
 | 2026-02-11 | **16BEC 深度训练 (续)** | ✅ | 攻克 sign up for, need, any lower, Condition+and, keep statistics on |
 | 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
 | 2026-02-13 | **16BEC Final + 17BEC Start** | ✅ | 16BEC完结; 17BEC攻克 sort through, work out, off sick |
-| 2026-02-14 | **17BEC Complete + 18BEC Start** | ✅ | 17BEC完结(delegate, bother); 18BEC启动 |
+| 2026-02-14 | **17BEC Complete + 18BEC Complete** | ✅ | 17BEC完结(delegate, bother); 18BEC全部完成 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -161,12 +166,17 @@
 - [ ] **find 否定结构**: 否定时 to be 不可省略 (not to be practical)，刚学需巩固。
 - [ ] **spend + doing**: spend 后必须接动名词，纠正后已理解，需验证。
 - [ ] **Phrasal verb 宾语规则**: 代词放中间(work it out)，不能和名词同时出现。
+- [ ] **Subjunctive were**: 虚拟语气中 If + be 不论人称一律用 were (If she were)。
+- [ ] **Type 3 vs Mixed 主句**: 偶尔混淆 would have done (过去结果) 和 would do (现在结果)。
 
 ## 下一步计划 (Next Steps)
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
 3.  [x] **17BEC Start**: ~~进入 17BEC 新课文学习。~~ ✅ 2026-02-13 晚 完成 sort through, work out, off sick
-4.  [ ] **17BEC Continue**: 完成 `delegate (verb)` 和 `bother` 的造句训练。
-5.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
-6.  [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
+4.  [x] **17BEC Continue**: ~~完成 delegate (verb) 和 bother 的造句训练。~~ ✅ 2026-02-14 已完成
+5.  [x] **18BEC Complete**: ~~18BEC 全部语言点造句训练。~~ ✅ 2026-02-14 已完成
+6.  [ ] **19BEC Start**: 进入 19BEC 新课文学习。
+7.  [ ] **Review Drill**: 抽查虚拟语气 subjunctive were 和 Type 3 vs Mixed 主句。
+8.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
+9.  [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
