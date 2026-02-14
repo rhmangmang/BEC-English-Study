@@ -113,6 +113,8 @@
 | **sort through** | 5 | 极高 | 2026-02-13 | 掌握整理/梳理语义，spend+doing 已纠正 |
 | **work out** | 5 | 极高 | 2026-02-13 | 掌握代词宾语规则 work it out |
 | **off sick** | 5 | 极高 | 2026-02-13 | 5题全满分，职场休病假搭配 |
+| **delegate (verb)** | 5 | 极高 | 2026-02-14 | 掌握 delegate + task + to + person |
+| **bother** | 5 | 高 | 2026-02-14 | 掌握 sorry to bother you; 注意反义疑问句句型 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -140,6 +142,7 @@
 | 2026-02-11 | **16BEC 深度训练 (续)** | ✅ | 攻克 sign up for, need, any lower, Condition+and, keep statistics on |
 | 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
 | 2026-02-13 | **16BEC Final + 17BEC Start** | ✅ | 16BEC完结; 17BEC攻克 sort through, work out, off sick |
+| 2026-02-14 | **17BEC Complete + 18BEC Start** | ✅ | 17BEC完结(delegate, bother); 18BEC启动 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
