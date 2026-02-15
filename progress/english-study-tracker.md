@@ -120,6 +120,9 @@
 | **the deadline for** | 5 | 极高 | 2026-02-14 | 5题全满分，for 限定截止日期对象 |
 | **give sth priority** | 5 | 极高 | 2026-02-14 | 掌握 give priority to 双重结构 |
 | **be in charge of** | 5 | 极高 | 2026-02-14 | 掌握负责/主管搭配，注意 subjunctive were |
+| **take into account** | 5 | 极高 | 2026-02-15 | 宾语位置灵活，Mixed Conditional 完美 |
+| **on site** | 5 | 极高 | 2026-02-15 | be/go on site 均掌握，职场场景运用自如 |
+| **appropriate for** | 5 | 极高 | 2026-02-15 | 五题近满分，今日最佳语言点 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -148,6 +151,7 @@
 | 2026-02-12 | **16BEC 深度训练 (续)** | ✅ | 攻克 starting points for, get...on..., someone on the ground |
 | 2026-02-13 | **16BEC Final + 17BEC Start** | ✅ | 16BEC完结; 17BEC攻克 sort through, work out, off sick |
 | 2026-02-14 | **17BEC Complete + 18BEC Complete** | ✅ | 17BEC完结(delegate, bother); 18BEC全部完成 |
+| 2026-02-15 | **19BEC Start (Art for the Workplace)** | 🔄 | 完成 take into account, on site, appropriate for |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -168,6 +172,10 @@
 - [ ] **Phrasal verb 宾语规则**: 代词放中间(work it out)，不能和名词同时出现。
 - [ ] **Subjunctive were**: 虚拟语气中 If + be 不论人称一律用 were (If she were)。
 - [ ] **Type 3 vs Mixed 主句**: 偶尔混淆 would have done (过去结果) 和 would do (现在结果)。
+- [ ] **漏译情态词 (need to/should)**: 翻译时倾向漏掉"需要/应该"，已出现两次 (2026-02-15)。
+- [ ] **翻译漏修饰词**: 倾向漏掉时间词(tomorrow)、程度词(already, really)等修饰成分。
+- [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
+- [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
 
 ## 下一步计划 (Next Steps)
 
@@ -176,7 +184,9 @@
 3.  [x] **17BEC Start**: ~~进入 17BEC 新课文学习。~~ ✅ 2026-02-13 晚 完成 sort through, work out, off sick
 4.  [x] **17BEC Continue**: ~~完成 delegate (verb) 和 bother 的造句训练。~~ ✅ 2026-02-14 已完成
 5.  [x] **18BEC Complete**: ~~18BEC 全部语言点造句训练。~~ ✅ 2026-02-14 已完成
-6.  [ ] **19BEC Start**: 进入 19BEC 新课文学习。
-7.  [ ] **Review Drill**: 抽查虚拟语气 subjunctive were 和 Type 3 vs Mixed 主句。
-8.  [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
-9.  [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
+6.  [x] **19BEC Start**: ~~进入 19BEC 新课文学习。~~ ✅ 2026-02-15 已启动，完成 3 个语言点
+7.  [ ] **19BEC Continue**: 继续 a great deal (of), end up with 等语言点的造句训练。
+8.  [ ] **重点关注**: 翻译时扫描中文句子中的情态词（需要/应该/必须）和修饰词（早就/明天/不太）。
+9.  [ ] **Review Drill**: 抽查虚拟语气 subjunctive were 和 Type 3 vs Mixed 主句。
+10. [ ] **Review Drill**: 抽查 `what it's like` 嵌套结构 和 否定句 any + 复数。
+11. [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
