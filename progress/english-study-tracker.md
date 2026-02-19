@@ -142,6 +142,11 @@
 | **check with sb on sth** | 5 | 极高 | 2026-02-18 | 介词搭配 with/on 精准无误 |
 | **get sb doing sth** | 5 | 高 | 2026-02-18 | doing (持续动作) vs to do (动作意愿) 区别清晰 |
 | **in time for** | 5 | 高 | 2026-02-18 | 赶上活动/截止日期搭配正确 |
+| **a choice of** | 5 | 极高 | 2026-02-19 | 否定/特殊疑问/反义疑问/选择疑问/虚拟语气 |
+| **choose... out of...** | 5 | 高 | 2026-02-19 | sth out of sth (百里挑一) 掌握 |
+| **give a presentation on** | 5 | 极高 | 2026-02-19 | 介词 on 搭配精准; Which topic ... on 自然 |
+| **make notes** | 5 | 高 | 2026-02-19 | 注意拼写: made (非 maken), forgotten (非 forgot) |
+| **while you prepare** | 5 | 极高 | 2026-02-19 | while doing (省略主语) 用法地道 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -174,6 +179,7 @@
 | 2026-02-16 | **20BEC Deep Dive (Art Consultant Part 2)** | ✅ | 完成 6 个语言点(30题)，含 isn't necessarily about, go for, offend, justify, for as little as, a workforce of |
 | 2026-02-17 | **21BEC Full Training (Opinions on Art)** | ✅ | 完成 5 个语言点(25题)，含 can't see how, bold enough for, the sort of+N+to do, up to date, good for |
 | 2026-02-18 | **22BEC Full Training (Report on a Meeting)** | ✅ | 完成 5 个语言点(25题)，含 sit around, be worth doing, check with, get sb doing, in time for. **虚拟语气全对(5/5)！**修饰词漏译问题显著改善。 |
+| 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -207,11 +213,13 @@
 - [x] **词汇搭配地道性**: finally→in the end, beautiful→attractive, cases→case studies, by→with justify, how much→how large workforce, give impressions→impress people, sports→exercise。
 - [x] **could have vs would have**: ~~"早就买了"=could have~~。2026-02-17 正确使用 would have bought，已修复。
 - [ ] **间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（what the problem is, 非 what's the problem）。
-- [ ] **had been vs had had 区分**: be 的过去完成时=had been，have 的过去完成时=had had。不可混用。
-- [ ] **虚拟语气触发意识**: 中文"会"暗示假设性时需识别并使用虚拟语气，勿用一般现在时。
+- [x] **had been vs had had 区分**: be 的过去完成时=had been，have 的过去完成时=had had。不可混用。
+- [x] **虚拟语气触发意识**: 中文"会"暗示假设性时需识别并使用虚拟语气。2026-02-19 连续 3 天满分表现！
 - [ ] **限定词（身体部位）**: good for skin → good for your/the skin，身体部位前需加限定词。
 - [ ] **时态敏感度**: 中文"在...着"需转化为 be doing，非一般现在时。2026-02-18 出现 1 次。
-- [ ] **Tag question 时态一致**: It'll (will) 需配 won't，非 isn't。注意缩写还原。
+- [x] **Tag question 时态一致**: It'll (will) 需配 won't，非 isn't。注意缩写还原。2026-02-19 极性/时态全部正确！
+- [ ] **Past Participle 拼写**: make-made-made (无需 maken), forget-forgot-forgotten (非 forgot)。2026-02-19 出现。
+- [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
 
 ## 下一步计划 (Next Steps)
 
@@ -228,9 +236,10 @@
 11. [x] **21BEC Start**: ~~进入 21BEC 新课文学习。~~ ✅ 2026-02-17 完成 5 个语言点(25题)
 12. [x] **22BEC Start**: ~~进入 22BEC 新课文学习。~~ ✅ 2026-02-18 完成 5 个语言点(25题)
 13. [x] **🔴 最高优先级: 漏译修饰词**: ~~翻译前系统扫描中文句子中的时间词(现在/早就/明天)、程度词(最/更/很/只/得多)、否定词(不/没)。~~ ✅ 2026-02-18 连续 5 道虚拟语气题**全部命中要害，无一漏译！** 🏆
-14. [x] **Tag question 再巩固**: ~~2026-02-17 出现 2 次回退（否定配否定、肯定配肯定），需恢复肌肉记忆。~~ ✅ 2026-02-18 极性全部正确，仅有时态一致小瑕疵。
-15. [ ] **23BEC Start**: 进入 23BEC 新课文学习。
-16. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
-17. [ ] **Review Drill**: 抽查 hardly + tag question, subjunctive were。
-18. [ ] **Review Drill**: 验证 `spend + doing` 和 phrasal verb 宾语规则。
+14. [x] **Tag question 再巩固**: ~~2026-02-17 出现 2 次回退（否定配否定、肯定配肯定），需恢复肌肉记忆。~~ ✅ 2026-02-18 极性全部正确，仅有时态一致小瑕疵。2026-02-19 完胜！
+15. [x] **23BEC Start**: ~~进入 23BEC 新课文学习。~~ ✅ 2026-02-19 完成 5 个语言点(25题)
+16. [ ] **24BEC Start**: 进入 24BEC 新课文学习。
+17. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
+18. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
 19. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
+20. [ ] **Review Drill**: check Parallel Structure in choice questions.
