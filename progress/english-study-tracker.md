@@ -189,7 +189,7 @@
 | 2026-02-18 | **22BEC Full Training (Report on a Meeting)** | ✅ | 完成 5 个语言点(25题)，含 sit around, be worth doing, check with, get sb doing, in time for. **虚拟语气全对(5/5)！**修饰词漏译问题显著改善。 |
 | 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
-| 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题)，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！Mixed Conditional 再次满分。** |
+| 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -239,6 +239,11 @@
 - [ ] **`reduce` vs `simplify`**: 降低数量/程度用 `reduce`（reduce costs/risks）；简化复杂度用 `simplify`（simplify the process）。不可混用。2026-02-21 新发现。
 - [ ] **`not so much + adj` 错误**: `so much` 修饰不可数名词或动词，**不可**直接修饰形容词；否定形容词应用 `not that / not very / not too + adj`。2026-02-21 新发现。
 - [ ] **固定短语无冠词 (`from scratch`)**: `start from scratch`（从零开始）是固定短语，不加 `the`，类似 `on site`、`at home`。2026-02-21 新发现。
+- [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
+- [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
+- [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
+- [ ] **虚拟语气缺 If**: 条件从句必须以 If 开头，不可省略。2026-02-21 故事翻译中出现。
+- [ ] **process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -266,5 +271,7 @@
 22. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
 23. [ ] **Review Drill**: check Parallel Structure in choice questions.
 24. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release).
-25. [ ] **漏译修饰词巩固**: 翻译前扫描程度词/时间词（"早点"→earlier, "很快"→soon, "只"→just）。
+25. [ ] **漏译修饰词巩固**: 翻译前扫描程度词/时间词（"早点"→earlier, "很快"→soon, "只"→just, "先"→first）。
 26. [ ] **`as early as` 专项**: 后接具体时间（as early as last March），不可悬空。
+27. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。
+28. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made** — 02-19 识别后 02-21 复发，需专项刷题。
