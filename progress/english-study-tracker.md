@@ -212,7 +212,7 @@
 - [ ] **Type 3 vs Mixed 主句**: 偶尔混淆 would have done (过去结果) 和 would do (现在结果)。
 - [ ] **Type 3 If从句 (had had)**: had enough(Type2) vs had had enough(Type3)，注意识别"当初"暗示的过去虚拟。
 - [ ] **漏译情态词 (need to/should)**: 翻译时倾向漏掉"需要/应该"，已出现两次 (2026-02-15)。
-- [ ] **翻译漏修饰词**: 倾向漏掉时间词(tomorrow)、程度词(already, really, much, more)等修饰成分。"得多"→much 已出现两次。
+- [ ] **翻译漏修饰词**: 倾向漏掉时间词(tomorrow)、程度词(already, really, much, more)等修饰成分。"得多"→much 已出现两次。"早点"→earlier 2026-02-21 再次出现。
 - [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
 - [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
 - [x] **被动语态 (项目/系统类主语)**: ~~project finished → was completed~~。2026-02-16 justify 虚拟语气题自然运用被动，基本修复。
@@ -234,6 +234,11 @@
 - [ ] **完成时+过去时间不兼容**: last week/yesterday 等明确过去时间 → 必须用简单过去时，不能用现在完成时。
 - [ ] **no vs not 搭配**: no+名词, not+enough+名词, 不能混搭(no enough ❌)。
 - [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
+- [ ] **`at one point` 语义限制**: 该短语暗示事情**曾经发生**，不宜放入虚拟假设从句中（与"没发生"矛盾）。2026-02-21 新发现。
+- [ ] **`as early as` 用法**: 后必须接具体时间点（as early as last March / as early as 5 months ago），不可悬空句末。2026-02-21 新发现。
+- [ ] **`reduce` vs `simplify`**: 降低数量/程度用 `reduce`（reduce costs/risks）；简化复杂度用 `simplify`（simplify the process）。不可混用。2026-02-21 新发现。
+- [ ] **`not so much + adj` 错误**: `so much` 修饰不可数名词或动词，**不可**直接修饰形容词；否定形容词应用 `not that / not very / not too + adj`。2026-02-21 新发现。
+- [ ] **固定短语无冠词 (`from scratch`)**: `start from scratch`（从零开始）是固定短语，不加 `the`，类似 `on site`、`at home`。2026-02-21 新发现。
 
 ## 下一步计划 (Next Steps)
 
