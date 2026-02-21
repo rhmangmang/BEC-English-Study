@@ -152,6 +152,9 @@
 | **get + 过去分词 (Get型被动)** | 5 | 高 | 2026-02-20 | get given to/get assigned to; 完成时不用get被动已掌握 |
 | **Having + n./phrase (分词状语)** | 5 | 极高 | 2026-02-20 | 🏆跨语言点复用put in; no enough→not enough 已纠正 |
 | **get put into** | 5 | 极高 | 2026-02-20 | 被纳入开发流程; 代词省略(the next one)出色 |
+| **at one point** | 5 | 高 | 2026-02-21 | 单次(once)/阶段(used to)区分; 虚拟语气中慎用(暗示事情发生过) |
+| **have a draft for sth.** | 5 | 高 | 2026-02-21 | `did have` 强调助动词亮点 🌟; `from scratch` 无冠词 |
+| **basically** | 5 | 高 | 2026-02-21 | 软化语气/留余地; reduce≠simplify; 漏译修饰词需巩固 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -186,6 +189,7 @@
 | 2026-02-18 | **22BEC Full Training (Report on a Meeting)** | ✅ | 完成 5 个语言点(25题)，含 sit around, be worth doing, check with, get sb doing, in time for. **虚拟语气全对(5/5)！**修饰词漏译问题显著改善。 |
 | 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
+| 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题)，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！Mixed Conditional 再次满分。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -249,9 +253,13 @@
 14. [x] **Tag question 再巩固**: ~~2026-02-17 出现 2 次回退（否定配否定、肯定配肯定），需恢复肌肉记忆。~~ ✅ 2026-02-18 极性全部正确，仅有时态一致小瑕疵。2026-02-19 完胜！
 15. [x] **23BEC Start**: ~~进入 23BEC 新课文学习。~~ ✅ 2026-02-19 完成 5 个语言点(25题)
 16. [x] **24BEC Start**: ~~进入 24BEC 新课文学习。~~ ✅ 2026-02-20 完成 5 个语言点(25题)
-17. [ ] **24BEC Remaining**: 检查 24BEC-10s 是否还有其他值得训练的语言点。
-18. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
-19. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
-20. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
-21. [ ] **Review Drill**: check Parallel Structure in choice questions.
-22. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release)。
+17. [x] **24BEC Remaining**: ~~检查 24BEC-10s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-21 进入 25BEC。
+18. [x] **25BEC Start**: ~~进入 25BEC 新课文学习。~~ ✅ 2026-02-21 完成 3 个语言点(15题)
+19. [ ] **25BEC Remaining**: 检查 25BEC-11s 是否还有其他值得训练的语言点。
+20. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
+21. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
+22. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
+23. [ ] **Review Drill**: check Parallel Structure in choice questions.
+24. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release).
+25. [ ] **漏译修饰词巩固**: 翻译前扫描程度词/时间词（"早点"→earlier, "很快"→soon, "只"→just）。
+26. [ ] **`as early as` 专项**: 后接具体时间（as early as last March），不可悬空。
