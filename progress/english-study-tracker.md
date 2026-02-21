@@ -147,6 +147,11 @@
 | **give a presentation on** | 5 | 极高 | 2026-02-19 | 介词 on 搭配精准; Which topic ... on 自然 |
 | **make notes** | 5 | 高 | 2026-02-19 | 注意拼写: made (非 maken), forgotten (非 forgot) |
 | **while you prepare** | 5 | 极高 | 2026-02-19 | while doing (省略主语) 用法地道 |
+| **talking to the business** | 5 | 极高 | 2026-02-20 | 对接业务方; 进行时表常态化流程; early→earlier 已修正 |
+| **put in** | 5 | 高 | 2026-02-20 | 提交(申请/需求); 冠词 a leave request 需注意 |
+| **get + 过去分词 (Get型被动)** | 5 | 高 | 2026-02-20 | get given to/get assigned to; 完成时不用get被动已掌握 |
+| **Having + n./phrase (分词状语)** | 5 | 极高 | 2026-02-20 | 🏆跨语言点复用put in; no enough→not enough 已纠正 |
+| **get put into** | 5 | 极高 | 2026-02-20 | 被纳入开发流程; 代词省略(the next one)出色 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -180,6 +185,7 @@
 | 2026-02-17 | **21BEC Full Training (Opinions on Art)** | ✅ | 完成 5 个语言点(25题)，含 can't see how, bold enough for, the sort of+N+to do, up to date, good for |
 | 2026-02-18 | **22BEC Full Training (Report on a Meeting)** | ✅ | 完成 5 个语言点(25题)，含 sit around, be worth doing, check with, get sb doing, in time for. **虚拟语气全对(5/5)！**修饰词漏译问题显著改善。 |
 | 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
+| 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -220,6 +226,10 @@
 - [x] **Tag question 时态一致**: It'll (will) 需配 won't，非 isn't。注意缩写还原。2026-02-19 极性/时态全部正确！
 - [ ] **Past Participle 拼写**: make-made-made (无需 maken), forget-forgot-forgotten (非 forgot)。2026-02-19 出现。
 - [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
+- [ ] **Get被动+完成时**: 现在完成时必须用 has been done, 不能用 has got done。2026-02-20 一次纠正后已掌握。
+- [ ] **完成时+过去时间不兼容**: last week/yesterday 等明确过去时间 → 必须用简单过去时，不能用现在完成时。
+- [ ] **no vs not 搭配**: no+名词, not+enough+名词, 不能混搭(no enough ❌)。
+- [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
 
 ## 下一步计划 (Next Steps)
 
@@ -238,8 +248,10 @@
 13. [x] **🔴 最高优先级: 漏译修饰词**: ~~翻译前系统扫描中文句子中的时间词(现在/早就/明天)、程度词(最/更/很/只/得多)、否定词(不/没)。~~ ✅ 2026-02-18 连续 5 道虚拟语气题**全部命中要害，无一漏译！** 🏆
 14. [x] **Tag question 再巩固**: ~~2026-02-17 出现 2 次回退（否定配否定、肯定配肯定），需恢复肌肉记忆。~~ ✅ 2026-02-18 极性全部正确，仅有时态一致小瑕疵。2026-02-19 完胜！
 15. [x] **23BEC Start**: ~~进入 23BEC 新课文学习。~~ ✅ 2026-02-19 完成 5 个语言点(25题)
-16. [ ] **24BEC Start**: 进入 24BEC 新课文学习。
-17. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
-18. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
-19. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
-20. [ ] **Review Drill**: check Parallel Structure in choice questions.
+16. [x] **24BEC Start**: ~~进入 24BEC 新课文学习。~~ ✅ 2026-02-20 完成 5 个语言点(25题)
+17. [ ] **24BEC Remaining**: 检查 24BEC-10s 是否还有其他值得训练的语言点。
+18. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
+19. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
+20. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
+21. [ ] **Review Drill**: check Parallel Structure in choice questions.
+22. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release)。
