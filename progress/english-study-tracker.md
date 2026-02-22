@@ -155,6 +155,11 @@
 | **at one point** | 5 | 高 | 2026-02-21 | 单次(once)/阶段(used to)区分; 虚拟语气中慎用(暗示事情发生过) |
 | **have a draft for sth.** | 5 | 高 | 2026-02-21 | `did have` 强调助动词亮点 🌟; `from scratch` 无冠词 |
 | **basically** | 5 | 高 | 2026-02-21 | 软化语气/留余地; reduce≠simplify; 漏译修饰词需巩固 |
+| **be inclined to do sth.** | 5 | 高 | 2026-02-22 | `had been inclined to` 虚拟变形满分; `group under` 跨语言点复用 🌟 |
+| **all the way along** | 5 | 中上 | 2026-02-22 | 选择疑问句平行结构满分; 叙述时态复发; attend≠be involved in |
+| **plug sth. in** | 5 | 高 | 2026-02-22 | 代词位置 `plug them in` 掌握牢固 🏆; 注意 in 不可省 |
+| **over the course of** | 5 | 极高 | 2026-02-22 | 今日最佳语言点 🏆; `make progress` 修复成功; `kept on optimizing` 出色 |
+| **it makes more sense to A than B** | 5 | 高 | 2026-02-22 | 时态回退 `it made` 亮点 🌟; `whole`→`overall` 需巩固 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -190,6 +195,7 @@
 | 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
 | 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
+| 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题)，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **`over the course of` 今日最佳 🏆！时态回退 `it made` 出色。叙述时态复发。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -244,6 +250,11 @@
 - [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
 - [ ] **虚拟语气缺 If**: 条件从句必须以 If 开头，不可省略。2026-02-21 故事翻译中出现。
 - [ ] **process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。
+- [ ] **`whole` vs `overall`**: 整体/宏观用 `overall`（overall progress），全部/完整用 `whole`（the whole team）。2026-02-22 出现 2 次。
+- [ ] **`attend` vs `be involved in`**: 出席活动/会议用 attend；参与项目用 be involved in / work on。2026-02-22 新发现。
+- [ ] **`expand into` vs `extend`**: 扩展新市场用 `expand into`；延长时间用 `extend`。2026-02-22 新发现。
+- [ ] **tag 助动词跟代词走**: someone...haven't they（非 hasn't they），tag 助动词与 tag 代词一致。2026-02-22 新发现。
+- [ ] **phrasal verb 粒子不可省**: `plug in` 的 `in` 不能省略，否则失去"整合"引申义。2026-02-22 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -265,13 +276,16 @@
 16. [x] **24BEC Start**: ~~进入 24BEC 新课文学习。~~ ✅ 2026-02-20 完成 5 个语言点(25题)
 17. [x] **24BEC Remaining**: ~~检查 24BEC-10s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-21 进入 25BEC。
 18. [x] **25BEC Start**: ~~进入 25BEC 新课文学习。~~ ✅ 2026-02-21 完成 3 个语言点(15题)
-19. [ ] **25BEC Remaining**: 检查 25BEC-11s 是否还有其他值得训练的语言点。
-20. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
-21. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take)。
-22. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
-23. [ ] **Review Drill**: check Parallel Structure in choice questions.
-24. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release).
-25. [ ] **漏译修饰词巩固**: 翻译前扫描程度词/时间词（"早点"→earlier, "很快"→soon, "只"→just, "先"→first）。
-26. [ ] **`as early as` 专项**: 后接具体时间（as early as last March），不可悬空。
-27. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。
-28. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made** — 02-19 识别后 02-21 复发，需专项刷题。
+19. [x] **25BEC Remaining**: ~~检查 25BEC-11s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-22 进入 26BEC。
+20. [x] **26BEC Start**: ~~进入 26BEC 新课文学习。~~ ✅ 2026-02-22 完成 5 个语言点(25题)
+21. [ ] **26BEC Remaining**: 检查 26BEC-12s 是否还有其他值得训练的语言点。
+22. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
+23. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take/plug).
+24. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
+25. [ ] **Review Drill**: check Parallel Structure in choice questions.
+26. [ ] **Review Drill**: 冠词专项 — 可数名词(a leave request) + 序数词(the next release).
+27. [ ] **漏译修饰词巩固**: 翻译前扫描程度词/时间词（"早点"→earlier, "很快"→soon, "只"→just, "先"→first）。
+28. [ ] **`as early as` 专项**: 后接具体时间（as early as last March），不可悬空。
+29. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。— 02-21/02-22 连续复发！
+30. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made**, plug-plugged-**plugged** — 多次复发，需专项刷题。
+31. [ ] **`whole` vs `overall` 专项**: 整体进展=overall progress; 整个团队=the whole team。02-22 出现 2 次。
