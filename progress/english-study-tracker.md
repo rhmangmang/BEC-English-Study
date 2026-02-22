@@ -195,7 +195,7 @@
 | 2026-02-19 | **23BEC Full Training (Exam Spotlight Part 1)** | ✅ | 完成 5 个语言点(25题)，含 a choice of, choose out of, presentation on, make notes, while doing. **修饰词扫描意识极强！Just/Already 全部译出！** |
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
 | 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
-| 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题)，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **`over the course of` 今日最佳 🏆！时态回退 `it made` 出色。叙述时态复发。** |
+| 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题) + 综合故事翻译，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **故事翻译第2句融合4个语言点 🏆！叙述时态比昨天大幅改善！`from scratch` 3次全对。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -255,6 +255,9 @@
 - [ ] **`expand into` vs `extend`**: 扩展新市场用 `expand into`；延长时间用 `extend`。2026-02-22 新发现。
 - [ ] **tag 助动词跟代词走**: someone...haven't they（非 hasn't they），tag 助动词与 tag 代词一致。2026-02-22 新发现。
 - [ ] **phrasal verb 粒子不可省**: `plug in` 的 `in` 不能省略，否则失去"整合"引申义。2026-02-22 新发现。
+- [ ] **`In fact` vs `As it turned out`**: 事实证明=As it turned out; 事实上=In fact。2026-02-22 故事翻译中新发现。
+- [ ] **`would` vs `might`（可能性）**: 中文"可能"→might（可能性），不是would（确定性）。2026-02-22 故事翻译中新发现。
+- [ ] **进行时态（还在做）**: "还在写"=still be writing，不是still write，注意"还在"暗示进行时。2026-02-22 故事翻译中新发现。
 
 ## 下一步计划 (Next Steps)
 

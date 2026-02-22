@@ -3,8 +3,8 @@
 ## 会话概览
 
 - **日期**: 2026-02-22
-- **时长**: 约50分钟
-- **主要主题**: 26BEC-12s 造句训练 (5个语言点, 25题)
+- **时长**: 纤70分钟
+- **主要主题**: 26BEC-12s 造句训练 (5个语言点, 25题) + 综合故事翻译
 
 ## 造句训练记录
 
@@ -79,6 +79,30 @@
 | 词汇搭配 | extend the market | expand into new markets | extend=延长；expand into=扩展进入 |
 | whole vs overall | the whole progress | overall progress | 整体进展用 overall |
 
+## 综合故事翻译练习
+
+- **类型**: 将包含今日5个语言点的中文小故事翻译为英文
+- **目标**: 检验语言点在连贯语篇中的综合运用能力
+
+### 逐句反馈
+
+| # | 中文原文 | 用户翻译（关键部分） | 问题 | 纠正 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 在过去的一年里，我们的团队取得了很大的进展。 | Over the course of the last year, our team have made significant progress... | ✅ 满分！`make progress` 搭配完美 | 无需纠正 |
+| 2 | 团队负责人更倾向于从零开始...把旧版本整合进去才更有意义。 | ...was inclined to develop the whole system from scratch...it made more sense to plug...into...than to redevelop... | ✅ 今日最佳句子 🏆！一句融合 4 个语言点，`from scratch` 无冠词，`whole system` 用法正确 | 无需纠正 |
+| 3 | 我记得全程都有人在反对。但事实证明，这个决策是对的。 | ...all the way along, they thought... **In fact**, the decision was right. | 🟡 逗号拼接（两个独立句子）；`In fact`→`As it turned out`（事实证明≠事实上） | ...all the way along**.** They thought... **As it turned out**, the decision was right. |
+| 4 | 在过去的六个月里...展示整体进展比列举单个功能更有说服力。 | over the course of six months...showcase **overall** progress than any individual feature | 🟡 缺 `the last/past`：`over the course of **the last** six months`；✅ `overall progress` 正确！✅ `showcase` 准确 🏆 | over the course of **the last** six months |
+| 5 | 要是没有倾向于复用...现在可能还在从头开始写代码。 | If we had not been inclined to reuse... we **would** still **write** code from scratch now | 🟡 `would`→`might`（可能）；`write`→`be writing`（还在写=进行时）；✅ `from scratch` 3次全对 🏆🏆🏆 | we **might** still **be writing** code from scratch now |
+
+### 故事翻译整体评价
+
+- **5个语言点运用**: 全部正确！`be inclined to` ✅ `all the way along` ✅ `plug into` ✅ `over the course of` ✅ `makes more sense` ✅
+- **叙述时态**: 🏆 **巨大进步！** 全篇基本统一用过去时态，昨天的系统性问题今天大幅改善！
+- **`from scratch`**: 🏆🏆🏆 全文 3 次全部正确无冠词
+- **`overall` vs `whole`**: 🏆 正确区分！`overall progress`（宏观）vs `whole system`（全部）
+- **今日最佳句子**: 第 2 句 — 一句话融合 4 个语言点，结构完美 🌟
+- **vs 昨天故事翻译的进步**: 叙述时态从“全篇混用”→“基本统一过去时”；`from scratch` 从“加 the”→“3次全对”；`make progress` 从“have progress”→“made progress”
+
 ## 识别出的知识差距
 
 | 主题 | 严重程度 | 备注 |
@@ -93,6 +117,9 @@
 | `half year` vs `six months` | 低 | 英语中"半年"更常用 `six months` |
 | phrasal verb 粒子不可省 | 中 | `plug in` 的 `in` 不能省，否则失去"整合"引申义 |
 | `refactor` 拼写 | 低 | refact ❌ → refactor ✅ |
+| `In fact` vs `As it turned out` | 低 | 事实证明=As it turned out; 事实上=In fact — 故事翻译中新发现 |
+| `would` vs `might`（可能性） | 中 | 中文"可能"→might（可能性），不是would（确定性） — 故事翻译中新发现 |
+| 进行时态（还在做） | 中 | "还在写"=still be writing，不是still write — 故事翻译中新发现 |
 
 ## 今日掌握的主题
 
@@ -136,7 +163,10 @@
 - `group under` 跨语言点复用表现突出（课文搭配自然内化）
 - `make progress` 搭配昨天纠错后今日满分运用，纠错效率极高
 - 平行结构（选择疑问句）LP1出错后，后续 LP2/LP4/LP5 均正确，说明一次纠正即修复
-- 叙述时态问题连续两天出现（02-21故事翻译 + 02-22否定陈述句），是当前最需攻克的知识缺口
+- 叙述时态问题在单句训练中出现了一次（LP2 否定句），但故事翻译中**已大幅改善**，全篇基本统一过去时 🏆
 - 过去分词拼写/形式问题持续出现（forgot→forgotten, plug→plugged, refact→refactor），需要系统性刷题
 - `over the course of` 整体表现最佳，5题近满分，是今日掌握最好的语言点 🏆
 - 时态回退（backshift: thought it made）为新发现亮点，掌握自然
+- 故事翻译第 2 句为今日最佳句子，一句融合 4 个语言点，结构完美
+- 故事翻译比昨天进步显著：叙述时态从“全篇混用”→“基本统一过去时”；`from scratch` 从“加 the”→“3次全对”
+- 新发现：“事实证明”= As it turned out（非 In fact）；“可能还在”= might still be doing（非 would still do）
