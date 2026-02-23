@@ -160,6 +160,9 @@
 | **plug sth. in** | 5 | 高 | 2026-02-22 | 代词位置 `plug them in` 掌握牢固 🏆; 注意 in 不可省 |
 | **over the course of** | 5 | 极高 | 2026-02-22 | 今日最佳语言点 🏆; `make progress` 修复成功; `kept on optimizing` 出色 |
 | **it makes more sense to A than B** | 5 | 高 | 2026-02-22 | 时态回退 `it made` 亮点 🌟; `whole`→`overall` 需巩固 |
+| **group sth. under** | 5 | 极高 | 2026-02-23 | 介词前置 `Under which` 亮点 🌟; tag `haven't they` 修复 🏆 |
+| **give sb fodder** | 5 | 高 | 2026-02-23 | `did give` 复用出色; `marketing` vs `market` 已纠正 |
+| **input into** | 5 | 高 | 2026-02-23 | `on the technical side` 跨语言点复用 🌟; `on` vs `into` 区分已掌握 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -196,6 +199,7 @@
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
 | 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
 | 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题) + 综合故事翻译，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **故事翻译第2句融合4个语言点 🏆！叙述时态比昨天大幅改善！`from scratch` 3次全对。** |
+| 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 3 个语言点(15题)，含 group under, give sb fodder, input into. **介词前置 `Under which` 亮点！`haven't they` tag 修复成功 🏆！Mixed Conditional 连续满分！** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -258,6 +262,9 @@
 - [ ] **`In fact` vs `As it turned out`**: 事实证明=As it turned out; 事实上=In fact。2026-02-22 故事翻译中新发现。
 - [ ] **`would` vs `might`（可能性）**: 中文"可能"→might（可能性），不是would（确定性）。2026-02-22 故事翻译中新发现。
 - [ ] **进行时态（还在做）**: "还在写"=still be writing，不是still write，注意"还在"暗示进行时。2026-02-22 故事翻译中新发现。
+- [ ] **复合名词修饰语不加s**: customer feedback (非 customers), release process (非 releasing), software engineer (非 softwares)。2026-02-23 新发现。
+- [ ] **`a bit of` / `quite a bit of`**: of 不可省，固定搭配。2026-02-23 新发现。
+- [ ] **`provide sb with sth on topic`**: 同时指明对象+主题时用此结构，避免 `input on X into Y` 双介词混搭。2026-02-23 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -281,7 +288,10 @@
 18. [x] **25BEC Start**: ~~进入 25BEC 新课文学习。~~ ✅ 2026-02-21 完成 3 个语言点(15题)
 19. [x] **25BEC Remaining**: ~~检查 25BEC-11s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-22 进入 26BEC。
 20. [x] **26BEC Start**: ~~进入 26BEC 新课文学习。~~ ✅ 2026-02-22 完成 5 个语言点(25题)
-21. [ ] **26BEC Remaining**: 检查 26BEC-12s 是否还有其他值得训练的语言点。
+21. [x] **26BEC Remaining**: ~~检查 26BEC-12s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-23 完成 3 个剩余语言点(15题)
+32. [ ] **27BEC Start**: 进入 27BEC 新课文学习。
+33. [ ] **复合名词修饰语专项**: customer feedback, release process, software engineer — 修饰语不加s。
+34. [ ] **量词扫描专项**: 翻译前扫描"不少/很多/一些/只"等量词。
 22. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
 23. [ ] **Review Drill**: 抽查不规则动词过去分词拼写 (make/forget/take/plug).
 24. [ ] **Review Drill**: 关注中文"在"字句，强化 be doing 意识。
