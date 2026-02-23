@@ -163,6 +163,8 @@
 | **group sth. under** | 5 | 极高 | 2026-02-23 | 介词前置 `Under which` 亮点 🌟; tag `haven't they` 修复 🏆 |
 | **give sb fodder** | 5 | 高 | 2026-02-23 | `did give` 复用出色; `marketing` vs `market` 已纠正 |
 | **input into** | 5 | 高 | 2026-02-23 | `on the technical side` 跨语言点复用 🌟; `on` vs `into` 区分已掌握 |
+| **hit (覆盖/触达)** | 5 | 高 | 2026-02-23 | `the overseas one` 代词替换亮点 🌟; `much better` 精准翻译"好得多" 🏆 |
+| **from A to B** | 5 | 中上 | 2026-02-23 | 特殊疑问句满分; went→gone 过去分词复发; tag代词(team→they)需注意 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -199,7 +201,7 @@
 | 2026-02-20 | **24BEC Full Training (Dev Process & Requests)** | ✅ | 完成 5 个语言点(25题)，含 talking to the business, put in, get+pp, Having+n., get put into. **Mixed Conditional 连续满分！Get被动规则一次纠正即掌握。** |
 | 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
 | 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题) + 综合故事翻译，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **故事翻译第2句融合4个语言点 🏆！叙述时态比昨天大幅改善！`from scratch` 3次全对。** |
-| 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 3 个语言点(15题)，含 group under, give sb fodder, input into. **介词前置 `Under which` 亮点！`haven't they` tag 修复成功 🏆！Mixed Conditional 连续满分！** |
+| 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 5 个语言点(25题)，含 group under, give sb fodder, input into, hit, from A to B. **介词前置 `Under which` 亮点！`haven't they` tag 修复 🏆！`much better` 翻译精准！** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -265,6 +267,10 @@
 - [ ] **复合名词修饰语不加s**: customer feedback (非 customers), release process (非 releasing), software engineer (非 softwares)。2026-02-23 新发现。
 - [ ] **`a bit of` / `quite a bit of`**: of 不可省，固定搭配。2026-02-23 新发现。
 - [ ] **`provide sb with sth on topic`**: 同时指明对象+主题时用此结构，避免 `input on X into Y` 双介词混搭。2026-02-23 新发现。
+- [ ] **`phase` vs `phrase` 拼写**: 阶段=phase /feɪz/；短语=phrase /freɪz/。注意发音区别。2026-02-23 新发现。
+- [ ] **tag代词替换主语核心名词**: Your team→they(非you), The company→it。2026-02-23 新发现。
+- [ ] **`automatic` vs `automated`**: 流程/系统用 automated；机械/设备用 automatic。2026-02-23 新发现。
+- [ ] **虚拟语气主句：状态vs动作**: "处于某规模"用 be at, 不用 develop to。2026-02-23 新发现。
 
 ## 下一步计划 (Next Steps)
 
