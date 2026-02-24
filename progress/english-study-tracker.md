@@ -168,6 +168,9 @@
 | **give sb issues** | 5 | 极高 | 2026-02-24 | 5题全对！`has been giving` 现学现用 🏆; any 否定语境正确 |
 | **get to sth** | 5 | 中上 | 2026-02-24 | 搭配掌握; 时态选择(还没→haven't)纠正; 简洁性(didn't get to)纠正; 漏译"早点" |
 | **spread too thin** | 5 | 极高 | 2026-02-24 | 今日最佳 🏆; `had not been spread`+`could have delivered` 被动+能力虚拟双满分; `itself` 亮点 |
+| **see sth as** | 5 | 高 | 2026-02-24 | 核心搭配掌握; `opportunity to grow` 亮点 🌟; 漏译"一直"(kept delaying) |
+| **meet one's deadlines** | 5 | 中上 | 2026-02-24 | has meet→met 已修复; complained拼写错; `tackle` 亮点 🌟 |
+| **scan (快速浏览)** | 5 | 中上 | 2026-02-24 | “还没”→haven't 再次复发; look at/miss/would not have 故事中全部修复 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -205,7 +208,7 @@
 | 2026-02-21 | **25BEC Full Training (Meeting Metrics & Lag Issue)** | ✅ | 完成 3 个语言点(15题) + 综合故事翻译，含 at one point, have a draft for sth., basically. **`did have` 强调用法本次最大亮点 🌟！故事翻译暴露叙述时态系统性问题。** |
 | 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题) + 综合故事翻译，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **故事翻译第2句融合4个语言点 🏆！叙述时态比昨天大幅改善！`from scratch` 3次全对。** |
 | 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 5 个语言点(25题)，含 group under, give sb fodder, input into, hit, from A to B. **介词前置 `Under which` 亮点！`haven't they` tag 修复 🏆！`much better` 翻译精准！** |
-| 2026-02-24 | **27BEC Start (Cross-dept Project Issues)** | 🔄 | 完成 3 个语言点(15题)，含 give sb issues, get to sth, spread too thin. **`has been giving` 现学现用 🏆！`spread too thin` 虚拟语气被动双满分 🏆！三时态区分+can vs will 即学即用。** |
+| 2026-02-24 | **27BEC + 28BEC Training (Cross-dept Issues + Scan)** | ✅ | 完成 6 个语言点(30题)+综合故事翻译，含 give sb issues, get to, spread too thin, see sth as, meet deadlines, scan. **故事第⑤句三个纠正全部修复 🏆🏆🏆！三时态区分+can vs will 即学即用。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -278,6 +281,12 @@
 - [ ] **`get to` 简洁性**: `get to` 本身包含"没顾上"语义，不需要 `have no time to get to`（冗余）。2026-02-24 新发现。
 - [ ] **"还没" → haven't...yet**: "还没"暗示到现在仍未完成，需触发现在完成时(haven't gotten to...yet)，非过去时(didn't get to)。2026-02-24 新发现。
 - [ ] **三时态区分 (Past/PerfPres/PerfPresCont)**: 过去式=结束; 现在完成=结果→现在; 现在完成进行=一直在做。2026-02-24 已讲解，理解检查通过。
+- [ ] **`didn't + 原形`**: didn't made → didn't make。助动词后必须接动词原形，基础语法需警惕。2026-02-24 新发现。
+- [ ] **`priority` vs `property`**: 优先事项=priority;财产/属性=property。拼写/用词混淆。2026-02-24 新发现。
+- [ ] **`look at`(不及物动词+介词)**: look it → look at it。look不及物动词必须加at。2026-02-24 纠正后故事中已修复 🏆。
+- [ ] **`miss` vs `skip`**: 漏掉(无意)=miss;跳过(故意)=skip。2026-02-24 纠正后故事中已修复 🏆。
+- [ ] **`At last` vs `In the end`**: At last=正面盼望终于实现; In the end=结果/结局(中性)。2026-02-24 新发现。
+- [ ] **`complained`(过去分词拼写)**: complain-complained-complained，规则动词加-ed，非 complainted。2026-02-24 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -302,8 +311,12 @@
 19. [x] **25BEC Remaining**: ~~检查 25BEC-11s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-22 进入 26BEC。
 20. [x] **26BEC Start**: ~~进入 26BEC 新课文学习。~~ ✅ 2026-02-22 完成 5 个语言点(25题)
 21. [x] **26BEC Remaining**: ~~检查 26BEC-12s 是否还有其他值得训练的语言点。~~ ✅ 2026-02-23 完成 3 个剩余语言点(15题)
-32. [x] **27BEC Start**: ~~进入 27BEC 新课文学习。~~ ✅ 2026-02-24 完成 3 个语言点(15题)
-35. [ ] **27BEC Remaining**: 继续 27BEC 剩余语言点（`see sth as` 已出题待答）。
+32. [x] **27BEC Start**: ~~进入 27BEC 新课文学习。~~ ✅ 2026-02-24 完成 5 个语言点(25题)
+35. [x] **27BEC Remaining**: ~~继续 27BEC 剩余语言点。~~ ✅ 2026-02-24 完成
+36. [x] **28BEC Start**: ~~进入 28BEC 新课文学习。~~ ✅ 2026-02-24 完成 scan 语言点(5题)
+37. [ ] **28BEC Remaining**: 检查 28BEC 是否还有其他值得训练的语言点。
+38. [ ] **"还没"→haven't 专项强化**: 今日 3 次复发，需专项训练建立背景反应。
+39. [ ] **didn't+原形 抽查**: 随机插入含 didn't 的句子确认动词原形。
 33. [ ] **复合名词修饰语专项**: customer feedback, release process, software engineer — 修饰语不加s。
 34. [ ] **量词扫描专项**: 翻译前扫描"不少/很多/一些/只"等量词。
 22. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
