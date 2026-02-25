@@ -171,6 +171,9 @@
 | **see sth as** | 5 | 高 | 2026-02-24 | 核心搭配掌握; `opportunity to grow` 亮点 🌟; 漏译"一直"(kept delaying) |
 | **meet one's deadlines** | 5 | 中上 | 2026-02-24 | has meet→met 已修复; complained拼写错; `tackle` 亮点 🌟 |
 | **scan (快速浏览)** | 5 | 中上 | 2026-02-24 | “还没”→haven't 再次复发; look at/miss/would not have 故事中全部修复 🏆 |
+| **invest heavily in / put investment into** | 5 | 极高 | 2026-02-25 | 今日最佳！混合虚拟、平行结构、集合名词指代全部满分 🏆 |
+| **I would say (like)** | 5 | 极高 | 2026-02-25 | 掌握插入语语序 (What would you say is); 识别观点帽子的 Tag Question 逻辑 🏆 |
+| **from a ... point of view / perspective** | 5 | 极高 | 2026-02-25 | 掌握 perspective/standpoint 替换; 纠正 past/passed 拼写; 介词 put back to 掌握 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -209,6 +212,7 @@
 | 2026-02-22 | **26BEC Full Training (Project Meeting & PR Strategy)** | ✅ | 完成 5 个语言点(25题) + 综合故事翻译，含 be inclined to, all the way along, plug in, over the course of, makes more sense. **故事翻译第2句融合4个语言点 🏆！叙述时态比昨天大幅改善！`from scratch` 3次全对。** |
 | 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 5 个语言点(25题)，含 group under, give sb fodder, input into, hit, from A to B. **介词前置 `Under which` 亮点！`haven't they` tag 修复 🏆！`much better` 翻译精准！** |
 | 2026-02-24 | **27BEC + 28BEC Training (Cross-dept Issues + Scan)** | ✅ | 完成 6 个语言点(30题)+综合故事翻译，含 give sb issues, get to, spread too thin, see sth as, meet deadlines, scan. **故事第⑤句三个纠正全部修复 🏆🏆🏆！三时态区分+can vs will 即学即用。** |
+| 2026-02-25 | **28BEC Deep Dive (Investment & Perspective)** | ✅ | 完成 3 个语言点(15题)，含 invest heavily in, I would say, from a ... point of view. **彻底攻克观点类插入语语序！纠正 past/passed 拼写。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
