@@ -174,6 +174,10 @@
 | **invest heavily in / put investment into** | 5 | 极高 | 2026-02-25 | 今日最佳！混合虚拟、平行结构、集合名词指代全部满分 🏆 |
 | **I would say (like)** | 5 | 极高 | 2026-02-25 | 掌握插入语语序 (What would you say is); 识别观点帽子的 Tag Question 逻辑 🏆 |
 | **from a ... point of view / perspective** | 5 | 极高 | 2026-02-25 | 掌握 perspective/standpoint 替换; 纠正 past/passed 拼写; 介词 put back to 掌握 |
+| **concern with vs about** | 5 | 极高 | 2026-02-26 | 精准区分职场审视与情绪担忧视角，虚拟语气与Tag Question极性满分 🏆 |
+| **see the argument for it** | 5 | 极高 | 2026-02-26 | 掌握“先肯定再转折”的会议技巧；完美攻克 Type 3 虚拟语气 (had had to) 🏆 |
+| **It would be confusing why...** | 5 | 极高 | 2026-02-26 | 掌握形式主语表达“客观逻辑困惑”；Type 3 虚拟语气衔接丝滑 🏆 |
+| **manage both simultaneously** | 5 | 极高 | 2026-02-26 | 掌握“同步管理/处理”职场地道副词；Type 3 虚拟语气无压力 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -213,6 +217,8 @@
 | 2026-02-23 | **26BEC Remaining (Classification & PR Fodder)** | ✅ | 完成 5 个语言点(25题)，含 group under, give sb fodder, input into, hit, from A to B. **介词前置 `Under which` 亮点！`haven't they` tag 修复 🏆！`much better` 翻译精准！** |
 | 2026-02-24 | **27BEC + 28BEC Training (Cross-dept Issues + Scan)** | ✅ | 完成 6 个语言点(30题)+综合故事翻译，含 give sb issues, get to, spread too thin, see sth as, meet deadlines, scan. **故事第⑤句三个纠正全部修复 🏆🏆🏆！三时态区分+can vs will 即学即用。** |
 | 2026-02-25 | **28BEC Deep Dive (Investment & Perspective)** | ✅ | 完成 3 个语言点(15题)，含 invest heavily in, I would say, from a ... point of view. **彻底攻克观点类插入语语序！纠正 past/passed 拼写。** |
+| 2026-02-26 | **29BEC Complete (Bug Management & Proposals)** | ✅ | 彻底攻克 `concern with` 深度辨析。**虚拟语气 Type 3 实现肌肉记忆 🏆**。掌握先肯定后转折 (see the argument) 的会议技巧。 |
+| 2026-02-27 | **30BEC Start (Agile & Ticketing)** | 🚧 | 准备进入 `get passed to` 训练。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -332,4 +338,4 @@
 28. [ ] **`as early as` 专项**: 后接具体时间（as early as last March），不可悬空。
 29. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。— 02-21/02-22 连续复发！
 30. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made**, plug-plugged-**plugged** — 多次复发，需专项刷题。
-31. [ ] **`whole` vs `overall` 专项**: 整体进展=overall progress; 整个团队=the whole team。02-22 出现 2 次。
+31. [ ] **`whole` vs `overall` 专项**: 整体进展=overall progress; 整个团队=the whole team。02-22 出现 2 次。32. [ ] **is about that** 结构修正:: "is about that" is not grammatically correct. Use "is that" or "is about + noun/V-ing".
