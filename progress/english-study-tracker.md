@@ -330,7 +330,7 @@
 32. [x] **27BEC Start**: ~~进入 27BEC 新课文学习。~~ ✅ 2026-02-24 完成 5 个语言点(25题)
 35. [x] **27BEC Remaining**: ~~继续 27BEC 剩余语言点。~~ ✅ 2026-02-24 完成
 36. [x] **28BEC Start**: ~~进入 28BEC 新课文学习。~~ ✅ 2026-02-24 完成 scan 语言点(5题)
-37. [x] **30BEC Start**: ~~进入 30BEC 新课文学习，完成 get passed to, move on, in the background。~~ ✅ 2026-02-27
+37. [x] **30BEC Start**: ~~进入 30BEC 新课文学习，完成 get passed to, move on, in the background。~~ ✅ 2026-02-27。**完成综合故事复刻，冠词意识(next iteration)完美突破！** 🏆
 38. [ ] **30BEC Remaining**: 检查 30BEC-23s 是否还有其他值得训练的语言点。
 39. [ ] **"还没"→haven't 专项强化**: 今日已在故事中部分修复，需持续验证。
 40. [ ] **didn't+原形 抽查**: 随机插入含 didn't 的句子确认动词原形。

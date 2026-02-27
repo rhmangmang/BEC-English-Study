@@ -43,6 +43,24 @@
 
 ---
 
+## 综合故事复刻 (Story Reconstruction)
+
+### 任务描述
+在完整职场博弈语境下，串联 `in the background`, `get passed to`, `move on to` 及高级虚拟语气 `If it hadn't been for...`。
+
+### 挑战文本 (Chinese)
+“其实，我们的系统昨天并没有在后台悄悄地运行（其实一直在报错）。正是由于这种静默的错误，导致相关的技术工单当时根本没有被移交给 IT 团队。坦白说，要不是因为（If it hadn't been for...）客户的暴力投诉，我们到现在可能还在那坐着、完全发现不了这些 bug。所以我想知道，既然大家现在已经忙得不可开交了，我们明天是打算勉强推进到下一次迭代，还是继续留在当前阶段？毕竟我们要明白，如果那个监控脚本当初确实（had）在后台运行了的话，系统当时也就不会崩溃得那么惨了。”
+
+### 学生复述记录 (Student Version)
+> "Actually, our system was not running silently in the background (it was failing all the time actually). Because of this silent failure. The technical related tickets did not get passed to the IT team. Frankly, if it had not been for customers violent complaints, we could have been sitting there and could not have found these bugs. So I wanna know now that we are so busy, are we gonna move on to the next iteration or stay at the current stage tomorrow? After all, we should see that if the monitoring script had ran in the background, the system would not have crashed so seriously at that time."
+
+### 表现点评
+- **亮点**: 逻辑极其连贯；`If it hadn't been for` 运用极其自然 🏆；**`the next iteration` 冠词意识觉醒，全对！** 🌟
+- **雷区**: `had ran` 拼写错误再次复发 (run-ran-**run**)；`customers` 复数所有格撇号遗漏。
+- **改进**: 职场语气建议从 `gonna` 升级为 `planning to`。
+
+---
+
 ## 重点错题记录
 
 | 涉及知识点 | 原始错误句子 | 纠正后的正确表达 | 错误类型 |
