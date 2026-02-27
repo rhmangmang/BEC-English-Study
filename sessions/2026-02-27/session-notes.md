@@ -43,21 +43,28 @@
 
 ---
 
-## 综合故事复刻 (Story Reconstruction)
+## 综合故事翻译练习
 
-### 任务描述
-在完整职场博弈语境下，串联 `in the background`, `get passed to`, `move on to` 及高级虚拟语气 `If it hadn't been for...`。
+- **类型**: 将包含今日3个语言点及高级句式的中文小故事翻译为英文
+- **目标**: 检验语言点及冠词规则在连贯职场语篇中的综合运用能力
 
-### 挑战文本 (Chinese)
-“其实，我们的系统昨天并没有在后台悄悄地运行（其实一直在报错）。正是由于这种静默的错误，导致相关的技术工单当时根本没有被移交给 IT 团队。坦白说，要不是因为（If it hadn't been for...）客户的暴力投诉，我们到现在可能还在那坐着、完全发现不了这些 bug。所以我想知道，既然大家现在已经忙得不可开交了，我们明天是打算勉强推进到下一次迭代，还是继续留在当前阶段？毕竟我们要明白，如果那个监控脚本当初确实（had）在后台运行了的话，系统当时也就不会崩溃得那么惨了。”
+### 逐句反馈
 
-### 学生复述记录 (Student Version)
-> "Actually, our system was not running silently in the background (it was failing all the time actually). Because of this silent failure. The technical related tickets did not get passed to the IT team. Frankly, if it had not been for customers violent complaints, we could have been sitting there and could not have found these bugs. So I wanna know now that we are so busy, are we gonna move on to the next iteration or stay at the current stage tomorrow? After all, we should see that if the monitoring script had ran in the background, the system would not have crashed so seriously at that time."
+| # | 中文原文 | 用户翻译（关键部分） | 问题 | 纠正 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 其实，我们的系统昨天并没有在后台悄悄地运行。 | Actually, our system was not running silently in the background... | ✅ 满分！`in the background` 状语位置正确 | 无需纠正 |
+| 2 | 正是由于这种静默的错误，导致相关的技术工单当时根本没有被移交给 IT 团队。 | Because of this silent failure. The technical related tickets did not get passed to... | 🟡 句子碎片（句号分割不当）；`technical related` 不够地道 | ...failure, the **technically** related / **technical** tickets... |
+| 3 | 坦白说，要不是因为客户的暴力投诉，我们到现在可能发现不了这些 bug。 | Frankly, if it had not been for customers violent complaints, we ... could not have found these bugs. | ✅ `If it had not been for` 运用极其自然 🏆；🟡 `customers` 漏掉撇号 | ...customers' violent complaints / ...customer complaints |
+| 4 | 我们明天是打算勉强推进到下一次迭代，还是继续留在当前阶段？ | ...are we gonna move on to the next iteration or stay at the current stage tomorrow? | 🏆 **冠词意识大爆发！** `the next iteration` / `the current stage` 两次全对！🌟 | 无需纠正 (gonna 可升级) |
+| 5 | 如果那个监控脚本当初确实在后台运行了的话，系统当时也就不会崩溃了。 | ...if the monitoring script had ran in the background, the system would not have crashed... | 🔴 `had ran` → `had run` (**过去分词拼写！** 复发) | ...had **run** in the background... |
 
-### 表现点评
-- **亮点**: 逻辑极其连贯；`If it hadn't been for` 运用极其自然 🏆；**`the next iteration` 冠词意识觉醒，全对！** 🌟
-- **雷区**: `had ran` 拼写错误再次复发 (run-ran-**run**)；`customers` 复数所有格撇号遗漏。
-- **改进**: 职场语气建议从 `gonna` 升级为 `planning to`。
+### 故事翻译整体评价
+
+- **3个语言点运用**: 全部正确！`get passed to` ✅ `move on to` ✅ `in the background` ✅
+- **高级句式**: 🏆 **完美首秀！** `If it hadn't been for` 运用丝滑且逻辑准确。
+- **冠词意识 (the next)**: 🏆🏆🏆 **今日最大突破！** 识别出环节名词属性，在大段叙述中精准补齐 `the next iteration` 的定冠词。
+- **不规则动词**: 🔴 **需高度警惕！** `had run` 再次误写为 `had ran`，这是目前最顽固的拼写障碍。
+- **时态稳定性**: 🏆 **高水平保持！** 叙述过去事实时，全篇过去时态/虚拟语气衔接紧密，无时态混乱。
 
 ---
 
