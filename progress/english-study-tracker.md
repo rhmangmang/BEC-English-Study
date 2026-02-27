@@ -178,6 +178,9 @@
 | **see the argument for it** | 5 | 极高 | 2026-02-26 | 掌握“先肯定再转折”的会议技巧；完美攻克 Type 3 虚拟语气 (had had to) 🏆 |
 | **It would be confusing why...** | 5 | 极高 | 2026-02-26 | 掌握形式主语表达“客观逻辑困惑”；Type 3 虚拟语气衔接丝滑 🏆 |
 | **manage both simultaneously** | 5 | 极高 | 2026-02-26 | 掌握“同步管理/处理”职场地道副词；Type 3 虚拟语气无压力 🏆 |
+| **get passed to** | 5 | 极高 | 2026-02-27 | 掌握介词前置 `To which...` 与虚拟语气结合 🏆 |
+| **move on to** | 5 | 极高 | 2026-02-27 | 彻底掌握环节名词加 `the` 与时间单位不加 `the` 的区别 🏆 |
+| **in the background** | 5 | 极高 | 2026-02-27 | 掌握 IT 后台运行/处理语义；区分 `to` vs `in` 搭配 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -218,7 +221,7 @@
 | 2026-02-24 | **27BEC + 28BEC Training (Cross-dept Issues + Scan)** | ✅ | 完成 6 个语言点(30题)+综合故事翻译，含 give sb issues, get to, spread too thin, see sth as, meet deadlines, scan. **故事第⑤句三个纠正全部修复 🏆🏆🏆！三时态区分+can vs will 即学即用。** |
 | 2026-02-25 | **28BEC Deep Dive (Investment & Perspective)** | ✅ | 完成 3 个语言点(15题)，含 invest heavily in, I would say, from a ... point of view. **彻底攻克观点类插入语语序！纠正 past/passed 拼写。** |
 | 2026-02-26 | **29BEC Complete (Bug Management & Proposals)** | ✅ | 彻底攻克 `concern with` 深度辨析。**虚拟语气 Type 3 实现肌肉记忆 🏆**。掌握先肯定后转折 (see the argument) 的会议技巧。 |
-| 2026-02-27 | **30BEC Start (Agile & Ticketing)** | 🚧 | 准备进入 `get passed to` 训练。 |
+| 2026-02-27 | **30BEC Start (Agile & Ticketing)** | ✅ | 完成 3 个语言点(15题)，含 get passed to, move on, in the background。**深度辨析冠词 (next) 逻辑！** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -297,6 +300,9 @@
 - [ ] **`miss` vs `skip`**: 漏掉(无意)=miss;跳过(故意)=skip。2026-02-24 纠正后故事中已修复 🏆。
 - [ ] **`At last` vs `In the end`**: At last=正面盼望终于实现; In the end=结果/结局(中性)。2026-02-24 新发现。
 - [ ] **`complained`(过去分词拼写)**: complain-complained-complained，规则动词加-ed，非 complainted。2026-02-24 新发现。
+- [ ] **Past Participle (run)**: run-ran-**run** (had ran ❌)，需肌肉记忆。2026-02-27 新发现。
+- [ ] **complain (intransitive)**: 投诉是主动动作，不可用被动 (would have been complained ❌)。2026-02-27 新发现。
+- [ ] **next + interval vs next + time**: 彻底理解 next + 名词 (加 the) 与 next + 时间 (不加 the) 的区别。2026-02-27 已讲解。
 
 ## 下一步计划 (Next Steps)
 
@@ -324,9 +330,10 @@
 32. [x] **27BEC Start**: ~~进入 27BEC 新课文学习。~~ ✅ 2026-02-24 完成 5 个语言点(25题)
 35. [x] **27BEC Remaining**: ~~继续 27BEC 剩余语言点。~~ ✅ 2026-02-24 完成
 36. [x] **28BEC Start**: ~~进入 28BEC 新课文学习。~~ ✅ 2026-02-24 完成 scan 语言点(5题)
-37. [ ] **28BEC Remaining**: 检查 28BEC 是否还有其他值得训练的语言点。
-38. [ ] **"还没"→haven't 专项强化**: 今日 3 次复发，需专项训练建立背景反应。
-39. [ ] **didn't+原形 抽查**: 随机插入含 didn't 的句子确认动词原形。
+37. [x] **30BEC Start**: ~~进入 30BEC 新课文学习，完成 get passed to, move on, in the background。~~ ✅ 2026-02-27
+38. [ ] **30BEC Remaining**: 检查 30BEC-23s 是否还有其他值得训练的语言点。
+39. [ ] **"还没"→haven't 专项强化**: 今日已在故事中部分修复，需持续验证。
+40. [ ] **didn't+原形 抽查**: 随机插入含 didn't 的句子确认动词原形。
 33. [ ] **复合名词修饰语专项**: customer feedback, release process, software engineer — 修饰语不加s。
 34. [ ] **量词扫描专项**: 翻译前扫描"不少/很多/一些/只"等量词。
 22. [ ] **Review Drill**: 间接疑问句语序（what the problem is）。
