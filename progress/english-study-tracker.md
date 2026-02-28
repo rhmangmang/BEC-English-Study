@@ -181,6 +181,8 @@
 | **get passed to** | 5 | 极高 | 2026-02-27 | 掌握介词前置 `To which...` 与虚拟语气结合 🏆 |
 | **move on to** | 5 | 极高 | 2026-02-27 | 彻底掌握环节名词加 `the` 与时间单位不加 `the` 的区别 🏆 |
 | **in the background** | 5 | 极高 | 2026-02-27 | 掌握 IT 后台运行/处理语义；区分 `to` vs `in` 搭配 |
+| **before I forget** | 5 | 极高 | 2026-02-28 | 🏆 掌握口语自然插话过渡；虚拟/反义/选择句式全通关 |
+| **come back to this** | 1 | 启动 | 2026-02-28 | 已锁定并开始首题 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -221,7 +223,8 @@
 | 2026-02-24 | **27BEC + 28BEC Training (Cross-dept Issues + Scan)** | ✅ | 完成 6 个语言点(30题)+综合故事翻译，含 give sb issues, get to, spread too thin, see sth as, meet deadlines, scan. **故事第⑤句三个纠正全部修复 🏆🏆🏆！三时态区分+can vs will 即学即用。** |
 | 2026-02-25 | **28BEC Deep Dive (Investment & Perspective)** | ✅ | 完成 3 个语言点(15题)，含 invest heavily in, I would say, from a ... point of view. **彻底攻克观点类插入语语序！纠正 past/passed 拼写。** |
 | 2026-02-26 | **29BEC Complete (Bug Management & Proposals)** | ✅ | 彻底攻克 `concern with` 深度辨析。**虚拟语气 Type 3 实现肌肉记忆 🏆**。掌握先肯定后转折 (see the argument) 的会议技巧。 |
-| 2026-02-27 | **30BEC Start (Agile & Ticketing)** | ✅ | 完成 3 个语言点(15题)，含 get passed to, move on, in the background。**深度辨析冠词 (next) 逻辑！** |
+| 2026-02-27 | **30BEC Start** (Agile & Ticketing) | ✅ | 完成 3 个语言点(15题)，含 get passed to, move on, in the background。**完成综合故事复刻，冠词意识(next iteration)完美突破！** 🏆 |
+| 2026-02-28 | **30BEC Deep Dive** + **Roleplay Integration** | ✅ | 整合“场景化模拟”模式；完成 `before I forget` 训练。**Roleplay 长段叙述时态稳定性极佳！** 🏆 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
