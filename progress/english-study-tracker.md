@@ -185,7 +185,11 @@
 | **come back to this** | 5 | 极高 | 2026-03-01 | 成功区分 emergency/urgency，虚拟语气完美无瑕 |
 | **double-check** | 5 | 极高 | 2026-03-01 | 掌握 let sb do 搭配；虚拟语气 Type 3 运用自如 🏆 |
 | **pass to** | 5 | 极高 | 2026-03-01 | 攻克被动语态结合情态动词；虚拟语气与 `background` 融合完美 🏆 |
-| **iteration (迭代)** | 1 | 启动 | 2026-03-01 | 已锁定并开始首题 |
+| **coupled into** | 5 | 极高 | 2026-03-02 | 彻底攻克 Mixed Conditional 时态错位问题 🏆 |
+| **of type** | 5 | 极高 | 2026-03-02 | 掌握技术文档中类型声明的简洁表达 |
+| **I don't see why** | 5 | 极高 | 2026-03-02 | 攻克选择疑问句平行结构；掌握商务“逻辑自信”语气 🏆 |
+| **under the hood** | 5 | 极高 | 2026-03-02 | 掌握 IT 底层逻辑描述；虚拟语态主动/被动区分正确 |
+| **point it to** | 1 | 启动 | 2026-03-02 | 已锁定并开始首题 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -229,6 +233,7 @@
 | 2026-02-27 | **30BEC Start** (Agile & Ticketing) | ✅ | 完成 3 个语言点(15题)，含 get passed to, move on, in the background。**完成综合故事复刻，冠词意识(next iteration)完美突破！** 🏆 |
 | 2026-02-28 | **30BEC Deep Dive** + **Roleplay Integration** | ✅ | 整合“场景化模拟”模式；完成 `before I forget` 训练。**Roleplay 长段叙述时态稳定性极佳！** 🏆 |
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
+| 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
