@@ -51,8 +51,13 @@
   - **虚拟语气**: Mixed Conditional (`had realized ... belong ... would not be`) 运用极其丝滑，且敏锐地保留了 `belong` 的现在时以暗示客观规律。
 
 ### 语言点 5: consider sb/sth (to be) sth (认定/认为是)
-- **当前进度**: 1/5 训练中
-- **核心洞察**: 识别出 `consider A B` (口语简洁版) 与 `consider A to be B` (正式认定版) 的两套结构。
+- **结果**: 5/5 全通关 🏆
+- **关键亮点**:
+  - **结构切换**: 成功在 `consider A B` (简洁版) 与 `consider A to be B` (完整版) 之间进行时态与语式的灵活切换。
+  - **Mixed Conditional**: 四天连续保持虚拟语气混合时态零失误。
+- **不足**:
+  - Round 3 出现 **反义疑问句极性回退** (`would not ... wouldn't we`），经提醒后修复。
+  - Round 5 未完全按照指令放置插入语 `to me` (要求放在主语后，实际放在句末)，未能呈现出地道的“观点帽子”语气。
 
 ---
 

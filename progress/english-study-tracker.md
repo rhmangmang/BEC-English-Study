@@ -192,6 +192,8 @@
 | **point it to** | 5 | 极高 | 2026-03-03 | UI/路由跳转场景专用；Type 3 虚拟语气中自然融入 🏆 |
 | **to me, it's (even more) confusing** | 5 | 极高 | 2026-03-03 | 掌握插入语 `to me/him` 句中灵活位置；Mixed Conditional 满分 🏆 |
 | **intend sb/sth (not) to be** | 5 | 极高 | 2026-03-03 | 彻底区分"未来打算"与"设计本意/定位"；Mixed Conditional 中运用自如 🏆 |
+| **belong there** | 5 | 极高 | 2026-03-03 | 彻底建立“逻辑归属用 belong in”的 IT 表达肌肉记忆 🏆 |
+| **consider sb/sth (to be) sth** | 5 | 极高 | 2026-03-03 | 掌握 A B 与 A to be B 两套结构；Mixed Conditional 连续满分 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
