@@ -189,7 +189,9 @@
 | **of type** | 5 | 极高 | 2026-03-02 | 掌握技术文档中类型声明的简洁表达 |
 | **I don't see why** | 5 | 极高 | 2026-03-02 | 攻克选择疑问句平行结构；掌握商务“逻辑自信”语气 🏆 |
 | **under the hood** | 5 | 极高 | 2026-03-02 | 掌握 IT 底层逻辑描述；虚拟语态主动/被动区分正确 |
-| **point it to** | 1 | 启动 | 2026-03-02 | 已锁定并开始首题 |
+| **point it to** | 5 | 极高 | 2026-03-03 | UI/路由跳转场景专用；Type 3 虚拟语气中自然融入 🏆 |
+| **to me, it's (even more) confusing** | 5 | 极高 | 2026-03-03 | 掌握插入语 `to me/him` 句中灵活位置；Mixed Conditional 满分 🏆 |
+| **intend sb/sth (not) to be** | 5 | 极高 | 2026-03-03 | 彻底区分"未来打算"与"设计本意/定位"；Mixed Conditional 中运用自如 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -234,6 +236,7 @@
 | 2026-02-28 | **30BEC Deep Dive** + **Roleplay Integration** | ✅ | 整合“场景化模拟”模式；完成 `before I forget` 训练。**Roleplay 长段叙述时态稳定性极佳！** 🏆 |
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
+| 2026-03-03 | **32BEC Deep Dive (Sidebar Design Intent)** | ✅ | 完成 3 个语言点(15题)，含 point it to, to me confusing, intend sth to be。**插入语重复使用(to you×2)新发现 ⚠️。反义疑问句连续满分！** 🏆 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -315,6 +318,11 @@
 - [ ] **Past Participle (run)**: run-ran-**run** (had ran ❌)，需肌肉记忆。2026-02-27 新发现。
 - [ ] **complain (intransitive)**: 投诉是主动动作，不可用被动 (would have been complained ❌)。2026-02-27 新发现。
 - [ ] **next + interval vs next + time**: 彻底理解 next + 名词 (加 the) 与 next + 时间 (不加 the) 的区别。2026-02-27 已讲解。
+- [ ] **插入语重复使用 (to me/you)**: 同一句中 `to me/you` 只放一处（句首或句中），不可重复出现两次。2026-03-03 出现 2 次。
+- [ ] **`in the background` vs `backend`**: 进程后台运行=in the background；后台管理面板=backend dashboard。2026-03-03 新发现。
+- [ ] **`not reasonable` vs `doesn't make sense`**: IT 职场讨论逻辑合理性时，`doesn't make (much) sense` 是最高频表达。2026-03-03 新发现。
+- [ ] **`due to some reasons` vs `for some reason`**: 口语中 `for some reason` (单数) 更地道简洁。2026-03-03 新发现。
+- [ ] **`every time` 语序**: 频率词放从句开头更自然：`every time it's called`（非 `when it is called every time`）。2026-03-03 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -358,3 +366,6 @@
 29. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。— 02-21/02-22 连续复发！
 30. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made**, plug-plugged-**plugged** — 多次复发，需专项刷题。
 31. [ ] **`whole` vs `overall` 专项**: 整体进展=overall progress; 整个团队=the whole team。02-22 出现 2 次。32. [ ] **is about that** 结构修正:: "is about that" is not grammatically correct. Use "is that" or "is about + noun/V-ing".
+41. [ ] **32BEC 继续**: 启动 `belong there` (理应在某处) 的 5 次专项训练。
+42. [ ] **32BEC 继续**: 完成 `consider sb/sth (to be) sth` (认定/认为) 的 5 次专项训练。
+43. [ ] **插入语重复抽查**: 随机插入含 `to me/you/him` 的句子，检查重复使用惯性。
