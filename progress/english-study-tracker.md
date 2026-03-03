@@ -238,7 +238,7 @@
 | 2026-02-28 | **30BEC Deep Dive** + **Roleplay Integration** | ✅ | 整合“场景化模拟”模式；完成 `before I forget` 训练。**Roleplay 长段叙述时态稳定性极佳！** 🏆 |
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
-| 2026-03-03 | **32BEC Deep Dive (Sidebar Design Intent)** | ✅ | 完成 3 个语言点(15题)，含 point it to, to me confusing, intend sth to be。**插入语重复使用(to you×2)新发现 ⚠️。反义疑问句连续满分！** 🏆 |
+| 2026-03-03 | **32BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+综合场景模拟，含 point it to, to me confusing, intend sth to be, belong there, consider (to be)。**反义疑问句极性回退1次(would not...wouldn't we) ⚠️。插入语重复当日修复！Role-play 五语言点串联成功！** 🏆 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -325,6 +325,10 @@
 - [ ] **`not reasonable` vs `doesn't make sense`**: IT 职场讨论逻辑合理性时，`doesn't make (much) sense` 是最高频表达。2026-03-03 新发现。
 - [ ] **`due to some reasons` vs `for some reason`**: 口语中 `for some reason` (单数) 更地道简洁。2026-03-03 新发现。
 - [ ] **`every time` 语序**: 频率词放从句开头更自然：`every time it's called`（非 `when it is called every time`）。2026-03-03 新发现。
+- [ ] **`should not belong` vs `doesn't belong`**: 讨论数据归属时用 `doesn't belong` (客观属性) 比 `should not belong` (主观评价) 更利落。2026-03-03 新发现。
+- [ ] **`consider` + 从句退化**: Role-play 中 `consider this field can be used` 退化为从句结构，应使用 `consider A (to be) B`。2026-03-03 新发现。
+- [ ] **`universally` vs `global`**: IT 职场描述字段通用性时更常用 `global` (a global field)，非 `universally used`。2026-03-03 新发现。
+- [ ] **反义疑问句极性（虚拟语气叠加）**: 在虚拟语气否定主句中偶尔回退 (`would not...wouldn't we`)，需持续抽查。2026-03-03 复发 1 次。
 
 ## 下一步计划 (Next Steps)
 
