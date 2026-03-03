@@ -43,6 +43,17 @@
   - Round 4 `every time` 的位置略有不自然：`when it is called every time` → 更地道的语序是 **`every time it's called`**（频率副词放在从句开头）。
   - 理解检查中 `to search names not date` → 建议改为 `names, not dates`（保持复数平行）。
 
+### 语言点 4: belong there (理应在某处/本该在此)
+- **结果**: 5/5 全通关 🏆
+- **关键亮点**:
+  - **辨析**: 准确区分了 `belong in/under` (位置) 与 `belong to` (所有权) 的职场语境差异。
+  - **插入语修复**: 在选择疑问句中成功将 `To you` 置于句首且未出现重复现象。
+  - **虚拟语气**: Mixed Conditional (`had realized ... belong ... would not be`) 运用极其丝滑，且敏锐地保留了 `belong` 的现在时以暗示客观规律。
+
+### 语言点 5: consider sb/sth (to be) sth (认定/认为是)
+- **当前进度**: 1/5 训练中
+- **核心洞察**: 识别出 `consider A B` (口语简洁版) 与 `consider A to be B` (正式认定版) 的两套结构。
+
 ---
 
 ## 重点纠错与不足总结 (Knowledge Gaps)
@@ -50,8 +61,9 @@
 | 涉及知识点 | 原始错误/不足 | 纠正/改进方向 | 严重程度 |
 | :--- | :--- | :--- | :--- |
 | **课文核心词替换** | Round 1 用 `link to` 替代 `point it to` | 目标语言点训练中，必须强制使用指定搭配 | 低 (已实时提醒) |
-| **插入语重复 (to you/me)** | `To you, is ... to you more confusing` | 插入语 **只放一处**，句首或句中二选一，不可重复 | 中 (出现 2 次) |
+| **插入语重复 (to you/me)** | `To you, is ... to you more confusing` | 插入语 **只放一处**，句首或句中二选一，不可重复 | 中 (已修复 🏆) |
 | **`in the background` 语义** | `dashboard in the background` | IT 后台面板 = `backend dashboard`；`in the background` = 进程后台运行 | 低 (已实时纠正) |
+| **数据 (data) 数值属性** | `The dirty data ... don't` | IT 语境下 `data` 常作不可数名词，建议用单数搭配：`data doesn't ... does it?` | 低 (已提醒) |
 | **`not reasonable` vs `doesn't make sense`** | `it's not reasonable to...` | IT 职场讨论逻辑合理性时，**`doesn't make sense`** 是最高频表达 | 低 (语法正确，地道性差异) |
 | **句型不匹配** | 要求特殊疑问句，给出选择疑问句 | 注意题目要求的句型类别 | 低 (选择疑问句本身满分) |
 | **`every time` 语序** | `when it is called every time` | **`every time it's called`**（频率词放从句开头更自然） | 低 (已实时纠正) |
@@ -63,11 +75,10 @@
 
 | 主题 | 状态 | 备注 |
 | :--- | :--- | :--- |
-| **插入语重复使用** | 需警惕 ⚠️ | 同一句中 `to me/you` 出现两次的惯性，今日出现 2 次，需形成"只放一处"的意识。 |
-| **Mixed Conditionals** | 极高 🏆 | 今日 3 次 Mixed Conditional / Type 3 全部满分，已完全内化。 |
-| **反义疑问句** | 极高 🏆 | 今日 3 次反义疑问句极性全部正确，无回退。 |
-| **选择疑问句平行** | 极高 🏆 | 今日 3 次选择疑问句 `or` 后一律补齐助动词，非常出色。 |
-| **名词修饰法则** | 极高 🏆 | `issue list`, `work item list`, `bug types` 全部正确，未出现任何回退。 |
+| **插入语重复使用** | 稳固 🏆 | 在 `belong there` 练习中已成功克服，表现非常稳定。 |
+| **Mixed Conditionals** | 极高 🏆 | 跨语言点（realize + belong）复用时态依然零失误。 |
+| **反义疑问句** | 极高 🏆 | 掌握了 `should not ... should it` 和 `belong ... don't they` 的时态匹配。 |
+| **名词修饰法则** | 极高 🏆 | `user table` (单数修饰) 运用纯熟。 |
 
 ---
 
@@ -78,13 +89,12 @@
 | **point it to** | 极高 | 精准用于 UI/路由跳转场景，虚拟语气中也能自然融入。 |
 | **To me, it's confusing** | 极高 | 插入语位置灵活运用，句中/句首均无压力。 |
 | **intend sth to be** | 极高 | 彻底区分"未来打算"与"设计本意/定位"，Mixed Conditional 中运用自如。 |
+| **belong there** | 极高 | 彻底建立“逻辑归属用 belong in”的 IT 表达肌肉记忆。 |
 
 ---
 
 ## 下次会话的行动项
-- **32BEC 继续**: 启动 `belong there` (理应在某处) 的 5 次专项训练。
-- **32BEC 继续**: 完成 `consider sb/sth (to be) sth` (认定/认为) 的 5 次专项训练。
-- **插入语专项**: 随机插入含 `to me/you/him` 的句子，检查是否还会出现重复使用的惯性。
+- **32BEC 继续**: 完成 `consider sb/sth (to be) sth` (认定/认为) 的剩余 4 次专项训练。
 - **场景化模拟**: 综合复用 32BEC 全部语言点进行 Role-play。
 
 ---
