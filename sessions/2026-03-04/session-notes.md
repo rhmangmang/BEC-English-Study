@@ -4,8 +4,8 @@
 
 - **日期**: 2026-03-04
 - **时长**: 约 30 分钟
-- **主要主题**: 33BEC 启动训练
-- **主要语言点**: `basically`, `build ... as / be built as` (各完成 5/5)
+- **主要主题**: 33BEC 深度训练 + 场景化模拟 (Role-play)
+- **主要语言点**: `basically`, `build ... as`, `loop in with/loop ... in`, `exploration around`
 - **训练形式**: 造句训练 (Sentence Construction Training)
 
 ---
@@ -94,11 +94,11 @@
 ---
 
 ## 下次会话的行动项
-- **33BEC 继续**: 完成 `loop in with sb` 的 5 次专项训练。
+- **33BEC 继续**: 完成 `in a way that...` 的 5 次专项训练。
 - **`built` 过去分词专项刷题**: 随机插入含 `build/built` 的被动语态句子，强化 `build-built-built` 的肌肉记忆。
-- **被动语态 Tag Question 专项**: 练习 `was/were + pp ... was/were + pronoun?` 结构，确保 Tag 助动词不再跑偏到 `did`。
-- **代词一致性抽查**: 随机插入含复数名词的句子，检查代词是否自动匹配复数。
-- **冠词抽查**: 随机检查 `the` + 特指名词 以及 `a/an` 与单复数名词的匹配。
+- **🔴 Exactly 位置强化**: 随机抽查 `Exactly` 在特殊疑问句中的位置。
+- **🔴 时间词冠词脱敏**: 针对 `next week`, `last month` 开展"零冠词"专项扫描练习。
+- **代词一致性/冠词匹配**: 持续监控 Round 1 中出现的单复数匹配问题。
 
 ---
 

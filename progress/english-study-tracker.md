@@ -196,6 +196,8 @@
 | **consider sb/sth (to be) sth** | 5 | 极高 | 2026-03-03 | 掌握 A B 与 A to be B 两套结构；Mixed Conditional 连续满分 🏆 |
 | **basically** | 5 | 极高 | 2026-03-04 | 句首铺垫/总结/软化语气，5 种句式全通关；Mixed Conditional 满分 🏆 |
 | **build ... as / be built as** | 5 | 高 | 2026-03-04 | 主动语态下用法自然；被动语态 `built` 过去分词连续 2 次出错，第 5 题修正 ⚠️ |
+| **loop in with / loop ... in** | 5 | 极高 | 2026-03-04 | 🏆 **今日最佳**。完美切换拉人进群(in)与联动对接(with)两个方向 |
+| **exploration / discussion around** | 5 | 极高 | 2026-03-04 | 成功纠正 `make discussion` 错误搭配；Type 3 虚拟语气融入自然 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -241,7 +243,7 @@
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
 | 2026-03-03 | **32BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+综合场景模拟，含 point it to, to me confusing, intend sth to be, belong there, consider (to be)。**反义疑问句极性回退1次(would not...wouldn't we) ⚠️。插入语重复当日修复！Role-play 五语言点串联成功！** 🏆 |
-| 2026-03-04 | **33BEC Start (Meeting Discourse)** | ✅ | 完成 2 个语言点(10题)，含 basically, build as。**🔴 `built` 被动过去分词连续 2 次出错(build→built)是本日最严重问题。Tag 助动词一致性(were...were they)出错 1 次。代词/冠词一致性各复发 1 次。三语言点融合句亮点 🏆。** |
+| 2026-03-04 | **33BEC Start (Meeting Discourse)** | ✅ | 完成 4 个语言点(20题)+Role-play，含 basically, build as, loop in, exploration around。**Role-play 使用 Type 3 虚拟语气惊艳 🏆。** 🔴 `built` 过去分词及 `Exactly` 位置是需重点攻克的坑。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
