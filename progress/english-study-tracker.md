@@ -194,6 +194,8 @@
 | **intend sb/sth (not) to be** | 5 | 极高 | 2026-03-03 | 彻底区分"未来打算"与"设计本意/定位"；Mixed Conditional 中运用自如 🏆 |
 | **belong there** | 5 | 极高 | 2026-03-03 | 彻底建立“逻辑归属用 belong in”的 IT 表达肌肉记忆 🏆 |
 | **consider sb/sth (to be) sth** | 5 | 极高 | 2026-03-03 | 掌握 A B 与 A to be B 两套结构；Mixed Conditional 连续满分 🏆 |
+| **basically** | 5 | 极高 | 2026-03-04 | 句首铺垫/总结/软化语气，5 种句式全通关；Mixed Conditional 满分 🏆 |
+| **build ... as / be built as** | 5 | 高 | 2026-03-04 | 主动语态下用法自然；被动语态 `built` 过去分词连续 2 次出错，第 5 题修正 ⚠️ |
 
 ## 学习记录概览 (Session Overview)
 
@@ -239,6 +241,7 @@
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
 | 2026-03-03 | **32BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+综合场景模拟，含 point it to, to me confusing, intend sth to be, belong there, consider (to be)。**反义疑问句极性回退1次(would not...wouldn't we) ⚠️。插入语重复当日修复！Role-play 五语言点串联成功！** 🏆 |
+| 2026-03-04 | **33BEC Start (Meeting Discourse)** | ✅ | 完成 2 个语言点(10题)，含 basically, build as。**🔴 `built` 被动过去分词连续 2 次出错(build→built)是本日最严重问题。Tag 助动词一致性(were...were they)出错 1 次。代词/冠词一致性各复发 1 次。三语言点融合句亮点 🏆。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -329,6 +332,11 @@
 - [ ] **`consider` + 从句退化**: Role-play 中 `consider this field can be used` 退化为从句结构，应使用 `consider A (to be) B`。2026-03-03 新发现。
 - [ ] **`universally` vs `global`**: IT 职场描述字段通用性时更常用 `global` (a global field)，非 `universally used`。2026-03-03 新发现。
 - [ ] **反义疑问句极性（虚拟语气叠加）**: 在虚拟语气否定主句中偶尔回退 (`would not...wouldn't we`)，需持续抽查。2026-03-03 复发 1 次。
+- [ ] **🔴 `build-built-built` 过去分词**: 被动语态中连续 2 次写成 `build` 而非 `built`，第 5 题才纠正。需高频重复固化。2026-03-04 新发现。
+- [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致，不能跑偏到 did。2026-03-04 新发现。
+- [ ] **`exactly` 在选择疑问句中**: `exactly` 常修饰疑问词 (why exactly)，在选择疑问句 (A or B) 中不自然/多余。2026-03-04 新发现。
+- [ ] **修饰冗余 (underlying foundation)**: `foundation` 已含底层义，`underlying` 多余。类似：`basically` + `actually` 语义重叠，保留一个。2026-03-04 新发现。
+- [ ] **`put` vs `make` (归类搭配)**: 把某物归到某个大类/分类下，用 `put it under ...` 更地道，非 `make`。2026-03-04 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -372,6 +380,11 @@
 29. [ ] **🔴 叙述时态专项**: “讲故事=过去时”模式建立，定期做故事翻译练习。— 02-21/02-22 连续复发！
 30. [ ] **过去分词拼写专项**: forget-forgot-**forgotten**, make-made-**made**, plug-plugged-**plugged** — 多次复发，需专项刷题。
 31. [ ] **`whole` vs `overall` 专项**: 整体进展=overall progress; 整个团队=the whole team。02-22 出现 2 次。32. [ ] **is about that** 结构修正:: "is about that" is not grammatically correct. Use "is that" or "is about + noun/V-ing".
-41. [ ] **32BEC 继续**: 启动 `belong there` (理应在某处) 的 5 次专项训练。
-42. [ ] **32BEC 继续**: 完成 `consider sb/sth (to be) sth` (认定/认为) 的 5 次专项训练。
+41. [x] **32BEC 继续**: ~~启动 `belong there` (理应在某处) 的 5 次专项训练。~~ ✅ 2026-03-03 已完成。
+42. [x] **32BEC 继续**: ~~完成 `consider sb/sth (to be) sth` (认定/认为) 的 5 次专项训练。~~ ✅ 2026-03-03 已完成。
 43. [ ] **插入语重复抽查**: 随机插入含 `to me/you/him` 的句子，检查重复使用惯性。
+44. [ ] **33BEC 继续**: 完成 `loop in with sb` (拉进来对接/联动) 的 5 次专项训练。
+45. [ ] **🔴 `built` 过去分词专项刷题**: 随机插入含 `build/built` 的被动语态句子，强化 `build-built-built` 肌肉记忆。
+46. [ ] **被动语态 Tag Question 专项**: 练习 `was/were + pp ... was/were + pronoun?` 结构，确保 Tag 助动词不跑偏到 did。
+47. [ ] **代词一致性抽查**: 随机插入含复数名词的句子，检查代词是否自动匹配复数。
+48. [ ] **冠词抽查 (定冠词 + 单复数匹配)**: 检查 `the` + 特指名词遗漏 以及 `a/an` 与单复数名词的匹配。
