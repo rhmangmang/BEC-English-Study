@@ -336,9 +336,16 @@
 - [ ] **反义疑问句极性（虚拟语气叠加）**: 在虚拟语气否定主句中偶尔回退 (`would not...wouldn't we`)，需持续抽查。2026-03-03 复发 1 次。
 - [ ] **🔴 `build-built-built` 过去分词**: 被动语态中连续 2 次写成 `build` 而非 `built`，第 5 题才纠正。需高频重复固化。2026-03-04 新发现。
 - [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致，不能跑偏到 did。2026-03-04 新发现。
-- [ ] **`exactly` 在选择疑问句中**: `exactly` 常修饰疑问词 (why exactly)，在选择疑问句 (A or B) 中不自然/多余。2026-03-04 新发现。
+- [ ] **`exactly` 在选择疑问句中**: `exactly` 常修饰疑问词 (why exactly)，在选择疑问句 (A or B) 中不自然/多余。且必须紧跟疑问词（非助动词后）。2026-03-04 上午+晚间各出现 1 次。
 - [ ] **修饰冗余 (underlying foundation)**: `foundation` 已含底层义，`underlying` 多余。类似：`basically` + `actually` 语义重叠，保留一个。2026-03-04 新发现。
 - [ ] **`put` vs `make` (归类搭配)**: 把某物归到某个大类/分类下，用 `put it under ...` 更地道，非 `make`。2026-03-04 新发现。
+- [ ] **🔴 `make` + exploration/discussion 搭配**: `exploration` 搭配 `do/conduct`，`discussion` 搭配 `have/hold`，绝不搭配 `make`。全天跨 3 题+Role-play 共出现 3 次，是系统性问题。2026-03-04 新发现。
+- [ ] **`next/last` + 时间词零冠词**: `next week / last month` 前不加 `the`。仅在叙述历史事件中才加 `the`。2026-03-04 新发现。
+- [ ] **虚拟语气 `be` vs `get` (状态 vs 动态)**: 混合虚拟语气主句描述当前状态用 `be`，非 `get`。`would not be spread thin` ✓；`would not get spread thin` ✗。2026-03-04 新发现。
+- [ ] **词汇直译 (`our force`)**: 职场中"我们的力量"不用 `our force`（军事感），应用 `ourselves/our resources/our efforts`。2026-03-04 新发现。
+- [ ] **`around` + 动名词语义重叠**: `exploration around researching` 中 `around` 后不宜接与前名词语义重叠的动名词，应接名词主题或 `how to ...`。2026-03-04 Role-play 中发现。
+- [ ] **`streamline` vs `clear out`**: 架构重构精简用 `streamline`，非 `clear out`。2026-03-04 Role-play 中发现。
+- [ ] **`on board` vs `agreed on`**: 表达团队支持/同意方案时，`they are on board` 比 `agreed on this` 更地道。2026-03-04 Role-play 中发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -385,8 +392,12 @@
 41. [x] **32BEC 继续**: ~~启动 `belong there` (理应在某处) 的 5 次专项训练。~~ ✅ 2026-03-03 已完成。
 42. [x] **32BEC 继续**: ~~完成 `consider sb/sth (to be) sth` (认定/认为) 的 5 次专项训练。~~ ✅ 2026-03-03 已完成。
 43. [ ] **插入语重复抽查**: 随机插入含 `to me/you/him` 的句子，检查重复使用惯性。
-44. [ ] **33BEC 继续**: 完成 `loop in with sb` (拉进来对接/联动) 的 5 次专项训练。
+44. [x] **33BEC 继续**: ~~完成 `loop in with sb` (拉进来对接/联动) 的 5 次专项训练。~~ ✅ 2026-03-04 晚已完成。
 45. [ ] **🔴 `built` 过去分词专项刷题**: 随机插入含 `build/built` 的被动语态句子，强化 `build-built-built` 肌肉记忆。
 46. [ ] **被动语态 Tag Question 专项**: 练习 `was/were + pp ... was/were + pronoun?` 结构，确保 Tag 助动词不跑偏到 did。
 47. [ ] **代词一致性抽查**: 随机插入含复数名词的句子，检查代词是否自动匹配复数。
 48. [ ] **冠词抽查 (定冠词 + 单复数匹配)**: 检查 `the` + 特指名词遗漏 以及 `a/an` 与单复数名词的匹配。
+49. [ ] **33BEC 继续**: 完成 `in a way that...` (以一种...的方式) 的 5 次专项训练。
+50. [ ] **🔴 `make` 搭配脱敏专项**: 随机插入含 exploration/discussion/progress/decision 的句子，强化正确动词搭配。
+51. [ ] **🔴 `exactly` 位置专项**: 随机插入特殊疑问句，检查 `exactly` 是否自动放在疑问词后。
+52. [ ] **时间词冠词脱敏**: 针对 `next week`, `last month` 开展"零冠词"专项扫描练习。
