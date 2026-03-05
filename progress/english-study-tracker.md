@@ -195,9 +195,12 @@
 | **belong there** | 5 | 极高 | 2026-03-03 | 彻底建立“逻辑归属用 belong in”的 IT 表达肌肉记忆 🏆 |
 | **consider sb/sth (to be) sth** | 5 | 极高 | 2026-03-03 | 掌握 A B 与 A to be B 两套结构；Mixed Conditional 连续满分 🏆 |
 | **basically** | 5 | 极高 | 2026-03-04 | 句首铺垫/总结/软化语气，5 种句式全通关；Mixed Conditional 满分 🏆 |
-| **build ... as / be built as** | 5 | 高 | 2026-03-04 | 主动语态下用法自然；被动语态 `built` 过去分词连续 2 次出错，第 5 题修正 ⚠️ |
+| **build ... as / be built as** | 10 | 极高 | 2026-03-05 | **拼写顽疾已愈** 🏆；已彻底掌握 build-built-built 肌肉记忆 |
 | **loop in with / loop ... in** | 5 | 极高 | 2026-03-04 | 🏆 **今日最佳**。完美切换拉人进群(in)与联动对接(with)两个方向 |
 | **exploration / discussion around** | 5 | 极高 | 2026-03-04 | 成功纠正 `make discussion` 错误搭配；Type 3 虚拟语气融入自然 🏆 |
+| **in a way that...** | 5 | 极高 | 2026-03-05 | 掌握机制描述的高级句式；理解深度语法性质 🏆 |
+| **foundations (plural)** | 5 | 极高 | 2026-03-05 | 形成架构/系统基础必用复数的职场本能 |
+| **is/are vs. have been** | 5 | 极高 | 2026-03-05 | 辨析动作结果(have been put)与客观状态(are) |
 
 ## 学习记录概览 (Session Overview)
 
@@ -243,7 +246,8 @@
 | 2026-03-01 | **30BEC Final + Roleplay Mastery** | ✅ | 完成 `come back to`, `double-check`, `pass to`；**Roleplay 整合 4 个核心点成功！** 🏆 彻底攻克 `urgency` vs `emergency`。 |
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
 | 2026-03-03 | **32BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+综合场景模拟，含 point it to, to me confusing, intend sth to be, belong there, consider (to be)。**反义疑问句极性回退1次(would not...wouldn't we) ⚠️。插入语重复当日修复！Role-play 五语言点串联成功！** 🏆 |
-| 2026-03-04 | **33BEC Start (Meeting Discourse)** | ✅ | 完成 4 个语言点(20题)+Role-play，含 basically, build as, loop in, exploration around。**Role-play 使用 Type 3 虚拟语气惊艳 🏆。** 🔴 `built` 过去分词及 `Exactly` 位置是需重点攻克的坑。 |
+| 2026-03-04 | **33BEC Part 1 (Meeting Discourse)** | ✅ | 完成 4 个语言点(20题)+Role-play，含 basically, build as, loop in, exploration around。**Role-play 使用 Type 3 虚拟语气惊艳 🏆。** 🔴 `built` 过去分词及 `Exactly` 位置是需重点攻克的坑。 |
+| 2026-03-05 | **33BEC Final & Deep Grammar** | ✅ | 完成 3 个语言点(15题)，含 in a way that, foundations, is/are vs been。**彻底攻克 built 拼写与 Exactly 位置 🏆🏆！深度分析 that 引导从句性质。** |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -333,19 +337,13 @@
 - [ ] **`should not belong` vs `doesn't belong`**: 讨论数据归属时用 `doesn't belong` (客观属性) 比 `should not belong` (主观评价) 更利落。2026-03-03 新发现。
 - [ ] **`consider` + 从句退化**: Role-play 中 `consider this field can be used` 退化为从句结构，应使用 `consider A (to be) B`。2026-03-03 新发现。
 - [ ] **`universally` vs `global`**: IT 职场描述字段通用性时更常用 `global` (a global field)，非 `universally used`。2026-03-03 新发现。
-- [ ] **反义疑问句极性（虚拟语气叠加）**: 在虚拟语气否定主句中偶尔回退 (`would not...wouldn't we`)，需持续抽查。2026-03-03 复发 1 次。
-- [ ] **🔴 `build-built-built` 过去分词**: 被动语态中连续 2 次写成 `build` 而非 `built`，第 5 题才纠正。需高频重复固化。2026-03-04 新发现。
-- [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致，不能跑偏到 did。2026-03-04 新发现。
-- [ ] **`exactly` 在选择疑问句中**: `exactly` 常修饰疑问词 (why exactly)，在选择疑问句 (A or B) 中不自然/多余。且必须紧跟疑问词（非助动词后）。2026-03-04 上午+晚间各出现 1 次。
-- [ ] **修饰冗余 (underlying foundation)**: `foundation` 已含底层义，`underlying` 多余。类似：`basically` + `actually` 语义重叠，保留一个。2026-03-04 新发现。
-- [ ] **`put` vs `make` (归类搭配)**: 把某物归到某个大类/分类下，用 `put it under ...` 更地道，非 `make`。2026-03-04 新发现。
-- [ ] **🔴 `make` + exploration/discussion 搭配**: `exploration` 搭配 `do/conduct`，`discussion` 搭配 `have/hold`，绝不搭配 `make`。全天跨 3 题+Role-play 共出现 3 次，是系统性问题。2026-03-04 新发现。
-- [ ] **`next/last` + 时间词零冠词**: `next week / last month` 前不加 `the`。仅在叙述历史事件中才加 `the`。2026-03-04 新发现。
-- [ ] **虚拟语气 `be` vs `get` (状态 vs 动态)**: 混合虚拟语气主句描述当前状态用 `be`，非 `get`。`would not be spread thin` ✓；`would not get spread thin` ✗。2026-03-04 新发现。
-- [ ] **词汇直译 (`our force`)**: 职场中"我们的力量"不用 `our force`（军事感），应用 `ourselves/our resources/our efforts`。2026-03-04 新发现。
-- [ ] **`around` + 动名词语义重叠**: `exploration around researching` 中 `around` 后不宜接与前名词语义重叠的动名词，应接名词主题或 `how to ...`。2026-03-04 Role-play 中发现。
-- [ ] **`streamline` vs `clear out`**: 架构重构精简用 `streamline`，非 `clear out`。2026-03-04 Role-play 中发现。
-- [ ] **`on board` vs `agreed on`**: 表达团队支持/同意方案时，`they are on board` 比 `agreed on this` 更地道。2026-03-04 Role-play 中发现。
+- [ ] **反义疑问句极性（虚拟语气/否定叠加）**: 在虚拟语气否定主句中偶尔回退 (`have not...haven't they`)，需持续抽查。2026-03-05 复发 1 次。
+- [x] **🔴 `build-built-built` 过去分词**: ~~被动语态中连续 2 次写成 `build` 而非 `built`~~。✅ 2026-03-05 五次高频测试 100% 正确，彻底修复 🏆。
+- [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致。2026-03-04 新发现。
+- [x] **`exactly` 位置**: ~~1026-03-04 位置偏移。~~ ✅ 2026-03-05 形成肌肉记忆，100% 正确 🏆。
+- [ ] **职场动词选择 (require vs need)**: 客观要求用 `require`，意愿需求用 `need`。2026-03-05 新发现。
+- [ ] **名词所有格 (exploration of)**: `foundation exploration` 建议使用 `of` 结构更地道。2026-03-05 新发现。
+- [ ] **IT 术语一致性 (compatibility)**: 兼容性问题固定术语 `compatibility issues`。2026-03-05 后遗症。
 
 ## 下一步计划 (Next Steps)
 
