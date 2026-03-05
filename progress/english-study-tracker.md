@@ -247,7 +247,7 @@
 | 2026-03-02 | **31BEC Complete + 32BEC Start** | ✅ | 攻克 coupled into, of type, I don't see why, under the hood。**Roleplay 成功融合 3 个技术黑话点！** 🏆 |
 | 2026-03-03 | **32BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+综合场景模拟，含 point it to, to me confusing, intend sth to be, belong there, consider (to be)。**反义疑问句极性回退1次(would not...wouldn't we) ⚠️。插入语重复当日修复！Role-play 五语言点串联成功！** 🏆 |
 | 2026-03-04 | **33BEC Part 1 (Meeting Discourse)** | ✅ | 完成 4 个语言点(20题)+Role-play，含 basically, build as, loop in, exploration around。**Role-play 使用 Type 3 虚拟语气惊艳 🏆。** 🔴 `built` 过去分词及 `Exactly` 位置是需重点攻克的坑。 |
-| 2026-03-05 | **33BEC Final & Deep Grammar** | ✅ | 完成 3 个语言点(15题)，含 in a way that, foundations, is/are vs been。**彻底攻克 built 拼写与 Exactly 位置 🏆🏆！深度分析 that 引导从句性质。** |
+| 2026-03-05 | **33BEC Final & Deep Grammar** | ✅ | 完成 3 个语言点(15题)，含 in a way that, foundations, is/are vs been。**彻底攻克 built 拼写与 Exactly 位置 🏆🏆！综合验收成功，掌握 Type 3 虚拟语气叙事能力。** 🔴 Tag 极性与 Exactly 在复杂句中仍有余震。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -337,10 +337,10 @@
 - [ ] **`should not belong` vs `doesn't belong`**: 讨论数据归属时用 `doesn't belong` (客观属性) 比 `should not belong` (主观评价) 更利落。2026-03-03 新发现。
 - [ ] **`consider` + 从句退化**: Role-play 中 `consider this field can be used` 退化为从句结构，应使用 `consider A (to be) B`。2026-03-03 新发现。
 - [ ] **`universally` vs `global`**: IT 职场描述字段通用性时更常用 `global` (a global field)，非 `universally used`。2026-03-03 新发现。
-- [ ] **反义疑问句极性（虚拟语气/否定叠加）**: 在虚拟语气否定主句中偶尔回退 (`have not...haven't they`)，需持续抽查。2026-03-05 复发 1 次。
-- [x] **🔴 `build-built-built` 过去分词**: ~~被动语态中连续 2 次写成 `build` 而非 `built`~~。✅ 2026-03-05 五次高频测试 100% 正确，彻底修复 🏆。
+- [ ] **反义疑问句极性（虚拟语气/否定叠加）**: 在虚拟语气否定主句中偶尔回退 (`have not...haven't they`)，需持续抽查。2026-03-05 综合验收中再次复发 1 次 ⚠️。
+- [x] **🔴 `build-built-built` 过去分词**: ~~被动语态中连续 2 次写成 `build` 而非 `built`~~。✅ 2026-03-05 五次高频测试及综合验收 100% 正确，彻底修复 🏆。
 - [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致。2026-03-04 新发现。
-- [x] **`exactly` 位置**: ~~1026-03-04 位置偏移。~~ ✅ 2026-03-05 形成肌肉记忆，100% 正确 🏆。
+- [x] **`exactly` 位置**: ~~1026-03-04 位置偏移。~~ ✅ 2026-03-05 肌肉记忆基本形成，但在非 WH 疑问句中仍有放置惯性。
 - [ ] **职场动词选择 (require vs need)**: 客观要求用 `require`，意愿需求用 `need`。2026-03-05 新发现。
 - [ ] **名词所有格 (exploration of)**: `foundation exploration` 建议使用 `of` 结构更地道。2026-03-05 新发现。
 - [ ] **IT 术语一致性 (compatibility)**: 兼容性问题固定术语 `compatibility issues`。2026-03-05 后遗症。
