@@ -205,6 +205,10 @@
 | **awkward places with wording** | 5 | 极高 | 2026-03-07 | 搭配 `take us to` / `be in` 均已掌握；Mixed Conditional 中融合 3 个语言点 🏆 |
 | **input on** | 5 | 极高 | 2026-03-07 | 不可数名词意识 100% 稳固 🏆；介词 `on` 搭配精准 |
 | **introduce ... to the users** | 5 | 极高 | 2026-03-07 | 向用户引入新概念/功能；Tag 代词匹配（hasn't→haven't）当日修复 🏆 |
+| **count towards** | 5 | 极高 | 2026-03-08 | 掌握“计入/起作用”语义；平行结构选择疑问句满分 🏆 |
+| **source feedback** | 5 | 极高 | 2026-03-08 | 指代共识流程时必加 **the** 的意识在此环节获得突破 🌟 |
+| **on a ... cadence** | 5 | 极高 | 2026-03-08 | 彻底纠正 `adopt` 后缺 `on` 的习惯；掌握 IT 周期性同步语境 |
+| **end up being ... doing** | 5 | 极高 | 2026-03-08 | 宾格 `me/us` 及分词结构极其稳固；Mixed Conditional 结合完美 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -253,6 +257,8 @@
 | 2026-03-04 | **33BEC Part 1 (Meeting Discourse)** | ✅ | 完成 4 个语言点(20题)+Role-play，含 basically, build as, loop in, exploration around。**Role-play 使用 Type 3 虚拟语气惊艳 🏆。** 🔴 `built` 过去分词及 `Exactly` 位置是需重点攻克的坑。 |
 | 2026-03-05 | **33BEC Final & Deep Grammar** | ✅ | 完成 3 个语言点(15题)，含 in a way that, foundations, is/are vs been。**彻底攻克 built 拼写与 Exactly 位置 🏆🏆！综合验收成功，掌握 Type 3 虚拟语气叙事能力。** 🔴 Tag 极性与 Exactly 在复杂句中仍有余震。 |
 | 2026-03-07 | **34BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(5题)+Role-play，含 somehow, awkward places with wording, input on, introduce to。**Tag 极性全天 6/6 满分 🏆🏆！跨语言点复用能力飞跃（under the same umbrella, inclined to）。** 🔴 `be + places` 搭配逻辑错误 + Exactly 在 Role-play 中遗漏。 |
+| 2026-03-08 | **35BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 count towards, source feedback, cadence, end up being。**Mixed Conditional 维持 100% 满分 🏆！宾格/分词嵌套结构突破。** 🔴 `have to` Tag 助动词转换仍存严重惯性回退 ⚠️。 |
+
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -345,17 +351,14 @@
 - [x] **反义疑问句极性（虚拟语气/否定叠加）**: ~~在虚拟语气否定主句中偶尔回退 (`have not...haven't they`)~~。✅ 2026-03-07 闪电纠偏+造句训练全天 6/6 满分，彻底修复 🏆。
 - [x] **🔴 `build-built-built` 过去分词**: ~~被动语态中连续 2 次写成 `build` 而非 `built`~~。✅ 2026-03-05 五次高频测试及综合验收 100% 正确，彻底修复 🏆。
 - [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致。2026-03-04 新发现。
-- [x] **`exactly` 位置**: ~~1026-03-04 位置偏移。~~ ✅ 2026-03-05 肌肉记忆基本形成，但在非 WH 疑问句中仍有放置惯性。
 - [ ] **职场动词选择 (require vs need)**: 客观要求用 `require`，意愿需求用 `need`。2026-03-05 新发现。
 - [ ] **名词所有格 (exploration of)**: `foundation exploration` 建议使用 `of` 结构更地道。2026-03-05 新发现。
-- [x] **IT 术语一致性 (compatibility)**: ~~兼容性问题固定术语 `compatibility issues`~~。✅ 2026-03-07 闪电纠偏中正确使用。
-- [ ] **`be + 抽象名词 places` 搭配逻辑**: 人不能 be 一个 place。"陷入局面"必须用 `take us to` / `end up in` / `find ourselves in`。2026-03-07 新发现。
-- [ ] **`have to` Tag 助动词**: `have to` 中 have 是实义动词 → Tag 用 `don't we?`；`have got to` → Tag 用 `haven't we?`。2026-03-07 新发现。
-- [ ] **`naming` 拼写**: name 去 e 加 ing = naming（非 nameing）。2026-03-07 Role-play 中暴露。
-- [ ] **Exactly 在 Role-play 长段中遗漏**: 单句训练已稳定，但长段自由交叉时容易被表达节奏冲掉。2026-03-07 新发现。
+- [x] **🔴 `have to` Tag 助动词**: `have to` = 实义动词 → Tag 用 `don't we?` (非 `haven't we`)。2026-03-08 连续复发 2 次，顽固度极高 ⚠️。
+- [ ] **冠词 `the` + 职场流程意识**: 讨论共识流程/项目时必加 `the` (onboarding, enablement)。2026-03-08 专项讨论通过，需持续验证。
+- [ ] **`naming` 拼写**: name 去 e 加 ing = naming。
+- [ ] **`automated` vs `automatic`**: IT 系统/流程应使用 `automated`。2026-03-08 新发现。
+- [ ] **所有格修饰名词**: `the PM's input`。
 - [ ] **冠词 `the` + 特指（用户/职位/界面元素）**: to users→the users, PM→the PM, question mark button→the question mark button。2026-03-07 多次出现。
-- [ ] **所有格修饰名词**: `the PM professional input` → `the PM's professional input`。2026-03-07 新发现。
-- [ ] **`still` 位置**: 情态动词后、be 前：`might still be`（非 `might be still`）。2026-03-07 新发现。
 
 ## 下一步计划 (Next Steps)
 
@@ -412,8 +415,8 @@
 51. [ ] **🔴 `exactly` 位置专项**: 随机插入特殊疑问句，检查 `exactly` 是否自动放在疑问词后。
 52. [ ] **时间词冠词脱敏**: 针对 `next week`, `last month` 开展"零冠词"专项扫描练习。
 53. [x] **34BEC 全通关**: ~~完成 somehow, awkward places with wording, input on, introduce to the users 四个语言点训练。~~ ✅ 2026-03-07 已完成。
-54. [ ] **35BEC 启动**: 进入 35BEC-41s.md 新模块学习。
-55. [ ] **Exactly Role-play 挂载训练**: 下次 Role-play 中，明确要求在至少 1 个句子中使用 exactly。
-56. [ ] **`be + places` 搭配抽查**: 随机插入含"陷入局面"的句子，检查是否还会出现 we are awkward places 的逻辑错误。
-57. [ ] **`have to` Tag 助动词抽查**: 检查 have to 后面的 tag 是否自动使用 don't we 而非 haven't we。
-58. [ ] **`naming` 拼写抽查**: 随机插入含 name+ing 的句子。
+54. [x] **35BEC 全通关**: ~~完成 count towards, source feedback, cadence, end up being 四个语言点训练。~~ ✅ 2026-03-08 已完成。
+55. [ ] **36BEC 启动**: 进入 36BEC-44s.md 新模块。
+56. [ ] **🔴 `have to` Tag 极端测试**: 随机混入 `He has to go`, `We had to stay` 等不同人称/时态的 Tag 练习。
+57. [ ] **职场冠词 `the` 抽查**: 针对 `the new feature`, `the enablement process` 等进行共识指代检查。
+58. [ ] **`naming` 拼写抽查**: 随机插入。
