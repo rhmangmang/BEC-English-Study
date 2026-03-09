@@ -209,6 +209,10 @@
 | **source feedback** | 5 | 极高 | 2026-03-08 | 指代共识流程时必加 **the** 的意识在此环节获得突破 🌟 |
 | **on a ... cadence** | 5 | 极高 | 2026-03-08 | 彻底纠正 `adopt` 后缺 `on` 的习惯；掌握 IT 周期性同步语境 |
 | **end up being ... doing** | 5 | 极高 | 2026-03-08 | 宾格 `me/us` 及分词结构极其稳固；Mixed Conditional 结合完美 🏆 |
+| **be nimble** | 5 | 极高 | 2026-03-09 | 掌握“敏捷/灵活”语义；与 `recruitment` 场景结合自然 |
+| **a huge win** | 5 | 极高 | 2026-03-09 | 职场地道褒奖项；掌握 `Which one exactly : A or B` 选择疑问句结构 |
+| **jump in** | 5 | 极高 | 2026-03-09 | 掌握会议中“插话/加入讨论”的地道表达；配套 `feel free to` 使用自然 |
+| **a pinch point** | 5 | 极高 | 2026-03-09 | 掌握“压力点/瓶颈”职场隐喻；单复数一致性表现稳健 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -258,6 +262,8 @@
 | 2026-03-05 | **33BEC Final & Deep Grammar** | ✅ | 完成 3 个语言点(15题)，含 in a way that, foundations, is/are vs been。**彻底攻克 built 拼写与 Exactly 位置 🏆🏆！综合验收成功，掌握 Type 3 虚拟语气叙事能力。** 🔴 Tag 极性与 Exactly 在复杂句中仍有余震。 |
 | 2026-03-07 | **34BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(5题)+Role-play，含 somehow, awkward places with wording, input on, introduce to。**Tag 极性全天 6/6 满分 🏆🏆！跨语言点复用能力飞跃（under the same umbrella, inclined to）。** 🔴 `be + places` 搭配逻辑错误 + Exactly 在 Role-play 中遗漏。 |
 | 2026-03-08 | **35BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 count towards, source feedback, cadence, end up being。**Mixed Conditional 维持 100% 满分 🏆！宾格/分词嵌套结构突破。** 🔴 `have to` Tag 助动词转换仍存严重惯性回退 ⚠️。 |
+| 2026-03-09 | **36BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 nimble, huge win, jump in, pinch point。**彻底攻克 `have to` Tag 助动词转换 🏆🏆！冠词 `the` 在特指语境下已成自觉。** 🔴 `be nimble in` 的介词遗漏。 |
+
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -416,7 +422,7 @@
 52. [ ] **时间词冠词脱敏**: 针对 `next week`, `last month` 开展"零冠词"专项扫描练习。
 53. [x] **34BEC 全通关**: ~~完成 somehow, awkward places with wording, input on, introduce to the users 四个语言点训练。~~ ✅ 2026-03-07 已完成。
 54. [x] **35BEC 全通关**: ~~完成 count towards, source feedback, cadence, end up being 四个语言点训练。~~ ✅ 2026-03-08 已完成。
-55. [ ] **36BEC 启动**: 进入 36BEC-44s.md 新模块。
-56. [ ] **🔴 `have to` Tag 极端测试**: 随机混入 `He has to go`, `We had to stay` 等不同人称/时态的 Tag 练习。
-57. [ ] **职场冠词 `the` 抽查**: 针对 `the new feature`, `the enablement process` 等进行共识指代检查。
+55. [x] **36BEC 全通关**: ~~完成 nimble, large win, jump in, pinch point 四个语言点训练。~~ ✅ 2026-03-09 已完成。
+56. [ ] **37BEC 启动**: 进入 37BEC-49s.md 新模块。
+57. [ ] **`be nimble in` 的对比测试**: 检查介词 `in` 是否自动补全。
 58. [ ] **`naming` 拼写抽查**: 随机插入。
