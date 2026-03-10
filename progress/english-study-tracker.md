@@ -213,6 +213,10 @@
 | **a huge win** | 5 | 极高 | 2026-03-09 | 职场地道褒奖项；掌握 `Which one exactly : A or B` 选择疑问句结构 |
 | **jump in** | 5 | 极高 | 2026-03-09 | 掌握会议中“插话/加入讨论”的地道表达；配套 `feel free to` 使用自然 |
 | **a pinch point** | 5 | 极高 | 2026-03-09 | 掌握“压力点/瓶颈”职场隐喻；单复数一致性表现稳健 |
+| **in + doing sth.**| 5 | 极高 | 2026-03-10 | 完美区分 in (过程) 与 when (时机)；五种句式转换零失误 |
+| **go deeper (on/into)** | 5 | 极高 | 2026-03-10 | 精准掌握 on (主题) 与 into (细节) 介词差异；修复 progress 混淆 |
+| **shift into** | 5 | 极高 | 2026-03-10 | 掌握模式/角色切换地道动词；解决 wording 不可数代词匹配 |
+| **more of A rather than B** | 5 | 极高 | 2026-03-10 | 重点攻克职场“本质定性”对比；融合 head nods 活学活用 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -263,6 +267,7 @@
 | 2026-03-07 | **34BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(5题)+Role-play，含 somehow, awkward places with wording, input on, introduce to。**Tag 极性全天 6/6 满分 🏆🏆！跨语言点复用能力飞跃（under the same umbrella, inclined to）。** 🔴 `be + places` 搭配逻辑错误 + Exactly 在 Role-play 中遗漏。 |
 | 2026-03-08 | **35BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 count towards, source feedback, cadence, end up being。**Mixed Conditional 维持 100% 满分 🏆！宾格/分词嵌套结构突破。** 🔴 `have to` Tag 助动词转换仍存严重惯性回退 ⚠️。 |
 | 2026-03-09 | **36BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 nimble, huge win, jump in, pinch point。**彻底攻克 `have to` Tag 助动词转换 🏆🏆！冠词 `the` 在特指语境下已成自觉。** 🔴 `be nimble in` 的介词遗漏。 |
+| 2026-03-10 | **37BEC & 38BEC Core Points + Role-play** | ✅ | 完成 4 个语言点(20题)+Role-play，含 in doing, go deeper, shift into, more of A rather than B。**`have to` Tag 稳如泰山 🏆**。🔴 `progress/process` 复发；条件句时态匹配+`wording`不可数+会议介词`in`+平行结构为新缺口。 |
 
 
 
@@ -318,7 +323,15 @@
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
 - [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
 - [ ] **虚拟语气缺 If**: 条件从句必须以 If 开头，不可省略。2026-02-21 故事翻译中出现。
-- [ ] **process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。
+- [ ] **🔴 process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。**2026-03-10 复发**（report the process→progress），需专项对抗。
+- [ ] **条件句时态匹配**: 真实条件 `don't→won't`; 虚拟假设 `didn't→could not`。不可混搭。2026-03-10 新发现。
+- [ ] **`wording` (uncountable)**: 不可数名词，代词用 the/that，不可用 those。2026-03-10 新发现。
+- [ ] **会议介词 `in` vs `on`**: 会议=场景→`In the meeting`; `On`=日期(`On Monday`)。2026-03-10 新发现。
+- [ ] **`learning opportunity` vs `lecture`**: 职场称成长机会用 opportunity/experience。2026-03-10 新发现。
+- [ ] **`assigning blame`**: 职场表达"非追责"地道词组。2026-03-10 新发现。
+- [ ] **`more of` vs `more like`**: 本质定性=more of; 类比=more like。2026-03-10 新发现。
+- [ ] **`agenda` vs `agenda item`**: 整个日程=agenda; 单个议题=agenda item。2026-03-10 新发现。
+- [ ] **`improvement in` + 抽象名词**: improvement in visibility (非 to the visibility)。2026-03-10 新发现。
 - [ ] **`whole` vs `overall`**: 整体/宏观用 `overall`（overall progress），全部/完整用 `whole`（the whole team）。2026-02-22 出现 2 次。
 - [ ] **`attend` vs `be involved in`**: 出席活动/会议用 attend；参与项目用 be involved in / work on。2026-02-22 新发现。
 - [ ] **`expand into` vs `extend`**: 扩展新市场用 `expand into`；延长时间用 `extend`。2026-02-22 新发现。
@@ -423,6 +436,14 @@
 53. [x] **34BEC 全通关**: ~~完成 somehow, awkward places with wording, input on, introduce to the users 四个语言点训练。~~ ✅ 2026-03-07 已完成。
 54. [x] **35BEC 全通关**: ~~完成 count towards, source feedback, cadence, end up being 四个语言点训练。~~ ✅ 2026-03-08 已完成。
 55. [x] **36BEC 全通关**: ~~完成 nimble, large win, jump in, pinch point 四个语言点训练。~~ ✅ 2026-03-09 已完成。
-56. [ ] **37BEC 启动**: 进入 37BEC-49s.md 新模块。
+56. [x] **37BEC & 38BEC 启动**: ~~进入 37BEC-49s.md 新模块。~~ ✅ 2026-03-10 完成 `in doing`, `go deeper`, `shift into`, `more of A rather than B` 四个核心语言点。
 57. [ ] **`be nimble in` 的对比测试**: 检查介词 `in` 是否自动补全。
 58. [ ] **`naming` 拼写抽查**: 随机插入。
+59. [ ] **🔴 `progress` vs `process` 闪电对抗**: 采用"强制对比暴露"策略，同一道题中同时出现两词。
+60. [ ] **39BEC 启动**: 进入 39BEC 新模块，含 `the thought here is`, `full-fledged`, `come out of beta`, `GA` 等。
+61. [ ] **`exactly` 选择疑问句强化**: 每道选择疑问句要求包含 `exactly`。
+62. [ ] **条件句时态匹配抽查**: 随机插入 `If... will/would/could` 结构。
+63. [ ] **`wording` 不可数抽查**: 随机插入含不可数名词的句子，检查代词。
+64. [ ] **会议介词 `in` 抽查**: 随机在句子中插入会议场景。
+65. [ ] **平行结构专项**: 选择疑问句冒号后语法一致性抽查。
+
