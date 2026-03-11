@@ -217,6 +217,11 @@
 | **go deeper (on/into)** | 5 | 极高 | 2026-03-10 | 精准掌握 on (主题) 与 into (细节) 介词差异；修复 progress 混淆 |
 | **shift into** | 5 | 极高 | 2026-03-10 | 掌握模式/角色切换地道动词；解决 wording 不可数代词匹配 |
 | **more of A rather than B** | 5 | 极高 | 2026-03-10 | 重点攻克职场“本质定性”对比；融合 head nods 活学活用 |
+| **the thought here is (to)** | 5 | 极高 | 2026-03-11 | 掌握会议引出思路地道表达；Mixed Conditional 触发信号需警惕 |
+| **full-fledged** | 5 | 极高 | 2026-03-11 | 描述产品成熟度；Subjunctive `were` 回退 1 次 |
+| **come out of beta** | 5 | 极高 | 2026-03-11 | IT 生命周期术语；Mixed Conditional `had not been able to` 满分 🏆 |
+| **ship** | 5 | 极高 | 2026-03-11 | 工程师核心发布动词；暴露 `many/much` 混淆 → 当日修复 🏆 |
+| **head nods / head shakes** | 5 | 极高 | 2026-03-11 | **今日最佳**！`many/much` 彻底修复；Type 3 虚拟语气满分 🏆🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -268,6 +273,7 @@
 | 2026-03-08 | **35BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 count towards, source feedback, cadence, end up being。**Mixed Conditional 维持 100% 满分 🏆！宾格/分词嵌套结构突破。** 🔴 `have to` Tag 助动词转换仍存严重惯性回退 ⚠️。 |
 | 2026-03-09 | **36BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 nimble, huge win, jump in, pinch point。**彻底攻克 `have to` Tag 助动词转换 🏆🏆！冠词 `the` 在特指语境下已成自觉。** 🔴 `be nimble in` 的介词遗漏。 |
 | 2026-03-10 | **37BEC & 38BEC Core Points + Role-play** | ✅ | 完成 4 个语言点(20题)+Role-play，含 in doing, go deeper, shift into, more of A rather than B。**`have to` Tag 稳如泰山 🏆**。🔴 `progress/process` 复发；条件句时态匹配+`wording`不可数+会议介词`in`+平行结构为新缺口。 |
+| 2026-03-11 | **39BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+Role-play，含 the thought is, full-fledged, come out of beta, ship, head nods。**彻底攻克 `many/much` 混淆 🏆🏆！Exactly 位置连续 7 次满分，永久关闭该缺口。** 🔴 Mixed Conditional 触发信号+Subjunctive `were`+选择疑问句平行结构仍需巩固 ⚠️。 |
 
 
 
@@ -283,12 +289,12 @@
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
 - [x] **already vs earlier**: 已在 2026-02-13 虚拟语气中正确使用 earlier，基本修复。
-- [ ] **what it’s like 嵌套结构**: what + you think/he said + it's like 仍需巩固。
+- [ ] **what it’s like 嵌套结构**: what + you think/he said + it's like仍需巩固。
 - [x] **选择疑问句结构**: 晚间 3 次选择疑问句全部正确，已明显改善 (2026-02-13)。
 - [ ] **find 否定结构**: 否定时 to be 不可省略 (not to be practical)，刚学需巩固。
 - [ ] **spend + doing**: spend 后必须接动名词，纠正后已理解，需验证。
 - [ ] **Phrasal verb 宾语规则**: 代词放中间(work it out)，不能和名词同时出现。
-- [ ] **Subjunctive were**: 虚拟语气中 If + be 不论人称一律用 were (If she were)。
+- [ ] **Subjunctive were**: 虚拟语气中 If + be 不论人称一律用 were (If she were)。**2026-03-11 仍有回退**（`If it was` → 应为 `If it were`），需持续强化 ⚠️。
 - [ ] **Type 3 vs Mixed 主句**: 偶尔混淆 would have done (过去结果) 和 would do (现在结果)。
 - [ ] **Type 3 If从句 (had had)**: had enough(Type2) vs had had enough(Type3)，注意识别"当初"暗示的过去虚拟。
 - [ ] **漏译情态词 (need to/should)**: 翻译时倾向漏掉"需要/应该"，已出现两次 (2026-02-15)。
@@ -378,6 +384,12 @@
 - [ ] **`automated` vs `automatic`**: IT 系统/流程应使用 `automated`。2026-03-08 新发现。
 - [ ] **所有格修饰名词**: `the PM's input`。
 - [ ] **冠词 `the` + 特指（用户/职位/界面元素）**: to users→the users, PM→the PM, question mark button→the question mark button。2026-03-07 多次出现。
+- [ ] **🔴 many vs much (可数/不可数)**: `so much legal issues` ❌ → `so many legal issues` ✅。可数名词复数用 many，不可数用 much。2026-03-11 暴露后当日修复。
+- [ ] **`promote` vs `improve/enhance`**: 提升体验=improve/enhance UX；推广产品=promote。不可混用。2026-03-11 新发现。
+- [ ] **`instant` vs `immediate`**: 即时需求=immediate needs；瞬时/速食=instant。2026-03-11 出现 2 次。
+- [ ] **`useful` vs `usable/functional`**: 能跑通=usable/functional；有价值=useful。2026-03-11 新发现。
+- [ ] **`more simple` vs `simpler`**: 单/双音节形容词比较级直接加 -er (simpler/cleaner)。2026-03-11 新发现。
+- [ ] **Mixed Conditional 触发信号**: "当初/那时"= 过去虚拟 Type 3 → `had been`。偶尔降级为 Type 2 `was`。2026-03-11 出现 1 次。
 
 ## 下一步计划 (Next Steps)
 
@@ -440,10 +452,14 @@
 57. [ ] **`be nimble in` 的对比测试**: 检查介词 `in` 是否自动补全。
 58. [ ] **`naming` 拼写抽查**: 随机插入。
 59. [ ] **🔴 `progress` vs `process` 闪电对抗**: 采用"强制对比暴露"策略，同一道题中同时出现两词。
-60. [ ] **39BEC 启动**: 进入 39BEC 新模块，含 `the thought here is`, `full-fledged`, `come out of beta`, `GA` 等。
-61. [ ] **`exactly` 选择疑问句强化**: 每道选择疑问句要求包含 `exactly`。
+60. [x] **39BEC 启动**: ~~进入 39BEC 新模块，含 `the thought here is`, `full-fledged`, `come out of beta`, `GA` 等。~~ ✅ 2026-03-11 完成 5 个语言点(25题)+Role-play。
+61. [x] **`exactly` 选择疑问句强化**: ✅ 2026-03-11 连续 7 次特殊疑问句位置满分。**永久关闭该缺口** 🏆🏆🏆。
 62. [ ] **条件句时态匹配抽查**: 随机插入 `If... will/would/could` 结构。
 63. [ ] **`wording` 不可数抽查**: 随机插入含不可数名词的句子，检查代词。
 64. [ ] **会议介词 `in` 抽查**: 随机在句子中插入会议场景。
-65. [ ] **平行结构专项**: 选择疑问句冒号后语法一致性抽查。
+65. [ ] **平行结构专项**: 选择疑问句冒号后语法一致性抽查。2026-03-11 出现 2 次偏差，需持续强化。
+66. [ ] **40BEC 启动**: 进入 40BEC-59s.md 新模块。
+67. [ ] **🔴 `were` vs `was` 闪电抽查**: 随机插入 Type 2 虚拟语气句，强化 `If + be → were` 肌肉记忆。
+68. [ ] **`many/much` 负荷测试**: 随机插入含可数/不可数名词的句子，检查是否回退。
+69. [ ] **`immediate` vs `instant` 对比**: 随机插入职场场景，检查词汇选择。
 
