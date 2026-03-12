@@ -222,6 +222,12 @@
 | **come out of beta** | 5 | 极高 | 2026-03-11 | IT 生命周期术语；Mixed Conditional `had not been able to` 满分 🏆 |
 | **ship** | 5 | 极高 | 2026-03-11 | 工程师核心发布动词；暴露 `many/much` 混淆 → 当日修复 🏆 |
 | **head nods / head shakes** | 5 | 极高 | 2026-03-11 | **今日最佳**！`many/much` 彻底修复；Type 3 虚拟语气满分 🏆🏆 |
+| **get one's arms around** | 5 | 极高 | 2026-03-12 | 掌握“理清复杂全貌”语义，Type 3 虚拟语气满分 |
+| **touch on** | 5 | 极高 | 2026-03-12 | 掌握“点到为止”语气；Mixed Conditional 结合完美 |
+| **color (context/details)** | 5 | 极高 | 2026-03-12 | 掌握职场非字面义用法；Exactly 位置稳固 |
+| **real quick** | 5 | 极高 | 2026-03-12 | 掌握句末状语地道位置 |
+| **the right attention** | 5 | 极高 | 2026-03-12 | 区分 right vs enough 的质量/数量差异 |
+| **get a handle on** | 5 | 极高 | 2026-03-12 | 精准辨析与 arms around 的语意侧重差别 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -274,6 +280,7 @@
 | 2026-03-09 | **36BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 nimble, huge win, jump in, pinch point。**彻底攻克 `have to` Tag 助动词转换 🏆🏆！冠词 `the` 在特指语境下已成自觉。** 🔴 `be nimble in` 的介词遗漏。 |
 | 2026-03-10 | **37BEC & 38BEC Core Points + Role-play** | ✅ | 完成 4 个语言点(20题)+Role-play，含 in doing, go deeper, shift into, more of A rather than B。**`have to` Tag 稳如泰山 🏆**。🔴 `progress/process` 复发；条件句时态匹配+`wording`不可数+会议介词`in`+平行结构为新缺口。 |
 | 2026-03-11 | **39BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+Role-play，含 the thought is, full-fledged, come out of beta, ship, head nods。**彻底攻克 `many/much` 混淆 🏆🏆！Exactly 位置连续 7 次满分，永久关闭该缺口。** 🔴 Mixed Conditional 触发信号+Subjunctive `were`+选择疑问句平行结构仍需巩固 ⚠️。 |
+| 2026-03-12 | **40BEC Full Completion + Role-play** | ✅ | 完成 6 个语言点(30题)+Role-play，含 arms around, touch on, color, real quick, right attention, get a handle on。**Exactly 稳如磐石 🏆！混合虚拟语气逻辑极佳。** 🔴 Tag 极性出现 1 次回退；`so vs such` 搭配及单复数代词一致性为新缺口。 |
 
 
 
@@ -390,6 +397,9 @@
 - [ ] **`useful` vs `usable/functional`**: 能跑通=usable/functional；有价值=useful。2026-03-11 新发现。
 - [ ] **`more simple` vs `simpler`**: 单/双音节形容词比较级直接加 -er (simpler/cleaner)。2026-03-11 新发现。
 - [ ] **Mixed Conditional 触发信号**: "当初/那时"= 过去虚拟 Type 3 → `had been`。偶尔降级为 Type 2 `was`。2026-03-11 出现 1 次。
+- [ ] **🔴 Tag Question 极性回退**: `not...hasn't it` ❌ → `not...has it` ✅。需形成“一肯一否”的绝对本能。2026-03-12 出现 1 次 ⚠️。
+- [ ] **🔴 so vs such**: `so + adj` vs `such a + adj + n`。针对 `such a serious issue` 开展专项练习。2026-03-12 新发现。
+- [ ] **代词一致性 (复数 -> them)**: constraints ↔ it 不一致。需养成“扫描前文名词单复数”的习惯。2026-03-12 再次出现。
 
 ## 下一步计划 (Next Steps)
 
@@ -458,8 +468,9 @@
 63. [ ] **`wording` 不可数抽查**: 随机插入含不可数名词的句子，检查代词。
 64. [ ] **会议介词 `in` 抽查**: 随机在句子中插入会议场景。
 65. [ ] **平行结构专项**: 选择疑问句冒号后语法一致性抽查。2026-03-11 出现 2 次偏差，需持续强化。
-66. [ ] **40BEC 启动**: 进入 40BEC-59s.md 新模块。
-67. [ ] **🔴 `were` vs `was` 闪电抽查**: 随机插入 Type 2 虚拟语气句，强化 `If + be → were` 肌肉记忆。
-68. [ ] **`many/much` 负荷测试**: 随机插入含可数/不可数名词的句子，检查是否回退。
-69. [ ] **`immediate` vs `instant` 对比**: 随机插入职场场景，检查词汇选择。
+66. [x] **40BEC 启动**: ~~进入 40BEC-59s.md 新模块。~~ ✅ 2026-03-12 全通关。
+67. [ ] **41BEC 启动**: 进入 41BEC-60s.md 新模块。
+68. [ ] **🔴 `so vs such` 闪电抽查**: 针对 `such a + adj + noun` 结构进行专项翻译练习，清除 so 的错误惯性。
+69. [ ] **🔴 Tag 极性强制对抗**: 重点练习“主句含否定”时的 Tag 肯定形式。
+70. [ ] **Review Drill**: 在 Role-play 中强制检查代词与先行词的一致性。
 
