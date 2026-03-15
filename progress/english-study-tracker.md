@@ -231,6 +231,11 @@
 | **your kind of** | 5 | 极高 | 2026-03-14 | 掌握跨部门指代时的职场软连接 |
 | **dependency on** | 5 | 极高 | 2026-03-14 | `There is a dependency on` 句型完全掌握 |
 | **be piped** | 5 | 极高 | 2026-03-14 | 熟练驾驭进行时及过去完成进行时的被动结构 |
+| **individual** | 5 | 极高 | 2026-03-15 | 职场指代专人，掌握选择/反义疑问句式；`troubleshoot` 拼写连续 2 次漏 `s` |
+| **It goes back to** | 5 | 高 | 2026-03-15 | 掌握寻根溯源逻辑；暴露名词词组构建弱点（依赖 `the fact that` 从句）|
+| **broader confusion of** | 5 | 高 | 2026-03-15 | 掌握宏观概念混淆表达；`lack` 动/名词搭配混淆 (`lacks of`) |
+| **treating it as** | 5 | 极高 | 2026-03-15 | 掌握职场定性/处理语境；Tag 极性在过去完成时下回退 1 次 |
+
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -284,6 +289,7 @@
 | 2026-03-11 | **39BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+Role-play，含 the thought is, full-fledged, come out of beta, ship, head nods。**彻底攻克 `many/much` 混淆 🏆🏆！Exactly 位置连续 7 次满分，永久关闭该缺口。** 🔴 Mixed Conditional 触发信号+Subjunctive `were`+选择疑问句平行结构仍需巩固 ⚠️。 |
 | **40BEC Full Completion + Role-play** | ✅ | 完成 6 个语言点(30题)+Role-play，含 arms around, touch on, color, real quick, right attention, get a handle on。**Exactly 稳如磐石 🏆！混合虚拟语气逻辑极佳。** 🔴 Tag 极性出现 1 次回退；`so vs主` 搭配及单复数代词一致性为新缺口。 |
 | 2026-03-14 | **41BEC Launch + Role-play** | ✅ | 完成 3 个高难度点(your kind of, dependency on, be piped) + 闪电纠偏(3题) + 架构复盘 Role-play。**`had been being piped` 多重复合时态破壁成功🏆！** 🔴 特殊疑问句及长句否定词位置暴露弱点；Tag 前否后肯极性再次回退 ⚠️。 |
+| 2026-03-15 | **Hell Mode Tag (10题) + 42BEC individual + 43BEC 启动** | ✅ | 地狱模式 8/10（错误率 60%→20% 🏆）；完成 individual(5题)+It goes back to(5题)+treating as(4题)+Role-play。🔴 Tag 在 `'s been` 缩写还原和 `hardly anyone` 隐性否定主语下仍回退；名词词组构建、`lack` 动名词搭配、`market` vs `roll out` 复发为新缺口 ⚠️。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -399,7 +405,12 @@
 - [ ] **`useful` vs `usable/functional`**: 能跑通=usable/functional；有价值=useful。2026-03-11 新发现。
 - [ ] **`more simple` vs `simpler`**: 单/双音节形容词比较级直接加 -er (simpler/cleaner)。2026-03-11 新发现。
 - [ ] **Mixed Conditional 触发信号**: "当初/那时"= 过去虚拟 Type 3 → `had been`。偶尔降级为 Type 2 `was`。2026-03-11 出现 1 次。
-- [ ] **🔴 Tag Question 极性回退**: `not...hasn't it` ❌ → `not...has it` ✅。需形成“一肯一否”的绝对本能。2026-03-12 出现 1 次，2026-03-14 再次回退 2 次，顽固 ⚠️。
+- [ ] **🔴 Tag Question 极性回退**: `not...hasn't it` → `not...has it` ✅。需形成"一肯一否"的绝对本能。2026-03-12 出现 1 次，2026-03-14 再次回退 2 次，**2026-03-15 地狱模式 8/10（60%→20%），但仍在 `'s been` 缩写和 `hardly anyone` 隐性否定下回退** ⚠️。
+- [ ] **🔴 `'s been = has been` 缩写还原**: `that's always been... isn't it?` → `hasn't it?`。看到 `been` → 前面的 `'s` 必定 = `has`。**2026-03-14 + 03-15 连续两天犯同样错误**，极其顽固 ⚠️⚠️。
+- [ ] **🔴 隐性否定 Tag 极性 (主语位置)**: `hardly anyone... wouldn't they?` → `would they?`。`hardly` 无论修饰动词还是主语，主句一律视为否定 → Tag 肯定。2026-03-15 新发现。
+- [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
+- [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
+- [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。
 - [x] **🔴 so vs such**: `so + adj` vs `such a + adj + n`。针对 `such a serious issue` 开展专项练习。2026-03-12 新发现；2026-03-14 闪电纠偏完全修复 ✅。
 - [ ] **代词一致性 (复数 -> them)**: constraints ↔ it 不一致。需养成“扫描前文名词单复数”的习惯。2026-03-12 再次出现。
 - [ ] **复合助动词否定位置**: `would have been not` ❌ → `would not have been` ✅。否定词永远紧挨着第一个助动词。2026-03-14 新发现。
@@ -480,4 +491,11 @@
 71. [x] **41BEC 启动**: ~~完成 `your kind of`, `dependency on`, `be piped` 三个语言点的新课。~~ ✅ 2026-03-14 全通关。
 72. [ ] **41BEC 剩余评估**: 筛查 41BEC 文本，寻找有无剩余语言点。
 73. [ ] **复合助动词结构拆解专练**: 穿插练习过去式完成进行时虚拟的否定形态 (`should not have been doing/done`)。
+74. [x] **42BEC individual 全通关**: ~~完成 `individual` 5 题造句训练。~~ ✅ 2026-03-15 已完成。
+75. [ ] **🔴🔴 `'s been = has been` 缩写还原专练**: 下次开场安排 5 题含 `it's been / that's been / there's been` 的 Tag 练习，每题先还原缩写再写 Tag。
+76. [ ] **🔴 隐性否定 Tag 专项**: 针对 `hardly anyone/rarely/barely/seldom/never` 开展 Tag 极性对抗，重点测试隐性否定在主语位置时的防御。
+77. [ ] **名词化改写训练**: 给出含 `the fact that`/`about that` 的冗余从句，要求改写为紧凑名词短语。
+78. [ ] **43BEC 继续推进**: 完成 `treating it as` 剩余训练 + `superset`、`specifically`、`subfilter` 等 IT 核心词。
+79. [ ] **`market` vs `roll out` 闪电抽查**: 在下次 Role-play 中设置内部推广场景，检查是否复发。
+80. [ ] **`troubleshoot` 拼写抽查**: 随机插入，检查是否还会漏掉中间的 `s`。
 
