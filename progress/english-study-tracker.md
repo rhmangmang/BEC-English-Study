@@ -235,6 +235,10 @@
 | **It goes back to** | 5 | 高 | 2026-03-15 | 掌握寻根溯源逻辑；暴露名词词组构建弱点（依赖 `the fact that` 从句）|
 | **broader confusion of** | 5 | 高 | 2026-03-15 | 掌握宏观概念混淆表达；`lack` 动/名词搭配混淆 (`lacks of`) |
 | **treating it as** | 5 | 极高 | 2026-03-15 | 掌握职场定性/处理语境；Tag 极性在过去完成时下回退 1 次 |
+| **the superset of** | 5 | 极高 | 2026-03-17 | 掌握 IT/架构逻辑描述；`consider A B` 结构应用流畅 |
+| **specifically** | 5 | 极高 | 2026-03-17 | 掌握从泛指到特指的切换；成功结合 `Which...exactly` 使用 |
+| **go in & kind of** | 5 | 极高 | 2026-03-17 | 掌握界面交互地道口语；连读连读 `kinda` 运用自如 |
+| **and stuff** | 5 | 极高 | 2026-03-17 | 掌握口语后缀软化语气；Jira 场景应用自然 |
 | **should be doing** | 5 | 极高 | 2026-03-16 | 掌握“委婉抱怨”与“逻辑推断”双重语感；Subjunctive 结合满分 🏆 |
 | **hopefully** | 5 | 极高 | 2026-03-16 | 掌握句首/主语后灵活位置；`provide with` 介词漏洞待补 ⚠️ |
 | **go down the list** | 5 | 极高 | 2026-03-16 | 会议动作指令极其自然；彻底区分 get down 混淆 |
@@ -295,6 +299,7 @@
 | 2026-03-14 | **41BEC Launch + Role-play** | ✅ | 完成 3 个高难度点(your kind of, dependency on, be piped) + 闪电纠偏(3题) + 架构复盘 Role-play。**`had been being piped` 多重复合时态破壁成功🏆！** 🔴 特殊疑问句及长句否定词位置暴露弱点；Tag 前否后肯极性再次回退 ⚠️。 |
 | 2026-03-15 | Hell Mode Tag (10题) + 42BEC individual + 43BEC 启动 | ✅ | 地狱模式 8/10（错误率 60%→20% 🏆）；完成 individual(5题)+It goes back to(5题)+treating as(4题)+Role-play。🔴 Tag 在 `'s been` 缩写还原和 `hardly anyone` 隐性否定主语下仍回退；名词词组构建、`lack` 动名词搭配、`market` vs `roll out` 复发为新缺口 ⚠️。 |
 | 2026-03-16 | **44BEC Full Completion + Role-play** | ✅ | 完成 should be doing, hopefully, go down the list, Release 16。🏆 **Mixed Conditional 持续 100% 满分！** 🔴 暴露 `if there is anything` (单数一致性) 及 `provide with` 搭配漏洞。 |
+| 2026-03-17 | **Tag Drill + 43BEC Completion + Role-play** | ✅ | 🏆 **彻底攻克 `'s been` 及隐性否定 Tag 陷阱！** 完成 superset, specifically, go in, kind of, and stuff。Role-play 展现极强的大厂语言包整合能力。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -310,14 +315,10 @@
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
 - [x] **already vs earlier**: 已在 2026-02-13 虚拟语气中正确使用 earlier，基本修复。
 - [ ] **what it’s like 嵌套结构**: what + you think/he said + it's like仍需巩固。
-- [x] **选择疑问句结构**: 晚间 3 次选择疑问句全部正确，已明显改善 (2026-02-13)。
-- [ ] **find 否定结构**: 否定时 to be 不可省略 (not to be practical)，刚学需巩固。
-- [ ] **spend + doing**: spend 后必须接动名词，纠正后已理解，需验证。
-- [ ] **Phrasal verb 宾语规则**: 代词放中间(work it out)，不能和名词同时出现。
-- [ ] **Subjunctive were**: 虚拟语气中 If + be 不论人称一律用 were (If she were)。**2026-03-11 仍有回退**（`If it was` → 应为 `If it were`），需持续强化 ⚠️。
-- [ ] **Type 3 vs Mixed 主句**: 偶尔混淆 would have done (过去结果) 和 would do (现在结果)。
-- [ ] **Type 3 If从句 (had had)**: had enough(Type2) vs had had enough(Type3)，注意识别"当初"暗示的过去虚拟。
-- [ ] **漏译情态词 (need to/should)**: 翻译时倾向漏掉"需要/应该"，已出现两次 (2026-02-15)。
+- [x] **选择疑问句结构**: 晚间 3 次选择�- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
+- [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
+- [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
+- [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。。
 - [ ] **翻译漏修饰词**: 倾向漏掉时间词(tomorrow)、程度词(already, really, much, more)等修饰成分。"得多"→much 已出现两次。"早点"→earlier 2026-02-21 再次出现。
 - [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
 - [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
