@@ -312,7 +312,7 @@
 - [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
-- [x] **already vs earlier**: 已�- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
+- [x] **already vs earlier**: 已�- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
 - [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
 - [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
 - [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。`market`。**2026-03-14 纠正后 03-15 复发**，未固化。。
@@ -504,6 +504,10 @@
 78. [x] **43BEC 继续推进**: ~~完成 `treating it as` 剩余训练 + `superset`、`specifically`、`subfilter` (改选 go in) 等 IT 核心词。~~ ✅ 2026-03-17 已完结。
 79. [ ] **`market` vs `roll out` 闪电抽查**: 在下次 Role-play 中设置内部推广场景，检查是否复发。
 80. [x] **`troubleshoot` 拼写抽查**: ~~随机插入，检查是否还会漏掉中间的 `s`。~~ ✅ 2026-03-17 纠偏题已验证通过。
-81. [ ] **43BEC 扫尾**: 练习 `specifically the issue type issue` 中的重复逻辑。
-82. [ ] **44BEC 启动**: 进入 44BEC 新模块。
+81. [x] **43BEC 扫尾**: ~~练习 `specifically the issue type issue` 中的重复逻辑。~~ ✅ 2026-03-18 已完结。
+82. [x] **44BEC 启动**: ~~进入 44BEC 新模块。~~ ✅ 2026-03-18 已完结。
+83. [x] **45BEC 启动**: ~~进入 45BEC 新模块，训练 `advise` 和 `as someone pointed out`。~~ ✅ 2026-03-18 已完结。
+84. [ ] **拼写及介词巩固**: 在下次造句涉及 `advice/advise` 以及 `happened in/to` 时的专项复查。
+85. [ ] **连词专项**: 检查 `even though` 和宾语从句语序恢复能力。
+86. [ ] **45BEC 继续推进**: 训练 `well spotted`, `ought to be looking at`, `the priority comes from` 等剩余语言点。
 
