@@ -242,6 +242,11 @@
 | **hopefully** | 5 | 极大 | 2026-03-16 | 掌握句首/主语后灵活位置；`provide with` 介词漏洞待补 ⚠️ |
 | **go down the list** | 5 | 极高 | 2026-03-16 | 会议动作指令极其自然；彻底区分 get down 混淆 |
 | **make it into Release 16** | 5 | 极高 | 2026-03-16 | 掌握 IT 版本发布地道表达；Role-play 融合成功 |
+| **well spotted** | 5 | 极高 | 2026-03-19 | 5 种句式全通关；选择疑问句中 discovered vs well spotted 语义对比亮点 🏆 |
+| **the priority comes from** | 5 | 极高 | 2026-03-19 | 5 种句式全通关；priority for [noun] 搭配已固化；Mixed Conditional 满分 |
+| **push back ... to** | 5 | 极高 | 2026-03-19 | 5 种句式全通关；动词短语拆分 push the deadline back to 运用自如 |
+| **extra bit(s) of work** | 5 | 高 | 2026-03-19 | 修饰词搭配(too much+bit)及冠词(an)需注意；复数 bits 绕冠词策略佳 |
+| **as far as I can see** | 5 | 极高 | 2026-03-19 | 精准区分 see(推断) vs know(事实)；句中插入语使用地道；workaround 亮点 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -299,6 +304,8 @@
 | 2026-03-15 | Hell Mode Tag (10题) + 42BEC individual + 43BEC 启动 | ✅ | 地狱模式 8/10（错误率 60%→20% 🏆）；完成 individual(5题)+It goes back to(5题)+treating as(4题)+Role-play。🔴 Tag 在 `'s been` 缩写还原和 `hardly anyone` 隐性否定主语下仍回退；名词词组构建、`lack` 动名词搭配、`market` vs `roll out` 复发为新缺口 ⚠️。 |
 | 2026-03-16 | **44BEC Full Completion + Role-play** | ✅ | 完成 should be doing, hopefully, go down the list, Release 16。🏆 **Mixed Conditional 持续 100% 满分！** 🔴 暴露 `if there is anything` (单数一致性) 及 `provide with` 搭配漏洞。 |
 | 2026-03-17 | **Tag Drill + 43BEC Completion + Role-play** | ✅ | 🏆 **彻底攻克 `'s been` 及隐性否定 Tag 陷阱！** 完成 superset, specifically, go in, kind of, and stuff。Role-play 展现极强大语言包整合力。 |
+| 2026-03-18 | **43BEC 扫尾 + 44BEC + 45BEC 启动** | ✅ | 完成 advise, as someone pointed out 等语言点训练。 |
+| 2026-03-19 | **45BEC Remaining + 46BEC Launch + Role-play** | ✅ | 完成 5 个语言点(23题)+概念辨析+Role-play。🏆 **Tag Question 全天零回退！Mixed Conditional 持续 100% 满分！** 🔴 troubleshooting 拼写第 3 次复发；yesterday+has been 时态不兼容再现。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -509,5 +516,9 @@
 83. [x] **45BEC 启动**: ~~进入 45BEC 新模块，训练 `advise` 和 `as someone pointed out`。~~ ✅ 2026-03-18 已完结。
 84. [ ] **拼写及介词巩固**: 在下次造句涉及 `advice/advise` 以及 `happened in/to` 时的专项复查。
 85. [ ] **连词专项**: 检查 `even though` 和宾语从句语序恢复能力。
-86. [ ] **45BEC 继续推进**: 训练 `well spotted`, `ought to be looking at`, `the priority comes from` 等剩余语言点。
+86. [x] **45BEC 继续推进**: ~~训练 `well spotted`, `ought to be looking at`, `the priority comes from` 等剩余语言点。~~ ✅ 2026-03-19 完成 well spotted + priority comes from。
+87. [x] **46BEC 启动**: ~~进入 46BEC 新模块。~~ ✅ 2026-03-19 完成 push back to, extra bit of work, as far as I can see。
+88. [ ] **46BEC 继续推进**: 完成 `look into` 的 5 次造句训练。
+89. [ ] **🔴 `troubleshooting` 拼写专项 (第3次复发)**: 下次会话随机插入 3 题含 troubleshooting 的句子，强制肌肉记忆。trouble + shoot + ing。
+90. [ ] **冠词抽查 (可数单数)**: 随机插入含 bit/piece/kind 的句子，检查 a/an 是否自动补全。
 
