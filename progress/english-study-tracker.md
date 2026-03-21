@@ -247,6 +247,10 @@
 | **push back ... to** | 5 | 极高 | 2026-03-19 | 5 种句式全通关；动词短语拆分 push the deadline back to 运用自如 |
 | **extra bit(s) of work** | 5 | 高 | 2026-03-19 | 修饰词搭配(too much+bit)及冠词(an)需注意；复数 bits 绕冠词策略佳 |
 | **as far as I can see** | 5 | 极高 | 2026-03-19 | 精准区分 see(推断) vs know(事实)；句中插入语使用地道；workaround 亮点 🏆 |
+| **look into** | 5 | 极高 | 2026-03-21 | 5 种句式全通关；作为 `check` 的高级替代词；虚拟语气中融入自然 |
+| **be supposed to** | 5 | 极高 | 2026-03-21 | 5 种句式全通关；区分 should(建议) vs supposed to(规则/期望)；注意拼写 `supposed`(末尾d) |
+| **backlog** | 5 | 极高 | 2026-03-21 | 5 种句式全通关；掌握 backlog items/tasks 地道用法；被动 Tag+复数代词匹配正确 |
+| **scale to a larger degree** | 5 | 高 | 2026-03-21 | 掌握及物/不及物两种用法；词组位置偶有偏差(scale the degree→scale sth to that degree) |
 
 ## 学习记录概览 (Session Overview)
 
@@ -306,6 +310,7 @@
 | 2026-03-17 | **Tag Drill + 43BEC Completion + Role-play** | ✅ | 🏆 **彻底攻克 `'s been` 及隐性否定 Tag 陷阱！** 完成 superset, specifically, go in, kind of, and stuff。Role-play 展现极强大语言包整合力。 |
 | 2026-03-18 | **43BEC 扫尾 + 44BEC + 45BEC 启动** | ✅ | 完成 advise, as someone pointed out 等语言点训练。 |
 | 2026-03-19 | **45BEC Remaining + 46BEC Launch + Role-play** | ✅ | 完成 5 个语言点(23题)+概念辨析+Role-play。🏆 **Tag Question 全天零回退！Mixed Conditional 持续 100% 满分！** 🔴 troubleshooting 拼写第 3 次复发；yesterday+has been 时态不兼容再现。 |
+| 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play ×2** | ✅ | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play ×2。🏆 **条件句委婉逻辑觉醒（didn't+would）！Mixed Conditional 持续满分！** 🔴 yesterday+has been 第4次复发；`supposed` 漏 d；`shipped` 漏双写 p |️
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -518,7 +523,14 @@
 85. [ ] **连词专项**: 检查 `even though` 和宾语从句语序恢复能力。
 86. [x] **45BEC 继续推进**: ~~训练 `well spotted`, `ought to be looking at`, `the priority comes from` 等剩余语言点。~~ ✅ 2026-03-19 完成 well spotted + priority comes from。
 87. [x] **46BEC 启动**: ~~进入 46BEC 新模块。~~ ✅ 2026-03-19 完成 push back to, extra bit of work, as far as I can see。
-88. [ ] **46BEC 继续推进**: 完成 `look into` 的 5 次造句训练。
+88. [x] **46BEC 继续推进**: ~~完成 `look into` 的 5 次造句训练。~~ ✅ 2026-03-21 完成 look into + be supposed to + backlog。
 89. [ ] **🔴 `troubleshooting` 拼写专项 (第3次复发)**: 下次会话随机插入 3 题含 troubleshooting 的句子，强制肌肉记忆。trouble + shoot + ing。
 90. [ ] **冠词抽查 (可数单数)**: 随机插入含 bit/piece/kind 的句子，检查 a/an 是否自动补全。
+91. [ ] **47BEC 继续推进**: 完成 `an evolution of ... over time` 或 `I would guess` 的 5 次造句训练。
+92. [ ] **🔴 `yesterday + 时态` 闪电纠偏 (第4次复发)**: 下次开场随机插入 3 题含 `yesterday/last week/back in` 的句子，强制检查时态。
+93. [ ] **🔴 `supposed` 拼写/语法抽查**: 随机在含 `be supposed to` 的句子中检查末尾 `d` 是否遗漏。
+94. [ ] **🔴 `shipped` 拼写巩固**: 随机插入含 `ship` 过去式/过去分词的句子，检查双写 p。类推 `stopped`, `plugged`。
+95. [ ] **条件句时态匹配抽查**: 随机插入 `If...` 结构，检查 `don't→will` / `didn't→would` 是否自动匹配。
+96. [ ] **介词 `for` 搭配**: `extra bits of work for sb`，`a challenge for sb`。
+97. [ ] **`after all` 实战应用**: 在下次 Role-play 中尝试主动使用 `After all,...` 作为论据强化。
 
