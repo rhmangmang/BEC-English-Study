@@ -251,6 +251,11 @@
 | **be supposed to** | 5 | 极高 | 2026-03-21 | 5 种句式全通关；区分 should(建议) vs supposed to(规则/期望)；注意拼写 `supposed`(末尾d) |
 | **backlog** | 5 | 极高 | 2026-03-21 | 5 种句式全通关；掌握 backlog items/tasks 地道用法；被动 Tag+复数代词匹配正确 |
 | **scale to a larger degree** | 5 | 高 | 2026-03-21 | 掌握及物/不及物两种用法；词组位置偶有偏差(scale the degree→scale sth to that degree) |
+| **an evolution of nomenclature over time** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；nomenclature 已成肌肉记忆；注意 Mixed Conditional 中 would be vs would have been 区分 |
+| **I would guess** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；掌握委婉语气嵌套 when exactly would you guess；Tag Question 观点帽逻辑满分 |
+| **table (a topic)** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；掌握美式会议暂时搁置地道表达；区分 table vs postpone |
+| **walk (sb) through** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；注意 We+us 主宾冲突（主语 We 时用 walk the team through / walk through） |
+| **separate** | 5 | 极高 | 2026-03-22 | 5 种句式全通关（含概念辨析）；精准区分 separate(独立性/专场) vs another(数量/又一个) |
 
 ## 学习记录概览 (Session Overview)
 
@@ -310,7 +315,8 @@
 | 2026-03-17 | **Tag Drill + 43BEC Completion + Role-play** | ✅ | 🏆 **彻底攻克 `'s been` 及隐性否定 Tag 陷阱！** 完成 superset, specifically, go in, kind of, and stuff。Role-play 展现极强大语言包整合力。 |
 | 2026-03-18 | **43BEC 扫尾 + 44BEC + 45BEC 启动** | ✅ | 完成 advise, as someone pointed out 等语言点训练。 |
 | 2026-03-19 | **45BEC Remaining + 46BEC Launch + Role-play** | ✅ | 完成 5 个语言点(23题)+概念辨析+Role-play。🏆 **Tag Question 全天零回退！Mixed Conditional 持续 100% 满分！** 🔴 troubleshooting 拼写第 3 次复发；yesterday+has been 时态不兼容再现。 |
-| 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play ×2** | ✅ | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play ×2。🏆 **条件句委婉逻辑觉醒（didn't+would）！Mixed Conditional 持续满分！** 🔴 yesterday+has been 第4次复发；`supposed` 漏 d；`shipped` 漏双写 p |️
+| 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play x2** | done | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play x2。条件句委婉逻辑觉醒！Mixed Conditional 持续满分！yesterday+has been 第4次复发；supposed 漏 d；shipped 漏双写 p |
+| 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | done | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -526,11 +532,18 @@
 88. [x] **46BEC 继续推进**: ~~完成 `look into` 的 5 次造句训练。~~ ✅ 2026-03-21 完成 look into + be supposed to + backlog。
 89. [ ] **🔴 `troubleshooting` 拼写专项 (第3次复发)**: 下次会话随机插入 3 题含 troubleshooting 的句子，强制肌肉记忆。trouble + shoot + ing。
 90. [ ] **冠词抽查 (可数单数)**: 随机插入含 bit/piece/kind 的句子，检查 a/an 是否自动补全。
-91. [ ] **47BEC 继续推进**: 完成 `an evolution of ... over time` 或 `I would guess` 的 5 次造句训练。
-92. [ ] **🔴 `yesterday + 时态` 闪电纠偏 (第4次复发)**: 下次开场随机插入 3 题含 `yesterday/last week/back in` 的句子，强制检查时态。
-93. [ ] **🔴 `supposed` 拼写/语法抽查**: 随机在含 `be supposed to` 的句子中检查末尾 `d` 是否遗漏。
-94. [ ] **🔴 `shipped` 拼写巩固**: 随机插入含 `ship` 过去式/过去分词的句子，检查双写 p。类推 `stopped`, `plugged`。
-95. [ ] **条件句时态匹配抽查**: 随机插入 `If...` 结构，检查 `don't→will` / `didn't→would` 是否自动匹配。
+91. [x] **47BEC 继续推进**: ~~完成 `an evolution of ... over time` 或 `I would guess` 的 5 次造句训练。~~ done 2026-03-22 完成 evolution of nomenclature + I would guess。
+92. [x] **🔴 `yesterday + 时态` 闪电纠偏 (第4次复发)**: ~~下次开场随机插入 3 题含 `yesterday/last week/back in` 的句子，强制检查时态。~~ done 2026-03-22 闪电纠偏中 `wasn't assigned` 使用正确，零回退。
+93. [x] **🔴 `supposed` 拼写/语法抽查**: ~~随机在含 `be supposed to` 的句子中检查末尾 `d` 是否遗漏。~~ done 2026-03-22 闪电纠偏中 `supposed` 拼写正确。
+94. [x] **🔴 `shipped` 拼写巩固**: ~~随机插入含 `ship` 过去式/过去分词的句子，检查双写 p。~~ done 2026-03-22 闪电纠偏中 `shipped` 拼写正确。
+95. [x] **条件句时态匹配抽查**: ~~随机插入 `If...` 结构，检查 `don't→will` / `didn't→would` 是否自动匹配。~~ done 2026-03-22 闪电纠偏中 `don't + will` 完美匹配。
 96. [ ] **介词 `for` 搭配**: `extra bits of work for sb`，`a challenge for sb`。
 97. [ ] **`after all` 实战应用**: 在下次 Role-play 中尝试主动使用 `After all,...` 作为论据强化。
+98. [ ] **48BEC 继续推进**: 完成 `blurry`、`key takeaways`、`take notes on` 的 5 次造句训练。
+99. [ ] **🔴 重复助动词抽查**: 随机插入特殊疑问句，检查是否还会出现 `will ... will happen` 的重复。
+100. [ ] **🔴 `We + us` 主宾冲突抽查**: 在含 `walk through` 的句子中，当主语为 `We` 时，检查宾语是否还会使用 `us`。
+101. [ ] **🔴 `a vs an` 冠词抽查**: 随机插入含辅音开头名词的句子，检查冠词是否正确。
+102. [ ] **Mixed Conditional Type 2 vs Type 3 辨析**: 随机插入"现在的状态"与"过去的结果"的混合虚拟语气句子。
+103. [ ] **`yesterday + 时态` 持续验证**: 虽然 03-22 零回退，但鉴于此前第 4 次复发，仍需持续验证。
+
 
