@@ -256,6 +256,9 @@
 | **table (a topic)** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；掌握美式会议暂时搁置地道表达；区分 table vs postpone |
 | **walk (sb) through** | 5 | 极高 | 2026-03-22 | 5 种句式全通关；注意 We+us 主宾冲突（主语 We 时用 walk the team through / walk through） |
 | **separate** | 5 | 极高 | 2026-03-22 | 5 种句式全通关（含概念辨析）；精准区分 separate(独立性/专场) vs another(数量/又一个) |
+| **blurry** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；线上会议描述"模糊"的本能反应已建立 |
+| **key takeaways** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；`three key takeaways` 课文搭配已固化；Round 5 暴露 `had not took` 及 `would understood` 词形错误，闪电纠偏后修复 |
+| **take notes on** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；介词 `on` 悬空结构（Dangling Preposition）用得非常漂亮；`taken` 过去分词彻底掌握 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -317,6 +320,7 @@
 | 2026-03-19 | **45BEC Remaining + 46BEC Launch + Role-play** | ✅ | 完成 5 个语言点(23题)+概念辨析+Role-play。🏆 **Tag Question 全天零回退！Mixed Conditional 持续 100% 满分！** 🔴 troubleshooting 拼写第 3 次复发；yesterday+has been 时态不兼容再现。 |
 | 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play x2** | done | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play x2。条件句委婉逻辑觉醒！Mixed Conditional 持续满分！yesterday+has been 第4次复发；supposed 漏 d；shipped 漏双写 p |
 | 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | done | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
+| 2026-03-23 | **48BEC Deep + Role-play** | done | 闪电纠偏 1/3 (yesterday+tense 第5次复发！process/progress 第3次混淆！We+us 第3次复发)。完成 3 个语言点 (15题) + 闪电闪电纠偏 2/2 全胜 + Role-play。Tag Question 全天零回退！`taken` 过去分词及 `would+原形` 经纠偏后一次修复。🔴 `yesterday+has been` 已升级为最顽固缺口 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -440,6 +444,10 @@
 - [ ] **🔴 Subject-Verb Agreement (Indefinite Pronouns)**: `anything/everyone` 永远接单数动词 `is/does`。2026-03-16 新发现。
 - [ ] **🔴 Pronoun Agreement (it vs them)**: 复数名词 back-reference 需自动切换为 `them`。2026-03-16 再次出现。
 - [ ] **🔴 `provide` + with 脱敏**: 习惯写成 `provide us sth`，需强化 `provide us **with** sth` 肌肉记忆。2026-03-16 新发现。
+- [ ] **🔴 不规则动词过去分词 `take-took-taken`**: `had not took` ❌ → `had not taken` ✅。`had` 后必须接过去分词，非过去式。2026-03-23 新发现，闪电纠偏后修复。
+- [ ] **🔴 情态动词后必须接原形**: `would ... understood` ❌ → `would ... understand` ✅。`would/could/should` 后面必须接动词原形。2026-03-23 新发现，闪电纠偏后修复。
+- [ ] **`probably` 副词位置**: `would not probably` → `would probably not`。副词夹在助动词和否定词中间更自然。2026-03-23 新发现，闪电纠偏后修复。
+- [ ] **`take ownership of` vs `take responsibility`**: 主动揽活用 `take ownership of`；`take responsibility` 偏向承担责任/背锅。2026-03-23 新发现。
 ## 下一步计划 (Next Steps)
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
@@ -539,11 +547,15 @@
 95. [x] **条件句时态匹配抽查**: ~~随机插入 `If...` 结构，检查 `don't→will` / `didn't→would` 是否自动匹配。~~ done 2026-03-22 闪电纠偏中 `don't + will` 完美匹配。
 96. [ ] **介词 `for` 搭配**: `extra bits of work for sb`，`a challenge for sb`。
 97. [ ] **`after all` 实战应用**: 在下次 Role-play 中尝试主动使用 `After all,...` 作为论据强化。
-98. [ ] **48BEC 继续推进**: 完成 `blurry`、`key takeaways`、`take notes on` 的 5 次造句训练。
+98. [x] **48BEC 继续推进**: ~~完成 `blurry`、`key takeaways`、`take notes on` 的 5 次造句训练。~~ ✅ 2026-03-23 完成 3 个语言点 (15题) + 闪电纠偏 + Role-play。
 99. [ ] **🔴 重复助动词抽查**: 随机插入特殊疑问句，检查是否还会出现 `will ... will happen` 的重复。
-100. [ ] **🔴 `We + us` 主宾冲突抽查**: 在含 `walk through` 的句子中，当主语为 `We` 时，检查宾语是否还会使用 `us`。
+100. [ ] **🔴 `We + us` 主宾冲突抽查**: 在含 `walk through` 的句子中，当主语为 `We` 时，检查宾语是否还会使用 `us`。第 3 次复发 (03-23)。
 101. [ ] **🔴 `a vs an` 冠词抽查**: 随机插入含辅音开头名词的句子，检查冠词是否正确。
 102. [ ] **Mixed Conditional Type 2 vs Type 3 辨析**: 随机插入"现在的状态"与"过去的结果"的混合虚拟语气句子。
-103. [ ] **`yesterday + 时态` 持续验证**: 虽然 03-22 零回退，但鉴于此前第 4 次复发，仍需持续验证。
+103. [ ] **🔴🔴🔴 `yesterday + 时态` 地狱模式 (第5次复发!)**: 下次开场安排 5 题含 `yesterday/last week/back in` 的句子，强制检查时态。03-22 零回退后 03-23 立即反弹。
+104. [ ] **🔴 `process vs progress` 闪电对抗 (第3次复发!)**: 采用"强制对比暴露"策略，同一道题中同时出现两词。03-23 复发。
+105. [ ] **🔴 不规则动词过去分词专项**: 随机插入含 `take/taken`, `forget/forgotten`, `make/made` 的句子，检查 `had` 后是否自动接过去分词。
+106. [ ] **🔴 情态动词后接原形抽查**: 随机插入含 `would/could/should` 的句子，检查后面是否接动词原形。
+107. [ ] **49BEC 启动**: 进入 49BEC-175s 新模块。
 
 
