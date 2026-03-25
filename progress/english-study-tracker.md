@@ -259,6 +259,11 @@
 | **blurry** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；线上会议描述"模糊"的本能反应已建立 |
 | **key takeaways** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；`three key takeaways` 课文搭配已固化；Round 5 暴露 `had not took` 及 `would understood` 词形错误，闪电纠偏后修复 |
 | **take notes on** | 5 | 极高 | 2026-03-23 | 5 种句式全通关；介词 `on` 悬空结构（Dangling Preposition）用得非常漂亮；`taken` 过去分词彻底掌握 |
+| **keep (sb/sth) on track** | 5 | 极高 | 2026-03-25 | 彻底掌握议程控场句式；Mixed Conditional 满分 🏆；`face-to-face` 拼写需注意 |
+| **kick off with** | 5 | 极高 | 2026-03-25 | 掌握 `shall we` 反义疑问句变体；跨语言点复用 `real quick` 🌟 |
+| **hand over to** | 5 | 高 | 2026-03-25 | 攻克 `over 不是动词` 认知 🔴→修复；Mixed Conditional 今日最高光 🏆🏆🏆 |
+| **leave sth for** | 5 | 极高 | 2026-03-25 | 代词一致性精准；Mixed Conditional 连续满分 🏆 |
+| **be led by** | 5 | 高 | 2026-03-25 | 攻克 `to be led` 不定式被动结构 🔴→修复；虚拟语气 Type 2 主句时态需巩固 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -335,7 +340,19 @@
 - [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
 - [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
-- [x] **already vs earlier**: 已�- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
+- [x] **already vs earlier**: 已修复。
+- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
+- [x] **🔴🔴🔴 `yesterday + 时态` 搭配**: ~~明确过去时间 → 必须用简单过去时，不能用现在完成时~~。**2026-03-25 闪电纠偏零回退，第 6 次测试通过，正式锁定修复 🏆🏆🏆。**
+- [x] **🔴 `process vs progress` 混淆**: ~~process=过程/流程，progress=进展~~。**2026-03-25 闪电纠偏精准辨析，第 4 次测试通过，正式锁定修复 🏆。**
+- [x] **🔴 `We + us` 主宾冲突**: ~~主语 We 时宾语不能再用 us~~。**2026-03-25 闪电纠偏 `walk the team through` 零回退，第 4 次测试通过，正式锁定修复 🏆。**
+- [ ] **🔴 `over` 不是动词**: 不能直接说 `over the presentation to you`，必须搭配动词 `hand/pass/turn...over to`。2026-03-25 新发现。
+- [ ] **🔴 不定式被动语态 (`to be done`)**: `It is adj for sth to be done` 结构中 `to be` 不可省略，否则过去分词被理解为定语。2026-03-25 新发现，经讲解后修复，需防回退。
+- [ ] **🔴 虚拟语气 Type 3 主句 `would have done`**: 纯过去虚拟的结果句必须用 `would have + 过去分词`，不可降级为 `would + 原形`。2026-03-25 出现 1 次。
+- [ ] **🔴 虚拟语气 Type 2 主句 `would do`**: 对现在假设的结果句必须用 `would + 原形`，不可使用 `was/were`。2026-03-25 出现 1 次。
+- [ ] **`could not` 在否定陈述句中 = 过去不能**: 否定陈述句中 `could not` 优先理解为过去式。表达"现在不能"用 `cannot/can't`；委婉用 `I'm afraid I can't...`。2026-03-25 讲解掌握。
+- [ ] **`at last` vs `finally/lastly`**: `at last`=终于(带感情)，`finally/lastly`=最后(中性顺序词)。会议步骤用 finally。2026-03-25 新发现。
+- [ ] **`cross-functional` 后缀 `-al`**: 名词做形容词修饰另一名词需加 `-al`。2026-03-25 新发现。
+- [ ] **`face-to-face` 拼写**: 中间必须有 `to`，不可省为 `face-face`。2026-03-25 新发现。
 - [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
 - [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
 - [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。`market`。**2026-03-14 纠正后 03-15 复发**，未固化。。
@@ -549,9 +566,9 @@
 96. [ ] **介词 `for` 搭配**: `extra bits of work for sb`，`a challenge for sb`。
 97. [ ] **`after all` 实战应用**: 在下次 Role-play 中尝试主动使用 `After all,...` 作为论据强化。
 98. [x] **48BEC 继续推进**: ~~完成 `blurry`、`key takeaways`、`take notes on` 的 5 次造句训练。~~ ✅ 2026-03-23 完成 3 个语言点 (15题) + 闪电纠偏 + Role-play。
-99. [ ] **🔴 重复助动词抽查**: 随机插入特殊疑问句，检查是否还会出现 `will ... will happen` 的重复。
-100. [ ] **🔴 `We + us` 主宾冲突抽查**: 在含 `walk through` 的句子中，当主语为 `We` 时，检查宾语是否还会使用 `us`。第 3 次复发 (03-23)。
-101. [ ] **🔴 `a vs an` 冠词抽查**: 随机插入含辅音开头名词的句子，检查冠词是否正确。
+99. [x] **🔴 重复助动词抽查**: ~~随机插入特殊疑问句~~ ✅ 2026-03-25 闪电纠偏中 `what will happen` 零重复，锁定修复 🏆。
+100. [x] **🔴 `We + us` 主宾冲突抽查**: ~~当主语为 `We` 时检查宾语~~ ✅ 2026-03-25 闪电纠偏中 `walk the team through` 零回退，锁定修复 🏆。
+101. [x] **🔴 `a vs an` 冠词抽查**: ~~随机插入含辅音开头名词的句子~~ ✅ 2026-03-25 闪电纠偏中 `a separate requirement` 精准匹配，锁定修复 🏆。
 102. [ ] **Mixed Conditional Type 2 vs Type 3 辨析**: 随机插入"现在的状态"与"过去的结果"的混合虚拟语气句子。
 103. [x] **🔴🔴🔴 `yesterday + 时态`**: ~~地狱模式~~ ✅ 2026-03-25 闪电纠偏零回退，正式锁定修复 🏆。
 104. [x] **🔴 `process vs progress`**: ~~闪电对抗~~ ✅ 2026-03-25 精准辨析，正式锁定修复 🏆。
