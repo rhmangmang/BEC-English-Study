@@ -321,6 +321,7 @@
 | 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play x2** | done | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play x2。条件句委婉逻辑觉醒！Mixed Conditional 持续满分！yesterday+has been 第4次复发；supposed 漏 d；shipped 漏双写 p |
 | 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | done | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
 | 2026-03-23 | **48BEC Deep + Role-play** | done | 闪电纠偏 1/3 (yesterday+tense 第5次复发！process/progress 第3次混淆！We+us 第3次复发)。完成 3 个语言点 (15题) + 闪电闪电纠偏 2/2 全胜 + Role-play。Tag Question 全天零回退！`taken` 过去分词及 `would+原形` 经纠偏后一次修复。🔴 `yesterday+has been` 已升级为最顽固缺口 |
+| 2026-03-25 | **49BEC Launch + Role-play** | ✅ | 🏆🏆🏆 **历史性突破：闪电纠偏 5/5 全胜！** yesterday+时态、process/progress、We+us、a/an、will重复 5 项顽疾全部清零。完成 5 个语言点（25+题）+ 语法深度讲解(could 歧义, to be done 桥梁) + Role-play。Mixed Conditional 连续 2 次满分。Tag Question 全天零回退。🔴 新发现：`over` 不是动词；不定式被动 `to be done`；虚拟语气主句时态偏差 2 次。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -552,10 +553,15 @@
 100. [ ] **🔴 `We + us` 主宾冲突抽查**: 在含 `walk through` 的句子中，当主语为 `We` 时，检查宾语是否还会使用 `us`。第 3 次复发 (03-23)。
 101. [ ] **🔴 `a vs an` 冠词抽查**: 随机插入含辅音开头名词的句子，检查冠词是否正确。
 102. [ ] **Mixed Conditional Type 2 vs Type 3 辨析**: 随机插入"现在的状态"与"过去的结果"的混合虚拟语气句子。
-103. [ ] **🔴🔴🔴 `yesterday + 时态` 地狱模式 (第5次复发!)**: 下次开场安排 5 题含 `yesterday/last week/back in` 的句子，强制检查时态。03-22 零回退后 03-23 立即反弹。
-104. [ ] **🔴 `process vs progress` 闪电对抗 (第3次复发!)**: 采用"强制对比暴露"策略，同一道题中同时出现两词。03-23 复发。
+103. [x] **🔴🔴🔴 `yesterday + 时态`**: ~~地狱模式~~ ✅ 2026-03-25 闪电纠偏零回退，正式锁定修复 🏆。
+104. [x] **🔴 `process vs progress`**: ~~闪电对抗~~ ✅ 2026-03-25 精准辨析，正式锁定修复 🏆。
 105. [ ] **🔴 不规则动词过去分词专项**: 随机插入含 `take/taken`, `forget/forgotten`, `make/made` 的句子，检查 `had` 后是否自动接过去分词。
 106. [ ] **🔴 情态动词后接原形抽查**: 随机插入含 `would/could/should` 的句子，检查后面是否接动词原形。
-107. [ ] **49BEC 启动**: 进入 49BEC-175s 新模块。
+107. [x] **49BEC 启动**: ~~进入 49BEC-175s 新模块。~~ ✅ 2026-03-25 已完成全语言点造句 + Role-play。
+108. [ ] **🔴 不定式被动 `to be done` 防回退**: 穿插含 `It is adj for sth to be done` 的句子，检查 `to be` 是否自动补全。2026-03-25 新发现。
+109. [ ] **🔴 虚拟语气主句时态精准**: Type 2 主句用 `would + 原形`（非 was）；Type 3 主句用 `would have + 过去分词`（非 would + 原形）。2026-03-25 出现 2 次偏差。
+110. [ ] **`at last` vs `finally/lastly`**: 区分"终于(带感情)"与"会议顺序(中性)"。2026-03-25 新发现。
+111. [ ] **`cross-functional` 后缀 `-al`**: 形容词修饰名词需加 `-al`。2026-03-25 新发现。
+112. [ ] **50BEC 启动**: 进入 50BEC-176s 新模块。
 
 
