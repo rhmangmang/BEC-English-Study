@@ -264,6 +264,10 @@
 | **hand over to** | 5 | 高 | 2026-03-25 | 攻克 `over 不是动词` 认知 🔴→修复；Mixed Conditional 今日最高光 🏆🏆🏆 |
 | **leave sth for** | 5 | 极高 | 2026-03-25 | 代词一致性精准；Mixed Conditional 连续满分 🏆 |
 | **be led by** | 5 | 高 | 2026-03-25 | 攻克 `to be led` 不定式被动结构 🔴→修复；虚拟语气 Type 2 主句时态需巩固 |
+| **Technical Check** | 5 | 极高 | 2026-03-26 | 5 种句式全通关；区分 Technical Check vs Device Check；Mixed Conditional 满分 🏆 |
+| **Let me confirm** | 5 | 极高 | 2026-03-26 | 掌握职场万能确认句式；`awkward places with wording` 跨语言点复用 🌟；Mixed Conditional 满分 🏆 |
+| **Apologies for the delay** | 5 | 高 | 2026-03-26 | 掌握复数道歉地道用法；Tag 极性回退 1 次（`no` 隐性否定）；Mixed vs Type 3 混淆 1 次 |
+| **Technical glitch** | 5 | 高 | 2026-03-26 | 掌握"小故障"轻描淡写；暴露 `no any` 新缺口；`would be` 遗漏 1 次 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -327,6 +331,7 @@
 | 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | done | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
 | 2026-03-23 | **48BEC Deep + Role-play** | done | 闪电纠偏 1/3 (yesterday+tense 第5次复发！process/progress 第3次混淆！We+us 第3次复发)。完成 3 个语言点 (15题) + 闪电闪电纠偏 2/2 全胜 + Role-play。Tag Question 全天零回退！`taken` 过去分词及 `would+原形` 经纠偏后一次修复。🔴 `yesterday+has been` 已升级为最顽固缺口 |
 | 2026-03-25 | **49BEC Launch + Role-play** | ✅ | 🏆🏆🏆 **历史性突破：闪电纠偏 5/5 全胜！** yesterday+时态、process/progress、We+us、a/an、will重复 5 项顽疾全部清零。完成 5 个语言点（25+题）+ 语法深度讲解(could 歧义, to be done 桥梁) + Role-play。Mixed Conditional 连续 2 次满分。Tag Question 全天零回退。🔴 新发现：`over` 不是动词；不定式被动 `to be done`；虚拟语气主句时态偏差 2 次。 |
+| 2026-03-26 | **50BEC Launch + Role-play** | ✅ | 闪电纠偏 4.5/5（`over`词性/`to be done`桥梁/Type 3虚拟/`lastly`辨析 全修复；`cross-departmental`后缀未完全固化）。完成 4 个语言点(20题) + Role-play。Tag 极性回退 1 次（`no`隐性否定）；暴露 `no any` 叠加禁忌+`would`后漏`be`+Mixed vs Type 3 混淆 3 个新缺口。🔴 `about that` 从句退化再现。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -345,14 +350,18 @@
 - [x] **🔴🔴🔴 `yesterday + 时态` 搭配**: ~~明确过去时间 → 必须用简单过去时，不能用现在完成时~~。**2026-03-25 闪电纠偏零回退，第 6 次测试通过，正式锁定修复 🏆🏆🏆。**
 - [x] **🔴 `process vs progress` 混淆**: ~~process=过程/流程，progress=进展~~。**2026-03-25 闪电纠偏精准辨析，第 4 次测试通过，正式锁定修复 🏆。**
 - [x] **🔴 `We + us` 主宾冲突**: ~~主语 We 时宾语不能再用 us~~。**2026-03-25 闪电纠偏 `walk the team through` 零回退，第 4 次测试通过，正式锁定修复 🏆。**
-- [ ] **🔴 `over` 不是动词**: 不能直接说 `over the presentation to you`，必须搭配动词 `hand/pass/turn...over to`。2026-03-25 新发现。
-- [ ] **🔴 不定式被动语态 (`to be done`)**: `It is adj for sth to be done` 结构中 `to be` 不可省略，否则过去分词被理解为定语。2026-03-25 新发现，经讲解后修复，需防回退。
-- [ ] **🔴 虚拟语气 Type 3 主句 `would have done`**: 纯过去虚拟的结果句必须用 `would have + 过去分词`，不可降级为 `would + 原形`。2026-03-25 出现 1 次。
+- [x] **🔴 `over` 不是动词**: ~~不能直接说 `over the presentation to you`，必须搭配动词 `hand/pass/turn...over to`~~。**2026-03-26 闪电纠偏 `hand the meeting over to you` 零回退，正式锁定修复 🏆。**
+- [x] **🔴 不定式被动语态 (`to be done`)**: ~~`It is adj for sth to be done` 结构中 `to be` 不可省略~~。**2026-03-26 闪电纠偏 `to be completed` 零遗漏，桥梁结构已建立，正式锁定修复 🏆。**
+- [x] **🔴 虚拟语气 Type 3 主句 `would have done`**: ~~纯过去虚拟的结果句必须用 `would have + 过去分词`，不可降级为 `would + 原形`~~。**2026-03-26 闪电纠偏 `would have been finished` 精准匹配，正式锁定修复 🏆。**
 - [ ] **🔴 虚拟语气 Type 2 主句 `would do`**: 对现在假设的结果句必须用 `would + 原形`，不可使用 `was/were`。2026-03-25 出现 1 次。
 - [ ] **`could not` 在否定陈述句中 = 过去不能**: 否定陈述句中 `could not` 优先理解为过去式。表达"现在不能"用 `cannot/can't`；委婉用 `I'm afraid I can't...`。2026-03-25 讲解掌握。
-- [ ] **`at last` vs `finally/lastly`**: `at last`=终于(带感情)，`finally/lastly`=最后(中性顺序词)。会议步骤用 finally。2026-03-25 新发现。
-- [ ] **`cross-functional` 后缀 `-al`**: 名词做形容词修饰另一名词需加 `-al`。2026-03-25 新发现。
-- [ ] **`face-to-face` 拼写**: 中间必须有 `to`，不可省为 `face-face`。2026-03-25 新发现。
+- [x] **`at last` vs `finally/lastly`**: ~~`at last`=终于(带感情)，`finally/lastly`=最后(中性顺序词)~~。**2026-03-26 闪电纠偏 `Lastly` 精准使用，零回退，正式锁定修复 🏆。**
+- [ ] **`cross-functional` 后缀 `-al`**: 名词做形容词修饰另一名词需加 `-al`。2026-03-25 新发现。**2026-03-26 闪电纠偏中 `cross-department` 仍未加 `-al`，未完全固化。**
+- [x] **`face-to-face` 拼写**: ~~中间必须有 `to`，不可省为 `face-face`~~。**2026-03-26 闪电纠偏 `face to face` 中间 `to` 零遗漏，正式锁定修复 🏆。**
+- [ ] **🔴 `no any` 叠加禁忌**: `no` + 名词 或 `not any` + 名词 是两种互斥的否定方式，不可混搭 (`There are no any delays` ❌)。2026-03-26 新发现。
+- [ ] **🔴 `would` 后必须跟动词**: `we would already on...` ❌ → `would` 后面必须有动词原形（如 `be`）。2026-03-26 新发现。
+- [ ] **🔴 Mixed vs Type 3 结果句区分**: 过去没做→**现在**没结果 = `would + 原形` (Mixed)；过去没做→**过去**没发生 = `would have + pp` (Type 3)。翻译前先判断"结果是现在还是过去"。2026-03-26 出现 1 次混淆。
+- [ ] **`about that` 从句退化**: `it's about that...` ❌ → 介词后用动名词 `about sb doing` 或换用 `because` 从句。历史遗留。2026-03-26 再次复发。
 - [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
 - [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
 - [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。`market`。**2026-03-14 纠正后 03-15 复发**，未固化。。
@@ -575,10 +584,16 @@
 105. [ ] **🔴 不规则动词过去分词专项**: 随机插入含 `take/taken`, `forget/forgotten`, `make/made` 的句子，检查 `had` 后是否自动接过去分词。
 106. [ ] **🔴 情态动词后接原形抽查**: 随机插入含 `would/could/should` 的句子，检查后面是否接动词原形。
 107. [x] **49BEC 启动**: ~~进入 49BEC-175s 新模块。~~ ✅ 2026-03-25 已完成全语言点造句 + Role-play。
-108. [ ] **🔴 不定式被动 `to be done` 防回退**: 穿插含 `It is adj for sth to be done` 的句子，检查 `to be` 是否自动补全。2026-03-25 新发现。
-109. [ ] **🔴 虚拟语气主句时态精准**: Type 2 主句用 `would + 原形`（非 was）；Type 3 主句用 `would have + 过去分词`（非 would + 原形）。2026-03-25 出现 2 次偏差。
-110. [ ] **`at last` vs `finally/lastly`**: 区分"终于(带感情)"与"会议顺序(中性)"。2026-03-25 新发现。
-111. [ ] **`cross-functional` 后缀 `-al`**: 形容词修饰名词需加 `-al`。2026-03-25 新发现。
-112. [ ] **50BEC 启动**: 进入 50BEC-176s 新模块。
+108. [x] **🔴 不定式被动 `to be done` 防回退**: ~~穿插含 `It is adj for sth to be done` 的句子~~ ✅ 2026-03-26 闪电纠偏 `to be completed` 零遗漏，锁定修复 🏆。
+109. [ ] **🔴 虚拟语气主句时态精准**: Type 2 主句用 `would + 原形`（非 was）；Type 3 主句用 `would have + 过去分词`（非 would + 原形）。2026-03-25 出现 2 次偏差。2026-03-26 Type 3 闪电纠偏修复；Mixed vs Type 3 结果句混淆 1 次。
+110. [x] **`at last` vs `finally/lastly`**: ~~区分"终于(带感情)"与"会议顺序(中性)"~~ ✅ 2026-03-26 闪电纠偏 `Lastly` 零回退，锁定修复 🏆。
+111. [ ] **`cross-functional` 后缀 `-al`**: 形容词修饰名词需加 `-al`。2026-03-25 新发现。2026-03-26 `cross-department` 仍未加 `-al`。
+112. [x] **50BEC 启动**: ~~进入 50BEC-176s 新模块。~~ ✅ 2026-03-26 已完成全语言点造句 + Role-play。
+113. [ ] **51BEC 启动**: 进入 51BEC-1s 新模块。
+114. [ ] **🔴 `no` 隐性否定 Tag 极性闪电纠偏**: 下次开场安排 3 题含 `no/not/never` 的 Tag Question，强制扫描否定词后选择肯定 Tag。
+115. [ ] **🔴 `no any` 叠加禁忌闪电纠偏**: 下次随机插入 2 题含 `no + 名词` 和 `not any + 名词` 的句子，检查是否自动避免叠加。
+116. [ ] **🔴 `would + 动词原形` 完整性抽查**: 随机插入含 `would` 的 Mixed Conditional 句子，检查 `be` 是否自动补全。
+117. [ ] **🔴 Mixed vs Type 3 结果句辨析**: 随机插入"过去→现在"和"过去→过去"的句子，要求先判断"结果是现在还是过去"再翻译。
+118. [ ] **`about that` 从句替代训练**: 随机插入含 `about` 的句子，检查是否自动使用动名词或 `because` 从句。
 
 
