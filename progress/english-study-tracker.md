@@ -270,6 +270,11 @@
 | **Technical glitch** | 5 | 高 | 2026-03-26 | 掌握"小故障"轻描淡写；暴露 `no any` 新缺口；`would be` 遗漏 1 次 |
 | **convene** | 5 | 极高 | 2026-03-27 | 5 种句式全通关；掌握不及物用法(会议做主语)；Type 3 虚拟 `had been convened` 满分 |
 | **is being held** | 5 | 极高 | 2026-03-27 | 5 种句式全通关；掌握当下正在进行被动灵魂；Tag Question 零回退 |
+| **boost** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；精准区分 boost(规模) vs enhance(质量)；Tag 代词 `sales→they` 匹配失败 1 次 |
+| **talk sb through sth** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；`have to` Tag 连续零回退 🏆；掌握 yourself vs by yourself 辨析 |
+| **in the field / field engineer** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；掌握 Even though...due to... 多重逻辑句式；情态动词+原形 1 次回退 |
+| **in person** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；介词 `on Teams` 当日修复；四词串联零瑕疵 🏆 |
+| **I'm here with somebody** | 3 | 高 | 2026-03-30 | 3/5 完成(否定+特殊疑问+反义疑问全满分)；选择+虚拟待完成 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -335,6 +340,8 @@
 | 2026-03-25 | **49BEC Launch + Role-play** | ✅ | 🏆🏆🏆 **历史性突破：闪电纠偏 5/5 全胜！** yesterday+时态、process/progress、We+us、a/an、will重复 5 项顽疾全部清零。完成 5 个语言点（25+题）+ 语法深度讲解(could 歧义, to be done 桥梁) + Role-play。Mixed Conditional 连续 2 次满分。Tag Question 全天零回退。🔴 新发现：`over` 不是动词；不定式被动 `to be done`；虚拟语气主句时态偏差 2 次。 |
 | 2026-03-26 | **50BEC Launch + Role-play** | ✅ | 闪电纠偏 4.5/5（`over`词性/`to be done`桥梁/Type 3虚拟/`lastly`辨析 全修复；`cross-departmental`后缀未完全固化）。完成 4 个语言点(20题) + Role-play。Tag 极性回退 1 次（`no`隐性否定）；暴露 `no any` 叠加禁忌+`would`后漏`be`+Mixed vs Type 3 混淆 3 个新缺口。🔴 `about that` 从句退化再现。 |
 | 2026-03-27 | **51BEC Launch + Concept Analysis + Role-play** | ✅ | 完成 2 个语言点(10题) + 3 组概念辨析(Request vs Requirement, Already+进行时, Cost/Costs) + Role-play。🏆 **Tag Question 全天零回退！虚拟语气 Type 2+3 全满分！跨语言点复用 5 处(Technical Check/Basically/Note that/Over the course of/As requested by)惊艳。** 🔴 `committee` 拼写；`quarterly` 词形；Role-play 遗漏 `is being held`。 |
+| 2026-03-29 | **52BEC Full Completion + Concept Analysis + Role-play** | ✅ | 闪电纠偏 4.5/5（`on Teams` 介词回退 1 次）。完成 4 个语言点(20题) + 2 组概念辨析(yourself vs by yourself, Polite Subjunctive) + Role-play。🏆 **`have to` Tag 连续零回退！Mixed Conditional 持续满分！** 掌握虚拟语气"礼貌距离感"概念。🔴 Tag 代词匹配(`sales→they`)复发；`flashlight`/`headquarters` 词汇混淆；Role-play 遗漏 `in person`/`in the field`；情态动词+原形(`could not dispatched`)复发 1 次。 |
+| 2026-03-30 | **Flash Correct + 53BEC Launch** | ✅ | 🏆🏆🏆 **闪电纠偏 5/5 全胜！** 情态动词原形/冠词/Mixed Conditional/Tag极性/yourself辨析 全部一次通过。完成 `I'm here with somebody` 3/5 题（否定+特殊疑问+反义疑问全满分）。全天零重大错误，近期表现最稳定的一天。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -594,14 +601,22 @@
 112. [x] **50BEC 启动**: ~~进入 50BEC-176s 新模块。~~ ✅ 2026-03-26 已完成全语言点造句 + Role-play。
 113. [x] **51BEC 启动**: ~~进入 51BEC-1s 新模块。~~ Done 2026-03-27 完成 convene + is being held + 概念辨析 + Role-play。
 114. [ ] **🔴 `no` 隐性否定 Tag 极性闪电纠偏**: 下次开场安排 3 题含 `no/not/never` 的 Tag Question，强制扫描否定词后选择肯定 Tag。
-115. [ ] **🔴 `no any` 叠加禁忌闪电纠偏**: 下次随机插入 2 题含 `no + 名词` 和 `not any + 名词` 的句子，检查是否自动避免叠加。
-116. [ ] **🔴 `would + 动词原形` 完整性抽查**: 随机插入含 `would` 的 Mixed Conditional 句子，检查 `be` 是否自动补全。
-117. [ ] **🔴 Mixed vs Type 3 结果句辨析**: 随机插入"过去→现在"和"过去→过去"的句子，要求先判断"结果是现在还是过去"再翻译。
+115. [x] **🔴 `no any` 叠加禁忌闪电纠偏**: ~~下次随机插入 2 题含 `no + 名词` 和 `not any + 名词` 的句子~~ ✅ 2026-03-29 闪电纠偏 `don't have any` 零回退，锁定修复 🏆。
+116. [ ] **🔴 `would + 动词原形` 完整性抽查**: 随机插入含 `would` 的 Mixed Conditional 句子，检查 `be` 是否自动补全。2026-03-29 `would already discuss` → 应为 `would already be discussing`，未完全固化。
+117. [x] **🔴 Mixed vs Type 3 结果句辨析**: ~~随机插入"过去→现在"和"过去→过去"的句子~~ ✅ 2026-03-29 闪电纠偏精准判断`过去→过去` = Type 3 `would have convened`，锁定修复 🏆。
 118. [ ] **`about that` 从句替代训练**: 随机插入含 `about` 的句子，检查是否自动使用动名词或 `because` 从句。
-119. [ ] **52BEC 启动**: 进入 52BEC-5s 新模块。
-120. [ ] **`committee` 拼写抽查**: 随机插入含 committee 的句子，检查双 M/双 T/双 E 是否固化。
-121. [ ] **`quarterly/weekly/monthly` 词形抽查**: 检查 "-ly" 形容词是否自动补全。
-122. [ ] **`on + 平台` 介词抽查**: 随机插入含 Teams/Zoom/Slack 的句子，检查介词 `on` 是否自动选择。
-123. [ ] **Role-play 核心语言点清单制度**: 在 Role-play 开始前先列出锁定词清单，避免遗漏。
+119. [x] **52BEC 启动**: ~~进入 52BEC-5s 新模块。~~ ✅ 2026-03-29 完成 4 个语言点(20题) + 概念辨析 + Role-play。
+120. [x] **`committee` 拼写抽查**: ~~随机插入含 committee 的句子~~ ✅ 2026-03-29 闪电纠偏 `committee` 拼写正确，锁定修复 🏆。
+121. [x] **`quarterly/weekly/monthly` 词形抽查**: ~~检查 "-ly" 形容词是否自动补全~~ ✅ 2026-03-29 闪电纠偏 `quarterly` 词形正确，锁定修复 🏆。
+122. [ ] **`on + 平台` 介词抽查**: 随机插入含 Teams/Zoom/Slack 的句子，检查介词 `on` 是否自动选择。2026-03-29 闪电纠偏回退 1 次（`in Teams`），但造句训练中已自我修正。
+123. [ ] **Role-play 核心语言点清单制度**: 在 Role-play 开始前先列出锁定词清单，避免遗漏。2026-03-29 再次遗漏 `in person`/`in the field`（连续 2 次）。
+124. [x] **53BEC 启动**: ~~进入 53BEC-6s 新模块。~~ ✅ 2026-03-30 完成 `I'm here with somebody` 3/5 题。
+125. [ ] **53BEC 继续推进**: 完成 `I'm here with somebody` 剩余选择疑问句 + 虚拟语气（Round 4-5）。
+126. [ ] **54BEC 启动**: 进入 54BEC-7s 新模块（pick your brain, cohort, go remote, fly sb out 等）。
+127. [ ] **🔴 `flashlight` vs `flashing light` 闪电纠偏**: 随机插入含"报警灯"的句子，检查是否自动使用 `flashing light`。
+128. [ ] **🔴 `headquarters` vs `quarters` 闪电纠偏**: 随机插入含"总部"的句子，检查是否自动使用 `headquarters` / `HQ`。
+129. [ ] **🔴 Tag 代词匹配 (复数名词→they)**: 随机插入含复数名词的 Tag Question，检查代词是否自动匹配。2026-03-29 `sales→it` 复发。
+130. [ ] **Polite Subjunctive 实战应用**: 在下次 Role-play 中设置"向领导提建议"场景，检查是否主动使用 `could... would`。
+131. [ ] **🔴 情态动词+原形抽查**: 随机插入含 `could/should/would` 的句子，检查是否自动接原形。2026-03-29 `could not dispatched` 复发 1 次，03-30 闪电纠偏修复。
 
 
