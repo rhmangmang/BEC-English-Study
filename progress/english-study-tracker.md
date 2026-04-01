@@ -274,7 +274,12 @@
 | **talk sb through sth** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；`have to` Tag 连续零回退 🏆；掌握 yourself vs by yourself 辨析 |
 | **in the field / field engineer** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；掌握 Even though...due to... 多重逻辑句式；情态动词+原形 1 次回退 |
 | **in person** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；介词 `on Teams` 当日修复；四词串联零瑕疵 🏆 |
-| **I'm here with somebody** | 3 | 高 | 2026-03-30 | 3/5 完成(否定+特殊疑问+反义疑问全满分)；选择+虚拟待完成 |
+| **I'm here with somebody** | 5 | 极高 | 2026-04-01 | 5/5 全通关；选择+虚拟语气满分 |
+| **get onboarded** | 5 | 极高 | 2026-04-01 | 拼写从拆写到连写当日修复；backlog 不可数需注意 |
+| **head up** | 5 | 极高 | 2026-04-01 | 率领/主管搭配；Tag 助动词错配 1 次(Since 从句干扰) |
+| **become successful doing** | 5 | 高 | 2026-04-01 | 分词状语结构掌握；consider doing 搭配暴露新缺口 |
+| **pick your brain** | 5 | 极高 | 2026-04-01 | about sth 介词搭配；Type 3 虚拟中融合完美 🏆 |
+| **cohort** | 5 | 高 | 2026-04-01 | 一批/一届搭配；`no that` 叠加禁忌为新发现 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -342,6 +347,7 @@
 | 2026-03-27 | **51BEC Launch + Concept Analysis + Role-play** | ✅ | 完成 2 个语言点(10题) + 3 组概念辨析(Request vs Requirement, Already+进行时, Cost/Costs) + Role-play。🏆 **Tag Question 全天零回退！虚拟语气 Type 2+3 全满分！跨语言点复用 5 处(Technical Check/Basically/Note that/Over the course of/As requested by)惊艳。** 🔴 `committee` 拼写；`quarterly` 词形；Role-play 遗漏 `is being held`。 |
 | 2026-03-29 | **52BEC Full Completion + Concept Analysis + Role-play** | ✅ | 闪电纠偏 4.5/5（`on Teams` 介词回退 1 次）。完成 4 个语言点(20题) + 2 组概念辨析(yourself vs by yourself, Polite Subjunctive) + Role-play。🏆 **`have to` Tag 连续零回退！Mixed Conditional 持续满分！** 掌握虚拟语气"礼貌距离感"概念。🔴 Tag 代词匹配(`sales→they`)复发；`flashlight`/`headquarters` 词汇混淆；Role-play 遗漏 `in person`/`in the field`；情态动词+原形(`could not dispatched`)复发 1 次。 |
 | 2026-03-30 | **Flash Correct + 53BEC Launch** | ✅ | 🏆🏆🏆 **闪电纠偏 5/5 全胜！** 情态动词原形/冠词/Mixed Conditional/Tag极性/yourself辨析 全部一次通过。完成 `I'm here with somebody` 3/5 题（否定+特殊疑问+反义疑问全满分）。全天零重大错误，近期表现最稳定的一天。 |
+| 2026-04-01 | **53BEC Complete + 54BEC Launch + Role-play** | ✅ | 闪电纠偏 1.5/2 (`flashing light` 满分锁定🏆; `in person` 漏译)。53BEC 完结 4 个语言点 (I'm here with sb, get onboarded, head up, become successful doing) + Role-play。54BEC 启动 2 个语言点 (pick your brain, cohort)。🏆 Mixed Conditional 持续 100% 满分。🔴 Tag 极性回退 2 次 (Since 从句干扰)；暴露 `consider doing`/`let sb do`/`no that` 3 个新缺口。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -611,12 +617,18 @@
 122. [ ] **`on + 平台` 介词抽查**: 随机插入含 Teams/Zoom/Slack 的句子，检查介词 `on` 是否自动选择。2026-03-29 闪电纠偏回退 1 次（`in Teams`），但造句训练中已自我修正。
 123. [ ] **Role-play 核心语言点清单制度**: 在 Role-play 开始前先列出锁定词清单，避免遗漏。2026-03-29 再次遗漏 `in person`/`in the field`（连续 2 次）。
 124. [x] **53BEC 启动**: ~~进入 53BEC-6s 新模块。~~ ✅ 2026-03-30 完成 `I'm here with somebody` 3/5 题。
-125. [ ] **53BEC 继续推进**: 完成 `I'm here with somebody` 剩余选择疑问句 + 虚拟语气（Round 4-5）。
-126. [ ] **54BEC 启动**: 进入 54BEC-7s 新模块（pick your brain, cohort, go remote, fly sb out 等）。
-127. [ ] **🔴 `flashlight` vs `flashing light` 闪电纠偏**: 随机插入含"报警灯"的句子，检查是否自动使用 `flashing light`。
-128. [ ] **🔴 `headquarters` vs `quarters` 闪电纠偏**: 随机插入含"总部"的句子，检查是否自动使用 `headquarters` / `HQ`。
-129. [ ] **🔴 Tag 代词匹配 (复数名词→they)**: 随机插入含复数名词的 Tag Question，检查代词是否自动匹配。2026-03-29 `sales→it` 复发。
+125. [x] **53BEC 继续推进**: ~~完成 `I'm here with somebody` 剩余选择疑问句 + 虚拟语气（Round 4-5）。~~ ✅ 2026-04-01 完成。
+126. [x] **54BEC 启动**: ~~进入 54BEC-7s 新模块。~~ ✅ 2026-04-01 完成 pick your brain + cohort。
+127. [x] **🔴 `flashlight` vs `flashing light` 闪电纠偏**: ~~随机插入含"报警灯"的句子~~ ✅ 2026-04-01 `flashing light` 满分，锁定修复 🏆。
+128. [x] **🔴 `headquarters` vs `quarters` 闪电纠偏**: ~~随机插入含"总部"的句子~~ ✅ 2026-04-01 `headquarters` 拼写正确，锁定修复 🏆。
+129. [ ] **🔴 Tag 代词匹配 (复数名词→they)**: 随机插入含复数名词的 Tag Question，检查代词是否自动匹配。2026-03-29 `sales→it` 复发。2026-04-01 `all engineers→he` 复发。
 130. [ ] **Polite Subjunctive 实战应用**: 在下次 Role-play 中设置"向领导提建议"场景，检查是否主动使用 `could... would`。
-131. [ ] **🔴 情态动词+原形抽查**: 随机插入含 `could/should/would` 的句子，检查是否自动接原形。2026-03-29 `could not dispatched` 复发 1 次，03-30 闪电纠偏修复。
+131. [x] **🔴 情态动词+原形抽查**: ~~随机插入含 `could/should/would` 的句子~~ ✅ 2026-03-30 闪电纠偏修复，2026-04-01 未复发。
+132. [ ] **🔴 `consider doing` 闪电纠偏**: 随机插入 2 题含 `consider` 的句子，强制检查后面是否接 `-ing` 形式。2026-04-01 新发现。
+133. [ ] **🔴 `let sb do` (无 to) 闪电纠偏**: 随机插入 2 题含 `let/make/have` 的使役结构，检查是否自动省略 `to`。2026-04-01 新发现。
+134. [ ] **🔴 `no + that` 叠加禁忌闪电纠偏**: 随机插入 1 题含否定限定词的句子，检查是否避免 `no that/this` 叠加。2026-04-01 新发现。
+135. [ ] **54BEC 继续推进**: 完成 `fly somebody out` 的 5 次造句训练 + `go remote`, `a moment of panic`, `frantically` 等语言点。
+136. [ ] **⚠️ `this morning + 时态` 抽查**: 与 `yesterday + 时态` 同类缺口，随机插入含明确过去时间的句子。2026-04-01 Role-play 中暴露。
+137. [ ] **Tag 缩写规则巩固**: 确保 `cannot he` → `can't he` 的缩写意识固化。2026-04-01 新发现。
 
 
