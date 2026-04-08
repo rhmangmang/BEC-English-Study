@@ -280,6 +280,8 @@
 | **become successful doing** | 5 | 高 | 2026-04-01 | 分词状语结构掌握；consider doing 搭配暴露新缺口 |
 | **pick your brain** | 5 | 极高 | 2026-04-01 | about sth 介词搭配；Type 3 虚拟中融合完美 🏆 |
 | **cohort** | 5 | 高 | 2026-04-01 | 一批/一届搭配；`no that` 叠加禁忌为新发现 |
+| **go remote** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`go fully remote` 副词位置已自动修正 🏆 |
+| **a moment of panic** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`in a moment of panic` 介词搭配已自动修正 🏆 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -348,6 +350,7 @@
 | 2026-03-29 | **52BEC Full Completion + Concept Analysis + Role-play** | ✅ | 闪电纠偏 4.5/5（`on Teams` 介词回退 1 次）。完成 4 个语言点(20题) + 2 组概念辨析(yourself vs by yourself, Polite Subjunctive) + Role-play。🏆 **`have to` Tag 连续零回退！Mixed Conditional 持续满分！** 掌握虚拟语气"礼貌距离感"概念。🔴 Tag 代词匹配(`sales→they`)复发；`flashlight`/`headquarters` 词汇混淆；Role-play 遗漏 `in person`/`in the field`；情态动词+原形(`could not dispatched`)复发 1 次。 |
 | 2026-03-30 | **Flash Correct + 53BEC Launch** | ✅ | 🏆🏆🏆 **闪电纠偏 5/5 全胜！** 情态动词原形/冠词/Mixed Conditional/Tag极性/yourself辨析 全部一次通过。完成 `I'm here with somebody` 3/5 题（否定+特殊疑问+反义疑问全满分）。全天零重大错误，近期表现最稳定的一天。 |
 | 2026-04-01 | **53BEC Complete + 54BEC Launch + Role-play** | ✅ | 闪电纠偏 1.5/2 (`flashing light` 满分锁定🏆; `in person` 漏译)。53BEC 完结 4 个语言点 (I'm here with sb, get onboarded, head up, become successful doing) + Role-play。54BEC 启动 2 个语言点 (pick your brain, cohort)。🏆 Mixed Conditional 持续 100% 满分。🔴 Tag 极性回退 2 次 (Since 从句干扰)；暴露 `consider doing`/`let sb do`/`no that` 3 个新缺口。 |
+| 2026-04-08 | **54BEC Deep (go remote + a moment of panic)** | ✅ | 闪电纠偏 1.5/3（`consider doing` 满分锁定🏆；`not such`偏生硬+主谓不一致；Tag 极性回退 1 次）。完成 2 个语言点(10题)。🏆 **Tag 极性造句训练中连续 6 次零回退！** Mixed Conditional 持续满分。`in a moment of panic` 介词搭配当日自动修正。🔴 `no such` 固定搭配待强化。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -624,11 +627,13 @@
 129. [ ] **🔴 Tag 代词匹配 (复数名词→they)**: 随机插入含复数名词的 Tag Question，检查代词是否自动匹配。2026-03-29 `sales→it` 复发。2026-04-01 `all engineers→he` 复发。
 130. [ ] **Polite Subjunctive 实战应用**: 在下次 Role-play 中设置"向领导提建议"场景，检查是否主动使用 `could... would`。
 131. [x] **🔴 情态动词+原形抽查**: ~~随机插入含 `could/should/would` 的句子~~ ✅ 2026-03-30 闪电纠偏修复，2026-04-01 未复发。
-132. [ ] **🔴 `consider doing` 闪电纠偏**: 随机插入 2 题含 `consider` 的句子，强制检查后面是否接 `-ing` 形式。2026-04-01 新发现。
-133. [ ] **🔴 `let sb do` (无 to) 闪电纠偏**: 随机插入 2 题含 `let/make/have` 的使役结构，检查是否自动省略 `to`。2026-04-01 新发现。
-134. [ ] **🔴 `no + that` 叠加禁忌闪电纠偏**: 随机插入 1 题含否定限定词的句子，检查是否避免 `no that/this` 叠加。2026-04-01 新发现。
-135. [ ] **54BEC 继续推进**: 完成 `fly somebody out` 的 5 次造句训练 + `go remote`, `a moment of panic`, `frantically` 等语言点。
-136. [ ] **⚠️ `this morning + 时态` 抽查**: 与 `yesterday + 时态` 同类缺口，随机插入含明确过去时间的句子。2026-04-01 Role-play 中暴露。
+132. [x] **🔴 `consider doing` 闪电纠偏**: ~~随机插入 2 题含 `consider` 的句子~~ ✅ 2026-04-08 闪电纠偏 `considered promoting` 一次性满分，正式锁定修复 🏆。
+133. [x] **🔴 `let sb do` (无 to) 闪电纠偏**: ~~随机插入 2 题含 `let/make/have` 的使役结构~~ ✅ 2026-04-08 造句训练 `letting them be on site` 完美避开 `to` 陷阱，实战验证通过 🏆。
+134. [ ] **🔴 `no such` 固定搭配强化**: `not such` 偏生硬，需强化 `no such + 名词` 的地道用法。2026-04-01 `no that` 叠加禁忌已避开，但 2026-04-08 `not such` 仍不够自然。
+135. [ ] **54BEC 继续推进**: 完成 `frantically` 的 5 次造句训练（Round 1 已出题未完成）+ `fly somebody out`, `slacking sb`, `bring people on`, `with everything happening` 等语言点。
+136. [x] **⚠️ `this morning + 时态` 抽查**: ~~与 `yesterday + 时态` 同类缺口~~ ✅ 2026-04-08 闪电纠偏 `this morning` + `finished`（过去时）零犹豫选对，正式锁定修复 🏆。
 137. [ ] **Tag 缩写规则巩固**: 确保 `cannot he` → `can't he` 的缩写意识固化。2026-04-01 新发现。
+138. [ ] **🔴 `no such` 闪电纠偏**: 随机插入 2 题含 `no such + 名词` 的句子，替代 `not such` 的生硬用法。2026-04-08 新发现。
+139. [ ] **单复数一致性抽查 (two + 复数)**: 随机插入含 `two/several/many` 的句子，检查名词是否自动匹配复数。2026-04-08 `two glitch` 复发。
 
 
