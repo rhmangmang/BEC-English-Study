@@ -282,6 +282,9 @@
 | **cohort** | 5 | 高 | 2026-04-01 | 一批/一届搭配；`no that` 叠加禁忌为新发现 |
 | **go remote** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`go fully remote` 副词位置已自动修正 🏆 |
 | **a moment of panic** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`in a moment of panic` 介词搭配已自动修正 🏆 |
+| **frantically** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；Mixed Conditional 中融合完美；Round 2 首次漏用后修正 |
+| **fly somebody out** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；宾语位置灵活；Type 2 虚拟满分 |
+| **bring people on** | 5 | 高 | 2026-04-09 | 核心用法掌握；暴露 bought/brought 混淆+情态动词后接原形复发；修正后通关 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -351,6 +354,7 @@
 | 2026-03-30 | **Flash Correct + 53BEC Launch** | ✅ | 🏆🏆🏆 **闪电纠偏 5/5 全胜！** 情态动词原形/冠词/Mixed Conditional/Tag极性/yourself辨析 全部一次通过。完成 `I'm here with somebody` 3/5 题（否定+特殊疑问+反义疑问全满分）。全天零重大错误，近期表现最稳定的一天。 |
 | 2026-04-01 | **53BEC Complete + 54BEC Launch + Role-play** | ✅ | 闪电纠偏 1.5/2 (`flashing light` 满分锁定🏆; `in person` 漏译)。53BEC 完结 4 个语言点 (I'm here with sb, get onboarded, head up, become successful doing) + Role-play。54BEC 启动 2 个语言点 (pick your brain, cohort)。🏆 Mixed Conditional 持续 100% 满分。🔴 Tag 极性回退 2 次 (Since 从句干扰)；暴露 `consider doing`/`let sb do`/`no that` 3 个新缺口。 |
 | 2026-04-08 | **54BEC Deep (go remote + a moment of panic)** | ✅ | 闪电纠偏 1.5/3（`consider doing` 满分锁定🏆；`not such`偏生硬+主谓不一致；Tag 极性回退 1 次）。完成 2 个语言点(10题)。🏆 **Tag 极性造句训练中连续 6 次零回退！** Mixed Conditional 持续满分。`in a moment of panic` 介词搭配当日自动修正。🔴 `no such` 固定搭配待强化。 |
+| 2026-04-09 | **54BEC Deep (frantically + fly out + bring on)** | ✅ | 闪电纠偏 1.5/2（`no such` 满分锁定🏆；`such two` 词序不地道）。完成 3 个语言点(15题) + 2 组概念辨析。🏆 **Tag Question 全天零回退！Mixed Conditional 持续满分！** `had had to` 高难度结构完美。🔴 `bought/brought` 混淆+情态动词后接原形再次复发。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -629,11 +633,15 @@
 131. [x] **🔴 情态动词+原形抽查**: ~~随机插入含 `could/should/would` 的句子~~ ✅ 2026-03-30 闪电纠偏修复，2026-04-01 未复发。
 132. [x] **🔴 `consider doing` 闪电纠偏**: ~~随机插入 2 题含 `consider` 的句子~~ ✅ 2026-04-08 闪电纠偏 `considered promoting` 一次性满分，正式锁定修复 🏆。
 133. [x] **🔴 `let sb do` (无 to) 闪电纠偏**: ~~随机插入 2 题含 `let/make/have` 的使役结构~~ ✅ 2026-04-08 造句训练 `letting them be on site` 完美避开 `to` 陷阱，实战验证通过 🏆。
-134. [ ] **🔴 `no such` 固定搭配强化**: `not such` 偏生硬，需强化 `no such + 名词` 的地道用法。2026-04-01 `no that` 叠加禁忌已避开，但 2026-04-08 `not such` 仍不够自然。
-135. [ ] **54BEC 继续推进**: 完成 `frantically` 的 5 次造句训练（Round 1 已出题未完成）+ `fly somebody out`, `slacking sb`, `bring people on`, `with everything happening` 等语言点。
+134. [x] **🔴 `no such` 固定搭配强化**: ~~`not such` 偏生硬~~ ✅ 2026-04-09 闪电纠偏 `no such decision` 满分，正式锁定修复 🏆。
+135. [ ] **54BEC 继续推进**: 完成 `with everything happening` 的 5 次造句训练 + 剩余语言点。
 136. [x] **⚠️ `this morning + 时态` 抽查**: ~~与 `yesterday + 时态` 同类缺口~~ ✅ 2026-04-08 闪电纠偏 `this morning` + `finished`（过去时）零犹豫选对，正式锁定修复 🏆。
 137. [ ] **Tag 缩写规则巩固**: 确保 `cannot he` → `can't he` 的缩写意识固化。2026-04-01 新发现。
-138. [ ] **🔴 `no such` 闪电纠偏**: 随机插入 2 题含 `no such + 名词` 的句子，替代 `not such` 的生硬用法。2026-04-08 新发现。
-139. [ ] **单复数一致性抽查 (two + 复数)**: 随机插入含 `two/several/many` 的句子，检查名词是否自动匹配复数。2026-04-08 `two glitch` 复发。
+138. [x] **🔴 `no such` 闪电纠偏**: ~~随机插入 2 题~~ ✅ 2026-04-09 闪电纠偏 `no such decision` 满分，正式锁定修复 🏆。
+139. [x] **单复数一致性抽查 (two + 复数)**: ~~随机插入含 `two/several/many` 的句子~~ ✅ 2026-04-09 `two glitches` 复数正确，锁定修复 🏆。
+140. [ ] **🔴 `bought` vs `brought` 闪电纠偏**: 随机插入 2-3 题含 `bring/brought` 和 `buy/bought` 的句子，强化近形词肌肉记忆。2026-04-09 新发现。
+141. [ ] **🔴 情态动词后接原形抽查 (再次复发)**: `Should we brought on` 再次复发。2026-04-09。
+142. [ ] **`call` 及物动词验证**: 随机插入含 `call` 的句子，检查是否还会加 `to`。2026-04-09 `calling to` 已纠正。
+143. [ ] **`save` 搭配地道性抽查**: 检查是否自动使用 `cut costs` / `save money`。2026-04-09 `save the budget` 偏生硬。
 
 
