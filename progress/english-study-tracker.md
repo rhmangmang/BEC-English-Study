@@ -285,6 +285,16 @@
 | **frantically** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；Mixed Conditional 中融合完美；Round 2 首次漏用后修正 |
 | **fly somebody out** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；宾语位置灵活；Type 2 虚拟满分 |
 | **bring people on** | 5 | 高 | 2026-04-09 | 核心用法掌握；暴露 bought/brought 混淆+情态动词后接原形复发；修正后通关 |
+| **in place** | 5 | 极高 | 2026-04-12 | 掌握“准备就绪”语义；Mixed Conditional 连续满分 🏆 |
+| **walk someone through** | 5 | 极高 | 2026-04-12 | 掌握“梳理流程”搭配；避开 `discuss about` 陷阱 🏆 |
+| **by the day** | 5 | 极高 | 2026-04-12 | 区分 by the day (快速变化) vs day by day (渐进) |
+| **and all that** | 5 | 高 | 2026-04-12 | 掌握“诸如此类”口语化表达；职场非正式场合应用自然 |
+| **dread (doing)** | 5 | 极高 | 2026-04-12 | 掌握“极其抗拒/害怕”语义；Mixed Conditional 融合完美 |
+| **from a perspective** | 5 | 极高 | 2026-04-12 | 掌握“从...视角”句式；`pick my brain on` 跨语言点复用 🌟 |
+| **a nod to ...** | 5 | 极高 | 2026-04-13 | 掌握“致敬/影子”语义；反义疑问句与 Mixed Conditional 全满分 🏆 |
+| **forward-looking to ...** | 5 | 高 | 2026-04-13 | 区分“着眼于”与“期待”；纠正 `doesn't forward-looking` 语法错误 |
+| **Search for and select ...** | 5 | 极高 | 2026-04-14 | 掌握动词+短语动词并列结构；方位介词 `in the corner` 固化 🏆 |
+| **on a lead / on a contact** | 5 | 极高 | 2026-04-14 | 掌握 CRM 语境下省略 "page" 的高级指代法；识别 contact/contract 差异 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -337,16 +347,15 @@
 | 2026-03-09 | **36BEC Full Completion + Role-play** | ✅ | 完成 4 个语言点(20题)+闪电纠偏(3题)+Role-play，含 nimble, huge win, jump in, pinch point。**彻底攻克 `have to` Tag 助动词转换 🏆🏆！冠词 `the` 在特指语境下已成自觉。** 🔴 `be nimble in` 的介词遗漏。 |
 | 2026-03-10 | **37BEC & 38BEC Core Points + Role-play** | ✅ | 完成 4 个语言点(20题)+Role-play，含 in doing, go deeper, shift into, more of A rather than B。**`have to` Tag 稳如泰山 🏆**。🔴 `progress/process` 复发；条件句时态匹配+`wording`不可数+会议介词`in`+平行结构为新缺口。 |
 | 2026-03-11 | **39BEC Full Completion + Role-play** | ✅ | 完成 5 个语言点(25题)+Role-play，含 the thought is, full-fledged, come out of beta, ship, head nods。**彻底攻克 `many/much` 混淆 🏆🏆！Exactly 位置连续 7 次满分，永久关闭该缺口。** 🔴 Mixed Conditional 触发信号+Subjunctive `were`+选择疑问句平行结构仍需巩固 ⚠️。 |
-| **40BEC Full Completion + Role-play** | ✅ | 完成 6 个语言点(30题)+Role-play，含 arms around, touch on, color, real quick, right attention, get a handle on。**Exactly 稳如磐石 🏆！混合虚拟语气逻辑极佳。** 🔴 Tag 极性出现 1 次回退；`so vs主` 搭配及单复数代词一致性为新缺口。 |
+| 2026-03-12 | **40BEC Full Completion + Role-play** | ✅ | 完成 6 个语言点(30题)+Role-play，含 arms around, touch on, color, real quick, right attention, get a handle on。**Exactly 稳如磐石 🏆！混合虚拟语气逻辑极佳。** 🔴 Tag 极性出现 1 次回退；`so vs主` 搭配及单复数代词一致性为新缺口。 |
 | 2026-03-14 | **41BEC Launch + Role-play** | ✅ | 完成 3 个高难度点(your kind of, dependency on, be piped) + 闪电纠偏(3题) + 架构复盘 Role-play。**`had been being piped` 多重复合时态破壁成功🏆！** 🔴 特殊疑问句及长句否定词位置暴露弱点；Tag 前否后肯极性再次回退 ⚠️。 |
 | 2026-03-15 | Hell Mode Tag (10题) + 42BEC individual + 43BEC 启动 | ✅ | 地狱模式 8/10（错误率 60%→20% 🏆）；完成 individual(5题)+It goes back to(5题)+treating as(4题)+Role-play。🔴 Tag 在 `'s been` 缩写还原和 `hardly anyone` 隐性否定主语下仍回退；名词词组构建、`lack` 动名词搭配、`market` vs `roll out` 复发为新缺口 ⚠️。 |
-| 2026-03-16 | **44BEC Full Completion + Role-play** | ✅ | 完成 should be doing, hopefully, go down the list, Release 16。🏆 **Mixed Conditional 持续 100% 满分！** 🔴 暴露 `if there is anything` (单数一致性) 及 `provide with` 搭配漏洞。 |
+| 2026-03-16 | **44BEC Full Completion + Role-play** | ✅ | 完成 3 个语言点(15题)+Role-play，含 hopefully, go down the list, Release 16。🏆 **Mixed Conditional 持续 100% 满分！** 🔴 暴露 `if there is anything` (单数一致性) 及 `provide with` 搭配漏洞。 |
 | 2026-03-17 | **Tag Drill + 43BEC Completion + Role-play** | ✅ | 🏆 **彻底攻克 `'s been` 及隐性否定 Tag 陷阱！** 完成 superset, specifically, go in, kind of, and stuff。Role-play 展现极强大语言包整合力。 |
-| 2026-03-18 | **43BEC 扫尾 + 44BEC + 45BEC 启动** | ✅ | 完成 advise, as someone pointed out 等语言点训练。 |
 | 2026-03-19 | **45BEC Remaining + 46BEC Launch + Role-play** | ✅ | 完成 5 个语言点(23题)+概念辨析+Role-play。🏆 **Tag Question 全天零回退！Mixed Conditional 持续 100% 满分！** 🔴 troubleshooting 拼写第 3 次复发；yesterday+has been 时态不兼容再现。 |
-| 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play x2** | done | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play x2。条件句委婉逻辑觉醒！Mixed Conditional 持续满分！yesterday+has been 第4次复发；supposed 漏 d；shipped 漏双写 p |
-| 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | done | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
-| 2026-03-23 | **48BEC Deep + Role-play** | done | 闪电纠偏 1/3 (yesterday+tense 第5次复发！process/progress 第3次混淆！We+us 第3次复发)。完成 3 个语言点 (15题) + 闪电闪电纠偏 2/2 全胜 + Role-play。Tag Question 全天零回退！`taken` 过去分词及 `would+原形` 经纠偏后一次修复。🔴 `yesterday+has been` 已升级为最顽固缺口 |
+| 2026-03-21 | **46BEC Deep + 47BEC Launch + Role-play x2** | ✅ | 完成 4 个语言点 (20题) + 概念辨析 (since/now that, after all, was/had been, scale及物/不及物) + Role-play x2。条件句委婉逻辑觉醒！Mixed Conditional 持续满分！yesterday+has been 第4次复发；supposed 漏 d；shipped 漏双写 p |
+| 2026-03-22 | **47BEC Final + 48BEC Launch + Role-play** | ✅ | 闪电纠偏 4/4 全胜！完成 5 个语言点 (25题) + Role-play。47BEC 完结 (evolution of nomenclature, I would guess)；48BEC 启动 (table, walk through, separate)。Tag Question 全天零回退！闪电纠偏历史首次全对！重复助动词 (will...will)；We+us 主宾冲突 2 次；an requirement 冠词混淆 |
+| 2026-03-23 | **48BEC Deep + Role-play** | ✅ | 闪电纠偏 1/3 (yesterday+tense 第5次复发！process/progress 第3次混淆！We+us 第3次复发)。完成 3 个语言点 (15题) + 闪电闪电纠偏 2/2 全胜 + Role-play。Tag Question 全天零回退！`taken` 过去分词及 `would+原形` 经纠偏后一次修复。🔴 `yesterday+has been` 已升级为最顽固缺口 |
 | 2026-03-25 | **49BEC Launch + Role-play** | ✅ | 🏆🏆🏆 **历史性突破：闪电纠偏 5/5 全胜！** yesterday+时态、process/progress、We+us、a/an、will重复 5 项顽疾全部清零。完成 5 个语言点（25+题）+ 语法深度讲解(could 歧义, to be done 桥梁) + Role-play。Mixed Conditional 连续 2 次满分。Tag Question 全天零回退。🔴 新发现：`over` 不是动词；不定式被动 `to be done`；虚拟语气主句时态偏差 2 次。 |
 | 2026-03-26 | **50BEC Launch + Role-play** | ✅ | 闪电纠偏 4.5/5（`over`词性/`to be done`桥梁/Type 3虚拟/`lastly`辨析 全修复；`cross-departmental`后缀未完全固化）。完成 4 个语言点(20题) + Role-play。Tag 极性回退 1 次（`no`隐性否定）；暴露 `no any` 叠加禁忌+`would`后漏`be`+Mixed vs Type 3 混淆 3 个新缺口。🔴 `about that` 从句退化再现。 |
 | 2026-03-27 | **51BEC Launch + Concept Analysis + Role-play** | ✅ | 完成 2 个语言点(10题) + 3 组概念辨析(Request vs Requirement, Already+进行时, Cost/Costs) + Role-play。🏆 **Tag Question 全天零回退！虚拟语气 Type 2+3 全满分！跨语言点复用 5 处(Technical Check/Basically/Note that/Over the course of/As requested by)惊艳。** 🔴 `committee` 拼写；`quarterly` 词形；Role-play 遗漏 `is being held`。 |
@@ -354,8 +363,10 @@
 | 2026-03-30 | **Flash Correct + 53BEC Launch** | ✅ | 🏆🏆🏆 **闪电纠偏 5/5 全胜！** 情态动词原形/冠词/Mixed Conditional/Tag极性/yourself辨析 全部一次通过。完成 `I'm here with somebody` 3/5 题（否定+特殊疑问+反义疑问全满分）。全天零重大错误，近期表现最稳定的一天。 |
 | 2026-04-01 | **53BEC Complete + 54BEC Launch + Role-play** | ✅ | 闪电纠偏 1.5/2 (`flashing light` 满分锁定🏆; `in person` 漏译)。53BEC 完结 4 个语言点 (I'm here with sb, get onboarded, head up, become successful doing) + Role-play。54BEC 启动 2 个语言点 (pick your brain, cohort)。🏆 Mixed Conditional 持续 100% 满分。🔴 Tag 极性回退 2 次 (Since 从句干扰)；暴露 `consider doing`/`let sb do`/`no that` 3 个新缺口。 |
 | 2026-04-08 | **54BEC Deep (go remote + a moment of panic)** | ✅ | 闪电纠偏 1.5/3（`consider doing` 满分锁定🏆；`not such`偏生硬+主谓不一致；Tag 极性回退 1 次）。完成 2 个语言点(10题)。🏆 **Tag 极性造句训练中连续 6 次零回退！** Mixed Conditional 持续满分。`in a moment of panic` 介词搭配当日自动修正。🔴 `no such` 固定搭配待强化。 |
-| 2026-04-09 | **54BEC Deep (frantically + fly out + bring on)** | ✅ | 闪电纠偏 1.5/2（`no such` 满分锁定🏆；`such two` 词序不地道）。完成 3 个语言点(15题) + 2 组概念辨析。🏆 **Tag Question 全天零回退！Mixed Conditional 持续满分！** `had had to` 高难度结构完美。🔴 `bought/brought` 混淆+情态动词后接原形再次复发。 |
-
+| 2026-04-09 | **54BEC Deep (frantically + fly out + bring on)** | ✅ | 🏆 **Tag Question 全天零回退！Mixed Conditional 持续满分！** `had had to` 高难度结构完美。 |
+| 2026-04-12 | **55BEC & 56BEC Deep Dive + Role-play** | ✅ | 完结 `in place`, `walk through`, `by the day`, `and all that`, `dread`, `from a perspective`。Role-play 展现极强叙事能力 🏆。 |
+| 2026-04-13 | **59BEC Core Drills + Role-play** | ✅ | 完成 `a nod to`, `forward-looking to`。攻克 `at the same time` 及 `discuss` 搭配顽疾。🔴 暴露 `forward-looking` 词性及主谓一致小问题。 |
+| 2026-04-14 | **60BEC Core Drills + Role-play** | ✅ | 完成 `Search for and select`, `on a lead/contact`。🏆 **Mixed Conditional 持续 100% 满分！彻底关闭该缺口。** 🔴 Tag 极性及代词一致性仍有余震。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
