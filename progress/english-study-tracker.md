@@ -295,6 +295,10 @@
 | **forward-looking to ...** | 5 | 高 | 2026-04-13 | 区分“着眼于”与“期待”；纠正 `doesn't forward-looking` 语法错误 |
 | **Search for and select ...** | 5 | 极高 | 2026-04-14 | 掌握动词+短语动词并列结构；方位介词 `in the corner` 固化 🏆 |
 | **on a lead / on a contact** | 5 | 极高 | 2026-04-14 | 掌握 CRM 语境下省略 "page" 的高级指代法；识别 contact/contract 差异 |
+| **mass-add** | 5 | 极高 | 2026-04-16 | 掌握动词用法与连字符；Mixed Conditional 结合完美 🏆 |
+| **allows you to / allow you to** | 5 | 极高 | 2026-04-16 | 掌握功能描述语境；单复数一致性表现稳健 |
+| **fill out (forms/info)** | 5 | 极高 | 2026-04-16 | 区分整体填写与细节填空；代词位置 `filled it out` 经过纠偏固化 |
+| **based on certain criteria** | 5 | 极高 | 2026-04-16 | 掌握 IT 自动逻辑描述；Tag 极性经过对抗训练后趋于稳定 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -367,6 +371,7 @@
 | 2026-04-12 | **55BEC & 56BEC Deep Dive + Role-play** | ✅ | 完结 `in place`, `walk through`, `by the day`, `and all that`, `dread`, `from a perspective`。Role-play 展现极强叙事能力 🏆。 |
 | 2026-04-13 | **59BEC Core Drills + Role-play** | ✅ | 完成 `a nod to`, `forward-looking to`。攻克 `at the same time` 及 `discuss` 搭配顽疾。🔴 暴露 `forward-looking` 词性及主谓一致小问题。 |
 | 2026-04-14 | **60BEC Core Drills + Role-play** | ✅ | 完成 `Search for and select`, `on a lead/contact`。🏆 **Mixed Conditional 持续 100% 满分！彻底关闭该缺口。** 🔴 Tag 极性及代词一致性仍有余震。 |
+| 2026-04-16 | **60BEC Final + Role-play** | ✅ | 完结 `mass-add`, `allows you to`, `fill out`, `based on certain criteria`。攻克 Phrasal Verb 代词位置。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -426,6 +431,9 @@
 - [ ] **`reduce` vs `simplify`**: 降低数量/程度用 `reduce`（reduce costs/risks）；简化复杂度用 `simplify`（simplify the process）。不可混用。2026-02-21 新发现。
 - [ ] **`not so much + adj` 错误**: `so much` 修饰不可数名词或动词，**不可**直接修饰形容词；否定形容词应用 `not that / not very / not too + adj`。2026-02-21 新发现。
 - [ ] **固定短语无冠词 (`from scratch`)**: `start from scratch`（从零开始）是固定短语，不加 `the`，类似 `on site`、`at home`。2026-02-21 新发现。
+- [ ] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。2026-04-16 再次出现 `has not... haven't they?` 错误。需通过 Flash Correct 持续压制。
+- [ ] **🔴 代词位置 (Phrasal Verbs)**: `filled out it` ❌ -> `filled it out` ✅。宾语是代词时必须放中间。2026-04-16 新发现。
+- [ ] **🔴 information 不可数指代**: `information ↔ them` 错误。需强化 `it` 的自动匹配意识。2026-04-16 新发现。
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
 - [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
