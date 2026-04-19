@@ -381,6 +381,7 @@
 | 2026-04-14 | **60BEC Core Drills + Role-play** | ✅ | 完成 `Search for and select`, `on a lead/contact`。🏆 **Mixed Conditional 持续 100% 满分！彻底关闭该缺口。** 🔴 Tag 极性及代词一致性仍有余震。 |
 | 2026-04-16 | **60BEC Final + Role-play** | ✅ | 完结 `mass-add`, `allows you to`, `fill out`, `based on certain criteria`。攻克 Phrasal Verb 代词位置。 |
 | 2026-04-18 | **60BEC Deep + Role-play** | ✅ | 完结 `email blast`, `corner`, `once trigger`, `active field verbs`, `duration/timeline`。🔴 暴露 `last` 不及物被动雷区及 `person+possible` 结构误区。 |
+| 2026-04-19 | **61BEC Core Drills + Role-play** | ✅ | 完成 `in the long run`, `have sth. done`, `protection from`。攻克使役动词嵌套及隔离介词绑定。🔴 再次暴露完成时与过去时间点(last year)不兼容的老问题，以及单数可数名词冠词遗漏。 |
 
 
 
@@ -447,12 +448,16 @@
 - [ ] **🔴 information 不可数指代**: `information ↔ them` 错误。需强化 `it` 的自动匹配意识。2026-04-16 发现；**2026-04-18 闪电纠偏已修复 🏆。**
 - [ ] **🔴 Tag 时态守恒**: `did` vs `had`。Tag 助动词必须与主句动作时态严格一致。2026-04-18 出现 1 次回退。
 - [ ] **🔴 last 不及物动词误区**: `has been lasted` ❌ -> `has lasted` ✅。不可用被动语态。2026-04-18 新暴露（严重）。
-- [ ] **🔴 person + be possible 大忌**: `We are not possible to...` ❌ -> `It is not possible for us...` ✅。人不能被 possible 修饰。2026-04-18 新发现。
+- [ ] **🔴 last year + has been done**: 明确过去时间点严禁匹配现在完成时。2026-04-19 再次出现回退 (`just last year + has been repaired`)。
+- [ ] **🔴 单数可数名词冠词遗漏**: firewall, data center 等核心词前遗漏 a/the。2026-04-19 再次暴露。
+- [ ] **🔴 Pronoun-Antecedent Agreement (trees ↔ them)**: 复数名词必须对应复数代词 `them`。2026-04-19 出现 `trees ↔ it` 指代回退。
+- [x] **in the long run**: 掌握长远结果的商务评价逻辑。2026-04-19 全通关 🏆。
+- [x] **have/get sth. done**: 掌握使役代劳句式。2026-04-19 专项训练通过 🏆。
+- [x] **protection from**: 掌握隔离屏蔽介词绑定。2026-04-19 专项训练通过 🏆。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
 - [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
-- [ ] **虚拟语气缺 If**: 条件从句必须以 If 开头，不可省略。2026-02-21 故事翻译中出现。
 - [ ] **🔴 process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。**2026-03-10 复发**（report the process→progress），需专项对抗。
 - [ ] **条件句时态匹配**: 真实条件 `don't→won't`; 虚拟假设 `didn't→could not`。不可混搭。2026-03-10 新发现。
 - [ ] **`wording` (uncountable)**: 不可数名词，代词用 the/that，不可用 those。2026-03-10 新发现。
