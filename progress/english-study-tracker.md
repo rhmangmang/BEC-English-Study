@@ -303,6 +303,10 @@
 | **in the top right corner** | 5 | 极高 | 2026-04-18 | 巩固界面“容器”感介词 `in`；区分 `on the corner` 街道用法 |
 | **once you're done / once ... is created** | 5 | 极高 | 2026-04-18 | 掌握职场“准备就绪”触发逻辑；`done with` 表达地道 |
 
+| **[Field] estimates/shows** | 5 | 极高 | 2026-04-18 | 突破拟人化动词障碍；适应 Feature-focused 语感 |
+| **timeline / duration** | 5 | 极高 | 2026-04-18 | 精准区分排期节点与持续时长；掌握 `last` 不及物用法 |
+
+
 
 ## 学习记录概览 (Session Overview)
 
@@ -376,7 +380,8 @@
 | 2026-04-13 | **59BEC Core Drills + Role-play** | ✅ | 完成 `a nod to`, `forward-looking to`。攻克 `at the same time` 及 `discuss` 搭配顽疾。🔴 暴露 `forward-looking` 词性及主谓一致小问题。 |
 | 2026-04-14 | **60BEC Core Drills + Role-play** | ✅ | 完成 `Search for and select`, `on a lead/contact`。🏆 **Mixed Conditional 持续 100% 满分！彻底关闭该缺口。** 🔴 Tag 极性及代词一致性仍有余震。 |
 | 2026-04-16 | **60BEC Final + Role-play** | ✅ | 完结 `mass-add`, `allows you to`, `fill out`, `based on certain criteria`。攻克 Phrasal Verb 代词位置。 |
-| 2026-04-18 | **60BEC Deep + Role-play** | ✅ | 完结 `email blast`, `in the top right corner`, `once you're done`。纠偏 Tag 时态及间接语序。 |
+| 2026-04-18 | **60BEC Deep + Role-play** | ✅ | 完结 `email blast`, `corner`, `once trigger`, `active field verbs`, `duration/timeline`。🔴 暴露 `last` 不及物被动雷区及 `person+possible` 结构误区。 |
+
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -440,8 +445,9 @@
 - [ ] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。2026-04-16 再次出现 `has not... haven't they?` 错误。需通过 Flash Correct 持续压制。
 - [ ] **🔴 代词位置 (Phrasal Verbs)**: `filled out it` ❌ -> `filled it out` ✅。宾语是代词时必须放中间。2026-04-16 新发现。
 - [ ] **🔴 information 不可数指代**: `information ↔ them` 错误。需强化 `it` 的自动匹配意识。2026-04-16 发现；**2026-04-18 闪电纠偏已修复 🏆。**
-- [ ] **🔴 间接疑问句语序**: `know what is...` ❌ -> `know what ... is` ✅。陈述语气需保持陈述语序。2026-04-18 新发现。
 - [ ] **🔴 Tag 时态守恒**: `did` vs `had`。Tag 助动词必须与主句动作时态严格一致。2026-04-18 出现 1 次回退。
+- [ ] **🔴 last 不及物动词误区**: `has been lasted` ❌ -> `has lasted` ✅。不可用被动语态。2026-04-18 新暴露（严重）。
+- [ ] **🔴 person + be possible 大忌**: `We are not possible to...` ❌ -> `It is not possible for us...` ✅。人不能被 possible 修饰。2026-04-18 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
