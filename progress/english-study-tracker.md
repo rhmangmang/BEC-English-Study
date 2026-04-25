@@ -304,7 +304,12 @@
 | **once you're done / once ... is created** | 5 | 极高 | 2026-04-18 | 掌握职场“准备就绪”触发逻辑；`done with` 表达地道 |
 
 | **[Field] estimates/shows** | 5 | 极高 | 2026-04-18 | 突破拟人化动词障碍；适应 Feature-focused 语感 |
-| **timeline / duration** | 5 | 极高 | 2026-04-18 | 精准区分排期节点与持续时长；掌握 `last` 不及物用法 |
+| **duration / timeline** | 5 | 极高 | 2026-04-18 | 精准区分排期节点与持续时长；掌握 `last` 不及物用法 |
+| **easy to talk to** | 5 | 极高 | 2026-04-25 | 掌握 who do you think is 嵌套语序 |
+| **take on responsibility for** | 5 | 极高 | 2026-04-25 | Had had 虚拟语气稳定 |
+| **room to maneuver** | 5 | 极高 | 2026-04-25 | 拼写当日修复 |
+| **have needs** | 5 | 极高 | 2026-04-25 | 区分组织/个体需求 |
+| **That's another conversation for another day** | 5 | 极高 | 2026-04-25 | 掌握 leave it as 结构 |
 
 
 
@@ -382,8 +387,7 @@
 | 2026-04-16 | **60BEC Final + Role-play** | ✅ | 完结 `mass-add`, `allows you to`, `fill out`, `based on certain criteria`。攻克 Phrasal Verb 代词位置。 |
 | 2026-04-18 | **60BEC Deep + Role-play** | ✅ | 完结 `email blast`, `corner`, `once trigger`, `active field verbs`, `duration/timeline`。🔴 暴露 `last` 不及物被动雷区及 `person+possible` 结构误区。 |
 | 2026-04-19 | **61BEC Core Drills + Role-play** | ✅ | 完成 `in the long run`, `have sth. done`, `protection from`。攻克使役动词嵌套及隔离介词绑定。🔴 再次暴露完成时与过去时间点(last year)不兼容的老问题，以及单数可数名词冠词遗漏。 |
-
-
+| 2026-04-25 | **62BEC Complete + Subjunctive Mastery** | ✅ | **彻底攻克 trees->them 指代问题**；完成 62BEC 全部 5 个语言点及 Role-play。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -448,12 +452,16 @@
 - [ ] **🔴 information 不可数指代**: `information ↔ them` 错误。需强化 `it` 的自动匹配意识。2026-04-16 发现；**2026-04-18 闪电纠偏已修复 🏆。**
 - [ ] **🔴 Tag 时态守恒**: `did` vs `had`。Tag 助动词必须与主句动作时态严格一致。2026-04-18 出现 1 次回退。
 - [ ] **🔴 last 不及物动词误区**: `has been lasted` ❌ -> `has lasted` ✅。不可用被动语态。2026-04-18 新暴露（严重）。
-- [ ] **🔴 last year + has been done**: 明确过去时间点严禁匹配现在完成时。2026-04-19 再次出现回退 (`just last year + has been repaired`)。
-- [ ] **🔴 单数可数名词冠词遗漏**: firewall, data center 等核心词前遗漏 a/the。2026-04-19 再次暴露。
+- [ ] **🔴 last year + has been done**: 明确过去时间点严禁匹配现在完成时。2026-04-19 再次出现回退 (`just last year + has been repaired`)。**2026-04-25 闪电纠偏修复 🏆。**
+- [ ] **🔴 单数可数名词冠词遗漏**: firewall, data center 等核心词前遗漏 a/the。2026-04-19 再次暴露。**2026-04-25 闪电纠偏修复 🏆。**
 - [ ] **🔴 Pronoun-Antecedent Agreement (trees ↔ them)**: 复数名词必须对应复数代词 `them`。2026-04-19 出现 `trees ↔ it` 指代回退。
 - [x] **in the long run**: 掌握长远结果的商务评价逻辑。2026-04-19 全通关 🏆。
 - [x] **have/get sth. done**: 掌握使役代劳句式。2026-04-19 专项训练通过 🏆。
 - [x] **protection from**: 掌握隔离屏蔽介词绑定。2026-04-19 专项训练通过 🏆。
+- [ ] **🔴 `no much` 叠加禁忌**: `no + much` 错误（no much room ❌）。应用 `no room` 或 `not much room`。2026-04-25 新发现。
+- [ ] **🔴 `so much + adj` 错误**: `so much angry` ❌ -> `so angry` ✅。`so much` 不修饰形容词。**2026-04-25 Role-play 复发 ⚠️。**
+- [ ] **`sales growth` vs `sales increasing`**: 指代“销售增长”的名词短语优先选用 `sales growth`。2026-04-25 新发现。
+- [ ] **Which 嵌套问句代词冗余**: `Which topics do you think we should leave them` ❌。`Which topics` 已经是宾语。2026-04-25 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
