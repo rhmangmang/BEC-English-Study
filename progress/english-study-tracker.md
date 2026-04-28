@@ -266,52 +266,16 @@
 | **be led by** | 5 | 高 | 2026-03-25 | 攻克 `to be led` 不定式被动结构 🔴→修复；虚拟语气 Type 2 主句时态需巩固 |
 | **Technical Check** | 5 | 极高 | 2026-03-26 | 5 种句式全通关；区分 Technical Check vs Device Check；Mixed Conditional 满分 🏆 |
 | **Let me confirm** | 5 | 极高 | 2026-03-26 | 掌握职场万能确认句式；`awkward places with wording` 跨语言点复用 🌟；Mixed Conditional 满分 🏆 |
-| **Apologies for the delay** | 5 | 高 | 2026-03-26 | 掌握复数道歉地道用法；Tag 极性回退 1 次（`no` 隐性否定）；Mixed vs Type 3 混淆 1 次 |
-| **Technical glitch** | 5 | 高 | 2026-03-26 | 掌握"小故障"轻描淡写；暴露 `no any` 新缺口；`would be` 遗漏 1 次 |
-| **convene** | 5 | 极高 | 2026-03-27 | 5 种句式全通关；掌握不及物用法(会议做主语)；Type 3 虚拟 `had been convened` 满分 |
-| **is being held** | 5 | 极高 | 2026-03-27 | 5 种句式全通关；掌握当下正在进行被动灵魂；Tag Question 零回退 |
-| **boost** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；精准区分 boost(规模) vs enhance(质量)；Tag 代词 `sales→they` 匹配失败 1 次 |
-| **talk sb through sth** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；`have to` Tag 连续零回退 🏆；掌握 yourself vs by yourself 辨析 |
-| **in the field / field engineer** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；掌握 Even though...due to... 多重逻辑句式；情态动词+原形 1 次回退 |
-| **in person** | 5 | 极高 | 2026-03-29 | 5 种句式全通关；介词 `on Teams` 当日修复；四词串联零瑕疵 🏆 |
-| **I'm here with somebody** | 5 | 极高 | 2026-04-01 | 5/5 全通关；选择+虚拟语气满分 |
-| **get onboarded** | 5 | 极高 | 2026-04-01 | 拼写从拆写到连写当日修复；backlog 不可数需注意 |
-| **head up** | 5 | 极高 | 2026-04-01 | 率领/主管搭配；Tag 助动词错配 1 次(Since 从句干扰) |
-| **become successful doing** | 5 | 高 | 2026-04-01 | 分词状语结构掌握；consider doing 搭配暴露新缺口 |
-| **pick your brain** | 5 | 极高 | 2026-04-01 | about sth 介词搭配；Type 3 虚拟中融合完美 🏆 |
-| **cohort** | 5 | 高 | 2026-04-01 | 一批/一届搭配；`no that` 叠加禁忌为新发现 |
-| **go remote** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`go fully remote` 副词位置已自动修正 🏆 |
-| **a moment of panic** | 5 | 极高 | 2026-04-08 | 5 种句式全通关；`in a moment of panic` 介词搭配已自动修正 🏆 |
-| **frantically** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；Mixed Conditional 中融合完美；Round 2 首次漏用后修正 |
-| **fly somebody out** | 5 | 极高 | 2026-04-09 | 5 种句式全通关；宾语位置灵活；Type 2 虚拟满分 |
-| **bring people on** | 5 | 高 | 2026-04-09 | 核心用法掌握；暴露 bought/brought 混淆+情态动词后接原形复发；修正后通关 |
-| **in place** | 5 | 极高 | 2026-04-12 | 掌握“准备就绪”语义；Mixed Conditional 连续满分 🏆 |
-| **walk someone through** | 5 | 极高 | 2026-04-12 | 掌握“梳理流程”搭配；避开 `discuss about` 陷阱 🏆 |
-| **by the day** | 5 | 极高 | 2026-04-12 | 区分 by the day (快速变化) vs day by day (渐进) |
-| **and all that** | 5 | 高 | 2026-04-12 | 掌握“诸如此类”口语化表达；职场非正式场合应用自然 |
-| **dread (doing)** | 5 | 极高 | 2026-04-12 | 掌握“极其抗拒/害怕”语义；Mixed Conditional 融合完美 |
-| **from a perspective** | 5 | 极高 | 2026-04-12 | 掌握“从...视角”句式；`pick my brain on` 跨语言点复用 🌟 |
-| **a nod to ...** | 5 | 极高 | 2026-04-13 | 掌握“致敬/影子”语义；反义疑问句与 Mixed Conditional 全满分 🏆 |
-| **forward-looking to ...** | 5 | 高 | 2026-04-13 | 区分“着眼于”与“期待”；纠正 `doesn't forward-looking` 语法错误 |
-| **Search for and select ...** | 5 | 极高 | 2026-04-14 | 掌握动词+短语动词并列结构；方位介词 `in the corner` 固化 🏆 |
-| **on a lead / on a contact** | 5 | 极高 | 2026-04-14 | 掌握 CRM 语境下省略 "page" 的高级指代法；识别 contact/contract 差异 |
-| **mass-add** | 5 | 极高 | 2026-04-16 | 掌握动词用法与连字符；Mixed Conditional 结合完美 🏆 |
-| **allows you to / allow you to** | 5 | 极高 | 2026-04-16 | 掌握功能描述语境；单复数一致性表现稳健 |
-| **fill out (forms/info)** | 5 | 极高 | 2026-04-16 | 区分整体填写与细节填空；代词位置 `filled it out` 经过纠偏固化 |
-| **based on certain criteria** | 5 | 极高 | 2026-04-16 | 掌握 IT 自动逻辑描述；Tag 极性经过对抗训练后趋于稳定 |
-| **email blast** | 5 | 极高 | 2026-04-18 | 掌握大规模营销群发语义；成功结合 Mixed Conditional 🏆 |
-| **in the top right corner** | 5 | 极高 | 2026-04-18 | 巩固界面“容器”感介词 `in`；区分 `on the corner` 街道用法 |
-| **once you're done / once ... is created** | 5 | 极高 | 2026-04-18 | 掌握职场“准备就绪”触发逻辑；`done with` 表达地道 |
-
-| **[Field] estimates/shows** | 5 | 极高 | 2026-04-18 | 突破拟人化动词障碍；适应 Feature-focused 语感 |
 | **duration / timeline** | 5 | 极高 | 2026-04-18 | 精准区分排期节点与持续时长；掌握 `last` 不及物用法 |
 | **easy to talk to** | 5 | 极高 | 2026-04-25 | 掌握 who do you think is 嵌套语序 |
 | **take on responsibility for** | 5 | 极高 | 2026-04-25 | Had had 虚拟语气稳定 |
 | **room to maneuver** | 5 | 极高 | 2026-04-25 | 拼写当日修复 |
 | **have needs** | 5 | 极高 | 2026-04-25 | 区分组织/个体需求 |
 | **That's another conversation for another day** | 5 | 极高 | 2026-04-25 | 掌握 leave it as 结构 |
-
-
+| **the business end** | 5 | 极高 | 2026-04-27 | 掌握“业务核心/落地”语义 |
+| **run into (issues/problems)** | 5 | 高 | 2026-04-27 | 区分与 have 的动态感差异 |
+| **as opposed to** | 5 | 极高 | 2026-04-27 | 掌握对比区分/范畴排除语境 |
+| **how can I put it** | 5 | 极高 | 2026-04-27 | 掌握职场语气软化插片用法 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -387,7 +351,8 @@
 | 2026-04-16 | **60BEC Final + Role-play** | ✅ | 完结 `mass-add`, `allows you to`, `fill out`, `based on certain criteria`。攻克 Phrasal Verb 代词位置。 |
 | 2026-04-18 | **60BEC Deep + Role-play** | ✅ | 完结 `email blast`, `corner`, `once trigger`, `active field verbs`, `duration/timeline`。🔴 暴露 `last` 不及物被动雷区及 `person+possible` 结构误区。 |
 | 2026-04-19 | **61BEC Core Drills + Role-play** | ✅ | 完成 `in the long run`, `have sth. done`, `protection from`。攻克使役动词嵌套及隔离介词绑定。🔴 再次暴露完成时与过去时间点(last year)不兼容的老问题，以及单数可数名词冠词遗漏。 |
-| 2026-04-25 | **62BEC Complete + Subjunctive Mastery** | ✅ | **彻底攻克 trees->them 指代问题**；完成 62BEC 全部 5 个语言点及 Role-play。 |
+| 2026-04-25 | 62BEC Complete + Subjunctive Mastery | ✅ | **彻底攻克 trees->them 指代问题**；完成 62BEC 全部 5 个语言点及 Role-play。 |
+| 2026-04-27 | **63BEC Launch + Flash Correct** | ✅ | **彻底攻克 no much 与 so much + adj 顽疾** 🏆！掌握 business end, run into, as opposed to, how can I put it。🔴 暴露 `related to`、`put ... into` 及代词位置漏洞。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -462,6 +427,9 @@
 - [ ] **🔴 `so much + adj` 错误**: `so much angry` ❌ -> `so angry` ✅。`so much` 不修饰形容词。**2026-04-25 Role-play 复发 ⚠️。**
 - [ ] **`sales growth` vs `sales increasing`**: 指代“销售增长”的名词短语优先选用 `sales growth`。2026-04-25 新发现。
 - [ ] **Which 嵌套问句代词冗余**: `Which topics do you think we should leave them` ❌。`Which topics` 已经是宾语。2026-04-25 新发现。
+- [ ] **🔴 `related to` / `related with` 脱敏**: 习惯写成 `related about`，需强化 `related to` 肌肉记忆。2026-04-27 新发现。
+- [ ] **🔴 `put effort into` 介词**: 习惯写成 `put effort in`，需强化 `put effort into` 肌肉记忆。2026-04-27 新发现。
+- [ ] **🔴 代词位置 (take it over)**: `take over it` ❌ -> `take it over` ✅。宾语代词必须放在动词与粒子之间。2026-04-27 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
