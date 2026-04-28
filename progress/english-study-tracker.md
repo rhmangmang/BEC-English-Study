@@ -276,6 +276,10 @@
 | **run into (issues/problems)** | 5 | 高 | 2026-04-27 | 区分与 have 的动态感差异 |
 | **as opposed to** | 5 | 极高 | 2026-04-27 | 掌握对比区分/范畴排除语境 |
 | **how can I put it** | 5 | 极高 | 2026-04-27 | 掌握职场语气软化插片用法 |
+| **sooner rather than later** | 5 | 极高 | 2026-04-28 | 掌握其在建议/时间建议中的地道用法 |
+| **entail** | 5 | 高 | 2026-04-28 | 区分与其 include 的关系(必然涉及) |
+| **rely on sb to do sth** | 5 | 中上 | 2026-04-28 | 固化 to do 结构，警惕 to 的遗漏 |
+| **rollout plan** | 5 | 极高 | 2026-04-28 | 掌握针对新功能的介词 for 逻辑 |
 
 ## 学习记录概览 (Session Overview)
 
@@ -353,6 +357,7 @@
 | 2026-04-19 | **61BEC Core Drills + Role-play** | ✅ | 完成 `in the long run`, `have sth. done`, `protection from`。攻克使役动词嵌套及隔离介词绑定。🔴 再次暴露完成时与过去时间点(last year)不兼容的老问题，以及单数可数名词冠词遗漏。 |
 | 2026-04-25 | 62BEC Complete + Subjunctive Mastery | ✅ | **彻底攻克 trees->them 指代问题**；完成 62BEC 全部 5 个语言点及 Role-play。 |
 | 2026-04-27 | **63BEC Launch + Flash Correct** | ✅ | **彻底攻克 no much 与 so much + adj 顽疾** 🏆！掌握 business end, run into, as opposed to, how can I put it。🔴 暴露 `related to`、`put ... into` 及代词位置漏洞。 |
+| 2026-04-28 | **64BEC Launch + Flash Correct** | ✅ | **彻底攻克 related to/put effort into/代词位置** 🏆！掌握 sooner rather than later, entail, rely on sb to do, rollout plan。🔴 暴露 `have come up with` / `trouble` / `notify` 新缺口。 |
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -427,9 +432,12 @@
 - [ ] **🔴 `so much + adj` 错误**: `so much angry` ❌ -> `so angry` ✅。`so much` 不修饰形容词。**2026-04-25 Role-play 复发 ⚠️。**
 - [ ] **`sales growth` vs `sales increasing`**: 指代“销售增长”的名词短语优先选用 `sales growth`。2026-04-25 新发现。
 - [ ] **Which 嵌套问句代词冗余**: `Which topics do you think we should leave them` ❌。`Which topics` 已经是宾语。2026-04-25 新发现。
-- [ ] **🔴 `related to` / `related with` 脱敏**: 习惯写成 `related about`，需强化 `related to` 肌肉记忆。2026-04-27 新发现。
-- [ ] **🔴 `put effort into` 介词**: 习惯写成 `put effort in`，需强化 `put effort into` 肌肉记忆。2026-04-27 新发现。
-- [ ] **🔴 代词位置 (take it over)**: `take over it` ❌ -> `take it over` ✅。宾语代词必须放在动词与粒子之间。2026-04-27 新发现。
+- [x] **🔴 `related to` / `related with` 脱敏**: ~~习惯写成 `related about`，需强化 `related to` 肌肉记忆~~。**2026-04-28 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
+- [x] **🔴 `put effort into` 介词**: ~~习惯写成 `put effort in`，需强化 `put effort into` 肌肉记忆~~。**2026-04-28 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
+- [x] **🔴 代词位置 (take it over)**: ~~`take over it` ❌ -> `take it over` ✅。宾语代词必须放在动词与粒子之间~~。**2026-04-28 闪电纠偏针对 hand them over/take them over 零失误，正式锁定修复 🏆。**
+- [ ] **🔴 `have COME up with` (pp回退)**: come-came-come。have 后必须接 pp。2026-04-28 Role-play 出现 1 次。
+- [ ] **🔴 `trouble` (uncountable)**: 抽象概念“麻烦”无复数。2026-04-28 Role-play 出现 1 次。
+- [ ] **🔴 `notify` vs `notice`**: 通知某人 = notify/inform；看见某事 = notice。2026-04-28 出现 1 次误用。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
