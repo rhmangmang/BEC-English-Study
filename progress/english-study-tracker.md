@@ -266,11 +266,29 @@
 | **be led by** | 5 | 高 | 2026-03-25 | 攻克 `to be led` 不定式被动结构 🔴→修复；虚拟语气 Type 2 主句时态需巩固 |
 | **Technical Check** | 5 | 极高 | 2026-03-26 | 5 种句式全通关；区分 Technical Check vs Device Check；Mixed Conditional 满分 🏆 |
 | **Let me confirm** | 5 | 极高 | 2026-03-26 | 掌握职场万能确认句式；`awkward places with wording` 跨语言点复用 🌟；Mixed Conditional 满分 🏆 |
+| **in place** | 5 | 极高 | 2026-04-12 | 掌握"已就位/已部署"语义；与 set up 区分 |
+| **by the day** | 5 | 极高 | 2026-04-12 | 掌握"一天比一天"动态变化语义；与 day by day 对比 |
+| **dread (doing)** | 5 | 极高 | 2026-04-12 | 掌握 dread + doing 搭配；区分极度抗拒与普通不喜欢 |
+| **and all that** | 5 | 极高 | 2026-04-12 | 掌握口语后缀"之类的/等等"；discuss 不加 about 同步固化 |
+| **with everything happening** | 5 | 极高 | 2026-04-12 | 掌握分词独立结构作背景原因；职场口语感极强 |
+| **a nod to** | 5 | 极高 | 2026-04-13 | 掌握 give a nod to 动词变体；Mixed Conditional 全通关 |
+| **forward-looking to** | 5 | 高 | 2026-04-13 | 形容词属性需用 be 动词；主谓一致需注意 |
+| **Search for and select** | 5 | 极高 | 2026-04-14 | 掌握动词+短语动词并列结构；CRM 场景应用自如 |
+| **on a lead / on a contact** | 5 | 极高 | 2026-04-14 | 掌握省略 page 的 IT 指代法；区分 contract vs contact |
+| **mass-add** | 5 | 极高 | 2026-04-16 | 掌握批量操作动词；平行结构 add or mass-add 稳固 |
+| **allows you to** | 5 | 极高 | 2026-04-16 | 掌握功能描述句式；单复数主谓一致处理专业 |
+| **fill out** | 5 | 极高 | 2026-04-16 | 攻克 Phrasal Verb 代词位置；fill it out 稳固 |
+| **based on certain criteria** | 5 | 极高 | 2026-04-16 | 掌握筛选条件描述；被动语态运用自如 |
+| **email blast** | 5 | 极高 | 2026-04-18 | 掌握邮件群发术语；Mixed Conditional 满分 |
+| **in the top right corner** | 5 | 极高 | 2026-04-18 | 掌握界面方位描述；倒装语序 In which corner 地道 |
+| **once you're done** | 5 | 极高 | 2026-04-18 | 掌握"完成后立即"时间从句；Native 级用法 |
+| **[field] estimates/shows** | 5 | 极高 | 2026-04-18 | 掌握物作主语功能描述；脱离人称主语的职场表达 |
 | **duration / timeline** | 5 | 极高 | 2026-04-18 | 精准区分排期节点与持续时长；掌握 `last` 不及物用法 |
 | **easy to talk to** | 5 | 极高 | 2026-04-25 | 掌握 who do you think is 嵌套语序 |
 | **take on responsibility for** | 5 | 极高 | 2026-04-25 | Had had 虚拟语气稳定 |
 | **room to maneuver** | 5 | 极高 | 2026-04-25 | 拼写当日修复 |
 | **have needs** | 5 | 极高 | 2026-04-25 | 区分组织/个体需求 |
+| **step in** | 5 | 高 | 2026-04-25 | 掌握介入/协调语义；注意 step in to do 或 step into，不可直接接名词 |
 | **That's another conversation for another day** | 5 | 极高 | 2026-04-25 | 掌握 leave it as 结构 |
 | **the business end** | 5 | 极高 | 2026-04-27 | 掌握“业务核心/落地”语义 |
 | **run into (issues/problems)** | 5 | 高 | 2026-04-27 | 区分与 have 的动态感差异 |
