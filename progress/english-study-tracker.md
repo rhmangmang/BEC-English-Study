@@ -302,6 +302,12 @@
 | **both of which** | 5 | 极高 | 2026-04-29 | 掌握非限定定语从句数量修饰结构 |
 | **regarding** | 5 | 极高 | 2026-04-29 | 掌握商务正式版 about 用法 |
 | **enter the deliberations** | 5 | 极高 | 2026-04-29 | 区分 enter (环节) 与 enter into (协议/深度) |
+| **material (话题素材义)** | 5 | 极高 | 2026-04-30 | 掌握不可数属性，区分"谈资"与"物质"义 🏆 |
+| **a paper + noun** | 5 | 极高 | 2026-04-30 | 掌握纸质版 vs 电子版的对比表达 |
+| **personally** | 5 | 极高 | 2026-04-30 | 掌握句首/主语后灵活位置；职场引出个人观点 |
+| **their + 单/复数** | 5 | 高 | 2026-04-30 | 理解整体视角(复数)与个体视角(单数)的差异 |
+| **be limited to** | 5 | 极高 | 2026-04-30 | Type 3 被动虚拟语气三层叠加无瑕疵 🏆 |
+| **get sb doing** | 5 | 中上 | 2026-04-30 | 核心结构掌握；需区分 get sb doing vs get sb + 形容词 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -380,6 +386,7 @@
 | 2026-04-27 | **63BEC Launch + Flash Correct** | ✅ | **彻底攻克 no much 与 so much + adj 顽疾** 🏆！掌握 business end, run into, as opposed to, how can I put it。🔴 暴露 `related to`、`put ... into` 及代词位置漏洞。 |
 | 2026-04-28 | **64BEC Launch + Flash Correct** | ✅ | **彻底攻克 related to/put effort into/代词位置** 🏆！掌握 sooner rather than later, entail, rely on sb to do, rollout plan。🔴 暴露 `have come up with` / `trouble` / `notify` 新缺口。 |
 | 2026-04-29 | **65BEC Launch + Flash Correct** | ✅ | **彻底攻克 trouble/notify/have come** 🏆！掌握 interrupt, both of which, regarding, enter deliberations。🔴 暴露 Tag 极性/情态原形余震。 |
+| 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -460,8 +467,14 @@
 - [x] **🔴 `trouble` (uncountable)**: ~~抽象概念“麻烦”无复数~~。**2026-04-29 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
 - [ ] **🔴 Tag Question 极性回退**: 又现 `should not... shouldn't we?` 错误。需通过 Flash Correct 持续压制。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` 再次复发。需专项对抗。
-- [ ] **🔴 allergic vs sensitive**: 职场事态敏感误用为医疗过敏。
-- [ ] **🔴 Since 从句完整性**: 习惯性漏掉谓语动词，需补全 `Since we have...` 意识。
+- [x] **🔴 allergic vs sensitive**: — **2026-04-30 闪电纠偏修复** 🏆
+- [x] **🔴 Since 从句完整性**: — **2026-04-30 闪电纠偏修复** 🏆
+- [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。`rather than` 后动词形式需与主句平行。2026-04-30 新发现。
+- [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。`recommend` 不接 `sb + doing`。2026-04-30 新发现。
+- [ ] **🔴 `material` 不可数**: `a good material` ❌。作"话题素材"义不可数。2026-04-30 新发现后已掌握 ✅。
+- [ ] **🔴 `low mistake` → `silly/basic/rookie mistake`**: "低级错误"不译为 `low mistake`。2026-04-30 新发现。
+- [ ] **🔴 `say a story` → `tell a story/joke`**: "说段子" = `tell a joke / tell a funny story`。2026-04-30 新发现。
+- [ ] **🔴 复合形容词连字符**: `state of the art system` → `state-of-the-art system`。多个单词作定语时需加连字符。2026-04-30 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
