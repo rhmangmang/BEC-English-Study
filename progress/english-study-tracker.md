@@ -308,6 +308,12 @@
 | **their + 单/复数** | 5 | 高 | 2026-04-30 | 理解整体视角(复数)与个体视角(单数)的差异 |
 | **be limited to** | 5 | 极高 | 2026-04-30 | Type 3 被动虚拟语气三层叠加无瑕疵 🏆 |
 | **get sb doing** | 5 | 中上 | 2026-04-30 | 核心结构掌握；需区分 get sb doing vs get sb + 形容词 |
+| **noise（讨论/反馈义）** | 5 | 极高 | 2026-05-01 | 掌握不可数属性及职场场景使用 🏆 |
+| **in a nutshell / the nutshell is** | 5 | 极高 | 2026-05-01 | 固定搭配 a 与特指 the 区分清晰 |
+| **be nailed down** | 5 | 极高 | 2026-05-01 | 完成时+被动+Tag 极性全部驾驭 🏆 |
+| **not as...as it needs to be** | 5 | 高 | 2026-05-01 | 核心句式掌握；as...as 完整性和复数代词指代需巩固 |
+| **go with** | 5 | 极高 🏆 | 2026-05-01 | 5 种句式全通关，全场最佳语言点 |
+| **run the campaigns** | 5 | 高 | 2026-05-01 | 掌握 run vs do 地道性差异；过去分词 run 不是 ran 需注意 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -387,6 +393,7 @@
 | 2026-04-28 | **64BEC Launch + Flash Correct** | ✅ | **彻底攻克 related to/put effort into/代词位置** 🏆！掌握 sooner rather than later, entail, rely on sb to do, rollout plan。🔴 暴露 `have come up with` / `trouble` / `notify` 新缺口。 |
 | 2026-04-29 | **65BEC Launch + Flash Correct** | ✅ | **彻底攻克 trouble/notify/have come** 🏆！掌握 interrupt, both of which, regarding, enter deliberations。🔴 暴露 Tag 极性/情态原形余震。 |
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
+| 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -475,6 +482,10 @@
 - [ ] **🔴 `low mistake` → `silly/basic/rookie mistake`**: "低级错误"不译为 `low mistake`。2026-04-30 新发现。
 - [ ] **🔴 `say a story` → `tell a story/joke`**: "说段子" = `tell a joke / tell a funny story`。2026-04-30 新发现。
 - [ ] **🔴 复合形容词连字符**: `state of the art system` → `state-of-the-art system`。多个单词作定语时需加连字符。2026-04-30 新发现。
+- [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词 `run`。2026-05-01 复发 ⚠️。
+- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词 `gone`。2026-05-01 复发 ⚠️。
+- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`，两个 `as` 不可省略。2026-05-01 新发现。
+- [ ] **🔴 `as completed as` → `as complete as`**: `completed` (被完成) 混淆为 "完善的" (`complete` 形容词)。需区分含义。2026-05-01 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
