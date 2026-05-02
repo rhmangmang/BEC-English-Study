@@ -3,10 +3,10 @@
 ## 会话概览
 
 - **日期**: 2026-05-02
-- **时长**: 约 90 分钟（两段合计）
-- **形式**: 68BEC 核心词汇训练（9 个语言点 45 题）
-- **主要语言点**: `in place`, `either`（否定句搭配）, `be so used to`, `all hands on deck`, `drive engagement`, `get onboard with`, `pick up on`, `hop on a meeting`, `I'd be curious from your perspective`
-- **主要话题**: 远程入职、全员出动、提升参与度、上手新流程、捕捉信息、参加会议、征求意见
+- **时长**: 约 120 分钟（三段合计）
+- **形式**: 68BEC 核心词汇训练（12 个语言点 55 题 + Quick Fire + Micro Role-play）— 68BEC 全课完结 ✅
+- **主要语言点**: `in place`, `either`（否定句搭配）, `be so used to`, `all hands on deck`, `drive engagement`, `get onboard with`, `pick up on`, `hop on a meeting`, `I'd be curious from your perspective`, `intangible pieces of`, `leading question`, `most likely`
+- **主要话题**: 远程入职、全员出动、提升参与度、上手新流程、捕捉信息、参加会议、征求意见、办公室无形价值、中立提问、可能性推断
 
 ---
 
@@ -380,6 +380,125 @@
 
 ---
 
+### 语言点 10: `intangible pieces of`（无形的那些东西）
+
+课文原文：`intangible pieces of being in the office`
+
+#### Round 1 — 否定陈述句
+- **中文**: "远程办公的时候，你并不会感受到办公室里那些无形的东西。"
+- **学生答案**: `While working remotely, you don't feel those intangible things in the office.`
+- **评价**:
+  - ✅ 语义正确
+  - ❌ **未使用核心短语 `intangible pieces of`** — 课文用 `pieces` 指代"方方面面"，比 `things` 更地道
+- **修正**: `you don't pick up on those **intangible pieces of being in the office**`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你觉得远程办公到底让你错过了哪些办公室里的无形的东西？"
+- **学生答案**: `What intangible pieces of being in the office do you think you miss when working remotely?`
+- **评价**: 🏆 **满分！** 核心短语精准复刻课文原结构，`do you think` 嵌套语序正确 🏆
+
+#### Round 3 — 反义疑问句
+- **中文**: "那些办公室里无形的东西确实很重要，不是吗？"
+- **学生答案**: `Those intangible pieces of being in the office are important indeed, aren't they?`
+- **评价**: 🏆 **满分！** Tag 极性 `are... aren't they?` 正确 🏆
+
+#### Round 4 — 选择疑问句
+- **中文**: "你觉得你错过的是那些办公室里无形的东西，还是只是习惯了线下办公？"
+- **学生答案**: `Do you think what you missed are those intangible pieces of being in the office or are you just used to working offline?`
+- **评价**:
+  - ✅ **`intangible pieces of being in the office`** — 核心短语正确 🏆
+  - ❌ **选择疑问句结构混乱** — 前半句`Do you think what...`+后半句`or are you...` 结构不对称
+  - ❌ **`what you missed are`** — `what you missed` 是单数概念，系动词应为 `is`
+- **修正**: `**Is** what you missed the intangible pieces of being in the office, **or** are you just used to working offline?`
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果不是因为办公室里那些无形的东西，我可能早就完全适应远程办公了。"
+- **学生答案**: `If it were not those intangible pieces of being in the office, I would have already adapted to working remotely.`
+- **评价**:
+  - ✅ **`intangible pieces of being in the office`** — 核心短语正确 🏆
+  - ❌ **`If it were not those`** — 固定结构是 `If it were not **for**`（缺了 `for`）
+  - ⚠️ 更自然的 Type 3 写法：`If it **had not been for** those...`
+- **修正**: `If it **had not been for** those intangible pieces of being in the office, I would have already adapted to working remotely.`
+
+---
+
+### 语言点 11: `leading question`（诱导性问题）
+
+课文原文：`...or it felt like a leading question`
+
+#### Round 1 — 否定陈述句
+- **中文**: "我问的是客观事实，可不是诱导性问题。"
+- **学生答案**: `What I asked is based on fact, it's not a leading question.`
+- **评价**:
+  - ✅ **`leading question`** — 核心短语正确 🏆
+  - ⚠️ **Comma Splice** — 逗号连接两个独立句子，应分开或用 `and`/`so` 连接
+  - ⚠️ **`based on fact`** — `fact` 前缺冠词或变复数：`based on **facts**`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你怎么看出我刚才问的是一个诱导性问题的？"
+- **学生答案**: `How do you know what I asked is a leading question?`
+- **评价**: 🏆 **满分！** 间接疑问句语序 `what I asked is` 正确 🏆
+
+#### Round 3 — 反义疑问句
+- **中文**: "我刚才问的其实是一个诱导性问题，不是吗？"
+- **学生答案**: `What I asked is a leading question, isn't it?`
+- **评价**: 🏆 **满分！** Tag 极性 `is... isn't it?` 正确 🏆
+
+#### Round 4 — 选择疑问句
+- **中文**: "我刚才问的是一个中立的客观问题，还是一个诱导性问题？"
+- **学生答案**: `Is it an indifferent question based on facts or a leading question what I just asked?`
+- **评价**:
+  - ✅ **`leading question`** — 核心短语正确 🏆
+  - ❌ **`indifferent question`** — `indifferent` 是"冷漠的"，非"中立的"，应为 `neutral question`
+  - ❌ **句式混乱** — `Is it A or B what I just asked` 混合了两种句子结构
+- **修正**: `**Was** **what I just asked** a neutral question or **was it** a leading question?`
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果我知道那是一个诱导性问题，我当时就不会那样问了。"
+- **学生答案**: `If I had known that was a leading question, I would not have asked that in that way.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气完美 🏆
+
+---
+
+### 语言点 12: `most likely`（很可能）
+
+课文原文：`...because we most likely have to do it again in April`
+
+#### Round 1 — 否定陈述句
+- **中文**: "这个项目多半不会在月底前完成。"
+- **学生答案**: `This project is not most likely to be done by the end of the month.`
+- **评价**:
+  - ❌ **否定语序不自然** — `most likely` 的否定不是放在它前面。正确：`This project **will most likely not** be done by the end of the month.`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "这个项目很可能会延期多久？"
+- **学生答案**: `How long will this project be most likely to be delayed.`
+- **评价**:
+  - ❌ **语序不当** — `will be most likely to be` 两个 `be` 堆叠。正确：`How long **will** this project **most likely** be delayed?`
+  - ❌ **标点** — 句末缺问号
+
+#### 快速反应 (Quick Fire)
+- **场景**: Tech Lead 问你项目什么时候上线。你不确定确切日期，但觉得是下周四。
+- **学生答案**: `Well, regarding the launch date of this project, I'm not sure what is the launch day. I think it will most likely be released next Thursday.`
+- **评价**:
+  - ✅ **`most likely`** — 位置正确（跟在 `will` 后）🏆
+  - ✅ **`Regarding`** — 跨语言点复用 🏆
+  - ❌ **`what is the launch day`** — `I'm not sure` 后应用陈述语序 `what the launch day is`；且此处应是 `launch date`（具体日期）非 `launch day`（当天氛围）
+
+#### 微场景串联 (Micro Role-play) — 整合 `intangible pieces of` + `leading question` + `most likely`
+- **场景**: 你是 Tech Lead，与新同事做 1:1 回顾，问他远程入职感受。
+- **学生答案**: `Well, how do you feel about our remote onboarding? Do you miss those intangible pieces of being in the office? Just to clarify, I don't think this is a leading question. You just say what you feel like and I think you're most likely not the only one to feel like this.`
+- **评价**:
+  - ✅ **`intangible pieces of being in the office`** — 核心短语自然嵌入 🏆
+  - ✅ **`leading question`** — 正确使用，`just to clarify` 软化语气 🏆
+  - ✅ **`most likely`** — 位置正确（`you're most likely not`）🏆
+  - ✅ **开场自然** — `how do you feel about...` 完美贴合 1:1 场景
+  - ⚠️ **`say what you feel like`** — `feel like` = "想要"，这里应为 `say what you **feel**`
+  - ⚠️ **`to feel like this`** → `who feels this way` 更地道
+- **参考修正**: `Just say whatever you feel. And I think you're most likely not the only one **who feels this way**.`
+
+---
+
 ## 重点纠错与不足总结 (Knowledge Gaps)
 
 | 涉及知识点 | 原始错误/不足 | 纠正/改进方向 | 严重程度 |
@@ -400,6 +519,13 @@
 | **🔴 核心语言点未使用** | Round 3 & 4 均未使用 `I'd be curious from your perspective` | 每次造句前先锁定训练目标，写完检查是否命中核心短语 | **中** |
 | **🔴 `have conclusion` 缺冠词** | `have conclusion` | `conclusion` 可数 → `have a conclusion` | **低** |
 | **🔴 `the adapting stage` 中式** | `still in the adapting stage` | 更自然：`is still adapting` | **低** |
+| **🔴 `If it were not` 缺 `for`** | `If it were not those intangible pieces` | 固定结构是 `If it were not **for**` / `If it had not been **for**`，`for` 不可省 | **中** |
+| **🔴 `indifferent` ≠ `neutral`** | `indifferent question` → 意为"冷漠的" | "中立的" = `neutral question` | **中**（词义混淆） |
+| **🔴 选择疑问句平行结构** | `Do you think what... or are you...` 两侧不对称 | 选择疑问句 `or` 两侧结构必须一致 | **中** |
+| **🔴 `most likely` 否定语序** | `is not most likely to be done` | 正确语序：`will most likely not be done`（`most likely` 直接跟在助动词后） | **中**（新发现） |
+| **🔴 间接疑问句语序** | `I'm not sure what is the launch day` | `I'm not sure` 后用陈述语序：`what the launch day is` | **低**（语法规则复发） |
+| **🔴 `feel like` ≠ `feel`** | `say what you feel like` | `feel like` = 想要；`feel` = 感受。此处应使用 `feel` | **低**（词义混淆） |
+| **🔴 Comma Splice** | `is based on fact, it's not a leading question` | 两个独立句子不能只用逗号连接 | **低** |
 
 ---
 
@@ -416,9 +542,11 @@
 | **`pick up on`** | 高 | 核心短语掌握良好；`the abnormal` 形容词当名词用是新缺口；Tag 代词匹配回退 |
 | **`hop on a meeting`** | 极高 🏆 | 5 种句式全通关，全场最佳语言点 🏆 |
 | **`I'd be curious from your perspective`** | 中 | 核心句式理解正确；Round 3 & 4 未使用目标短语；`I'd not be curious` 否定形式不自然
+| **`intangible pieces of`** | 高 | 核心短语掌握；选择疑问句平行结构和 `If not for` 固定搭配需巩固 |
+| **`leading question`** | 高 | 核心短语掌握；`indifferent` vs `neutral` 词义混淆；Comma Splice 注意 |
+| **`most likely`** | 中上 | 否定语序（`will most likely not`）和间接疑问句语序需巩固；Quick Fire 反应流畅 |
 
 ---
-
 ## 今日掌握的主题
 
 | 主题 | 信心程度 | 备注 |
@@ -432,6 +560,9 @@
 | **pick up on** | 高 | 核心短语掌握较好；形容词/名词词性区分需加强 |
 | **hop on a meeting** | 极高 🏆 | 全场最佳语言点，5/5 全通关 🏆 |
 | **I'd be curious from your perspective** | 中 | 句式理解正确；主动使用核心短语的意识需加强 |
+| **intangible pieces of** | 高 | 核心短语掌握，Micro Role-play 中自然嵌入 🏆 |
+| **leading question** | 高 | 核心短语掌握；`neutral` vs `indifferent` 词义需区分 |
+| **most likely** | 中上 | 否定语序是新缺口；Quick Fire 反应自然流畅 |
 
 ---
 
@@ -446,16 +577,19 @@
 - **🔴 `the + 形容词` 作名词的禁区**：`the abnormal` ❌ → `the anomaly` ✅。形容词不可直接当名词使用。
 - **🔴 Tag 代词与主语一致**：单数主语 → `he/she` 非 `they`；复数主语 → `they`。
 - **🔴 核心语言点使用意识**：造句前先锁定目标短语，写完检查是否命中。
-- **68BEC 继续**：完成剩余 3 个语言点 — `intangible pieces of`, `leading question`, `most likely`。
+- **🔴 `most likely` 否定语序**：`most likely` 否定是 `will most likely not`，非 `is not most likely`。
+- **🔴 `If it were not for` 固定搭配**：`for` 在 `If it were/had not been for` 结构中不可省略。
+- **🔴 `indifferent` vs `neutral`**：`indifferent` = 冷漠/漠不关心；`neutral` = 中立/客观。
+- **68BEC 已完结 ✅** 进入 **69BEC-45s.md** 新课文。
 
 ---
 
 ## 备注
 
-- 68BEC 已完成 9 个语言点（45 题），剩余 3 个语言点待后续继续：`intangible pieces of`, `leading question`, `most likely`。
-- **今日最佳语言点 🏆：`hop on a meeting`** — 5 种句式全通关，零错误。`all hands on deck` 也表现良好。
-- **最大缺口 🔴：`had not drive` → `had not driven`** — 不规则动词过去分词再次复发（之前有 `be ran` / `had went` 的历史）。drive-drove-**driven** 需强制肌肉记忆。
-- **Tag 极性回退**：`requires... does it?`（应为 `doesn't it?`），在肯定主句的简单句中出现回退，说明"前肯后否"的本能仍不够稳固。
-- **新发现缺口**：`the abnormal`（形容词当名词用）→ 应为 `the anomaly`；名词修饰名词形态（`communicating channel` / `project manage system`）。
-- **核心语言点使用意识**：`I'd be curious from your perspective` 的 Round 3 & 4 完全未使用目标短语，说明造句时注意力未锁定核心训练目标。
-- 拼写问题偏多（`designe`/`coleague`/`emboarding`/`handss`），需在提交前多检查一遍。
+- **68BEC 今日全部完结！🎉 12 个语言点（55 题 + Quick Fire + Micro Role-play）全部通关。**
+- **今日最佳语言点 🏆：`hop on a meeting`** — 5 种句式全通关，零错误。
+- **首次使用新流程（灵活句式 + Quick Fire + Micro Role-play）**：`most likely` 只做了 2 轮核心造句 + Quick Fire + Micro RP，效率更高，不再强行套 5 种句式。
+- **Micro Role-play 表现突出**：三个核心点（`intangible pieces of` + `leading question` + `most likely`）自然串联，语气温和，接近真实 Tech Lead 在 1:1 中的表达水准 🏆。
+- **最大缺口 🔴：`had not drive` → `had not driven`** — 不规则动词过去分词再次复发。快闪纠偏中 `had been run` 正确，但主训练中 `had not drive` 出错，说明高度紧张时仍会回退。
+- **新发现缺口**：`most likely` 否定语序（`is not most likely` ❌ → `will most likely not` ✅）；`indifferent` vs `neutral` 词义混淆；`If it were not for` 的 `for` 在紧张中被遗漏。
+- **间接疑问句语序复发**：`I'm not sure what is the launch day` → `what the launch day is`。虽是低级错误，但说明在 Quick Fire 即时反应场景下基础语法点仍会松懈。

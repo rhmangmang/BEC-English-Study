@@ -321,6 +321,9 @@
 | **drive engagement** | 5 | 高 | 2026-05-02 | 核心短语掌握；drive 过去分词 driven 需加强 |
 | **get onboard with** | 5 | 中上 | 2026-05-02 | 核心短语掌握；名词修饰名词形态、拼写需巩固 |
 | **pick up on** | 5 | 高 | 2026-05-02 | 核心短语掌握良好；词性区分（adj vs n）需加强 |
+| **intangible pieces of** | 4 | 高 | 2026-05-02 | 核心短语掌握；选择疑问句平行结构和 If not for 固定搭配需巩固 |
+| **leading question** | 4 | 高 | 2026-05-02 | 核心短语掌握；indifferent vs neutral 词义混淆 |
+| **most likely** | 2 | 中上 | 2026-05-02 | 否定语序（will most likely not）和间接疑问句语序需巩固 |
 | **hop on a meeting** | 5 | 极高 🏆 | 2026-05-02 | 5 种句式全通关，今日最佳语言点 🏆 |
 | **I'd be curious from your perspective** | 5 | 中 | 2026-05-02 | 句式理解正确；主动使用核心短语的意识需加强 |
 ## 学习记录概览 (Session Overview)
@@ -403,7 +406,7 @@
 | 2026-04-29 | **65BEC Launch + Flash Correct** | ✅ | **彻底攻克 trouble/notify/have come** 🏆！掌握 interrupt, both of which, regarding, enter deliberations。🔴 暴露 Tag 极性/情态原形余震。 |
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 | 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
-| 2026-05-02 | **68BEC Part 2 (6 language points)** | ✅ | 掌握 all hands on deck, drive engagement, get onboard with, pick up on, hop on a meeting, I'd be curious from your perspective。hop on a meeting 全场满分 🏆。🔴 had not drive 过去分词复发；Tag 极性回退；the abnormal 词性混淆；名词修饰名词形态新缺口。剩余 3 个语言点待续。
+| 2026-05-02 | **68BEC Complete (12 language points)** | ✅ | **68BEC 全课完结 🎉**。掌握 intangible pieces of, leading question, most likely（新流程测试：灵活句式 + Quick Fire + Micro Role-play）。🔴 most likely 否定语序新缺口；indifferent vs neutral 混淆；If not for 遗漏 for；间接疑问句语序复发。
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -506,6 +509,10 @@
 - [ ] **🔴 `existing employees` 非 `old employees`**: 描述资历深→职场地道用 `existing / long-time employees`，`old` 偏年龄。2026-05-02 新发现。
 - [ ] **🔴 Tag 代词匹配回退**: `the engineer... didn't they?` ❌ → 单数主语 `the engineer` → 代词用 `he/she`，非 `they`。2026-05-02 新发现。
 - [ ] **🔴 核心语言点使用意识**: `I'd be curious from your perspective` Round 3 & 4 完全未使用目标短语。造句前先锁定训练目标。2026-05-02 新发现。
+- [ ] **🔴 `most likely` 否定语序**: `is not most likely to be done` ❌ → `will most likely not be done` ✅。`most likely` 直接跟在助动词后，否定紧随其后。2026-05-02 新发现。
+- [ ] **🔴 `If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it had not been for those` / `If it were not for those` ✅。固定结构中的 `for` 不可省。2026-05-02 新发现。
+- [ ] **🔴 `indifferent` vs `neutral`**: `indifferent question` ❌ → `neutral question` ✅。`indifferent` = 冷漠/漠不关心，`neutral` = 中立。2026-05-02 新发现。
+- [ ] **🔴 `feel like` vs `feel`**: `say what you feel like` ❌ → `say what you feel` ✅。`feel like` = 想要（后接动名词），`feel` = 感受。2026-05-02 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
@@ -591,10 +598,13 @@
 - [ ] **`take ownership of` vs `take responsibility`**: 主动揽活用 `take ownership of`；`take responsibility` 偏向承担责任/背锅。2026-03-23 新发现。
 ## 下一步计划 (Next Steps)
 
-142. [ ] **68BEC 继续**: 完成剩余 3 个语言点 — `intangible pieces of`, `leading question`, `most likely`。完成后进入 69BEC-45s.md。
-143. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
-144. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
-145. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态。
+142. [x] **68BEC 完结**: ~~完成全部 12 个语言点。~~ ✅ 2026-05-02 全课完结。
+143. [ ] **69BEC-45s.md 启动**: 进入新课文，提取核心语言点。
+144. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
+145. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
+146. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态。
+147. [ ] **🔴 `most likely` 否定语序专项**: `will most likely not` 语序的 2-3 题 Quick Fire 抽查。
+148. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
