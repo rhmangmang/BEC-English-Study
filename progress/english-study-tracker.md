@@ -314,6 +314,9 @@
 | **not as...as it needs to be** | 5 | 高 | 2026-05-01 | 核心句式掌握；as...as 完整性和复数代词指代需巩固 |
 | **go with** | 5 | 极高 🏆 | 2026-05-01 | 5 种句式全通关，全场最佳语言点 |
 | **run the campaigns** | 5 | 高 | 2026-05-01 | 掌握 run vs do 地道性差异；过去分词 run 不是 ran 需注意 |
+| **in place** | 5 | 极高 🏆 | 2026-05-02 | 职场"已到位/已落实"用法已固化 |
+| **either（否定句搭配）** | 5 | 高 | 2026-05-02 | 理解"也不"语义；需注意在否定句中不遗漏 either |
+| **be so used to** | 5 | 中上 | 2026-05-02 | 核心短语理解正确；注意 to 后接动词 -ing，非原形 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -394,6 +397,7 @@
 | 2026-04-29 | **65BEC Launch + Flash Correct** | ✅ | **彻底攻克 trouble/notify/have come** 🏆！掌握 interrupt, both of which, regarding, enter deliberations。🔴 暴露 Tag 极性/情态原形余震。 |
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 | 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
+| 2026-05-02 | **68BEC Part 1 (3 language points)** | ✅ | 掌握 in place, either(否定搭配), be so used to。in place 全场高分 🏆。🔴 be used to + 原形复发；Type 3 条件句时态回退。剩余 9 个语言点待续。 |
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -486,6 +490,9 @@
 - [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词 `gone`。2026-05-01 复发 ⚠️。
 - [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`，两个 `as` 不可省略。2026-05-01 新发现。
 - [ ] **🔴 `as completed as` → `as complete as`**: `completed` (被完成) 混淆为 "完善的" (`complete` 形容词)。需区分含义。2026-05-01 新发现。
+- [ ] **🔴 `be used to + doing`（非原形）**: `be used to communicate` ❌ → `be used to **communicating**` ✅。`be used to` 是介词性短语，后须接名词/动名词。2026-05-02 复发 ⚠️。
+- [ ] **🔴 品牌名不加 `the`**: `the Slack` → `Slack`。品牌名/平台名（Slack/Zoom/Teams/WeChat）前不加 `the`。2026-05-02 新发现。
+- [ ] **🔴 `calling with someone`** → **`calling someone`**: "打电话给某人" = `call someone`（及物动词，不加 `with`）。2026-05-02 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
