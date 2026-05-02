@@ -317,6 +317,12 @@
 | **in place** | 5 | 极高 🏆 | 2026-05-02 | 职场"已到位/已落实"用法已固化 |
 | **either（否定句搭配）** | 5 | 高 | 2026-05-02 | 理解"也不"语义；需注意在否定句中不遗漏 either |
 | **be so used to** | 5 | 中上 | 2026-05-02 | 核心短语理解正确；注意 to 后接动词 -ing，非原形 |
+| **all hands on deck** | 5 | 高 | 2026-05-02 | 核心短语掌握；Tag 极性需警惕 |
+| **drive engagement** | 5 | 高 | 2026-05-02 | 核心短语掌握；drive 过去分词 driven 需加强 |
+| **get onboard with** | 5 | 中上 | 2026-05-02 | 核心短语掌握；名词修饰名词形态、拼写需巩固 |
+| **pick up on** | 5 | 高 | 2026-05-02 | 核心短语掌握良好；词性区分（adj vs n）需加强 |
+| **hop on a meeting** | 5 | 极高 🏆 | 2026-05-02 | 5 种句式全通关，今日最佳语言点 🏆 |
+| **I'd be curious from your perspective** | 5 | 中 | 2026-05-02 | 句式理解正确；主动使用核心短语的意识需加强 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -397,7 +403,7 @@
 | 2026-04-29 | **65BEC Launch + Flash Correct** | ✅ | **彻底攻克 trouble/notify/have come** 🏆！掌握 interrupt, both of which, regarding, enter deliberations。🔴 暴露 Tag 极性/情态原形余震。 |
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 | 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
-| 2026-05-02 | **68BEC Part 1 (3 language points)** | ✅ | 掌握 in place, either(否定搭配), be so used to。in place 全场高分 🏆。🔴 be used to + 原形复发；Type 3 条件句时态回退。剩余 9 个语言点待续。 |
+| 2026-05-02 | **68BEC Part 2 (6 language points)** | ✅ | 掌握 all hands on deck, drive engagement, get onboard with, pick up on, hop on a meeting, I'd be curious from your perspective。hop on a meeting 全场满分 🏆。🔴 had not drive 过去分词复发；Tag 极性回退；the abnormal 词性混淆；名词修饰名词形态新缺口。剩余 3 个语言点待续。
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -493,6 +499,13 @@
 - [ ] **🔴 `be used to + doing`（非原形）**: `be used to communicate` ❌ → `be used to **communicating**` ✅。`be used to` 是介词性短语，后须接名词/动名词。2026-05-02 复发 ⚠️。
 - [ ] **🔴 品牌名不加 `the`**: `the Slack` → `Slack`。品牌名/平台名（Slack/Zoom/Teams/WeChat）前不加 `the`。2026-05-02 新发现。
 - [ ] **🔴 `calling with someone`** → **`calling someone`**: "打电话给某人" = `call someone`（及物动词，不加 `with`）。2026-05-02 新发现。
+- [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。不规则动词过去分词再次复发。2026-05-02 复发 ⚠️。
+- [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → 主句肯定 → Tag 必须否定 `doesn't it?`。简单句中仍有回退。2026-05-02 复发 ⚠️。
+- [ ] **🔴 `the + 形容词` 作名词禁区**: `the abnormal in the system` ❌ → `the anomaly` ✅。形容词不可直接加 `the` 当名词用。2026-05-02 新发现。
+- [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅；`project manage system` ❌ → `project management system` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
+- [ ] **🔴 `existing employees` 非 `old employees`**: 描述资历深→职场地道用 `existing / long-time employees`，`old` 偏年龄。2026-05-02 新发现。
+- [ ] **🔴 Tag 代词匹配回退**: `the engineer... didn't they?` ❌ → 单数主语 `the engineer` → 代词用 `he/she`，非 `they`。2026-05-02 新发现。
+- [ ] **🔴 核心语言点使用意识**: `I'd be curious from your perspective` Round 3 & 4 完全未使用目标短语。造句前先锁定训练目标。2026-05-02 新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
@@ -577,6 +590,11 @@
 - [ ] **`probably` 副词位置**: `would not probably` → `would probably not`。副词夹在助动词和否定词中间更自然。2026-03-23 新发现，闪电纠偏后修复。
 - [ ] **`take ownership of` vs `take responsibility`**: 主动揽活用 `take ownership of`；`take responsibility` 偏向承担责任/背锅。2026-03-23 新发现。
 ## 下一步计划 (Next Steps)
+
+142. [ ] **68BEC 继续**: 完成剩余 3 个语言点 — `intangible pieces of`, `leading question`, `most likely`。完成后进入 69BEC-45s.md。
+143. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
+144. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
+145. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用

@@ -3,10 +3,10 @@
 ## 会话概览
 
 - **日期**: 2026-05-02
-- **时长**: 约 30 分钟
-- **形式**: 68BEC 核心词汇训练（3 个语言点 15 题）— 未做完，待续
-- **主要语言点**: `in place`, `either`（否定句搭配）, `be so used to`
-- **主要话题**: 远程入职、面对面交流、习惯性工作方式
+- **时长**: 约 90 分钟（两段合计）
+- **形式**: 68BEC 核心词汇训练（9 个语言点 45 题）
+- **主要语言点**: `in place`, `either`（否定句搭配）, `be so used to`, `all hands on deck`, `drive engagement`, `get onboard with`, `pick up on`, `hop on a meeting`, `I'd be curious from your perspective`
+- **主要话题**: 远程入职、全员出动、提升参与度、上手新流程、捕捉信息、参加会议、征求意见
 
 ---
 
@@ -137,18 +137,269 @@
 
 ---
 
+### 语言点 4: `all hands on deck`（全员出动 / 全员上阵）
+
+课文原文：`So for us, it was all hands on deck, figuring out how to still drive engagement...`
+
+#### Round 1 — 否定陈述句
+- **中文**: "这次活动不是什么大项目，不需要全员出动。"
+- **学生答案**: `This event isn't a big project. so it doesn't require all hands on deck.`
+- **评价**:
+  - ✅ **`all hands on deck`** — 核心短语使用正确 🏆
+  - ⚠️ **句号 + `so`** — 句号后 `so` 小写，应为逗号连接：`This event isn't a big project, so...`
+  - ⚠️ **`require all hands on deck`** — 短语的地道用法是直接用 `be` 动词：`It's not all hands on deck` 更简洁地道
+
+#### Round 2 — 特殊疑问句
+- **中文**: "这次到底是什么紧急情况，搞得大家要全员出动？"
+- **学生答案**: `What exactly is the emergency this time?It's all handss on deck.`
+- **评价**:
+  - ✅ **`all hands on deck`** — 核心短语正确 🏆
+  - ✅ **`What exactly`** — Exactly 紧跟疑问词，位置正确 🏆
+  - ❌ **拆成两句** — 应合并为一个特殊疑问句：`What exactly is the emergency this time that's got all hands on deck?`
+  - ❌ **`handss`** — 拼写多了一个 `s`
+
+#### Round 3 — 反义疑问句
+- **中文**: "下周的产品发布要全员出动，不是吗？"
+- **学生答案**: `The product launch next week requires all hands on deck, does it?`
+- **评价**:
+  - ✅ **`all hands on deck`** — 核心短语正确 🏆
+  - ❌ **Tag 极性回退** — 主句肯定 → Tag 应否定 `doesn't it?`，非 `does it?`
+  - ⚠️ 短语更地道的用法：`The product launch next week **is** all hands on deck, **isn't it**?`
+
+#### Round 4 — 选择疑问句
+- **中文**: "这次是全员出动，还是只有部分团队参与？"
+- **学生答案**: `Is it all hands on deck this time or just part of the team?`
+- **评价**: 🏆 **满分！** `is it` 开头用 `be` 动词比 `require` 更地道 🏆
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初不是全员出动，我们根本不可能按时上线。"
+- **学生答案**: `If it had not been all hands on deck at that time, we would not have been able to launch on time.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气完美 🏆
+
+---
+
+### 语言点 5: `drive engagement`（提升参与度 / 带动积极性）
+
+课文原文：`figuring out how to still drive engagement and get people excited about working here`
+
+#### Round 1 — 否定陈述句
+- **中文**: "那个公告并没有提高团队的参与度。"
+- **学生答案**: `The notice didn't drive the team's engagement.`
+- **评价**: 🏆 **满分！** `drive engagement` 准确，否定句时态正确 🏆
+
+#### Round 2 — 特殊疑问句
+- **中文**: "在远程办公的情况下，你是怎么带动大家的积极性的？"
+- **学生答案**: `How did you drive engagement on the remote working condition?`
+- **评价**:
+  - ✅ **`drive engagement`** — 核心短语正确 🏆
+  - ⚠️ **`on the remote working condition`** — 介词搭配不地道。更自然：`How did you drive engagement **while working remotely**?`
+
+#### Round 3 — 反义疑问句
+- **中文**: "新团队活动确实提高了大家的参与度，不是吗？"
+- **学生答案**: `the new team activity did drive engagement, didn't it?`
+- **评价**: 🏆 **满分！** `did drive` 强调助动词用法地道，Tag 极性 `did...didn't it?` 正确 🏆
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是想通过团建来提高参与度，还是通过更好的沟通渠道？"
+- **学生答案**: `Do you want to drive engagement by team activities or a better communicating channel?`
+- **评价**:
+  - ✅ **`drive engagement`** — 核心短语正确 🏆
+  - ❌ **`communicating channel`** — "沟通渠道"应为 `communication channel`（名词修饰名词用原形），非 `communicating channel`
+  - ⚠️ 平行结构 `by X or Y` 工整 ✅
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初没有那个活动来带动参与度，很多人可能早就离职了。"
+- **学生答案**: `If the activity had not drive engagement at that time, many people would have already quit the job.`
+- **评价**:
+  - ✅ **`drive engagement`** — 核心短语正确 🏆
+  - ✅ **Type 3 骨架** — `If... would have quit` 正确
+  - ❌ **`had not drive`** — `had` 后必须接过去分词 **`driven`**（drive-drove-**driven**），再次暴露不规则动词过去分词问题
+
+---
+
+### 语言点 6: `get onboard with`（接受 / 配合 / 跟上 / 上手）
+
+课文原文：`helping them get onboard with all the content they need`
+
+#### Round 1 — 否定陈述句
+- **中文**: "很多老员工不太能接受新的工作流程。"
+- **学生答案**: `Many old employees may not be able to get onboard with the new working process.`
+- **评价**:
+  - ✅ **`get onboard with`** — 核心短语使用正确 🏆
+  - ❌ **`old employees`** — "老员工"指资历深而非年纪大，应为 `long-time employees` / `existing employees`
+  - ⚠️ **`working process`** — 偏中式，"工作流程"地道说法为 `workflow` / `process`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你是怎么让新来的设计师接受你们的设计规范的？"
+- **学生答案**: `How did you let the new designer get onboard with your designe principles?`
+- **评价**:
+  - ✅ **`get onboard with`** — 核心短语正确 🏆
+  - ❌ **`designe`** — 拼写错误，应为 `design`
+  - ⚠️ **`let sb get onboard`** — `let` 表"允许"，中文"让"在此意为"帮助"，用 `help sb get onboard` 更贴切
+
+#### Round 3 — 反义疑问句
+- **中文**: "你那个团队已经接受新的项目管理系统了，不是吗？"
+- **学生答案**: `Your team has got onboard with the new project manage system, hasn't it?`
+- **评价**:
+  - ✅ **`get onboard with`** — 核心短语正确 🏆
+  - ✅ **Tag 极性** — `has... hasn't it?` 正确 🏆
+  - ❌ **`project manage system`** — 名词修饰名词应为 `project management system`
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是觉得新来的同事已经上手了，还是还在适应阶段？"
+- **学生答案**: `Do you think the new coleague has got onboard with work or still in the adapting stage?`
+- **评价**:
+  - ✅ **`get onboard with`** — 核心短语正确 🏆
+  - ❌ **`coleague`** — 拼写错误，应为 `colleague`
+  - ❌ **平行结构不工整** — `has got onboard`（完成时）vs `still in the adapting stage`（名词短语），结构不一致
+  - ❌ **`the adapting stage`** — 中式直译。更自然：`is still adapting`
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初没有导师带他，他不可能这么快就上手我们的开发流程。"
+- **学生答案**: `If there had been no tutor to teach him at that time, he would not have been able to get onboard with our development workflow.`
+- **评价**: 🏆 **接近满分！** Type 3 虚拟语气精准，`development workflow` 自然地道；`tutor to teach` → `mentor to guide` 更地道（小瑕疵）🏆
+
+---
+
+### 语言点 7: `pick up on`（捕捉到 / 察觉到 / 顺便学到）
+
+课文原文：`how to pick up on all those little pieces of information you get just from chit-chatting around the office`
+
+#### Round 1 — 否定陈述句
+- **中文**: "他在会上没有察觉到团队对那个方案的不满情绪。"
+- **学生答案**: `He did not pick up on the uncomfortable emotion from the team about the proposal.`
+- **评价**:
+  - ✅ **`pick up on`** — 核心短语正确 🏆
+  - ⚠️ **`uncomfortable emotion`** — 偏中式，"不满情绪"职场里更地道：`dissatisfaction` / `discontent`
+  - ⚠️ **`from...about` 介词串联** — 可简化为：`the team's dissatisfaction with the proposal`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你是怎么察觉到客户对价格不太满意的？"
+- **学生答案**: `How did you pick up on the client's dissatisfaction with the price?`
+- **评价**: 🏆 **满分！** `dissatisfaction with` 介词搭配准确 🏆
+
+#### Round 3 — 反义疑问句
+- **中文**: "那个工程师立刻就察觉到了系统里的异常，不是吗？"
+- **学生答案**: `The engineer immediately picked up on the abnormal in the system, didn't they?`
+- **评价**:
+  - ✅ **`pick up on`** — 核心短语正确 🏆
+  - ❌ **`the abnormal`** — `abnormal` 是形容词，不能加 `the` 当名词用。应为 `the anomaly` / `something abnormal`
+  - ❌ **Tag 代词** — `the engineer` 是单数，应用 `he` 而非 `they`
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是自己察觉到这个问题的，还是有人提醒你的？"
+- **学生答案**: `Did you pick up on the issue or someone notify you?`
+- **评价**:
+  - ✅ **`pick up on`** — 核心短语正确 🏆
+  - ❌ **平行结构不完整** — `or` 后缺助动词 `did`；`notify` 偏正式，口语用 `point out` / `tell` 更自然
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初他察觉到了那个警告信号，我们就能早点修复这个 Bug 了。"
+- **学生答案**: `If he had picked up on the warning signal at that time, we would have fixed this bug earlier.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气完美 🏆
+
+---
+
+### 语言点 8: `hop on a meeting`（加入会议）
+
+课文原文：`...or hopping on a meeting`
+
+#### Round 1 — 否定陈述句
+- **中文**: "他今天太忙了，一个会都没参加。"
+- **学生答案**: `He was so busy today. He didn't hop on any meeting.`
+- **评价**:
+  - ✅ **`didn't hop on`** — 核心短语正确 🏆
+  - ⚠️ **`any meeting`（单数）** — `any` + 可数名词复数更自然：`any meetings`
+  - ⚠️ **两句合并** — 用 `so...that` 连接更紧凑：`He was so busy today that he didn't hop on any meetings.`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你今天开了几个会？"
+- **学生答案**: `How many meetings did you hop on today?`
+- **评价**: 🏆 **满分！** 🏆
+
+#### Round 3 — 反义疑问句
+- **中文**: "你今天下午要参加那个产品评审会，不是吗？"
+- **学生答案**: `You'll hop on the product review meeting this afternoon, won't you?`
+- **评价**: 🏆 **满分！** Tag 极性 `will...won't you?` 正确 🏆
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是想参加下午的会，还是明天早上的？"
+- **学生答案**: `Do you want to hop on this afternoon's meeting or tomorrow morning's meeting?`
+- **评价**: 🏆 **满分！** 平行结构工整 🏆
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果早知道那个会有那么重要，我当时就算再忙也应该参加的。"
+- **学生答案**: `If I had known that the meeting was that important, I would have hopped on it even though I was very busy.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气完美，`hopped` 过去分词正确 🏆
+
+---
+
+### 语言点 9: `I'd be curious from your perspective`（我想听听你的看法）
+
+课文原文：`So I'd be curious from your perspective and like, to be honest, it's okay...`
+
+#### Round 1 — 否定陈述句
+- **中文**: "对于这个方案，我其实并不想从你的角度来听看法——我想听听客户的。"
+- **学生答案**: `Regarding this proposal, I'd not be curious from your perspective actually. I want to hear it from our client.`
+- **评价**:
+  - ✅ **`from your perspective`** — 核心短语使用了 🏆
+  - ✅ **`Regarding`** — 跨语言点复用（65BEC）🏆
+  - ❌ **`I'd not be curious`** — `I'd not`（= I would not）非常别扭。更自然：`I don't think I need to hear from your perspective`
+  - ⚠️ 语义生硬，在职场中听起来不太礼貌
+
+#### Round 2 — 特殊疑问句
+- **中文**: "关于这次远程入职的效果，我想听听你作为新员工的看法。你怎么看？"
+- **学生答案**: `Regarding the outcome of remote onboarding this time, I'd be curious from your perspective as a new employee, what do you think?`
+- **评价**: 🏆 **满分！** 核心语言点自然嵌入，以 `what do you think?` 收尾邀请对方发言 🏆
+
+#### Round 3 — 反义疑问句
+- **中文**: "关于这件事，你应该也想听听我的看法吧，不是吗？"
+- **学生答案**: `Regarding this thing, you should hear something from me, shouldn't you?`
+- **评价**:
+  - ✅ **Tag 极性** — `should...shouldn't you?` 正确 🏆
+  - ❌ **未使用核心语言点** — 完全没用到 `I'd be curious from your perspective`
+  - ❌ **`this thing`** — 职场中不用 `thing`，应具体化：`this matter` / `this issue`
+  - ❌ **`hear something from me`** — "听我的看法"地道说法：`hear my perspective` / `hear what I think`
+
+#### Round 4 — 选择疑问句
+- **中文**: "关于这次远程入职的效果，你是想听听我的看法，还是你已经有结论了？"
+- **学生答案**: `Regarding the outcome of the remote onboarding this time, do you want to hear what I think or do you already have conclusion?`
+- **评价**:
+  - ✅ **`Regarding`** — 跨语言点复用 🏆
+  - ❌ **未使用核心语言点** — 完全没用到 `I'd be curious from your perspective`
+  - ❌ **`have conclusion`** — `conclusion` 可数，需加冠词 `a`
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果我是你，我也想听听新员工对于这次远程入职的真实看法。"
+- **学生答案**: `If I were you, I would also be curious from the new employee's perspective about the remote emboarding this time.`
+- **评价**:
+  - ✅ **`be curious from ... perspective`** — 核心短语正确 🏆
+  - ✅ **Type 2 虚拟语气** — `If I were you, I would` 完美 🏆
+  - ❌ **`emboarding`** — 拼写错误，应为 `onboarding`
+  - ⚠️ `be curious from... about` 介词串联稍绕，更自然：`be curious to hear ... perspective on`
+
+---
+
 ## 重点纠错与不足总结 (Knowledge Gaps)
 
 | 涉及知识点 | 原始错误/不足 | 纠正/改进方向 | 严重程度 |
 | :--- | :--- | :--- | :--- |
 | **🔴 Type 3 条件句时态** | `were in place` → 应为 `had been in place` | 过去虚拟假设 = `If + had + pp` (Type 3)，非 `If + were` (Type 2) | **高**（条件句区分复发） |
 | **🔴 `be used to + doing`** | `be used to communicate` | `be used to` 是介词性短语，后必须接名词或动名词 | **高**（基础语法） |
-| **🔴 `either` 在否定句中遗漏** | `You don't know..., do you?` 漏 `either` | 中文"也"出现在否定句时，必须加 `either` | **中** |
-| **🔴 `the Slack`** | `the Slack` → 品牌名不加 `the` | 像 WeChat、Slack、Zoom 此类品牌名/平台名不加冠词 | **中** |
-| **`calling with someone`** | `calling with them` | "打电话给某人" = `calling someone`（及物动词，不加 with） | **中** |
-| **🔴 条件句结构完整** | `if... What should we do?` 拆成两句 | 条件句 `If... + 主句` 必须是一个完整句子 | **中** |
-| **`either` 后多余逗号** | `training, either` | 否定词后 `either` 不应有逗号隔开 | **低** |
-| **`in place` 时态选择** | `have been in place` → `are in place` | 状态表达用一般现在时比完成时更自然 | **低**（地道性） |
+| **🔴 `drive` 过去分词** | `had not drive` → `had not driven` | drive-drove-**driven**，`had` 后必须接过去分词 | **高**（不规则动词复发） |
+| **🔴 Tag 极性回退** | `requires all hands on deck, does it?` | 主句肯定 → Tag 必须否定 `doesn't it?` | **高**（再回退） |
+| **🔴 形容词作名词 (`the abnormal`)** | `the abnormal in the system` | `abnormal` 是形容词，不可直接加 `the` 当名词用。应为 `the anomaly` | **高**（新发现） |
+| **🔴 名词修饰名词形态** | `communicating channel` / `project manage system` | `communication channel` / `project management system` — 修饰语用名词原形 | **中** |
+| **🔴 `old employees`** | 指"资历深"误用 `old` | `existing employees` / `long-time employees`（非年龄含义） | **中**（新发现） |
+| **🔴 Tag 代词匹配** | `the engineer... didn't they?` | 单数主语 `the engineer` → 代词用 `he/she`，非 `they` | **中**（新发现） |
+| **🔴 `colleague` 拼写** | `coleague` | colleague, 双 l 后接 e-a-g-u-e | **低**（拼写） |
+| **🔴 `design` 拼写** | `designe` | design 末尾无 e | **低**（拼写） |
+| **🔴 `emboarding` → `onboarding`** | `emboarding` | 拼写为 **onboarding**（on + board + ing） | **低**（拼写） |
+| **🔴 `handss` 拼写** | `handss` 多了一个 s | `hands` | **低**（笔误） |
+| **🔴 `this thing` 职场禁忌** | `Regarding this thing` | 职场中不直接用 `thing`，应具体化：`this matter` / `this issue` | **低**（地道性） |
+| **🔴 核心语言点未使用** | Round 3 & 4 均未使用 `I'd be curious from your perspective` | 每次造句前先锁定训练目标，写完检查是否命中核心短语 | **中** |
+| **🔴 `have conclusion` 缺冠词** | `have conclusion` | `conclusion` 可数 → `have a conclusion` | **低** |
+| **🔴 `the adapting stage` 中式** | `still in the adapting stage` | 更自然：`is still adapting` | **低** |
 
 ---
 
@@ -159,6 +410,12 @@
 | **`in place`** | 极高 | 5 种句式全通关，Round 1-4 满分 🏆；唯一问题是 Type 3 条件句时态回退 |
 | **`either`（否定句的"也"）** | 高 | 概念理解清晰，否定句中 `don't...either` 使用正确；需注意不漏写 `either` |
 | **`be so used to`** | 中上 | 核心短语理解正确，但存在 `be used to + 原形` 的基础语法错误和 `the Slack` 冠词问题 |
+| **`all hands on deck`** | 高 | 4/5 正确，核心短语用法理解到位；Tag 极性回退 1 次，`handss` 拼写笔误 |
+| **`drive engagement`** | 高 | 核心短语使用正确；`had not drive` 过去分词复发；`communicating channel` 名词修饰名词错误 |
+| **`get onboard with`** | 中上 | 核心短语理解正确；拼写问题多（`designe`/`coleague`）；名词修饰名词错误（`project manage system`）；平行结构需加强 |
+| **`pick up on`** | 高 | 核心短语掌握良好；`the abnormal` 形容词当名词用是新缺口；Tag 代词匹配回退 |
+| **`hop on a meeting`** | 极高 🏆 | 5 种句式全通关，全场最佳语言点 🏆 |
+| **`I'd be curious from your perspective`** | 中 | 核心句式理解正确；Round 3 & 4 未使用目标短语；`I'd not be curious` 否定形式不自然
 
 ---
 
@@ -169,6 +426,12 @@
 | **in place** | 极高 🏆 | 不可数 & 状态表达，职场用法已固化 |
 | **either（否定句"也"）** | 高 | 理解到位，使用基本正确；需注意不遗漏 |
 | **be so used to** | 中上 | `to` 后接动名词的规则需固化；品牌名冠词问题需纠正 |
+| **all hands on deck** | 高 | 核心短语掌握；Tag 极性在简单句中仍需警惕 |
+| **drive engagement** | 高 | 核心短语掌握；不规则动词过去分词（drive→driven）需加强 |
+| **get onboard with** | 中上 | 核心短语掌握；名词修饰名词形态需巩固；拼写需仔细 |
+| **pick up on** | 高 | 核心短语掌握较好；形容词/名词词性区分需加强 |
+| **hop on a meeting** | 极高 🏆 | 全场最佳语言点，5/5 全通关 🏆 |
+| **I'd be curious from your perspective** | 中 | 句式理解正确；主动使用核心短语的意识需加强 |
 
 ---
 
@@ -177,12 +440,22 @@
 - **🔴 Type 3 vs Type 2 条件句区分**：用 `If...were`（现在假设）还是 `If...had been`（过去假设）的判断需加强。
 - **🔴 `be used to + doing` 固化**：随机插入含 `be used to / be so used to / get used to` 的句子，强制检查动词形式。
 - **🔴 品牌名不加 `the`**：随机抽查 Slack/Zoom/Teams 等平台名的冠词使用。
-- **68BEC 继续**：完成剩余语言点 — `all hands on deck`, `drive engagement`, `get onboard with`, `pick up on`, `hop on a meeting`, `I'd be curious from your perspective`, `intangible pieces of`, `leading question`, `most likely`。
+- **🔴 不规则动词过去分词专项**：`drive-driven`, `run-run`, `go-gone`。随机抽查 `had + 过去分词` 的虚拟语气句。
+- **🔴 Tag 极性持续压制**：随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
+- **🔴 名词修饰名词形态**：`communication channel`（非 `communicating`），`project management system`（非 `manage`）。随机插入含复合名词的句子检查形态。
+- **🔴 `the + 形容词` 作名词的禁区**：`the abnormal` ❌ → `the anomaly` ✅。形容词不可直接当名词使用。
+- **🔴 Tag 代词与主语一致**：单数主语 → `he/she` 非 `they`；复数主语 → `they`。
+- **🔴 核心语言点使用意识**：造句前先锁定目标短语，写完检查是否命中。
+- **68BEC 继续**：完成剩余 3 个语言点 — `intangible pieces of`, `leading question`, `most likely`。
 
 ---
 
 ## 备注
 
-- 68BEC 仅完成了 3 个语言点（15 题），还有 9 个语言点待后续继续。
-- 最大的问题：`be used to communicate`（`to` 后接原形）是一个基础语法错误，说明 `be used to` 的介词属性在高度紧张的口语造句中被遗忘了。需要巩固肌肉记忆。
-- `either` 的用法理解过关，但反义疑问句中容易遗漏该词，需要注意。
+- 68BEC 已完成 9 个语言点（45 题），剩余 3 个语言点待后续继续：`intangible pieces of`, `leading question`, `most likely`。
+- **今日最佳语言点 🏆：`hop on a meeting`** — 5 种句式全通关，零错误。`all hands on deck` 也表现良好。
+- **最大缺口 🔴：`had not drive` → `had not driven`** — 不规则动词过去分词再次复发（之前有 `be ran` / `had went` 的历史）。drive-drove-**driven** 需强制肌肉记忆。
+- **Tag 极性回退**：`requires... does it?`（应为 `doesn't it?`），在肯定主句的简单句中出现回退，说明"前肯后否"的本能仍不够稳固。
+- **新发现缺口**：`the abnormal`（形容词当名词用）→ 应为 `the anomaly`；名词修饰名词形态（`communicating channel` / `project manage system`）。
+- **核心语言点使用意识**：`I'd be curious from your perspective` 的 Round 3 & 4 完全未使用目标短语，说明造句时注意力未锁定核心训练目标。
+- 拼写问题偏多（`designe`/`coleague`/`emboarding`/`handss`），需在提交前多检查一遍。
