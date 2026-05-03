@@ -328,6 +328,12 @@
 | **I'd be curious from your perspective** | 5 | 中 | 2026-05-02 | 句式理解正确；主动使用核心短语的意识需加强 |
 | **plan out** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 一轮通过；代词位置 plan it out 正确 |
 | **have my calendar all organized** | 5 | 高 | 2026-05-03 | 5 种句式全通关 + Quick Fire 一轮通过；虚拟语气嵌套满分；Round 1 未命中目标结构但立即修复 |
+| **ultimately** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 通过；句首/助动词后位置正确 🏆 |
+| **out of place** | 5 | 高 | 2026-05-03 | 语义掌握牢固；Round 1/3 介词和 feel like 问题，Round 4/5 全对 |
+| **have something lined up** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 通过；虚拟语气嵌套满分 🏆 |
+| **stand in the corner** | 5 | 高 | 2026-05-03 | 语义掌握好；Tag 极性回退 1 次 + 过去分词 stood 错误 1 次 |
+| **kind of thing** | 5 | 高 | 2026-05-03 | 口语收尾用法掌握；Round 1/2 结构偏乱，Round 3-5 逐步稳定 |
+| **per se** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 道；not... per se 结构使用精准 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -409,7 +415,8 @@
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 | 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
 | 2026-05-02 | **68BEC Complete (12 language points)** | ✅ | **68BEC 全课完结 🎉**。掌握 intangible pieces of, leading question, most likely（新流程测试：灵活句式 + Quick Fire + Micro Role-play）。🔴 most likely 否定语序新缺口；indifferent vs neutral 混淆；If not for 遗漏 for；间接疑问句语序复发。
-| 2026-05-03 | **69BEC Launch (2 language points)** | ✅ | 69BEC 启动。完成 plan out + have my calendar all organized（10 轮核心 + 2 轮 Quick Fire + Micro Role-play）。闪电纠偏 most likely 否定语序修复 🏆。🔴 agree 介词历史复发；have sb to do 新缺口。
+| 2026-05-03 | **69BEC Launch (2 language points)** | ✅ | 69BEC 启动。完成 plan out + have my calendar all organized（10 轮核心 + 2 轮 Quick Fire + Micro Role-play）。闪电纠偏 most likely 否定语序修复 🏆。🔴 agree 介词历史复发；have sb to do 新缺口。|
+| 2026-05-03（下午）| **69BEC Deep (6 language points)** | ✅ | 下午场。完成 ultimately, out of place, have something lined up, stand in the corner, kind of thing, per se（30 轮核心 + 6 轮 Quick Fire）。跨语言点复用意识强 🏆。🔴 Tag 极性回退 1 次；stand 过去分词 stood 错误；feel like 用法混淆新缺口。
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -517,7 +524,9 @@
 - [ ] **🔴 `have sb do`（无 to）**: `have the outsourcing team to arrange` ❌ → `have the outsourcing team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
 - [ ] **🔴 `If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it had not been for those` / `If it were not for those` ✅。固定结构中的 `for` 不可省。2026-05-02 新发现。
 - [ ] **🔴 `indifferent` vs `neutral`**: `indifferent question` ❌ → `neutral question` ✅。`indifferent` = 冷漠/漠不关心，`neutral` = 中立。2026-05-02 新发现。
-- [ ] **🔴 `feel like` vs `feel`**: `say what you feel like` ❌ → `say what you feel` ✅。`feel like` = 想要（后接动名词），`feel` = 感受。2026-05-02 新发现。
+- [ ] **🔴 `feel like` vs `feel`**: `feel like` + 名词/动名词 (`feel like a winner / going out`)；`feel` + 形容词/固定短语 (`feel comfortable / out of place`)。不可混用。2026-05-03（下午）新发现，同类错误出现 2 次。
+- [ ] **🔴 `stand` 过去分词 (`stood`)**: `stand-stood-stood`。`would not have stand` ❌ → `would not have stood` ✅。2026-05-03（下午）新发现。
+- [ ] **🔴 `looked like` vs `looked`**: `look like` + 名词；`looked out of place`（不加 `like`）。2026-05-03（下午）新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
 - [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
@@ -605,13 +614,16 @@
 
 142. [x] **68BEC 完结**: ~~完成全部 12 个语言点。~~ ✅ 2026-05-02 全课完结。
 143. [x] **69BEC-45s.md 启动**: ~~进入新课文，提取核心语言点。~~ ✅ 2026-05-03 已启动（2 个语言点完成）。
-144. [ ] **69BEC 继续推进**: 从 `ultimately` 开始，完成剩余约 14 个语言点。
-145. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
-146. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
-147. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
-148. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
-149. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
-150. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
+144. [x] **69BEC 继续推进**: ~~从 `ultimately` 开始，完成剩余约 14 个语言点。~~ ✅ 2026-05-03（下午场）完成 6 个（总进度 8/16）。
+145. [ ] **69BEC 继续推进**: 从 `planned downtime` 开始，完成剩余约 8 个语言点。
+146. [ ] **🔴 `feel like` vs `feel` 闪电纠偏**: `feel like` + 名词/动名词；`feel` + 形容词/固定短语。今日 `feel like comfortable` 和 `felt like out of place` 两次同类错误。新缺口。
+147. [ ] **🔴 `stood` 过去分词闪电纠偏**: `stand-stood-stood`。插入含 `stand/stood` 的虚拟语气句，强化肌肉记忆。
+148. [ ] **🔴 Tag 极性压制（肯定主句）**: 穿插简单句肯定主句 Tag，确保前肯后否不松懈。
+149. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
+150. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
+151. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
+152. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
+153. [ ] **🔴 跨语言点复用强化**: 今日在 `kind of thing` 中自然复用 `stand in the corner`，证明意识已建立，继续鼓励。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用

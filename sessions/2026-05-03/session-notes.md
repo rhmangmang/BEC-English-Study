@@ -242,3 +242,389 @@
 - **Micro Role-play 首次在新流程中使用**: `plan out` + `have + sth + all + organized` 成功串联，两个核心语言点自然植入。但句子长度和自然度仍有提升空间。
 - **学生主动纠错**: Round 3（反义疑问句）中，学生对我的时态反馈提出了质疑，最终被证实学生正确。这种判断力值得鼓励 🏆
 - **69BEC 进度**: 2/16 语言点完成，当前语言点 3 `ultimately` 已读文本待开题。
+
+---
+
+# 【第二场】69BEC Deep — 6 Language Points
+
+- **日期**: 2026-05-03（下午）
+- **时长**: 约 60 分钟
+- **主要主题**: 69BEC 深度推进（6 个语言点 30 题 + Quick Fire 6 轮）
+- **主要语言点**: `ultimately`, `out of place`, `have something lined up`, `stand in the corner`, `kind of thing`, `per se`
+- **进度**: 69BEC 已完成 8/16 个语言点
+
+---
+
+## 造句训练记录
+
+### 语言点 3: `ultimately`（说到底 / 归根到底）
+
+课文原文：*Because **ultimately**, if you're going to a social setting or anything...*
+
+> `ultimately` = 逻辑上的"归根到底"，不是时间上的"最终"。引出最核心、最根本的原因，语气理性稳重。
+
+#### Round 1 — 否定陈述句
+- **中文**: "说到底，他并不是对方案本身不满，他只是担心时间不够。"
+- **学生答案**: `Ultimately, he was not dissatisfied with the proposal per sa. He was just worried about that the time was not enough.`
+- **评价**:
+  - ✅ `Ultimately` 句首位置正确 🏆
+  - ✅ `not dissatisfied` 双重否定精准对应"并不……不满"
+  - ❌ **`per sa` 拼写错误** — 应为 `per se`（拉丁语"本身"）
+  - ❌ **`worried about that` 从句退化** — `worry` 后接从句直接用 `worry that`，不需要 `about`
+  - ⚠️ **`the time was not enough`** — 语法正确但偏生硬，更自然的是 `there wasn't enough time`
+- **修正**: `Ultimately, he was not dissatisfied with the proposal **per se**. He was just **worried that there wasn't enough time**.`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你们最终到底是怎么做出这个决定的？"
+- **学生答案**: `How did you ultimately make this decision?`
+- **评价**: 🏆 **满分！** `ultimately` 放在助动词 `did` 后、实义动词 `make` 前，位置地道自然。
+
+#### Round 3 — 反义疑问句
+- **中文**: "说到底，最关键的是用户体验，不是吗？"
+- **学生答案**: `Ultimately, user experience is of most importance, isn't it?`
+- **评价**:
+  - ✅ `Ultimately` 句首正确
+  - ✅ Tag 极性 `isn't it?` 主肯否 tag 正确 🏆
+  - ⚠️ **`of most importance`** — 少了冠词语感别扭。更自然：`user experience is **what matters most**`
+
+#### Round 4 — 选择疑问句
+- **中文**: "这个项目最终是按时完成了，还是延期了？"
+- **学生答案**: `Was this project ultimately finished or delayed?`
+- **评价**:
+  - ✅ `Was ... ultimately ... or` 结构正确 🏆
+  - ⚠️ **漏译"按时"** — `finished` 未体现"按时完成"，应补为 `**completed on time** or delayed`
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初没有听取用户的反馈，这个产品最终肯定不会成功的。"
+- **学生答案**: `If we had not adjusted our product based on users' feedback, the product would not have ultimately been successful.`
+- **评价**:
+  - ✅ Type 3 虚拟语气时态匹配精准 🏆
+  - ⚠️ **`ultimately` 位置微调** — 插在 `have` 和 `been` 之间略别扭。更自然：`would **ultimately** not have been successful`（紧随第一个助动词）
+
+#### Quick Fire
+- **场景**: 项目复盘会总结发言，强调"不管过程多复杂，最终我们交付了客户满意的结果"。
+- **学生答案**: `Well, no matter how hard we worked; no matter how complicated the work was. Ultimately we delivered the best product to our users. I think they are satisfied with our work, with our product.`
+- **评价**:
+  - ✅ `Ultimately` 句首总结性使用，语气完美 🏆
+  - ⚠️ `no matter how hard we worked; no matter how complicated` — 分号偏书面，建议合并为 `No matter how hard or complicated it was`
+  - ⚠️ `satisfied with our work, with our product` — 介词重复，建议 `satisfied with our work **and** our product`
+
+---
+
+### 语言点 4: `out of place`（格格不入 / 不自在）
+
+课文原文：*you don't wanna feel like you're **out of place**, right?*
+
+> `out of place` = 在某个场合中感到自己不属于那里、很别扭。常用搭配：`feel out of place` / `look out of place`。
+
+#### Round 1 — 否定陈述句
+- **中文**: "在那个全是资深经理的会议上，他并没有感到格格不入。"
+- **学生答案**: `He didn't feel out the place when he was in the meeting room full of senior managers.`
+- **评价**:
+  - ✅ `feel out of place` 核心结构意图正确
+  - ❌ **`out the place`** — 漏了 `of`。固定短语必须是 `out **of** place`
+- **修正**: `He didn't feel **out of place** in the meeting room full of senior managers.`
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你在什么情况下会觉得自己在社交场合格格不入？"
+- **学生答案**: `In what conditions do you feel out of place when you are in a social setting?`（后纠正为 `a social setting`）
+- **评价**:
+  - ✅ `feel out of place` 核心短语正确 🏆
+  - ✅ `a social setting` 修复后正确
+  - ❌ **`conditions` 用词不当** — "情况"在此语境应为 `situations`（具体场合）或 `circumstances`（整体境况）。`conditions` 偏"实验条件/外部环境"，不适合社交场景。
+- **学生提问**: 为什么 `situations`/`circumstances` 比 `conditions` 更自然？
+  - **解答**: `conditions` = 影响事物的外部因素（`working conditions`, `weather conditions`）；`situations` = 具体场合（派对/会议）；`circumstances` = 整体境况（疫情/裁员）。问"社交格格不入" → `situations`。
+
+#### Round 3 — 反义疑问句
+- **中文**: "他在那个派对上看起来有点格格不入，不是吗？"
+- **学生答案**: `He looked like out of place in that party, didn't he?`
+- **评价**:
+  - ✅ Tag 极性 `didn't he?` 主肯否 tag 正确 🏆
+  - ❌ **`looked like out of place`** — `look like` 后接名词（`He looks like a teacher`），`out of place` 是状语/表语，不加 `like`。直接用 `looked out of place`
+  - ❌ **`in that party`** — 派对是"活动/事件"→ 应为 `**at** that party`
+- **学生提问**: 为什么不能用 `in that party`？
+  - **解答**: `party` 是"事件/活动"（event），不是"容器/空间"。`at` + 事件（`at a party/meeting/conference`）；`in` + 物理空间（`in the room/office/building`）。
+- **修正**: `He looked out of place **at** that party, didn't he?`
+
+#### Round 4 — 选择疑问句
+- **中文**: "你在新团队里是感到自在，还是觉得格格不入？"
+- **学生答案**: `Do you feel comfortable or out of place in the new team?`
+- **评价**: 🏆 **满分！** `feel comfortable or out of place` 选择对比清晰，平行结构工整，`in the new team` 介词正确。
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初有人陪他一起去那个派对，他就不会觉得格格不入了。"
+- **学生答案**: `if there had been someone going with him to that party, he would not have felt out of place.`
+- **评价**:
+  - ✅ Type 3 虚拟语气 `had been... would not have felt` 时态匹配精准 🏆
+  - ⚠️ **`someone going with him`** — 建议 `someone **to go** with him`（不定式表"陪同的目的"，`someone going` 听起来像"正走过去的人"）
+  - ⚠️ 句首大写：`**I**f there had been`
+
+#### Quick Fire
+- **场景**: 刚入职两周的新人，第一次参加部门聚餐。同事问你感觉怎么样。
+- **学生答案**: `Well, at first, I didn't feel like comfortable. I just felt like out of place, but now everyone is friendly to me. So I feel better now.`
+- **评价**:
+  - ✅ `out of place` 自然植入 🏆
+  - ❌ **`feel like + 形容词`** — `feel like` 后接名词/动名词/从句，不接形容词。`didn't feel like comfortable` ❌ → `didn't **feel** comfortable` ✅
+  - ❌ **`felt like out of place`** — 同上，去掉 `like`
+- **修正**: `At first, I didn't **feel** comfortable — I felt **out of place**. But everyone has been friendly, so I feel much better now.`
+- **学生提问**: `friendly to me` 中的 `to` 正确吗？
+  - **解答**: `friendly to me` ✅ 表示"行为/态度上的友善"；`friendly with me` 表示"长期关系上的友好"。当前语境用 `to` 完全正确。
+
+---
+
+### 语言点 5: `have something lined up`（安排妥当 / 一切就绪）
+
+课文原文：*you kind of **had everything lined up** for me.*
+
+> `have something lined up` = 把某事安排妥当。`line up` 本义"排队"，引申为"把事情按顺序准备好"。职场高频。
+
+#### Round 1 — 否定陈述句
+- **中文**: "下周的会议他其实什么都没安排好。"
+- **学生答案**: `He has not had anything lined up for the next week's meeting.`
+- **评价**:
+  - ✅ `has not had anything lined up` — 核心结构 `have + sth + lined up` 正确 🏆
+  - ❌ **`the next week's`** — 双重限定词。`next week's` 本身已有 `'s` 所有格，不能再加 `the`。用 `next week's meeting` 或 `the meeting next week`
+  - ⚠️ **时态选择** — 描述"当前状态"（到现在还没安排），现在时 `doesn't have` 比现在完成时 `has not had` 更自然
+- **学生提问**: `next week's` 本身已有 `'s` 表所有格，为什么前面不能再加 `the`？
+  - **解答**: 英语中一个名词短语只能有一个限定词。`next` 本身就是限定词（和 `the` 同类），而 `'s` 所有格也是限定词。`next week's meeting` 中 `next` + `'s` 已双重限定，不能再叠加 `the`。类比：`my friend's car` ✅ / `the my friend's car` ❌。
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你是怎么把这次活动的所有事情都安排得这么妥当的？"
+- **学生答案**: `How did you have everything lined up for this activity?`
+- **评价**: 🏆 **满分！** `How did you have everything lined up` 核心结构完美，自然流畅。
+
+#### Round 3 — 反义疑问句
+- **中文**: "他已经把下周的日程都安排好了，不是吗？"
+- **学生答案**: `He has had everything lined up for next week, hasn't he?`
+- **评价**: 🏆 **满分！** `has had everything lined up` 核心结构正确，`hasn't he?` 与 `has had` 匹配精准，`for next week`（无 `the`）正确。
+
+#### Round 4 — 选择疑问句
+- **中文**: "这些安排是你自己做的，还是行政部帮你全部安排好的？"
+- **学生答案**: `Did you have all these lined up yourself or did the admin team do it for you?`
+- **评价**: 🏆 **满分！** `have all these lined up` 核心结构正确，`Did you X or did Y do it` 平行结构工整。
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初没有助手帮我把所有事情都安排好，我肯定赶不上截止日期。"
+- **学生答案**: `If the assistant had not had everything lined up for me, I would definitely have missed the deadline.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气 `had not had... would definitely have missed` 时态匹配精准，`definitely` 位置地道。
+
+#### Quick Fire
+- **场景**: 你下周休假，同事问工作交接好了没有。
+- **学生答案**: `Don't worry. I've had everything lined up. You just follow the list and do it. Everything will be okay.`
+- **评价**: 🏆 **优秀！** `I've had everything lined up` 核心结构自然植入，语气恰到好处。
+
+---
+
+### 语言点 6: `stand in the corner`（尴尬地站在角落）
+
+课文原文：*You don't wanna **stand in the corner** with your back against the wall kind of thing.*
+
+> **`stand in the corner`** = 字面义"站在角落"，社交语境中比喻"尴尬地待在角落、放不开、不跟人交流"。
+
+#### Round 1 — 否定陈述句
+- **中文**: "在昨天的团建活动上，他并没有尴尬地一个人站在角落。"
+- **学生答案**: `He didn't stand in the corner in yesterday's team activity.`
+- **评价**:
+  - ✅ `stand in the corner` 短语正确 🏆
+  - ✅ `didn't` 否定正确
+  - ⚠️ **介词微调**: 团建是"活动/事件" → `**at** yesterday's team activity` 比 `in` 更地道
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你为什么总是喜欢一个人站在角落，不跟大家聊天？"
+- **学生答案**: `Why do you always like to stand in the corner and don't talk to other people?`
+- **评价**:
+  - ✅ `stand in the corner` 核心短语正确 🏆
+  - ❌ **平行结构错误** — `like to stand... and **don't** talk` 不平行。`don't` 与 `like to` 形式不匹配。应改为 `like to stand... and **not talk**`（平行不定式）
+- **修正**: `Why do you always **stand in the corner and not talk** to anyone?`
+
+#### Round 3 — 反义疑问句
+- **中文**: "他每次都一个人尴尬地站在角落，不是吗？"
+- **学生答案**: `He stands in the corner every time, does he?`
+- **评价**:
+  - 🔴 **Tag 极性回退！** 主句 `He stands`（肯定）→ Tag 必须用否定 `**doesn't he?**`
+- **修正**: `He stands in the corner every time, **doesn't he**?`
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是想主动融入大家，还是自己一个人站在角落？"
+- **学生答案**: `Do you want to fit in or stand in the corner yourself?`
+- **评价**: 🏆 **满分！** `fit in` 和 `stand in the corner` 对比精准，平行结构工整，`yourself` 加强语气自然。
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初有人主动跟他说话，他就不会一个人尴尬地站在角落了。"
+- **学生答案**: `If someone had talked to him, he would not have stand in the corner awkwardly.`
+- **评价**:
+  - ✅ Type 3 虚拟语气结构 `had talked... would not have...` 正确 🏆
+  - ❌ **`stand` 过去分词错误** — `would not have stand` ❌ → `would not have **stood**` ✅。不规则动词：stand-**stood**-**stood**
+- **修正**: `If someone had talked to him, he would not have **stood** in the corner awkwardly.`
+
+#### Quick Fire
+- **场景**: 新同事在部门聚餐时一直低头看手机不交流，委婉提醒他。
+- **学生答案**: `Hello, do not stand in the corner. Just come here and talk to us.`
+- **评价**:
+  - ✅ `stand in the corner` 自然植入 🏆
+  - ⚠️ **`Do not`** — 书面/正式。轻松提醒语气中口语缩略 `Don't` 更自然
+- **精修**: `Hey, **don't** stand in the corner — come join us!`
+
+---
+
+### 语言点 7: `kind of thing`（……之类的 / ……这种情况）
+
+课文原文：*you don't wanna stand in the corner with your back against the wall **kind of thing**.*
+
+> `kind of thing` = 口语高频收尾缓冲词，相当于中文"之类的/这种情况"。不增加新意思，软化语气，让句子更自然。
+
+#### Round 1 — 否定陈述句
+- **中文**: "我不喜欢那种在派对上一个人尴尬站角落之类的感觉。"
+- **学生答案**: `I don't like the feeling that being awkward, standing in the corner kind of thing.`
+- **评价**:
+  - ⚠️ `the feeling that being awkward` — `that` 后不能接动名词，应为 `the feeling **of** being awkward`
+  - ⚠️ `awkward` 应为副词 `awkwardly`
+- **精修**: `I don't like that whole standing in the corner **kind of thing**.`（更简洁自然）
+
+#### Round 2 — 特殊疑问句
+- **中文**: "你说的'不舒服'是指那种格格不入之类的感觉吗？"
+- **学生答案**: `Does what you refer to uncomfortable as that whole standing in the corner kind of thing?`
+- **评价**:
+  - ✅ `kind of thing` 使用正确 🏆
+  - ❌ **`Does what you refer to uncomfortable as`** — 结构混乱。`refer to A as B` 不适用于此语境
+- **修正**: `Does what you mean by "uncomfortable" refer to that whole standing-in-the-corner **kind of thing**?`
+
+#### Round 3 — 反义疑问句
+- **中文**: "你不想在会议上感到尴尬、不知所措之类的，对吧？"
+- **学生答案**: `You don't wanna feel awkward, uncomfortable kind of thing in the meeting, do you?`
+- **评价**:
+  - ✅ `kind of thing` 句尾收尾精准 🏆
+  - ✅ `don't` → `do you?` 否肯 tag 极性正确 🏆
+  - ⚠️ `awkward, uncomfortable` — 用 `or` 连接更自然：`awkward **or** uncomfortable`
+- **学生提问**: 为什么不能用 `in the meeting`？
+  - **解答**: `in the meeting` 和 `at the meeting` 都正确。`in` = 在会议过程中，`at` = 在会议场合。只是侧重点不同，之前纠正过于绝对，抱歉。
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是在担心开会时不知道该说什么，还是在担心那种格格不入之类的事情？"
+- **学生答案**: `Do you worry that you don't know what to say at a meeting or that whole standing in the corner kind of thing?`
+- **评价**:
+  - ✅ `kind of thing` 收尾精准 🏆
+  - ✅ `standing in the corner` 跨语言点复用 🌟
+  - ⚠️ `Do you worry` — `Are you worried about` 更口语自然
+- **学生提问**: 为什么加上第二个 `with` 更工整？
+  - **解答**: 平行结构要求两个选项语法形式一致。原句 `dissatisfied with A or B`，因 `per se` 插入使 A 和 B 距离拉远，重复介词 `with` 让结构更清晰：`with A per se or **with** B`。
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果当初有人跟我说不用担心这种格格不入之类的事情，我就不会那么紧张了。"
+- **学生答案**: `If someone had told me that I didn't need to worry about that whole standing in the corner kind of thing, I would not have been that nervous.`
+- **评价**: 🏆 **满分！** Type 3 虚拟语气 `had told... would not have been` 时态匹配精准，`kind of thing` 收尾自然，`standing in the corner` 跨语言点复用。
+
+#### Quick Fire
+- **场景**: 给新同事介绍公司团队文化，说大家很友好，不用害怕那种一个人尴尬坐着的"之类的"感觉。
+- **学生答案**: `Everyone is friendly. You don't have to worry about that whole standing in the corner kind of thing.`
+- **评价**: 🏆 **满分！** 自然、地道、语气恰当。
+
+---
+
+### 语言点 8: `per se`（本身 / 严格来说）
+
+课文原文：*you all never really let that happen **per se**.*
+
+> `per se` /ˌpɜːr ˈseɪ/ = 本身、就其本身而言、严格来说。拉丁语借词，常见于否定句 `not... per se`，让语气更精准委婉。
+
+#### Round 1 — 否定陈述句
+- **中文**: "严格来说，我并不是对方案本身不满意，只是觉得时机不对。"
+- **学生答案**: `I was not dissatisfied with the proposal per se. I just thought that the timing was not right.`
+- **评价**: 🏆 **满分！** `not... per se` 结构精准，`timing was not right` 自然地道。
+
+#### Round 2 — 特殊疑问句
+- **中文**: "这项工作本身有什么问题吗？"
+- **学生答案**: `Is there something wrong with the job per se?`
+- **评价**:
+  - ✅ `per se` 位置正确 🏆
+  - ⚠️ `something` → `anything`（疑问句中 `something` 改为 `anything` 更地道）
+
+#### Round 3 — 反义疑问句
+- **中文**: "这个规定本身没什么问题，只是执行方式太死板了，不是吗？"
+- **学生答案**: `There's not anything wrong with the rule per se. It's just the execution that is too stubborn, isn't it?`
+- **评价**:
+  - ✅ Tag 极性 `isn't it?` 正确 🏆
+  - ⚠️ **`There's not anything`** → `There's **nothing**` 更自然
+  - ❌ **`stubborn` 用词不当** — `stubborn` 形容"人固执"。描述"方法死板"应为 `rigid` / `inflexible`
+
+#### Round 4 — 选择疑问句
+- **中文**: "你是对预算本身有意见，还是对时间安排有意见？"
+- **学生答案**: `Are you dissatisfied with the budget per se or the time arrangement?`
+- **评价**:
+  - ✅ `per se` 修饰 `the budget` 位置正确 🏆
+  - ⚠️ **平行结构** — 加上第二个 `with` 更工整：`with the budget per se or **with** the timeline`
+  - ⚠️ **`time arrangement`** → `timeline` / `schedule`（更地道）
+
+#### Round 5 — 虚拟语气句
+- **中文**: "如果这个规则本身没有问题的话，大家就不会有那么多抱怨了。"
+- **学生答案**: `if there had been nothing wrong with the rule per se, everyone would not have so many complaints.`
+- **评价**:
+  - ✅ Type 3 条件从句 `had been nothing wrong... per se` 正确 🏆
+  - ✅ `would not have so many complaints` — Mixed Conditional（过去条件→现在结果），逻辑成立
+  - ⚠️ 句首大写：`**I**f there had been...`
+
+#### Quick Fire
+- **场景**: 看合同时同事问是不是合同有问题。你说合同本身没问题，只是其中一条条款需要确认。
+- **学生答案**: `Well, everything looks fine. There is nothing wrong with the contract per se. We just need to double-check the items one by one.`
+- **评价**: 🏆 **满分！** `per se` 精准修饰 `the contract`，回应自然流畅。
+
+---
+
+## 重点纠错与不足总结 (Knowledge Gaps)
+
+| 涉及知识点 | 原始错误/不足 | 纠正/改进方向 | 严重程度 |
+| :--- | :--- | :--- | :--- |
+| **🔴 Tag 极性回退** | `He stands... does he?` 肯定主句配肯定 Tag ❌ | `He stands... **doesn't he**?`。写 Tag 前先判定主句极性。 | **高**（基础规则回退） |
+| **🔴 `stood` 过去分词** | `would not have stand` ❌ | `stand-stood-stood`。不规则动词 `had` 后必须用过去分词 `stood` | **高**（不规则动词复发） |
+| **🔴 `felt like out of place`** | `feel like + 短语` 结构混淆 | `feel like` 后接名词/动名词（`feel like a winner / going out`）；形容词和固定短语直接跟 `feel`（`feel comfortable / out of place`） | **中**（需建立用法区分） |
+| **🔴 `feel like + 形容词`** | `didn't feel like comfortable` ❌ | 去掉 `like`：`didn't **feel** comfortable` | **中**（与上条同类） |
+| **`looked like out of place`** | `look like` 后接名词，不接介词短语 | 直接用 `looked out of place` | **中** |
+| **`per se` 拼写** | `per sa` ❌ | 拉丁语 `per se` /ˌpɜːr ˈseɪ/，意为"本身" | **低**（拼写） |
+| **`worried about that` 从句退化** | `worried about that the time...` ❌ | `worry` 后接从句用 `worry that`，不需要 `about` | **中**（历史复发） |
+| **`out the place`** | 漏 `of` | 固定短语 `out **of** place` | **低**（笔误） |
+| **`the next week's` 双重限定** | `the` + `next week's` 叠加 | `next week's meeting` 或 `the meeting next week`，二选一 | **低**（语法规则） |
+| **`conditions` 用词不当** | `in what conditions` | "具体场合"用 `situations`，"整体境况"用 `circumstances` | **低**（词汇辨析） |
+| **`stubborn` 用词不当** | `the execution is too stubborn` | 形容"方法死板"用 `rigid` / `inflexible` | **低**（词汇辨析） |
+| **`time arrangement` 地道性** | `time arrangement` 偏直译 | 职场更常说 `timeline` / `schedule` | **低**（地道性） |
+
+## 识别出的知识差距
+
+| 主题 | 状态 | 备注 |
+| :--- | :--- | :--- |
+| **🔴 `stood` 不规则动词过去分词** | 新缺口 🔴 | `stand-stood-stood`。Round 5 虚拟语气中错用 `stand`，需追加不规则动词专项。 |
+| **🔴 Tag 极性（肯定主句）** | 回退 ⚠️ | `He stands... does he?` 肯定主句配肯定 Tag。今日仅 1 次，但说明基础规则仍需警惕。 |
+| **🔴 `feel like` vs `feel`** | 新缺口 🔴 | `feel like` + 名词/动名词 vs `feel` + 形容词/固定短语。今日两类错误各 1 次。 |
+| **`per se`** | 极高 🏆 | 5 轮 + Quick Fire 全通关，用法掌握到位。 |
+| **`kind of thing`** | 高 | Round 1 结构偏乱但 Quick Fire 修复。Round 2 结构混乱。Round 3-5 逐步稳定。 |
+| **`have something lined up`** | 极高 🏆 | 5 轮全满分，含虚拟语气嵌套。 |
+| **`stand in the corner`** | 高 | 语义掌握好；Tag 极性回退 1 次 + 过去分词错误 1 次。 |
+| **`out of place`** | 高 | Round 1/3 有介词和 `like` 问题，Round 4/5 全对。Quick Fire 中 `feel like` 复发。 |
+| **`ultimately`** | 极高 🏆 | 5 轮 + Quick Fire 全通关，语感自然。 |
+| **跨语言点复用** | 极高 🏆 | `standing in the corner` 在 `kind of thing` 训练中多次自然复用，意识强。 |
+
+## 今日掌握的主题
+
+| 主题 | 信心程度 | 备注 |
+| :--- | :--- | :--- |
+| **ultimately** | 极高 🏆 | 句首/助动词后灵活位置掌握，语感自然。 |
+| **out of place** | 高 | 语义掌握牢固；`feel like` 搭配需加强。 |
+| **have something lined up** | 极高 🏆 | 5 种句式全通关，虚拟语气嵌套满分。 |
+| **stand in the corner** | 高 | 语义掌握好，Tag 极性和过去分词需巩固。 |
+| **kind of thing** | 高 | 口语收尾用法掌握，Round 2 复杂句中结构需注意。 |
+| **per se** | 极高 🏆 | 5 轮全通关，`not... per se` 否定结构使用精准。 |
+
+## 下次会话的行动项
+
+- **🔴🔴 闪电纠偏 1 — `feel like` vs `feel`**: 下次开场 2-3 题含 `feel` 和 `feel like` 的句子，强制区分：`feel like` + 名词/动名词；`feel` + 形容词/固定短语。
+- **🔴 闪电纠偏 2 — `stood` 过去分词**: 随机插入含 `stand/stood` 的虚拟语气句，强化 `stood` 肌肉记忆。
+- **🔴 闪电纠偏 3 — Tag 极性（肯定主句）**: 穿插 2 题简单句 Tag 热身，确保前肯后否本能不松懈。
+- **69BEC 继续推进**: 从语言点 9（`planned downtime`）开始，完成剩余约 8 个语言点。
+- **同步跟踪器**: 将今日 6 个语言点写入 progress/english-study-tracker.md。
+
+## 备注
+
+- **今日最大亮点**: 🏆 **`have something lined up` 4/5 轮满分** + `per se` 全通关。完成式嵌套和虚拟语气结合时表现尤其出色。
+- **跨语言点复用**: 在 `kind of thing` 训练中多次主动使用 `standing in the corner` 做上下文内容，说明已从"单个语言点记忆"进化到"语言点网络化运用"。
+- **需要警惕**: `feel like` 用法混淆今日出现 2 次同类错误（`feel like comfortable`, `felt like out of place`），属于新暴露的缺口，需在下次闪电纠偏中彻底修复。
+- **学生提问质量**: 今日学生主动提问 4 次（`conditions vs situations`、`in the meeting vs at the meeting`、`next week's + the`、平行结构介词重复），展现了极强的语法探究意识。
+- **69BEC 进度**: 8/16 语言点完成。剩余：`planned downtime`, `walk around the block`, `make lunch`, `or whatever`, `a social setting`, `as somebody who`, `against the wall`, `process behind that`。
