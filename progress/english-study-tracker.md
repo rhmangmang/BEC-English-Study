@@ -326,6 +326,8 @@
 | **most likely** | 2 | 中上 | 2026-05-02 | 否定语序（will most likely not）和间接疑问句语序需巩固 |
 | **hop on a meeting** | 5 | 极高 🏆 | 2026-05-02 | 5 种句式全通关，今日最佳语言点 🏆 |
 | **I'd be curious from your perspective** | 5 | 中 | 2026-05-02 | 句式理解正确；主动使用核心短语的意识需加强 |
+| **plan out** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 一轮通过；代词位置 plan it out 正确 |
+| **have my calendar all organized** | 5 | 高 | 2026-05-03 | 5 种句式全通关 + Quick Fire 一轮通过；虚拟语气嵌套满分；Round 1 未命中目标结构但立即修复 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -407,6 +409,7 @@
 | 2026-04-30 | **66BEC Core Drills + Flash Correct + Role-play** | ✅ | 掌握 material, a paper + noun, personally, their + 单/复数, be limited to, get sb doing。be limited to Type 3 满分 🏆。🔴 Tag 极性回退 2 次；暴露 recommend 搭配/rather than 平行结构/结果句时态选择新缺口。 |
 | 2026-05-01 | **67BEC Core Drills + Role-play** | ✅ | 掌握 noise, in a nutshell, be nailed down, not as...as it needs to be, go with, run the campaigns。go with 全场满分 🏆。🔴 run 过去分词 (ran→run) 复发；not as...as 漏第一个 as。 |
 | 2026-05-02 | **68BEC Complete (12 language points)** | ✅ | **68BEC 全课完结 🎉**。掌握 intangible pieces of, leading question, most likely（新流程测试：灵活句式 + Quick Fire + Micro Role-play）。🔴 most likely 否定语序新缺口；indifferent vs neutral 混淆；If not for 遗漏 for；间接疑问句语序复发。
+| 2026-05-03 | **69BEC Launch (2 language points)** | ✅ | 69BEC 启动。完成 plan out + have my calendar all organized（10 轮核心 + 2 轮 Quick Fire + Micro Role-play）。闪电纠偏 most likely 否定语序修复 🏆。🔴 agree 介词历史复发；have sb to do 新缺口。
 
 
 ## 待解决的知识缺口 (Knowledge Gaps)
@@ -509,7 +512,9 @@
 - [ ] **🔴 `existing employees` 非 `old employees`**: 描述资历深→职场地道用 `existing / long-time employees`，`old` 偏年龄。2026-05-02 新发现。
 - [ ] **🔴 Tag 代词匹配回退**: `the engineer... didn't they?` ❌ → 单数主语 `the engineer` → 代词用 `he/she`，非 `they`。2026-05-02 新发现。
 - [ ] **🔴 核心语言点使用意识**: `I'd be curious from your perspective` Round 3 & 4 完全未使用目标短语。造句前先锁定训练目标。2026-05-02 新发现。
-- [ ] **🔴 `most likely` 否定语序**: `is not most likely to be done` ❌ → `will most likely not be done` ✅。`most likely` 直接跟在助动词后，否定紧随其后。2026-05-02 新发现。
+- [x] **🔴 `most likely` 否定语序**: ~~`is not most likely to be done` ❌ → `will most likely not be done` ✅。`most likely` 直接跟在助动词后，否定紧随其后。~~ **2026-05-03 闪电纠偏修复 🏆**
+- [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。需专项对抗。
+- [ ] **🔴 `have sb do`（无 to）**: `have the outsourcing team to arrange` ❌ → `have the outsourcing team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
 - [ ] **🔴 `If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it had not been for those` / `If it were not for those` ✅。固定结构中的 `for` 不可省。2026-05-02 新发现。
 - [ ] **🔴 `indifferent` vs `neutral`**: `indifferent question` ❌ → `neutral question` ✅。`indifferent` = 冷漠/漠不关心，`neutral` = 中立。2026-05-02 新发现。
 - [ ] **🔴 `feel like` vs `feel`**: `say what you feel like` ❌ → `say what you feel` ✅。`feel like` = 想要（后接动名词），`feel` = 感受。2026-05-02 新发现。
@@ -599,12 +604,14 @@
 ## 下一步计划 (Next Steps)
 
 142. [x] **68BEC 完结**: ~~完成全部 12 个语言点。~~ ✅ 2026-05-02 全课完结。
-143. [ ] **69BEC-45s.md 启动**: 进入新课文，提取核心语言点。
-144. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
-145. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
-146. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态。
-147. [ ] **🔴 `most likely` 否定语序专项**: `will most likely not` 语序的 2-3 题 Quick Fire 抽查。
+143. [x] **69BEC-45s.md 启动**: ~~进入新课文，提取核心语言点。~~ ✅ 2026-05-03 已启动（2 个语言点完成）。
+144. [ ] **69BEC 继续推进**: 从 `ultimately` 开始，完成剩余约 14 个语言点。
+145. [ ] **🔴 不规则动词过去分词闪电纠偏**: 随机插入含 `drive/driven`, `run/run`, `go/gone` 的虚拟语气句。
+146. [ ] **🔴 Tag 极性压制**: 随机穿插肯定主句 Tag Question，确保前肯后否不松懈。
+147. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
 148. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
+149. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
+150. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
