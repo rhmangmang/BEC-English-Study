@@ -334,6 +334,9 @@
 | **stand in the corner** | 5 | 高 | 2026-05-03 | 语义掌握好；Tag 极性回退 1 次 + 过去分词 stood 错误 1 次 |
 | **kind of thing** | 5 | 高 | 2026-05-03 | 口语收尾用法掌握；Round 1/2 结构偏乱，Round 3-5 逐步稳定 |
 | **per se** | 5 | 极高 🏆 | 2026-05-03 | 5 种句式全通关 + Quick Fire 道；not... per se 结构使用精准 |
+| **planned downtime** | 5 | 高 | 2026-05-04 | 核心短语掌握；Round 3 主语不一致 + Round 4 语义矛盾 + Round 5 虚拟语气结果句错误 |
+| **walk around the block** | 5 | 极高 🏆 | 2026-05-04 | 5 种句式全通关，虚拟语气满分 |
+| **make lunch** | 5 | 中上 | 2026-05-04 | 核心短语掌握；Round 2 时态 + Round 4 词汇 + Round 5 could have 从句共 3 个错误 |
 ## 学习记录概览 (Session Overview)
 
 | 日期 | 主要内容 | 状态 | 备注 |
@@ -417,7 +420,7 @@
 | 2026-05-02 | **68BEC Complete (12 language points)** | ✅ | **68BEC 全课完结 🎉**。掌握 intangible pieces of, leading question, most likely（新流程测试：灵活句式 + Quick Fire + Micro Role-play）。🔴 most likely 否定语序新缺口；indifferent vs neutral 混淆；If not for 遗漏 for；间接疑问句语序复发。
 | 2026-05-03 | **69BEC Launch (2 language points)** | ✅ | 69BEC 启动。完成 plan out + have my calendar all organized（10 轮核心 + 2 轮 Quick Fire + Micro Role-play）。闪电纠偏 most likely 否定语序修复 🏆。🔴 agree 介词历史复发；have sb to do 新缺口。|
 | 2026-05-03（下午）| **69BEC Deep (6 language points)** | ✅ | 下午场。完成 ultimately, out of place, have something lined up, stand in the corner, kind of thing, per se（30 轮核心 + 6 轮 Quick Fire）。跨语言点复用意识强 🏆。🔴 Tag 极性回退 1 次；stand 过去分词 stood 错误；feel like 用法混淆新缺口。
-
+| 2026-05-04 | **69BEC Deep (3 language points)** | ✅ | 完成 planned downtime, walk around the block, make lunch（15 轮核心 + 3 轮 Quick Fire）。闪电纠偏 feel like/stood/Tag 全部满分通过 🏆。🔴 could have 用于 if 从句新缺口；must have been 替代 would have been。进度 11/16。
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
@@ -525,7 +528,9 @@
 - [ ] **🔴 `If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it had not been for those` / `If it were not for those` ✅。固定结构中的 `for` 不可省。2026-05-02 新发现。
 - [ ] **🔴 `indifferent` vs `neutral`**: `indifferent question` ❌ → `neutral question` ✅。`indifferent` = 冷漠/漠不关心，`neutral` = 中立。2026-05-02 新发现。
 - [ ] **🔴 `feel like` vs `feel`**: `feel like` + 名词/动名词 (`feel like a winner / going out`)；`feel` + 形容词/固定短语 (`feel comfortable / out of place`)。不可混用。2026-05-03（下午）新发现，同类错误出现 2 次。
-- [ ] **🔴 `stand` 过去分词 (`stood`)**: `stand-stood-stood`。`would not have stand` ❌ → `would not have stood` ✅。2026-05-03（下午）新发现。
+- [ ] **🔴 `stand` 过去分词 (`stood`)**: `stand-stood-stood`。`would not have stand` ❌ → `would not have stood` ✅。2026-05-03（下午）新发现。2026-05-04 闪电纠偏已修复 ✅
+- [ ] **🔴 `could have` 不用于 if 从句**: `If I could have made lunch` ❌ → `If I had been able to make lunch` ✅。Type 3 条件从句必须用 `had + pp`。2026-05-04 新发现。
+- [ ] **🔴 `must have been` 替代 `would have been`**: 虚拟语气结果句须用 `would have + pp`，`must have been` = 对过去的推测，不可用于虚拟语气结果句。2026-05-04 新发现。
 - [ ] **🔴 `looked like` vs `looked`**: `look like` + 名词；`looked out of place`（不加 `like`）。2026-05-03（下午）新发现。
 
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
@@ -615,15 +620,18 @@
 142. [x] **68BEC 完结**: ~~完成全部 12 个语言点。~~ ✅ 2026-05-02 全课完结。
 143. [x] **69BEC-45s.md 启动**: ~~进入新课文，提取核心语言点。~~ ✅ 2026-05-03 已启动（2 个语言点完成）。
 144. [x] **69BEC 继续推进**: ~~从 `ultimately` 开始，完成剩余约 14 个语言点。~~ ✅ 2026-05-03（下午场）完成 6 个（总进度 8/16）。
-145. [ ] **69BEC 继续推进**: 从 `planned downtime` 开始，完成剩余约 8 个语言点。
-146. [ ] **🔴 `feel like` vs `feel` 闪电纠偏**: `feel like` + 名词/动名词；`feel` + 形容词/固定短语。今日 `feel like comfortable` 和 `felt like out of place` 两次同类错误。新缺口。
-147. [ ] **🔴 `stood` 过去分词闪电纠偏**: `stand-stood-stood`。插入含 `stand/stood` 的虚拟语气句，强化肌肉记忆。
-148. [ ] **🔴 Tag 极性压制（肯定主句）**: 穿插简单句肯定主句 Tag，确保前肯后否不松懈。
-149. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
-150. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
-151. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
-152. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
-153. [ ] **🔴 跨语言点复用强化**: 今日在 `kind of thing` 中自然复用 `stand in the corner`，证明意识已建立，继续鼓励。
+145. [x] **69BEC 继续推进**: ~~从 `planned downtime` 开始，完成剩余约 8 个语言点。~~ ✅ 2026-05-04 完成 3 个（总进度 11/16）。
+146. [ ] **69BEC 继续推进**: 从 `or whatever` 开始，完成剩余约 5 个语言点。
+147. [ ] **🔴🔴 Type 3 虚拟语气结果句强化**: `would have + pp`（虚拟）vs `must have been / may have been`（推测）。强化"虚拟=would"公式。
+148. [ ] **🔴 `could have` 不用于 if 从句**: `If I could have` ❌ → `If I had been able to` ✅
+149. [ ] **🔴 `feel like` 精简意识强化**: `feel like` + 动名词，避免 `feel like I want to` 冗余。
+150. [ ] **🔴 `stood` 过去分词维持**: 随机抽查，确保不复发。
+151. [ ] **🔴 Tag 极性压制（肯定主句）**: 穿插简单句肯定主句 Tag，确保前肯后否不松懈。
+152. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
+153. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
+154. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
+155. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
+156. [ ] **🔴 跨语言点复用强化**: 鼓励在不同语言点训练中自然复用已学知识点。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
