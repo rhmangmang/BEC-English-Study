@@ -53,7 +53,11 @@
 | kind of thing | 🟡 | 2026-05-03 | — | 口语收尾用法 |
 | per se | 🟢 | 2026-05-03 | — | not... per se 结构 🏆 |
 | planned downtime | 🟡 | 2026-05-04 | — | 主语一致性、虚拟结果句 |
-| walk around the block | 🟢 | 2026-05-04 | — | 5 句式全通关 🏆 |
+| walk around the block | 🟢 | 2026-05-04 | 2026-05-04 | 5 句式全通关 + QF；跨 4 天复用满分 🏆 |
 | make lunch | 🔴 | 2026-05-04 | — | 时态、词汇、could have 从句 |
+| or whatever | 🟡 | 2026-05-04 | — | 核心用法正确；平行结构和介词需注意 |
+| a social setting | 🟢 | 2026-05-04 | — | 2轮+QF全对；主动引入 strike up a conversation |
+| as somebody who | 🟡 | 2026-05-04 | — | Round 1 主谓一致/quite know 错误；Round 2 满分 |
+| strike up a conversation | 🟡 | 2026-03-07 | 2026-05-04 | 跨4天成功复用，从归档重新激活 |
 
-**当前数量**：48 条（在 80 上限范围内）
+**当前数量**：53 条（在 80 上限范围内）

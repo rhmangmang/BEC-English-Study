@@ -335,3 +335,6 @@
 | **planned downtime** | 5 | 高 | 2026-05-04 | 核心短语掌握；Round 3 主语不一致 + Round 4 语义矛盾 + Round 5 虚拟语气结果句错误 |
 | **walk around the block** | 5 | 极高 🏆 | 2026-05-04 | 5 种句式全通关，虚拟语气满分 |
 | **make lunch** | 5 | 中上 | 2026-05-04 | 核心短语掌握；Round 2 时态 + Round 4 词汇 + Round 5 could have 从句共 3 个错误 |
+| **or whatever** | 5 | 高 | 2026-05-04 | 核心用法正确，位置语气自然；平行结构和介词需注意 |
+| **a social setting** | 4 | 极高 🏆 | 2026-05-04 | 2 轮 + QF 全对；主动引入 strike up a conversation 跨语言点复用 |
+| **as somebody who** | 5 | 高 | 2026-05-04 | Round 1 主谓一致/quite know 错误；Round 2 满分三合一 🏆 |
