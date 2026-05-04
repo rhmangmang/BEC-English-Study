@@ -1,5 +1,67 @@
 # BEC English Study Progress Tracker
 
+## 🔄 复用候选词组库（近 14 天活跃 / Active Pool）
+
+> **状态说明**：🟢 已固化 · 🟡 复用中 · 🔴 易忘
+> **维护规则**：每次会话结束时由 AI 自动维护。新词进入此池，满足"距首次学习 > 14 天 + 状态 🟢 + 最近 3 次主动复用全对"则归档到主表。
+> **数量上限**：30-50 个，超出优先归档最早的 🟢 词组。
+> **出题优先级**：🔴 > 🟡（≥3 天未复用）> 🟢（≥7 天未复用）
+
+| 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
+| :--- | :---: | :--- | :--- | :--- |
+| step in | 🟡 | 2026-04-25 | — | step in to do / step into，不可直接接名词 |
+| the business end | 🟢 | 2026-04-27 | — | 业务核心/落地 |
+| run into (issues/problems) | 🟡 | 2026-04-27 | — | 与 have 的动态感差异 |
+| as opposed to | 🟢 | 2026-04-27 | — | 对比区分/范畴排除 |
+| how can I put it | 🟢 | 2026-04-27 | — | 职场语气软化插片 |
+| sooner rather than later | 🟢 | 2026-04-28 | — | 建议/时间地道用法 |
+| entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
+| rely on sb to do sth | 🔴 | 2026-04-28 | — | to 易遗漏 |
+| rollout plan | 🟢 | 2026-04-28 | — | 介词 for 逻辑 |
+| May I interrupt for a moment? | 🟢 | 2026-04-29 | — | 礼貌打断标准口语 |
+| both of which | 🟢 | 2026-04-29 | — | 非限定定语从句 |
+| regarding | 🟢 | 2026-04-29 | — | 商务正式版 about |
+| enter the deliberations | 🟢 | 2026-04-29 | — | 区分 enter / enter into |
+| material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
+| a paper + noun | 🟢 | 2026-04-30 | — | 纸质 vs 电子对比 |
+| personally | 🟢 | 2026-04-30 | — | 句首/主语后位置 |
+| their + 单/复数 | 🟡 | 2026-04-30 | — | 整体视角 vs 个体视角 |
+| be limited to | 🟢 | 2026-04-30 | — | Type 3 被动虚拟三层叠加 🏆 |
+| get sb doing | 🔴 | 2026-04-30 | — | vs get sb + 形容词 |
+| noise（讨论/反馈义） | 🟢 | 2026-05-01 | — | 不可数；🏆 |
+| in a nutshell / the nutshell is | 🟢 | 2026-05-01 | — | a vs the 区分 |
+| be nailed down | 🟢 | 2026-05-01 | — | 完成时+被动+Tag |
+| not as...as it needs to be | 🟡 | 2026-05-01 | — | as...as 完整性、复数代词指代 |
+| go with | 🟢 | 2026-05-01 | — | 全场最佳 🏆 |
+| run the campaigns | 🟡 | 2026-05-01 | — | run 过去分词 run（非 ran） |
+| in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
+| either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
+| be so used to | 🔴 | 2026-05-02 | — | to 后接 -ing，非原形 |
+| all hands on deck | 🟡 | 2026-05-02 | — | Tag 极性需警惕 |
+| drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
+| get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写 |
+| pick up on | 🟡 | 2026-05-02 | — | 词性区分（adj vs n） |
+| intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
+| leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
+| most likely | 🔴 | 2026-05-02 | — | 否定语序、间接疑问句语序 |
+| hop on a meeting | 🟢 | 2026-05-02 | — | 5 句式全通关 🏆 |
+| I'd be curious from your perspective | 🔴 | 2026-05-02 | — | 主动使用意识需加强 |
+| plan out | 🟢 | 2026-05-03 | — | 代词位置 plan it out 🏆 |
+| have my calendar all organized | 🟡 | 2026-05-03 | — | Round 1 未命中目标结构 |
+| ultimately | 🟢 | 2026-05-03 | — | 句首/助动词后位置 🏆 |
+| out of place | 🟡 | 2026-05-03 | — | 介词、feel like 用法 |
+| have something lined up | 🟢 | 2026-05-03 | — | 虚拟语气嵌套 🏆 |
+| stand in the corner | 🟡 | 2026-05-03 | — | Tag 极性回退、stood 过去分词 |
+| kind of thing | 🟡 | 2026-05-03 | — | 口语收尾用法 |
+| per se | 🟢 | 2026-05-03 | — | not... per se 结构 🏆 |
+| planned downtime | 🟡 | 2026-05-04 | — | 主语一致性、虚拟结果句 |
+| walk around the block | 🟢 | 2026-05-04 | — | 5 句式全通关 🏆 |
+| make lunch | 🔴 | 2026-05-04 | — | 时态、词汇、could have 从句 |
+
+**当前数量**：48 条（在 30-50 上限范围内）
+
+---
+
 ## 核心语言点掌握情况 (Mastered Core Language Points)
 
 | 语言点 | 练习次数 | 掌握程度 | 最后练习日期 | 备注 |
@@ -424,214 +486,138 @@
 
 ## 待解决的知识缺口 (Knowledge Gaps)
 
-- [x] Division vs Department (已修复)
-- [x] Dedicated to + do/doing (已修复)
-- [x] Tag Questions (反义疑问句): 彻底修复 (2026-02-01)
-- [x] Mixed Conditionals (混合虚拟): 彻底掌握 (2026-02-08)
-- [x] **Transitive Verbs**: 针对 mention, emphasize, discuss, agree 的介词脱敏训练初见成效。
-- [x] **Questions with "need"**: 纠正 "Why need to" 为 "Why do we need to"。
-- [ ] **Pronoun Case**: 需强化介词后接代词宾格的本能反应 (for them/us)。
-- [ ] **Definite Articles (Dept)**: 需形成“指代公司职能部门必加 the”的肌肉记忆。
-- [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone 尚未形成本能反应。
-- [x] **already vs earlier**: 已修复。
-- [x] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。**2026-03-17 通过闪电纠偏（5/5）彻底解决 `'s been` 转换及隐性否定判断问题。正式宣告修复 🏆。**
-- [x] **🔴🔴🔴 `yesterday + 时态` 搭配**: ~~明确过去时间 → 必须用简单过去时，不能用现在完成时~~。**2026-03-25 闪电纠偏零回退，第 6 次测试通过，正式锁定修复 🏆🏆🏆。**
-- [x] **🔴 `process vs progress` 混淆**: ~~process=过程/流程，progress=进展~~。**2026-03-25 闪电纠偏精准辨析，第 4 次测试通过，正式锁定修复 🏆。**
-- [x] **🔴 `We + us` 主宾冲突**: ~~主语 We 时宾语不能再用 us~~。**2026-03-25 闪电纠偏 `walk the team through` 零回退，第 4 次测试通过，正式锁定修复 🏆。**
-- [x] **🔴 `over` 不是动词**: ~~不能直接说 `over the presentation to you`，必须搭配动词 `hand/pass/turn...over to`~~。**2026-03-26 闪电纠偏 `hand the meeting over to you` 零回退，正式锁定修复 🏆。**
-- [x] **🔴 不定式被动语态 (`to be done`)**: ~~`It is adj for sth to be done` 结构中 `to be` 不可省略~~。**2026-03-26 闪电纠偏 `to be completed` 零遗漏，桥梁结构已建立，正式锁定修复 🏆。**
-- [x] **🔴 虚拟语气 Type 3 主句 `would have done`**: ~~纯过去虚拟的结果句必须用 `would have + 过去分词`，不可降级为 `would + 原形`~~。**2026-03-26 闪电纠偏 `would have been finished` 精准匹配，正式锁定修复 🏆。**
-- [ ] **🔴 虚拟语气 Type 2 主句 `would do`**: 对现在假设的结果句必须用 `would + 原形`，不可使用 `was/were`。2026-03-25 出现 1 次。
-- [ ] **`could not` 在否定陈述句中 = 过去不能**: 否定陈述句中 `could not` 优先理解为过去式。表达"现在不能"用 `cannot/can't`；委婉用 `I'm afraid I can't...`。2026-03-25 讲解掌握。
-- [x] **`at last` vs `finally/lastly`**: ~~`at last`=终于(带感情)，`finally/lastly`=最后(中性顺序词)~~。**2026-03-26 闪电纠偏 `Lastly` 精准使用，零回退，正式锁定修复 🏆。**
-- [ ] **`cross-functional` 后缀 `-al`**: 名词做形容词修饰另一名词需加 `-al`。2026-03-25 新发现。**2026-03-26 闪电纠偏中 `cross-department` 仍未加 `-al`，未完全固化。**
-- [x] **`face-to-face` 拼写**: ~~中间必须有 `to`，不可省为 `face-face`~~。**2026-03-26 闪电纠偏 `face to face` 中间 `to` 零遗漏，正式锁定修复 🏆。**
-- [ ] **🔴 `no any` 叠加禁忌**: `no` + 名词 或 `not any` + 名词 是两种互斥的否定方式，不可混搭 (`There are no any delays` ❌)。2026-03-26 新发现。
-- [ ] **🔴 `would` 后必须跟动词**: `we would already on...` ❌ → `would` 后面必须有动词原形（如 `be`）。2026-03-26 新发现。
-- [ ] **🔴 Mixed vs Type 3 结果句区分**: 过去没做→**现在**没结果 = `would + 原形` (Mixed)；过去没做→**过去**没发生 = `would have + pp` (Type 3)。翻译前先判断"结果是现在还是过去"。2026-03-26 出现 1 次混淆。
-- [ ] **`about that` 从句退化**: `it's about that...` ❌ → 介词后用动名词 `about sb doing` 或换用 `because` 从句。历史遗留。2026-03-26 再次复发。
-- [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
-- [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
-- [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。`market`。**2026-03-14 纠正后 03-15 复发**，未固化。。
-- [ ] **翻译漏修饰词**: 倾向漏掉时间词(tomorrow)、程度词(already, really, much, more)等修饰成分。"得多"→much 已出现两次。"早点"→earlier 2026-02-21 再次出现。
-- [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
-- [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
-- [x] **被动语态 (项目/系统类主语)**: ~~project finished → was completed~~。2026-02-16 justify 虚拟语气题自然运用被动，基本修复。
-- [x] **反义疑问句 vs 一般疑问句**: ~~"吧"=陈述句+tag~~。2026-02-18 只有一道时态不一致 (`It'll... isn't it`)，其余全部正确！长期极性问题已修复 🏆
-- [ ] **词性转换 (名词→动词/形容词)**: failure→failed, success→succeed, fast→quickly, 情态动词后必须接动词原形。
-- [ ] **neither...nor**: 两个否定并列用 neither...nor，不用 not...and。
-- [ ] **半否定词 + tag question**: hardly/barely/seldom/rarely/never → 主句视为否定 → tag 用肯定（2026-02-16 新发现）。
-- [x] **词汇搭配地道性**: finally→in the end, beautiful→attractive, cases→case studies, by→with justify, how much→how large workforce, give impressions→impress people, sports→exercise。
-- [x] **could have vs would have**: ~~"早就买了"=could have~~。2026-02-17 正确使用 would have bought，已修复。
-- [ ] **间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（what the problem is, 非 what's the problem）。
-- [x] **had been vs had had 区分**: be 的过去完成时=had been，have 的过去完成时=had had。不可混用。
-- [x] **虚拟语气触发意识**: 中文"会"暗示假设性时需识别并使用虚拟语气。2026-02-19 连续 3 天满分表现！
-- [ ] **限定词（身体部位）**: good for skin → good for your/the skin，身体部位前需加限定词。
-- [ ] **时态敏感度**: 中文"在...着"需转化为 be doing，非一般现在时。2026-02-18 出现 1 次。
-- [x] **Tag question 时态一致**: It'll (will) 需配 won't，非 isn't。注意缩写还原。2026-02-19 极性/时态全部正确！
-- [ ] **Past Participle 拼写**: make-made-made (无需 maken), forget-forgot-forgotten (非 forgot)。2026-02-19 出现。
-- [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
-- [ ] **Get被动+完成时**: 现在完成时必须用 has been done, 不能用 has got done。2026-02-20 一次纠正后已掌握。
-- [ ] **完成时+过去时间不兼容**: last week/yesterday 等明确过去时间 → 必须用简单过去时，不能用现在完成时。
-- [ ] **no vs not 搭配**: no+名词, not+enough+名词, 不能混搭(no enough ❌)。
-- [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
-- [ ] **`at one point` 语义限制**: 该短语暗示事情**曾经发生**，不宜放入虚拟假设从句中（与"没发生"矛盾）。2026-02-21 新发现。
-- [ ] **`as early as` 用法**: 后必须接具体时间点（as early as last March / as early as 5 months ago），不可悬空句末。2026-02-21 新发现。
-- [ ] **`reduce` vs `simplify`**: 降低数量/程度用 `reduce`（reduce costs/risks）；简化复杂度用 `simplify`（simplify the process）。不可混用。2026-02-21 新发现。
-- [ ] **`not so much + adj` 错误**: `so much` 修饰不可数名词或动词，**不可**直接修饰形容词；否定形容词应用 `not that / not very / not too + adj`。2026-02-21 新发现。
-- [ ] **固定短语无冠词 (`from scratch`)**: `start from scratch`（从零开始）是固定短语，不加 `the`，类似 `on site`、`at home`。2026-02-21 新发现。
-- [ ] **🔴 Tag Question 极性回退**: ~~not...hasn't it → not...has it~~。2026-04-16 再次出现 `has not... haven't they?` 错误。需通过 Flash Correct 持续压制。
-- [ ] **🔴 代词位置 (Phrasal Verbs)**: `filled out it` ❌ -> `filled it out` ✅。宾语是代词时必须放中间。2026-04-16 新发现。
-- [ ] **🔴 information 不可数指代**: `information ↔ them` 错误。需强化 `it` 的自动匹配意识。2026-04-16 发现；**2026-04-18 闪电纠偏已修复 🏆。**
-- [ ] **🔴 Tag 时态守恒**: `did` vs `had`。Tag 助动词必须与主句动作时态严格一致。2026-04-18 出现 1 次回退。
-- [ ] **🔴 last 不及物动词误区**: `has been lasted` ❌ -> `has lasted` ✅。不可用被动语态。2026-04-18 新暴露（严重）。
-- [ ] **🔴 last year + has been done**: 明确过去时间点严禁匹配现在完成时。2026-04-19 再次出现回退 (`just last year + has been repaired`)。**2026-04-25 闪电纠偏修复 🏆。**
-- [ ] **🔴 单数可数名词冠词遗漏**: firewall, data center 等核心词前遗漏 a/the。2026-04-19 再次暴露。**2026-04-25 闪电纠偏修复 🏆。**
-- [ ] **🔴 Pronoun-Antecedent Agreement (trees ↔ them)**: 复数名词必须对应复数代词 `them`。2026-04-19 出现 `trees ↔ it` 指代回退。
-- [x] **in the long run**: 掌握长远结果的商务评价逻辑。2026-04-19 全通关 🏆。
-- [x] **have/get sth. done**: 掌握使役代劳句式。2026-04-19 专项训练通过 🏆。
-- [x] **protection from**: 掌握隔离屏蔽介词绑定。2026-04-19 专项训练通过 🏆。
-- [ ] **🔴 `no much` 叠加禁忌**: `no + much` 错误（no much room ❌）。应用 `no room` 或 `not much room`。2026-04-25 新发现。
-- [ ] **🔴 `so much + adj` 错误**: `so much angry` ❌ -> `so angry` ✅。`so much` 不修饰形容词。**2026-04-25 Role-play 复发 ⚠️。**
-- [ ] **`sales growth` vs `sales increasing`**: 指代“销售增长”的名词短语优先选用 `sales growth`。2026-04-25 新发现。
-- [ ] **Which 嵌套问句代词冗余**: `Which topics do you think we should leave them` ❌。`Which topics` 已经是宾语。2026-04-25 新发现。
-- [x] **🔴 `notify` vs `notice`**: ~~通知某人 = notify/inform；看见某事 = notice~~。**2026-04-29 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
-- [x] **🔴 `have COME up with` (pp回退)**: ~~come-came-come。have 后必须接 pp~~。**2026-04-29 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
-- [x] **🔴 `trouble` (uncountable)**: ~~抽象概念“麻烦”无复数~~。**2026-04-29 闪电纠偏 5/5 全胜，正式锁定修复 🏆。**
-- [ ] **🔴 Tag Question 极性回退**: 又现 `should not... shouldn't we?` 错误。需通过 Flash Correct 持续压制。
-- [ ] **🔴 情态动词 + 原形**: `cannot came` 再次复发。需专项对抗。
-- [x] **🔴 allergic vs sensitive**: — **2026-04-30 闪电纠偏修复** 🏆
-- [x] **🔴 Since 从句完整性**: — **2026-04-30 闪电纠偏修复** 🏆
-- [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。`rather than` 后动词形式需与主句平行。2026-04-30 新发现。
-- [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。`recommend` 不接 `sb + doing`。2026-04-30 新发现。
-- [ ] **🔴 `material` 不可数**: `a good material` ❌。作"话题素材"义不可数。2026-04-30 新发现后已掌握 ✅。
-- [ ] **🔴 `low mistake` → `silly/basic/rookie mistake`**: "低级错误"不译为 `low mistake`。2026-04-30 新发现。
-- [ ] **🔴 `say a story` → `tell a story/joke`**: "说段子" = `tell a joke / tell a funny story`。2026-04-30 新发现。
-- [ ] **🔴 复合形容词连字符**: `state of the art system` → `state-of-the-art system`。多个单词作定语时需加连字符。2026-04-30 新发现。
-- [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词 `run`。2026-05-01 复发 ⚠️。
-- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词 `gone`。2026-05-01 复发 ⚠️。
-- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`，两个 `as` 不可省略。2026-05-01 新发现。
-- [ ] **🔴 `as completed as` → `as complete as`**: `completed` (被完成) 混淆为 "完善的" (`complete` 形容词)。需区分含义。2026-05-01 新发现。
-- [ ] **🔴 `be used to + doing`（非原形）**: `be used to communicate` ❌ → `be used to **communicating**` ✅。`be used to` 是介词性短语，后须接名词/动名词。2026-05-02 复发 ⚠️。
-- [ ] **🔴 品牌名不加 `the`**: `the Slack` → `Slack`。品牌名/平台名（Slack/Zoom/Teams/WeChat）前不加 `the`。2026-05-02 新发现。
-- [ ] **🔴 `calling with someone`** → **`calling someone`**: "打电话给某人" = `call someone`（及物动词，不加 `with`）。2026-05-02 新发现。
-- [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。不规则动词过去分词再次复发。2026-05-02 复发 ⚠️。
-- [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → 主句肯定 → Tag 必须否定 `doesn't it?`。简单句中仍有回退。2026-05-02 复发 ⚠️。
-- [ ] **🔴 `the + 形容词` 作名词禁区**: `the abnormal in the system` ❌ → `the anomaly` ✅。形容词不可直接加 `the` 当名词用。2026-05-02 新发现。
-- [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅；`project manage system` ❌ → `project management system` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
-- [ ] **🔴 `existing employees` 非 `old employees`**: 描述资历深→职场地道用 `existing / long-time employees`，`old` 偏年龄。2026-05-02 新发现。
-- [ ] **🔴 Tag 代词匹配回退**: `the engineer... didn't they?` ❌ → 单数主语 `the engineer` → 代词用 `he/she`，非 `they`。2026-05-02 新发现。
-- [ ] **🔴 核心语言点使用意识**: `I'd be curious from your perspective` Round 3 & 4 完全未使用目标短语。造句前先锁定训练目标。2026-05-02 新发现。
-- [x] **🔴 `most likely` 否定语序**: ~~`is not most likely to be done` ❌ → `will most likely not be done` ✅。`most likely` 直接跟在助动词后，否定紧随其后。~~ **2026-05-03 闪电纠偏修复 🏆**
-- [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。需专项对抗。
-- [ ] **🔴 `have sb do`（无 to）**: `have the outsourcing team to arrange` ❌ → `have the outsourcing team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
-- [ ] **🔴 `If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it had not been for those` / `If it were not for those` ✅。固定结构中的 `for` 不可省。2026-05-02 新发现。
-- [ ] **🔴 `indifferent` vs `neutral`**: `indifferent question` ❌ → `neutral question` ✅。`indifferent` = 冷漠/漠不关心，`neutral` = 中立。2026-05-02 新发现。
-- [ ] **🔴 `feel like` vs `feel`**: `feel like` + 名词/动名词 (`feel like a winner / going out`)；`feel` + 形容词/固定短语 (`feel comfortable / out of place`)。不可混用。2026-05-03（下午）新发现，同类错误出现 2 次。
-- [ ] **🔴 `stand` 过去分词 (`stood`)**: `stand-stood-stood`。`would not have stand` ❌ → `would not have stood` ✅。2026-05-03（下午）新发现。2026-05-04 闪电纠偏已修复 ✅
+### 🔴 当前待修复 (Active)
+> Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入”持续观察”。
+
 - [ ] **🔴 `could have` 不用于 if 从句**: `If I could have made lunch` ❌ → `If I had been able to make lunch` ✅。Type 3 条件从句必须用 `had + pp`。2026-05-04 新发现。
 - [ ] **🔴 `must have been` 替代 `would have been`**: 虚拟语气结果句须用 `would have + pp`，`must have been` = 对过去的推测，不可用于虚拟语气结果句。2026-05-04 新发现。
-- [ ] **🔴 `looked like` vs `looked`**: `look like` + 名词；`looked out of place`（不加 `like`）。2026-05-03（下午）新发现。
+- [ ] **🔴 `feel like` vs `feel`**: `feel like` + 名词/动名词；`feel` + 形容词/固定短语（`feel out of place`，不加 `like`）。2026-05-03 新发现，同类错误 2 次。
+- [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
+- [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
+- [ ] **🔴 `be used to + doing`（非原形）**: `be used to communicate` ❌ → `be used to **communicating**` ✅。`be used to` 是介词性短语，后须接名词/动名词。2026-05-02 复发。
+- [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
+- [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
+- [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
+- [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` ❌。持续复发，需专项对抗。
+- [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
+- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词。2026-05-01 复发。
+- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`。2026-05-01 新发现。
+- [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。2026-04-30 新发现。
+- [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。2026-04-30 新发现。
+- [ ] **🔴 Mixed vs Type 3 结果句区分**: 过去→**现在**无结果 = `would + 原形` (Mixed)；过去→**过去**未发生 = `would have + pp` (Type 3)。持续复发。
+- [ ] **🔴 虚拟语气 Type 2 主句 `would do`**: 对现在假设的结果句必须用 `would + 原形`，不可使用 `was/were`。2026-03-25 出现。
+- [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。
+- [ ] **🔴 `no any` 叠加禁忌**: `no` + 名词 或 `not any` + 名词，两种互斥，不可混搭（`There are no any delays` ❌）。2026-03-26 新发现。
+- [ ] **🔴 `would` 后必须跟动词**: `we would already on...` ❌ → `would` 后面必须有动词原形（如 `be`）。2026-03-26 新发现。
 
-- [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态，不能混用现在时。2026-02-21 故事翻译中暴露。
-- [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。2026-02-21 新发现。
-- [ ] **`go on doing` 语义**: = 继续做同一件事（continue），不等于"一直在做"（keep doing / had been doing）。2026-02-21 新发现。
-- [ ] **🔴 process vs progress**: process=过程/流程，progress=进展。不可混淆。2026-02-21 新发现。**2026-03-10 复发**（report the process→progress），需专项对抗。
-- [ ] **条件句时态匹配**: 真实条件 `don't→won't`; 虚拟假设 `didn't→could not`。不可混搭。2026-03-10 新发现。
-- [ ] **`wording` (uncountable)**: 不可数名词，代词用 the/that，不可用 those。2026-03-10 新发现。
-- [ ] **会议介词 `in` vs `on`**: 会议=场景→`In the meeting`; `On`=日期(`On Monday`)。2026-03-10 新发现。
-- [ ] **`learning opportunity` vs `lecture`**: 职场称成长机会用 opportunity/experience。2026-03-10 新发现。
-- [ ] **`assigning blame`**: 职场表达"非追责"地道词组。2026-03-10 新发现。
-- [ ] **`more of` vs `more like`**: 本质定性=more of; 类比=more like。2026-03-10 新发现。
-- [ ] **`agenda` vs `agenda item`**: 整个日程=agenda; 单个议题=agenda item。2026-03-10 新发现。
-- [ ] **`improvement in` + 抽象名词**: improvement in visibility (非 to the visibility)。2026-03-10 新发现。
-- [ ] **`whole` vs `overall`**: 整体/宏观用 `overall`（overall progress），全部/完整用 `whole`（the whole team）。2026-02-22 出现 2 次。
-- [ ] **`attend` vs `be involved in`**: 出席活动/会议用 attend；参与项目用 be involved in / work on。2026-02-22 新发现。
-- [ ] **`expand into` vs `extend`**: 扩展新市场用 `expand into`；延长时间用 `extend`。2026-02-22 新发现。
-- [ ] **tag 助动词跟代词走**: someone...haven't they（非 hasn't they），tag 助动词与 tag 代词一致。2026-02-22 新发现。
-- [ ] **phrasal verb 粒子不可省**: `plug in` 的 `in` 不能省略，否则失去"整合"引申义。2026-02-22 新发现。
-- [ ] **`In fact` vs `As it turned out`**: 事实证明=As it turned out; 事实上=In fact。2026-02-22 故事翻译中新发现。
-- [ ] **`would` vs `might`（可能性）**: 中文"可能"→might（可能性），不是would（确定性）。2026-02-22 故事翻译中新发现。
-- [ ] **进行时态（还在做）**: "还在写"=still be writing，不是still write，注意"还在"暗示进行时。2026-02-22 故事翻译中新发现。
-- [ ] **复合名词修饰语不加s**: customer feedback (非 customers), release process (非 releasing), software engineer (非 softwares)。2026-02-23 新发现。
-- [ ] **`a bit of` / `quite a bit of`**: of 不可省，固定搭配。2026-02-23 新发现。
-- [ ] **`provide sb with sth on topic`**: 同时指明对象+主题时用此结构，避免 `input on X into Y` 双介词混搭。2026-02-23 新发现。
-- [ ] **`phase` vs `phrase` 拼写**: 阶段=phase /feɪz/；短语=phrase /freɪz/。注意发音区别。2026-02-23 新发现。
-- [ ] **tag代词替换主语核心名词**: Your team→they(非you), The company→it。2026-02-23 新发现。
-- [ ] **`automatic` vs `automated`**: 流程/系统用 automated；机械/设备用 automatic。2026-02-23 新发现。
-- [ ] **虚拟语气主句：状态vs动作**: "处于某规模"用 be at, 不用 develop to。2026-02-23 新发现。
-- [ ] **`get to` 简洁性**: `get to` 本身包含"没顾上"语义，不需要 `have no time to get to`（冗余）。2026-02-24 新发现。
-- [ ] **"还没" → haven't...yet**: "还没"暗示到现在仍未完成，需触发现在完成时(haven't gotten to...yet)，非过去时(didn't get to)。2026-02-24 新发现。
-- [ ] **三时态区分 (Past/PerfPres/PerfPresCont)**: 过去式=结束; 现在完成=结果→现在; 现在完成进行=一直在做。2026-02-24 已讲解，理解检查通过。
-- [ ] **`didn't + 原形`**: didn't made → didn't make。助动词后必须接动词原形，基础语法需警惕。2026-02-24 新发现。
-- [ ] **`priority` vs `property`**: 优先事项=priority;财产/属性=property。拼写/用词混淆。2026-02-24 新发现。
-- [ ] **`look at`(不及物动词+介词)**: look it → look at it。look不及物动词必须加at。2026-02-24 纠正后故事中已修复 🏆。
-- [ ] **`miss` vs `skip`**: 漏掉(无意)=miss;跳过(故意)=skip。2026-02-24 纠正后故事中已修复 🏆。
-- [ ] **`At last` vs `In the end`**: At last=正面盼望终于实现; In the end=结果/结局(中性)。2026-02-24 新发现。
-- [ ] **`complained`(过去分词拼写)**: complain-complained-complained，规则动词加-ed，非 complainted。2026-02-24 新发现。
-- [ ] **Past Participle (run)**: run-ran-**run** (had ran ❌)，需肌肉记忆。2026-02-27 新发现。
-- [ ] **complain (intransitive)**: 投诉是主动动作，不可用被动 (would have been complained ❌)。2026-02-27 新发现。
-- [ ] **next + interval vs next + time**: 彻底理解 next + 名词 (加 the) 与 next + 时间 (不加 the) 的区别。2026-02-27 已讲解。
-- [ ] **插入语重复使用 (to me/you)**: 同一句中 `to me/you` 只放一处（句首或句中），不可重复出现两次。2026-03-03 出现 2 次。
-- [ ] **`in the background` vs `backend`**: 进程后台运行=in the background；后台管理面板=backend dashboard。2026-03-03 新发现。
-- [ ] **`not reasonable` vs `doesn't make sense`**: IT 职场讨论逻辑合理性时，`doesn't make (much) sense` 是最高频表达。2026-03-03 新发现。
-- [ ] **`due to some reasons` vs `for some reason`**: 口语中 `for some reason` (单数) 更地道简洁。2026-03-03 新发现。
-- [ ] **`every time` 语序**: 频率词放从句开头更自然：`every time it's called`（非 `when it is called every time`）。2026-03-03 新发现。
-- [ ] **`should not belong` vs `doesn't belong`**: 讨论数据归属时用 `doesn't belong` (客观属性) 比 `should not belong` (主观评价) 更利落。2026-03-03 新发现。
-- [ ] **`consider` + 从句退化**: Role-play 中 `consider this field can be used` 退化为从句结构，应使用 `consider A (to be) B`。2026-03-03 新发现。
-- [ ] **`universally` vs `global`**: IT 职场描述字段通用性时更常用 `global` (a global field)，非 `universally used`。2026-03-03 新发现。
-- [x] **反义疑问句极性（虚拟语气/否定叠加）**: ~~在虚拟语气否定主句中偶尔回退 (`have not...haven't they`)~~。✅ 2026-03-07 闪电纠偏+造句训练全天 6/6 满分，彻底修复 🏆。
-- [x] **🔴 `build-built-built` 过去分词**: ~~被动语态中连续 2 次写成 `build` 而非 `built`~~。✅ 2026-03-05 五次高频测试及综合验收 100% 正确，彻底修复 🏆。
-- [ ] **被动语态 Tag 助动词**: `were not built ... did they?` ❌ → 应为 `were they?`。Tag 助动词必须与主句的 be 动词一致。2026-03-04 新发现。
-- [ ] **职场动词选择 (require vs need)**: 客观要求用 `require`，意愿需求用 `need`。2026-03-05 新发现。
-- [ ] **名词所有格 (exploration of)**: `foundation exploration` 建议使用 `of` 结构更地道。2026-03-05 新发现。
-- [x] **🔴 `have to` Tag 助动词**: `have to` = 实义动词 → Tag 用 `don't we?` (非 `haven't we`)。2026-03-08 连续复发 2 次，顽固度极高 ⚠️。
-- [ ] **冠词 `the` + 职场流程意识**: 讨论共识流程/项目时必加 `the` (onboarding, enablement)。2026-03-08 专项讨论通过，需持续验证。
-- [ ] **`naming` 拼写**: name 去 e 加 ing = naming。
-- [ ] **`automated` vs `automatic`**: IT 系统/流程应使用 `automated`。2026-03-08 新发现。
-- [ ] **所有格修饰名词**: `the PM's input`。
-- [ ] **冠词 `the` + 特指（用户/职位/界面元素）**: to users→the users, PM→the PM, question mark button→the question mark button。2026-03-07 多次出现。
-- [ ] **🔴 many vs much (可数/不可数)**: `so much legal issues` ❌ → `so many legal issues` ✅。可数名词复数用 many，不可数用 much。2026-03-11 暴露后当日修复。
-- [ ] **`promote` vs `improve/enhance`**: 提升体验=improve/enhance UX；推广产品=promote。不可混用。2026-03-11 新发现。
-- [ ] **`instant` vs `immediate`**: 即时需求=immediate needs；瞬时/速食=instant。2026-03-11 出现 2 次。
-- [ ] **`useful` vs `usable/functional`**: 能跑通=usable/functional；有价值=useful。2026-03-11 新发现。
-- [ ] **`more simple` vs `simpler`**: 单/双音节形容词比较级直接加 -er (simpler/cleaner)。2026-03-11 新发现。
-- [ ] **Mixed Conditional 触发信号**: "当初/那时"= 过去虚拟 Type 3 → `had been`。偶尔降级为 Type 2 `was`。2026-03-11 出现 1 次。
-- [ ] **🔴 Tag Question 极性回退**: `not...hasn't it` → `not...has it` ✅。需形成"一肯一否"的绝对本能。2026-03-12 出现 1 次，2026-03-14 再次回退 2 次，**2026-03-15 地狱模式 8/10（60%→20%），但仍在 `'s been` 缩写和 `hardly anyone` 隐性否定下回退** ⚠️。
-- [ ] **🔴 `'s been = has been` 缩写还原**: `that's always been... isn't it?` → `hasn't it?`。看到 `been` → 前面的 `'s` 必定 = `has`。**2026-03-14 + 03-15 连续两天犯同样错误**，极其顽固 ⚠️⚠️。
-- [ ] **🔴 隐性否定 Tag 极性 (主语位置)**: `hardly anyone... wouldn't they?` → `would they?`。`hardly` 无论修饰动词还是主语，主句一律视为否定 → Tag 肯定。2026-03-15 新发现。
-- [ ] **🔴 名词词组 vs 从句**: `not about that the team lacks of...` → `not about the team's lack of experience`。减少 `the fact that` 依赖，优先使用名词短语。2026-03-15 新发现。
-- [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience` (不加 of)；名词 `a lack of experience` (加 of)。2026-03-15 新发现。
-- [ ] **`market` vs `roll out` (内部推广)**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。**2026-03-14 纠正后 03-15 复发**，未固化。
-- [x] **🔴 so vs such**: `so + adj` vs `such a + adj + n`。针对 `such a serious issue` 开展专项练习。2026-03-12 新发现；2026-03-14 闪电纠偏完全修复 ✅。
-- [ ] **代词一致性 (复数 -> them)**: constraints ↔ it 不一致。需养成“扫描前文名词单复数”的习惯。2026-03-12 再次出现。
-- [ ] **复合助动词否定位置**: `would have been not` ❌ → `would not have been` ✅。否定词永远紧挨着第一个助动词。2026-03-14 新发现。
-- [ ] **特殊疑问句否定结构**: `Why have not they` ❌ → `Why haven't they` / `Why have they not` ✅。2026-03-14 新发现。
-- [ ] **Process 单复数主谓一致**: process (单) + does/has ；processes(复) + do/have。2026-03-14 出现遗忘。
-- [ ] **🔴 Subject-Verb Agreement (Indefinite Pronouns)**: `anything/everyone` 永远接单数动词 `is/does`。2026-03-16 新发现。
-- [ ] **🔴 Pronoun Agreement (it vs them)**: 复数名词 back-reference 需自动切换为 `them`。2026-03-16 再次出现。
-- [ ] **🔴 `provide` + with 脱敏**: 习惯写成 `provide us sth`，需强化 `provide us **with** sth` 肌肉记忆。2026-03-16 新发现。
-- [ ] **🔴 不规则动词过去分词 `take-took-taken`**: `had not took` ❌ → `had not taken` ✅。`had` 后必须接过去分词，非过去式。2026-03-23 新发现，闪电纠偏后修复。
-- [ ] **🔴 情态动词后必须接原形**: `would ... understood` ❌ → `would ... understand` ✅。`would/could/should` 后面必须接动词原形。2026-03-23 新发现，闪电纠偏后修复。
-- [ ] **`probably` 副词位置**: `would not probably` → `would probably not`。副词夹在助动词和否定词中间更自然。2026-03-23 新发现，闪电纠偏后修复。
-- [ ] **`take ownership of` vs `take responsibility`**: 主动揽活用 `take ownership of`；`take responsibility` 偏向承担责任/背锅。2026-03-23 新发现。
+
+### 🟡 持续观察 (Monitoring)
+> 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
+
+- [ ] **Pronoun Case**: 介词后接代词宾格 (for them/us)。
+- [ ] **Definite Articles (Dept)**: 指代公司职能部门必加 the。
+- [ ] **Negation + Indefinite Pronouns**: 否定句中 someone → anyone。
+- [ ] **`cross-functional` 后缀 `-al`**: 名词做形容词修饰另一名词需加 `-al`。2026-03-25。
+- [ ] **`about that` 从句退化**: `it's about that...` ❌ → `about sb doing` 或 `because` 从句。
+- [ ] **名词词组 vs 从句**: 减少 `the fact that` 依赖，优先使用名词短语。2026-03-15。
+- [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience`（不加 of）；名词 `a lack of experience`（加 of）。
+- [ ] **`market` vs `roll out`**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。
+- [ ] **翻译漏修饰词**: 倾向漏掉时间词、程度词（already/really/much/more/earlier）。
+- [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
+- [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
+- [ ] **词性转换**: failure→failed, success→succeed, 情态动词后必须接动词原形。
+- [ ] **半否定词 + tag question**: hardly/barely/seldom/rarely/never → 主句视为否定 → tag 用肯定。
+- [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
+- [ ] **完成时+过去时间不兼容**: last week/yesterday 等明确过去时间 → 必须用简单过去时。
+- [ ] **no vs not 搭配**: no+名词, not+enough+名词，不能混搭(no enough ❌)。
+- [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
+- [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态。
+- [ ] **`make progress` 搭配**: have progress ❌ → make progress ✅。
+- [ ] **条件句时态匹配**: 真实条件 `don't→won't`; 虚拟假设 `didn't→could not`。不可混搭。
+- [ ] **`wording` (uncountable)**: 不可数名词，代词用 the/that，不可用 those。
+- [ ] **会议介词 `in` vs `on`**: 会议=场景→`In the meeting`; `On`=日期(`On Monday`)。
+- [ ] **`whole` vs `overall`**: 整体/宏观用 `overall`；全部/完整用 `whole`。
+- [ ] **复合名词修饰语不加s**: customer feedback (非 customers), release process (非 releasing)。
+- [ ] **代词一致性 (复数 -> them)**: constraints ↔ it 不一致。需养成扫描前文名词单复数的习惯。
+- [ ] **`provide` + with 脱敏**: `provide us sth` ❌ → `provide us **with** sth` ✅。
+- [ ] **不规则动词过去分词**: take-took-**taken**, forget-forgot-**forgotten**。`had` 后必须接过去分词。
+- [ ] **`no much` / `so much + adj` 错误**: `no much room` ❌ → `not much room` ✅；`so much angry` ❌ → `so angry` ✅。
+- [ ] **Tag 代词匹配**: `the engineer... didn't they?` ❌ → 单数主语用 `he/she`。
+- [ ] **`If it were not for` 缺 `for`**: `If it were not those` ❌ → `If it were not **for** those` ✅。
+- [ ] **`indifferent` vs `neutral`**: `indifferent` = 冷漠；`neutral` = 中立。
+- [ ] **`low mistake` → `silly/basic/rookie mistake`**: "低级错误"不译为 `low mistake`。
+- [ ] **`run` 过去分词 / `had gone`**: run-ran-**run**；go-went-**gone**。`had` 后必须接过去分词。
+- [ ] **`as completed as` → `as complete as`**: `completed`（被完成）≠ `complete`（完善的，形容词）。
+- [ ] **`say a story` → `tell a story/joke`**: "说段子" = `tell a joke / tell a funny story`。
+- [ ] **复合形容词连字符**: `state of the art system` → `state-of-the-art system`。
+- [ ] **`probably` 副词位置**: `would not probably` → `would probably not`。副词夹在助动词和否定词中间。
+- [ ] **`take ownership of` vs `take responsibility`**: 主动揽活用 `take ownership of`。
+
+
+### ✅ 已固化归档 (Archived)
+> 已通过闪电纠偏验证的缺口。不参与 Flash Correct 日常选题；每周随机抽查 1-2 条，失败则重新激活至 Active。
+
+- [x] Division vs Department — 已修复
+- [x] Dedicated to + do/doing — 已修复
+- [x] Tag Questions 极性 — 彻底修复 2026-02-01 🏆
+- [x] Mixed Conditionals — 彻底掌握 2026-02-08 🏆
+- [x] Transitive Verbs (mention/emphasize/discuss/agree) — 初见成效
+- [x] Questions with "need" — 已修复
+- [x] already vs earlier — 已修复
+- [x] `yesterday + 时态` — 正式锁定 2026-03-25 🏆🏆🏆
+- [x] `process vs progress` 混淆 — 正式锁定 2026-03-25 🏆
+- [x] `We + us` 主宾冲突 — 正式锁定 2026-03-25 🏆
+- [x] `over` 不是动词 — 正式锁定 2026-03-26 🏆
+- [x] 不定式被动语态 `to be done` — 正式锁定 2026-03-26 🏆
+- [x] 虚拟语气 Type 3 主句 `would have done` — 正式锁定 2026-03-26 🏆
+- [x] `at last` vs `finally/lastly` — 正式锁定 2026-03-26 🏆
+- [x] `face-to-face` 拼写 — 正式锁定 2026-03-26 🏆
+- [x] `build-built-built` 过去分词 — 正式锁定 2026-03-05 🏆
+- [x] 反义疑问句极性（虚拟语气/否定叠加）— 正式修复 2026-03-07 🏆
+- [x] `have to` Tag 助动词 — 正式修复 2026-03-09 🏆
+- [x] `'s been` 缩写还原 + 隐性否定 Tag — 正式修复 2026-03-17 🏆
+- [x] `many vs much` 可数/不可数 — 正式修复 2026-03-11 🏆
+- [x] `so vs such` — 正式修复 2026-03-14 🏆
+- [x] `no any` 叠加禁忌 — 正式修复 2026-03-29 🏆
+- [x] Mixed vs Type 3 结果句辨析 — 正式修复 2026-03-29 🏆
+- [x] `consider doing` — 正式修复 2026-04-08 🏆
+- [x] `let sb do`（无 to）— 正式修复 2026-04-08 🏆
+- [x] `no such` 固定搭配 — 正式修复 2026-04-09 🏆
+- [x] `notify` vs `notice` — 正式修复 2026-04-29 🏆
+- [x] `have COME up with`（pp 回退）— 正式修复 2026-04-29 🏆
+- [x] `trouble`（uncountable）— 正式修复 2026-04-29 🏆
+- [x] `allergic vs sensitive` — 正式修复 2026-04-30 🏆
+- [x] `Since` 从句完整性 — 正式修复 2026-04-30 🏆
+- [x] `most likely` 否定语序 — 正式修复 2026-05-03 🏆
+- [x] 被动语态（项目/系统类主语）— 基本修复 2026-02-16
+- [x] 反义疑问句 vs 一般疑问句 — 已修复 2026-02-18 🏆
+- [x] 词汇搭配地道性（finally/beautiful/cases 等）— 已修复
+- [x] `could have vs would have` — 已修复 2026-02-17
+- [x] `had been vs had had` 区分 — 已修复
+- [x] 虚拟语气触发意识 — 已修复 2026-02-19 🏆
+- [x] Tag question 时态一致 — 已修复 2026-02-19 🏆
+- [x] `information` 不可数指代 — 已修复 2026-04-18 🏆
+- [x] `last year + has been done` — 已修复 2026-04-25 🏆
+- [x] 单数可数名词冠词遗漏（firewall/data center）— 已修复 2026-04-25 🏆
+- [x] `in the long run` — 全通关 2026-04-19 🏆
+- [x] `have/get sth. done` — 全通关 2026-04-19 🏆
+- [x] `protection from` — 全通关 2026-04-19 🏆
+
 ## 下一步计划 (Next Steps)
 
-142. [x] **68BEC 完结**: ~~完成全部 12 个语言点。~~ ✅ 2026-05-02 全课完结。
-143. [x] **69BEC-45s.md 启动**: ~~进入新课文，提取核心语言点。~~ ✅ 2026-05-03 已启动（2 个语言点完成）。
-144. [x] **69BEC 继续推进**: ~~从 `ultimately` 开始，完成剩余约 14 个语言点。~~ ✅ 2026-05-03（下午场）完成 6 个（总进度 8/16）。
-145. [x] **69BEC 继续推进**: ~~从 `planned downtime` 开始，完成剩余约 8 个语言点。~~ ✅ 2026-05-04 完成 3 个（总进度 11/16）。
-146. [ ] **69BEC 继续推进**: 从 `or whatever` 开始，完成剩余约 5 个语言点。
-147. [ ] **🔴🔴 Type 3 虚拟语气结果句强化**: `would have + pp`（虚拟）vs `must have been / may have been`（推测）。强化"虚拟=would"公式。
-148. [ ] **🔴 `could have` 不用于 if 从句**: `If I could have` ❌ → `If I had been able to` ✅
-149. [ ] **🔴 `feel like` 精简意识强化**: `feel like` + 动名词，避免 `feel like I want to` 冗余。
-150. [ ] **🔴 `stood` 过去分词维持**: 随机抽查，确保不复发。
-151. [ ] **🔴 Tag 极性压制（肯定主句）**: 穿插简单句肯定主句 Tag，确保前肯后否不松懈。
-152. [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
-153. [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在新流程中持续使用灵活句式 + 场景驱动训练。
-154. [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
-155. [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
-156. [ ] **🔴 跨语言点复用强化**: 鼓励在不同语言点训练中自然复用已学知识点。
+> **知识缺口**详见上方 `## 待解决的知识缺口` 区（🔴 当前待修复 19 条 · 🟡 持续观察 42 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
+
+- [ ] **69BEC 继续推进**: 从 `or whatever` 开始，完成剩余约 5 个语言点（当前进度 11/16）。
+- [ ] **🔴🔴 Type 3 虚拟语气结果句强化**: `would have + pp`（虚拟）vs `must have been / may have been`（推测）。强化”虚拟=would”公式。
+- [ ] **🔴 `could have` 不用于 if 从句**: `If I could have` ❌ → `If I had been able to` ✅
+- [ ] **🔴 `feel like` 精简意识强化**: `feel like` + 动名词，避免 `feel like I want to` 冗余。
+- [ ] **🔴 `stood` 过去分词维持**: 随机抽查，确保不复发。
+- [ ] **🔴 Tag 极性压制（肯定主句）**: 穿插简单句肯定主句 Tag，确保前肯后否不松懈。
+- [ ] **🔴 名词修饰名词形态抽查**: 随机插入含复合名词的句子检查形态（`executing list` → `execution list`）。
+- [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在练习中持续使用灵活句式 + 场景驱动训练。
+- [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
+- [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
+- [ ] **🔴 跨语言点复用强化**: 鼓励在不同语言点训练中自然复用已学知识点。
 
 1.  [x] **16BEC Final**: ~~完成 `adverts for`, `that's what it's like`, `find ... (to be) effective` 的造句训练。~~ ✅ 2026-02-13 已完成
 2.  [x] **Review Drill**: ~~对 already/earlier 进行随机抽查。~~ ✅ 2026-02-13 已在虚拟语气中正确使用
