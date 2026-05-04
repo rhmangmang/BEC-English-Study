@@ -21,5 +21,5 @@
 1. **复用候选库上限 80 个**，超出优先归档最早的 🟢 词组到 `mastered-points.md`
 2. **知识缺口 Active 区控制在 20 条以内**，超出移入 Monitoring
 3. **每次会话结束**时 AI 依次维护：`active-pool.md` → `session-overview.md` → `knowledge-gaps.md` → `next-steps.md`
-4. **每次首次会话**：从 `knowledge-gaps.md` 的 Archived 区随机抽查 2-3 条
+4. **每日首次会话**：从 `knowledge-gaps.md` 的 Archived 区随机抽查 2-3 条
 5. **`mastered-points.md` 只追加不删除**，是完整的历史归档

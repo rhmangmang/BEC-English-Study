@@ -237,7 +237,7 @@
 | **specifically** | 5 | 极高 | 2026-03-17 | 掌握从泛指到特指的切换；成功结合 `Which...exactly` 使用 |
 | **go in & kind of** | 5 | 极高 | 2026-03-17 | 掌握界面交互地道口语；连读 `kinda` 运用自如 |
 | **and stuff** | 5 | 极高 | 2026-03-17 | 掌握口语后缀软化语气；Jira 场景应用自然 |
-| **hopefully** | 5 | 极大 | 2026-03-16 | 掌握句首/主语后灵活位置；`provide with` 介词漏洞待补 ⚠️ |
+| **hopefully** | 5 | 极高 | 2026-03-16 | 掌握句首/主语后灵活位置；`provide with` 介词漏洞待补 ⚠️ |
 | **go down the list** | 5 | 极高 | 2026-03-16 | 会议动作指令极其自然；彻底区分 get down 混淆 |
 | **make it into Release 16** | 5 | 极高 | 2026-03-16 | 掌握 IT 版本发布地道表达；Role-play 融合成功 |
 | **well spotted** | 5 | 极高 | 2026-03-19 | 5 种句式全通关；选择疑问句中 discovered vs well spotted 语义对比亮点 🏆 |

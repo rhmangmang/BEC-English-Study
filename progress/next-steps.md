@@ -1,6 +1,6 @@
 # 下一步计划 (Next Steps)
 
-> **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 19 条 · 🟡 持续观察 42 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
+> **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 20 条 · 🟡 持续观察 38 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
 - [ ] **69BEC 继续推进**: 从 `or whatever` 开始，完成剩余约 5 个语言点（当前进度 11/16）。
 - [ ] **🔴🔴 Type 3 虚拟语气结果句强化**: `would have + pp`（虚拟）vs `must have been / may have been`（推测）。强化"虚拟=would"公式。
