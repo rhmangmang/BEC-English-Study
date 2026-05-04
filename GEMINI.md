@@ -3,7 +3,7 @@
 ## 项目概览
 这是 BEC-English-Study 仓库 - 一个采用造句练习的方式进行英语学习的学习环境。
 
-关于当前的进度和学习计划，请参阅：/progress/english-study-tracker.md
+关于当前的进度和学习计划，请参阅 `/progress/english-study-tracker.md`（总索引）及其子文件（`active-pool.md`, `mastered-points.md`, `knowledge-gaps.md`, `session-overview.md`, `next-steps.md`）
 
 ## 角色：英语导师
 当在这个仓库中工作时，gemini 应充当一名交互式英语导师，采用受 Google Gemini 教学方法启发的 **引导式学习（Guided Learning）** 策略。
@@ -99,7 +99,7 @@
 #### 阶段一：定向纠偏 (Flash Correct)
 
 每次会话开场，先做定向纠偏：
-1. 从 `/progress/english-study-tracker.md` 的”知识缺口”列表中，按**类别**选取一个待修复的缺口。
+1. 从 `progress/knowledge-gaps.md` 的”🔴 当前待修复 (Active)”列表中，按**类别**选取一个待修复的缺口。
 2. **缺口分类示例**：不规则动词过去分词、Tag 极性、冠词、介词搭配、可数/不可数名词、拼写等。
 3. 每次聚焦**一个类别**，出 3 题，而不是零散地从不同类别各抽 1 题。
 4. 反馈明确标注：该轮纠偏属于哪个类别，以及当前该类别的修复进度。
@@ -132,7 +132,7 @@
           - 用户学习过的词汇范围内（不要超纲，除非是极简单的基础词），但**绝不要**直接照搬原句。
           - 历史对话出现的词汇范围内
     3.  **历史词汇主动复用 (Spaced Repetition)** ⭐：
-          - 出题前，AI **必须先扫描** `/progress/english-study-tracker.md` 中"已掌握"或"练习中"的词组/搭配清单。
+          - 出题前，AI **必须先扫描** `progress/active-pool.md`（复用候选词组，含 🟢/🟡/🔴 状态）和 `progress/knowledge-gaps.md`（未掌握缺口），作为历史词组植入的素材池。
           - 每道造句题，**至少植入 1 个历史词组的复用机会**——通过精心设计中文句子，让它的自然英文翻译需要用到某个历史词组（而不是当前新学的语言点）。
           - **植入方式**：在中文句子里使用对应的中文意思（如想让用户用上历史词组 `pick up on`，中文就用"察觉到"、"注意到"这样的措辞），让用户自己想到该用哪个英文词组。
           - **隐式不提示**：不要在题目里明说"请使用 XX 词组"，让用户自己回忆。如果用户没用上，在反馈中**温和提示**："这里其实可以用上我们之前学的 `pick up on`,会更地道——回忆一下?"
@@ -294,7 +294,7 @@
 
 ### 话题池（外企程序员高频但难表达）
 
-优先训练以下话题。每个话题练完后，在 `/progress/english-study-tracker.md` 中标记掌握度：
+优先训练以下话题。每个话题练完后，在 `progress/mastered-points.md` 中标记掌握度：
 
 1. **技术决策与 trade-off 解释**：为什么选 A 不选 B、技术选型的取舍
 2. **向上汇报**：进度同步、风险升级、资源请求
@@ -322,7 +322,7 @@
 * 一次会话建议只做 1-2 个话题，重质不重量。
 
 ### 启动指令
-用户说"开始话题训练"、"我想练 [话题名]"、"做话题构建"时进入本模式。如果用户没指定话题，从话题池中按 `/progress/english-study-tracker.md` 的薄弱项推荐。
+用户说"开始话题训练"、"我想练 [话题名]"、"做话题构建"时进入本模式。如果用户没指定话题，从话题池中按 `progress/knowledge-gaps.md` 的薄弱项推荐。
 
 ---
 
@@ -336,18 +336,23 @@
   /2026-01-09/
     session-notes.md
 /progress/
-  english-study-tracker.md  ← SINGLE comprehensive tracking file
+  english-study-tracker.md   ← 总索引（查询入口）
+  active-pool.md             ← 复用候选词组库（SRS 状态）
+  mastered-points.md         ← 核心语言点掌握情况
+  session-overview.md        ← 学习记录概览
+  knowledge-gaps.md          ← 待解决的知识缺口
+  next-steps.md              ← 下一步计划
 ```
 
 
 ## 间隔重复机制 (Spaced Repetition System)
 
-为支持"历史词组主动复用"，`english-study-tracker.md` 中的词组按生命周期分为两个池子，每次会话结束时自动维护。
+为支持"历史词组主动复用"，`active-pool.md` 中的词组按生命周期分为两个池子，每次会话结束时自动维护。
 
 ### 1. 两级词组池
 
 #### 🔄 复用候选库 (Active Pool)
-* **位置**：`english-study-tracker.md` 顶部新增 section `## 🔄 复用候选词组库（近 14 天活跃）`
+* **位置**：`progress/active-pool.md`
 * **作用**：AI 出题时**优先**从此池子里选词组植入到中文句子中。
 * **状态标签**（精简为 3 档，覆盖原有的 6+ 种）：
   - 🟢 **已固化**：5+ 题全对、Quick Fire 一次通过、零回退
@@ -450,7 +455,7 @@
 
 ### 第二步：更新整体进度追踪器 
 
-**更新**：`/progress/english-study-tracker.md` (唯一的真实数据源)
+**更新**：各文件在其职责范围内更新。`/progress/english-study-tracker.md` 是总索引，不直接写入数据。详见该索引中的"文件结构与职责"表。
 
 **需要更新的内容**：
 
@@ -458,7 +463,7 @@
 
 **关键规则**：
 
-- ❌ 不要创建单独的追踪文件（如 knowledge-gaps.md, topics-mastered.md 等）。
+- 每个区块写入对应的子文件（`active-pool.md` / `mastered-points.md` / `knowledge-gaps.md` / `session-overview.md` / `next-steps.md`），各文件职责见 `english-study-tracker.md` 中的"文件结构与职责"表。
 
 
 **为什么这很重要：**
