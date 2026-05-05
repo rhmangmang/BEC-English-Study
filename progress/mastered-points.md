@@ -338,3 +338,7 @@
 | **or whatever** | 5 | 高 | 2026-05-04 | 核心用法正确，位置语气自然；平行结构和介词需注意 |
 | **a social setting** | 4 | 极高 🏆 | 2026-05-04 | 2 轮 + QF 全对；主动引入 strike up a conversation 跨语言点复用 |
 | **as somebody who** | 5 | 高 | 2026-05-04 | Round 1 主谓一致/quite know 错误；Round 2 满分三合一 🏆 |
+| **process behind that** | 4 | 高 | 2026-05-05 | 核心短语正确；Round 1 aware+of 错误；Round 2/3 正确 |
+| **at my own pace** | 3 | 高 | 2026-05-05 | Round 1/3 满分；Round 2 条件句时态混搭 |
+| **speak their language** | 3 | 高 | 2026-05-05 | Round 1 时态错误；Round 2 let alone 句型缺失；QF 正确 |
+| **high points** | 3 | 高 | 2026-05-05 | 短语+对比用法正确；Round 1 cross-functional；Round 2 时态；QF overall 词性 |

@@ -3,8 +3,8 @@
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 
-- [ ] **🔴 `could have` 不用于 if 从句**: `If I could have made lunch` ❌ → `If I had been able to make lunch` ✅。Type 3 条件从句必须用 `had + pp`。2026-05-04 新发现 → 闪电纠偏 1/1 通过 🟡 移至 Monitoring。
-- [ ] **🔴 `must have been` 替代 `would have been`**: 虚拟语气结果句须用 `would have + pp`，`must have been` = 对过去的推测，不可用于虚拟语气结果句。2026-05-04 新发现 → 闪电纠偏 2/2 通过 🟡 移至 Monitoring。
+- [ ] **🔴 `aware` + `of` 固定搭配**: `I'm not well aware the process` ❌ → `aware` 是形容词，接名词必须加 `of`。2026-05-05 新发现 → 闪电纠偏 1/1 通过 🟡 移至 Monitoring。
+- [ ] **🔴 `looks like + that` 语法**: `it looks like that you're...` ❌ → `looks like` 不接 `that` 从句，直接接名词/代词或从句（不加 that）。2026-05-05 新发现 → 闪电纠偏 1/1 通过 🟡 移至 Monitoring。
 - [ ] **🔴 `feel like` 精简意识**: `feel like` 已表"想要"，避免 `feel like I want to` 冗余。直接接动名词：`feel like going`。2026-05-04 闪电纠偏结构正确但冗余问题仍存。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
 - [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
@@ -14,11 +14,14 @@
 - [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` ❌。持续复发，需专项对抗。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
-- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词。2026-05-01 复发。
-- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`。2026-05-01 新发现。
+- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词。2026-05-01 复发 → 长期无复发，移至 Monitoring。
+- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`。2026-05-01 新发现 → 长期无复发，移至 Monitoring。
 - [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。2026-04-30 新发现。
 - [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。2026-04-30 新发现。
-- [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。
+- [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
+- [ ] **🔴 条件句 Type 1/2 混搭**: `If you consume... you would not` ❌ → Type 1 一致：`If you consume... you won't`。真实条件从句 + 虚拟主句的混搭。2026-05-05 新发现。
+- [ ] **🔴 `let alone` / `much less` 句型缺失**: "更别说" 英文固定句型完全缺失 → `let alone speak / much less understand`。2026-05-05 新发现。
+- [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。
 - [ ] **🔴 主谓一致（第三人称单数扫描）**: `somebody who usually work` ❌ → `somebody who usually works` ✅。翻译前强制扫描主语单复数。2026-05-04 新发现。
 - [ ] **🔴 `quite know` / `I can do with` 地道性**: `I quite know` ❌ → `I know quite well` ✅；`I can do with hotpot` ❌ → `I'm fine with hotpot` ✅。中文思维直译需替换为地道表达。2026-05-04 新发现。
 - [ ] **🔴 `be worried` + what 从句语法**: `be worried what tools you need` ❌ → `worry about which tool to use` ✅。`worried` 不直接接 what 从句。2026-05-04 新发现。
@@ -33,6 +36,15 @@
 - [ ] **主谓一致（第三人称单数扫描）**: 2026-05-04 新发现。需养成翻译前扫描主语单复数的习惯。
 - [ ] **`quite know` / `I can do with` 地道性**: 2026-05-04 新发现。中式思维直译 → 地道替换。
 - [ ] **`be worried` + what 从句**: 2026-05-04 新发现。`worried` 不接 what 从句，需用 `worry about`。
+- [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
+- [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
+- [ ] **`aware` + `of`**: 2026-05-05 新发现 → 闪电纠偏 1/1 通过。
+- [ ] **`looks like + that`**: 2026-05-05 新发现 → 闪电纠偏 1/1 通过。
+- [ ] **`had went → had gone`**: 2026-05-01 复发 → 长期无复发。
+- [ ] **`not as...as 完整性`**: 2026-05-01 新发现 → 长期无复发。
+- [ ] **条件句 Type 1/2 混搭**: 2026-05-05 新发现。首次暴露真实条件从句 + 虚拟主句混搭。
+- [ ] **`let alone` / `much less` 句型**: 2026-05-05 新发现。英文固定句型完全缺失。
+- [ ] **Tag 代词匹配**: 2026-05-05 新发现。`team... hasn't you?` ❌ → `haven't they?`。
 
 - [ ] **Pronoun Case**: 介词后接代词宾格 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 指代公司职能部门必加 the。

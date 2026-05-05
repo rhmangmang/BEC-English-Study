@@ -1,15 +1,14 @@
 # 下一步计划 (Next Steps)
 
-> **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 19 条 · 🟡 持续观察 45 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
+> **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 21 条 · 🟡 持续观察 57 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
-- [ ] **69BEC 收尾**: 从 `against the wall` 开始，完成最后 2 个语言点（`against the wall`, `process behind that`）。当前进度 14/16。
-- [ ] **69BEC 大 Role-play**: 全部 16 个语言点完成后，整合做场景化模拟。
-- [ ] **🔴 `could have` 从句抽查**: 在虚拟语气中随机抽查 `If I could have` → `If I had been able to`，确保不复发。
-- [ ] **🔴 `would have` vs `must have been` 抽查**: 在虚拟语气结果句中随机检查是否混淆推测与虚拟。
-- [ ] **🔴 `quite know` / `I can do with` 地道性强化**: 积累中文思维直译的地道替换（`quite know` → `know quite well`；`I can do with` → `I'm fine with`）。
-- [ ] **🔴 `be worried` + what 从句修复**: `worried` 不直接接 what 从句，需用 `worry about`。
-- [ ] **🔴 主谓一致扫描习惯**: 翻译前强制确认主语单复数（尤其是 `somebody who` / `people who` 场景）。
-- [ ] **🔴 平行结构巩固（选择疑问句）**: `or` 两侧形式必须一致（原形 vs 原形，动名词 vs 动名词）。
+- [ ] **70BEC 继续推进**: 提取下一个语言点。候选：`consume (knowledge)`, `go in and speak`, `high-level questions`, `meet with sb`, `individually vs respectively`。
+- [ ] **🔴 `let alone` / `much less` 句型专项**: 插入含"更别说"的中文句子，强制练习 `let alone speak / much less understand` 结构。
+- [ ] **🔴 条件句 Type 1/2 混搭修复**: 出 2 题含 `If` 的句子，检查是否自动匹配从句→主句时态。
+- [ ] **🔴 Tag 代词匹配专项**: `your team... hasn't you?` → `haven't they?`。出 2 题含集合名词/非人主语的 Tag。
+- [ ] **🔴 间接疑问句语序抽查**: 持续复发，在特殊疑问句中穿插检查 `what is X` → `what X is`。
+- [ ] **🔴 `aware` + `of` + `looks like` 隔夜抽查**: 确认新缺口是否真正固化。
+- [ ] **🔴 时态一致性强化**: 翻译前先锁定时间锚点（`at first` → 过去时，`now` → 现在时）。
 - [ ] **🔴 `agree` 介词闪电纠偏**: `agree to a proposal` / `agree with sb`。历史复发，需彻底根除。
 - [ ] **🔴 `have sb do`（无 to）专项**: 使役动词后接省略 to 的不定式。
-- [ ] **🔴 Quick Fire + Micro Role-play 常态化**: 在练习中持续使用灵活句式 + 场景驱动训练。
+- [ ] **跨语言点复用强化**: 在 70BEC 训练中主动植入 active-pool 中的 🔴/🟡 词组。

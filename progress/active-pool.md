@@ -59,5 +59,9 @@
 | a social setting | 🟢 | 2026-05-04 | — | 2轮+QF全对；主动引入 strike up a conversation |
 | as somebody who | 🟡 | 2026-05-04 | — | Round 1 主谓一致/quite know 错误；Round 2 满分 |
 | strike up a conversation | 🟡 | 2026-03-07 | 2026-05-04 | 跨4天成功复用，从归档重新激活 |
+| process behind that | 🟡 | 2026-05-05 | — | Round 1 aware+of 错误；Round 2/3 正确；QF 植入自然 |
+| at my own pace | 🟢 | 2026-05-05 | — | 3轮核心+QF全对；Round 2 条件句混搭 |
+| speak their language | 🟡 | 2026-05-05 | — | Round 1 时态错误；Round 2 let alone 句型缺失 |
+| high points | 🟡 | 2026-05-05 | — | Round 1 cross-functional 后缀；Round 2 时态；QF overall 词性 |
 
-**当前数量**：53 条（在 80 上限范围内）
+**当前数量**：57 条（在 80 上限范围内）
