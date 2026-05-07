@@ -3,8 +3,6 @@
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 
-- [ ] **🔴 `aware` + `of` 固定搭配**: `I'm not well aware the process` ❌ → `aware` 是形容词，接名词必须加 `of`。2026-05-05 新发现 → 闪电纠偏 1/1 通过 🟡 移至 Monitoring。
-- [ ] **🔴 `looks like + that` 语法**: `it looks like that you're...` ❌ → `looks like` 不接 `that` 从句，直接接名词/代词或从句（不加 that）。2026-05-05 新发现 → 闪电纠偏 1/1 通过 🟡 移至 Monitoring。
 - [ ] **🔴 `feel like` 精简意识**: `feel like` 已表"想要"，避免 `feel like I want to` 冗余。直接接动名词：`feel like going`。2026-05-04 闪电纠偏结构正确但冗余问题仍存。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
 - [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
@@ -14,36 +12,33 @@
 - [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` ❌。持续复发，需专项对抗。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
-- [ ] **🔴 `had went` → `had gone`**: `had went with` ❌ → `had gone with` ✅。`had` 后必须接过去分词。2026-05-01 复发 → 长期无复发，移至 Monitoring。
-- [ ] **🔴 `not as...as` 完整性**: `not good as it needs to be` 漏第一个 `as`。结构为 `not as + adj + as + clause`。2026-05-01 新发现 → 长期无复发，移至 Monitoring。
+- [ ] **🔴 `so much + adj`**: `so much complicated` ❌ → `so complicated` ✅。`so much` 只能接名词，接形容词用 `so`。2026-05-06 复发（首次记录 2026-05-04）。
 - [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。2026-04-30 新发现。
 - [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。2026-04-30 新发现。
 - [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
-- [ ] **🔴 条件句 Type 1/2 混搭**: `If you consume... you would not` ❌ → Type 1 一致：`If you consume... you won't`。真实条件从句 + 虚拟主句的混搭。2026-05-05 新发现。
-- [ ] **🔴 `let alone` / `much less` 句型缺失**: "更别说" 英文固定句型完全缺失 → `let alone speak / much less understand`。2026-05-05 新发现。
 - [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。
 - [ ] **🔴 主谓一致（第三人称单数扫描）**: `somebody who usually work` ❌ → `somebody who usually works` ✅。翻译前强制扫描主语单复数。2026-05-04 新发现。
 - [ ] **🔴 `quite know` / `I can do with` 地道性**: `I quite know` ❌ → `I know quite well` ✅；`I can do with hotpot` ❌ → `I'm fine with hotpot` ✅。中文思维直译需替换为地道表达。2026-05-04 新发现。
 - [ ] **🔴 `be worried` + what 从句语法**: `be worried what tools you need` ❌ → `worry about which tool to use` ✅。`worried` 不直接接 what 从句。2026-05-04 新发现。
+- [ ] **🔴 `go in` 不及物性**: `go in their discussions` ❌ → `go in on` / `join in on`。`go in` 不及物，不能直接接名词。2026-05-06 新发现。
+- [ ] **🔴 `come across as` 主动使用意识不足**: 概念已学，但大 Role-play 中仍用 `No one feels that I'm a rookie` 替代 `I don't come across as a rookie`。2026-05-06 新发现。
 
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 
-- [ ] **`could have` 不用于 if 从句**: 2026-05-04 新发现，闪电纠偏 1/1 通过。需后续抽查巩固。
-- [ ] **`must have been` vs `would have been`**: 2026-05-04 新发现，闪电纠偏 2/2 通过。核心公式"虚拟=would"已建立。
-- [ ] **Mixed vs Type 3 结果句区分**: 过去→现在 = would + 原形；过去→过去 = would have + pp。长期无复发，移至 Monitoring。
-- [ ] **虚拟语气 Type 2 主句 would do**: 对现在假设结果句用 `would + 原形`。2026-03-25 出现，长期无复发，移至 Monitoring。
+- [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
+- [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
+- [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。
+- [ ] **`looks like + that`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。
+- [ ] **条件句 Type 1/2 混搭**: 2026-05-05 → 05-06 闪电纠偏 1/1 正确，已修复 🏆。需隔夜确认固化。
+- [ ] **`let alone` / `much less` 句型**: 2026-05-05 → 05-06 从断句错误到全程 3 轮连续满分，已修复 🏆。需隔夜确认固化。
+- [ ] **Mixed vs Type 3 结果句区分**: 过去→现在 = would + 原形；过去→过去 = would have + pp。长期无复发。
+- [ ] **虚拟语气 Type 2 主句 would do**: 对现在假设结果句用 `would + 原形`。2026-03-25 出现，长期无复发。
 - [ ] **主谓一致（第三人称单数扫描）**: 2026-05-04 新发现。需养成翻译前扫描主语单复数的习惯。
 - [ ] **`quite know` / `I can do with` 地道性**: 2026-05-04 新发现。中式思维直译 → 地道替换。
 - [ ] **`be worried` + what 从句**: 2026-05-04 新发现。`worried` 不接 what 从句，需用 `worry about`。
-- [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
-- [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
-- [ ] **`aware` + `of`**: 2026-05-05 新发现 → 闪电纠偏 1/1 通过。
-- [ ] **`looks like + that`**: 2026-05-05 新发现 → 闪电纠偏 1/1 通过。
 - [ ] **`had went → had gone`**: 2026-05-01 复发 → 长期无复发。
 - [ ] **`not as...as 完整性`**: 2026-05-01 新发现 → 长期无复发。
-- [ ] **条件句 Type 1/2 混搭**: 2026-05-05 新发现。首次暴露真实条件从句 + 虚拟主句混搭。
-- [ ] **`let alone` / `much less` 句型**: 2026-05-05 新发现。英文固定句型完全缺失。
 - [ ] **Tag 代词匹配**: 2026-05-05 新发现。`team... hasn't you?` ❌ → `haven't they?`。
 
 - [ ] **Pronoun Case**: 介词后接代词宾格 (for them/us)。

@@ -64,4 +64,12 @@
 | speak their language | 🟡 | 2026-05-05 | — | Round 1 时态错误；Round 2 let alone 句型缺失 |
 | high points | 🟡 | 2026-05-05 | — | Round 1 cross-functional 后缀；Round 2 时态；QF overall 词性 |
 
-**当前数量**：57 条（在 80 上限范围内）
+| most likely | 🟢 | 2026-05-02 | — | 否定语序已固化 🏆 |
+| consume (knowledge/info) | 🟢 | 2026-05-06 | — | 核心用法正确；Quick Fire 满分 🏆 |
+| meet with sb | 🟢 | 2026-05-06 | — | vs meet sb 辨析已掌握；Role-play 使用正确 |
+| go in and speak their language | 🟡 | 2026-05-06 | — | go in 不及物性需注意 |
+| high-level questions | 🟢 | 2026-05-06 | — | vs low-level ones 对比正确；概念辨析到位 🏆 |
+| let alone + 原形 | 🟡 | 2026-05-06 | — | 从断句错误到修复 🏆；隔夜需确认固化 |
+| come across as | 🟡 | 2026-05-06 | — | 概念已学，Role-play 未主动使用 |
+
+**当前数量**：64 条（在 80 上限范围内）
