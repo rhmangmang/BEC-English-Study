@@ -86,3 +86,4 @@
 | 2026-05-05（上午）| **69BEC 收尾 + 话题构建 + 大 Role-play** | ✅ | 完成 process behind that；话题构建（技术债沟通）4 步全走过；大场景模拟融合 4 个语言点 🏆。69BEC 全部 16 个语言点完成 🎉。 |
 | 2026-05-05（下午）| **70BEC 启动 LP 1-3** | ✅ | 完成 at my own pace, speak their language, high points（15 轮核心 + 3 轮 QF）+ Micro Role-play。闪电纠偏 aware+of / looks like+that 通过。🔴 条件句混搭 + let alone 缺失 + Tag 代词匹配新缺口。 |
 | 2026-05-06 | **70BEC LP 4-7 + 综合训练 + 概念辨析** | ✅ | 完成 consume, meet with sb, go in and speak their language, high-level questions（4 个语言点）+ 概念辨析（I'd rather vs I prefer, document vs documentation, come across as）。**`let alone` 句型从断句错误到全程修复 🏆！** 综合融合 7 个语言点两轮 Role-play。 |
+| 2026-05-08 | **71BEC 收尾 + 72BEC 启动 LP 1-3** | ✅ | 隔夜抽查（`let alone`/`aware`/条件句 4/5 满分）。72BEC 完成 build into, talk shop, be past that（3 个语言点 16 轮句式全覆盖）。话题构建训练（Onboarding 话题）4 步全走过。**`talk shop` 当场学当场用 🏆。** 修改 GEMINI.md 指令（句式池逐一覆盖）。 |

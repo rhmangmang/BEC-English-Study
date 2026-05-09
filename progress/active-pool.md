@@ -41,7 +41,7 @@
 | pick up on | 🟡 | 2026-05-02 | — | 词性区分（adj vs n） |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
-| most likely | 🔴 | 2026-05-02 | — | 否定语序、间接疑问句语序 |
+| most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
 | hop on a meeting | 🟢 | 2026-05-02 | — | 5 句式全通关 🏆 |
 | I'd be curious from your perspective | 🔴 | 2026-05-02 | — | 主动使用意识需加强 |
 | plan out | 🟢 | 2026-05-03 | — | 代词位置 plan it out 🏆 |
@@ -63,13 +63,16 @@
 | at my own pace | 🟢 | 2026-05-05 | — | 3轮核心+QF全对；Round 2 条件句混搭 |
 | speak their language | 🟡 | 2026-05-05 | — | Round 1 时态错误；Round 2 let alone 句型缺失 |
 | high points | 🟡 | 2026-05-05 | — | Round 1 cross-functional 后缀；Round 2 时态；QF overall 词性 |
-
 | most likely | 🟢 | 2026-05-02 | — | 否定语序已固化 🏆 |
 | consume (knowledge/info) | 🟢 | 2026-05-06 | — | 核心用法正确；Quick Fire 满分 🏆 |
 | meet with sb | 🟢 | 2026-05-06 | — | vs meet sb 辨析已掌握；Role-play 使用正确 |
 | go in and speak their language | 🟡 | 2026-05-06 | — | go in 不及物性需注意 |
 | high-level questions | 🟢 | 2026-05-06 | — | vs low-level ones 对比正确；概念辨析到位 🏆 |
-| let alone + 原形 | 🟡 | 2026-05-06 | — | 从断句错误到修复 🏆；隔夜需确认固化 |
+| let alone + 原形 | 🟢 | 2026-05-06 | 2026-05-08 | 全程修复 + 隔夜满分 🏆 |
 | come across as | 🟡 | 2026-05-06 | — | 概念已学，Role-play 未主动使用 |
+| build A into B | 🟢 | 2026-05-08 | — | 6 种句式全部通关 🏆 |
+| talk shop | 🟢 | 2026-05-08 | — | 固定习语；5 种句式 + QF 满分 🏆 |
+| be past that | 🟢 | 2026-05-08 | — | 5 种句式通关；概念辨析到位 |
+| ground rule | 🟢 | 2026-05-08 | 2026-05-08 | 刚学即用 🏆 |
 
-**当前数量**：64 条（在 80 上限范围内）
+**当前数量**：66 条（在 80 上限范围内）
