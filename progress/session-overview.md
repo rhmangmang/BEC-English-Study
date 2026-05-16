@@ -89,3 +89,4 @@
 | 2026-05-08 | **71BEC 收尾 + 72BEC 启动 LP 1-3** | ✅ | 隔夜抽查（`let alone`/`aware`/条件句 4/5 满分）。72BEC 完成 build into, talk shop, be past that（3 个语言点 16 轮句式全覆盖）。话题构建训练（Onboarding 话题）4 步全走过。**`talk shop` 当场学当场用 🏆。** 修改 GEMINI.md 指令（句式池逐一覆盖）。 |
 | 2026-05-10 | **隔夜抽查 + 72BEC 收尾 + 73BEC 启动 LP 1-5** | ✅ | 隔夜抽查 3/3 满分 🏆。72BEC 完结（`have context`, `whenever this lifts`）。73BEC 启动完成 5 个语言点（`appreciate sb doing`, `As..., we'll...`, `thrive through`, `throughout`, `quote unquote`）+ 2 轮 Micro Role-play。导师偏差 2 处（学生指正已纠正）。 |
 | 2026-05-13 | **复习纠偏 + 73BEC 收尾 + 01BEC 遗留语言点 9 个** | ✅ | 73BEC 完结（`That'd be...` + Micro Role-play 6 个 LP 整合成功）🎉。01BEC.md 遍历 9 个遗留 LP，含 `go into work`, `office job/remote job`, `office space`, `have+时间+off`, `invite sb over`, `ever`, `not really`, `that side of`。`no much` 复发 1 次后当场修复。|
+| 2026-05-16 | **02-04BEC 扫描 + 话题构建训练 (远程协作)** | ✅ | 攻克 `start school`, `take part in`, `with+doing`。**话题构建脱稿陈述惊艳！** 🔴 过去分词复发第 4 次。 |

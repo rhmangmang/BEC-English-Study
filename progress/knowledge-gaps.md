@@ -3,6 +3,10 @@
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 
+- [ ] **🔴 不规则动词过去分词复发**: `have ran` / `have took` / `have went`。虽然 Flash Correct 通过，但在长句自由表达时极易回退。2026-05-16 严重复发。
+- [ ] **🔴 主谓一致 (Has/Have)**: `have your child started` ❌ -> `has` ✅。在 Quick Fire 压力下出错。2026-05-16 新发现。
+- [ ] **🔴 `rely on` 漏 `on`**: `rely teachers` ❌ -> `rely **on** teachers` ✅。2026-05-16 复发（首次 2026-04-28）。
+- [ ] **🔴 `with + doing` 简洁意识**: 倾向于用 `Even though` 从句替代紧凑的 `with` 短语。2026-05-16 新发现。
 - [ ] **🔴 `feel like` 精简意识**: `feel like` 已表"想要"，避免 `feel like I want to` 冗余。直接接动名词：`feel like going`。2026-05-04 闪电纠偏结构正确但冗余问题仍存。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
 - [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。

@@ -342,3 +342,8 @@
 | **at my own pace** | 3 | 高 | 2026-05-05 | Round 1/3 满分；Round 2 条件句时态混搭 |
 | **speak their language** | 3 | 高 | 2026-05-05 | Round 1 时态错误；Round 2 let alone 句型缺失；QF 正确 |
 | **high points** | 3 | 高 | 2026-05-05 | 短语+对比用法正确；Round 1 cross-functional；Round 2 时态；QF overall 词性 |
+| **take part in** | 5 | 🟢 | 2026-05-16 | 注意 `taken` 过去分词复发 |
+| **with + doing** | 5 | 🟢 | 2026-05-16 | 掌握虚拟语气结合用法 |
+| **start school** | 5 | 🟢 | 2026-05-16 | 零冠词掌握 |
+| **the business end** | 10 | 🟢 | 2026-04-27 | 归档 |
+| **rollout plan** | 10 | 🟢 | 2026-04-28 | 归档 |

@@ -8,14 +8,12 @@
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
 | step in | 🟡 | 2026-04-25 | — | step in to do / step into，不可直接接名词 |
-| the business end | 🟢 | 2026-04-27 | — | 业务核心/落地 |
-| run into (issues/problems) | 🟡 | 2026-04-27 | — | 与 have 的动态感差异 |
+| run into (issues/problems) | 🔴 | 2026-04-27 | 2026-05-16 | `ran` 过去分词复发，标记为 🔴 |
 | as opposed to | 🟢 | 2026-04-27 | — | 对比区分/范畴排除 |
 | how can I put it | 🟢 | 2026-04-27 | — | 职场语气软化插片 |
 | sooner rather than later | 🟢 | 2026-04-28 | — | 建议/时间地道用法 |
 | entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
-| rely on sb to do sth | 🔴 | 2026-04-28 | — | to 易遗漏 |
-| rollout plan | 🟢 | 2026-04-28 | — | 介词 for 逻辑 |
+| rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | May I interrupt for a moment? | 🟢 | 2026-04-29 | — | 礼貌打断标准口语 |
 | both of which | 🟢 | 2026-04-29 | — | 非限定定语从句 |
 | regarding | 🟢 | 2026-04-29 | — | 商务正式版 about |
@@ -35,7 +33,7 @@
 | in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
 | be so used to | 🔴 | 2026-05-02 | — | to 后接 -ing，非原形 |
-| all hands on deck | 🟡 | 2026-05-02 | — | Tag 极性需警惕 |
+| all hands on deck | 🟡 | 2026-05-02 | 2026-05-16 | 🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写 |
 | pick up on | 🟡 | 2026-05-02 | — | 词性区分（adj vs n） |
@@ -46,7 +44,7 @@
 | I'd be curious from your perspective | 🔴 | 2026-05-02 | — | 主动使用意识需加强 |
 | plan out | 🟢 | 2026-05-03 | — | 代词位置 plan it out 🏆 |
 | have my calendar all organized | 🟡 | 2026-05-03 | — | Round 1 未命中目标结构 |
-| ultimately | 🟢 | 2026-05-03 | — | 句首/助动词后位置 🏆 |
+| ultimately | 🟢 | 2026-05-03 | 2026-05-16 | 🏆 |
 | out of place | 🟡 | 2026-05-03 | — | 介词、feel like 用法 |
 | have something lined up | 🟢 | 2026-05-03 | — | 虚拟语气嵌套 🏆 |
 | stand in the corner | 🟡 | 2026-05-03 | — | Tag 极性回退、stood 过去分词 |
@@ -63,7 +61,6 @@
 | at my own pace | 🟢 | 2026-05-05 | — | 3轮核心+QF全对；Round 2 条件句混搭 |
 | speak their language | 🟡 | 2026-05-05 | — | Round 1 时态错误；Round 2 let alone 句型缺失 |
 | high points | 🟡 | 2026-05-05 | — | Round 1 cross-functional 后缀；Round 2 时态；QF overall 词性 |
-| most likely | 🟢 | 2026-05-02 | — | 否定语序已固化 🏆 |
 | consume (knowledge/info) | 🟢 | 2026-05-06 | — | 核心用法正确；Quick Fire 满分 🏆 |
 | meet with sb | 🟢 | 2026-05-06 | — | vs meet sb 辨析已掌握；Role-play 使用正确 |
 | go in and speak their language | 🟡 | 2026-05-06 | — | go in 不及物性需注意 |
@@ -81,17 +78,17 @@
 | appreciate sb doing | 🟢 | 2026-05-10 | — | 肯定/否定(修正后)/反义疑问 3 句式通关 🏆 |
 | As..., we'll... | 🟢 | 2026-05-10 | — | 3 句式全通关；`more clear` 比较级需注意 |
 | throughout | 🟢 | 2026-05-10 | — | 肯定/疑问结构正确；`difficulties` → `difficult` |
-| quote unquote | 🟡 | 2026-05-10 | — | 肯定位置正确；疑问句位置跑偏 + 拼写需巩固 |
+| quote unquote | 🟢 | 2026-05-10 | 2026-05-16 | 🏆 |
+| That'd be... | 🟢 | 2026-05-13 | — | 🏆 |
+| go into work | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
+| office space | 🟢 | 2026-05-13 | — | 🏆 |
+| have + 时间 + off | 🟢 | 2026-05-13 | — | 🏆 |
+| invite sb over | 🟢 | 2026-05-13 | — | 🏆 |
+| ever | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
+| that side of | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
+| have/get sth done | 🟢 | 2026-04-19 | 2026-05-16 | 🔴 -> 🟢 跨越式修复 🏆 |
+| start school | 🟡 | 2026-05-16 | 2026-05-16 | 新学 |
+| take part in | 🟡 | 2026-05-16 | 2026-05-16 | 新学，注意 `taken` 过去分词 |
+| with + doing | 🟡 | 2026-05-16 | 2026-05-16 | 新学 |
 
-| quote unquote 🟠→🟢 | 2026-05-10 | 2026-05-13 | Role-play 中位置正确；但复习题末尾复发 1 次 ⚠️ |
-| That'd be...（委婉肯定/设想）| 🟢 | 2026-05-13 | — | 3 句式全通关 🏆 |
-| go into work vs go to work | 🟡 | 2026-05-13 | — | Quick Fire 仅 50% 主动使用 |
-| office job vs remote job | 🟡 | 2026-05-13 | — | Quick Fire 未主动使用 |
-| office space（可数性）| 🟢 | 2026-05-13 | — | `no much` 旧疾复发后修复 🏆 |
-| have + 时间 + off | 🟢 | 2026-05-13 | — | 4 句式接近满分；介词 `on` 和时态细节需注意 |
-| invite sb over | 🟢 | 2026-05-13 | — | 主动用上 `come over` 🏆 |
-| ever（习惯 vs 过去疑问）| 🟡 | 2026-05-13 | — | 概念清晰；`ever`+否定句+完成时未练习 |
-| not really | 🟢 | 2026-05-13 | — | 3 轮全满分 🏆 |
-| that side of（抽象用法）| 🟡 | 2026-05-13 | — | 结构正确；document vs documentation 区分需巩固 |
-
-**当前数量**：85 条（超出 80 上限，需归档 🟢 最旧条目）
+**当前数量**：82 条（已归档 the business end / rollout plan / office job / remote job / not really）
