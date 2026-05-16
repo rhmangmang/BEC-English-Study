@@ -83,4 +83,15 @@
 | throughout | 🟢 | 2026-05-10 | — | 肯定/疑问结构正确；`difficulties` → `difficult` |
 | quote unquote | 🟡 | 2026-05-10 | — | 肯定位置正确；疑问句位置跑偏 + 拼写需巩固 |
 
-**当前数量**：76 条（在 80 上限范围内）
+| quote unquote 🟠→🟢 | 2026-05-10 | 2026-05-13 | Role-play 中位置正确；但复习题末尾复发 1 次 ⚠️ |
+| That'd be...（委婉肯定/设想）| 🟢 | 2026-05-13 | — | 3 句式全通关 🏆 |
+| go into work vs go to work | 🟡 | 2026-05-13 | — | Quick Fire 仅 50% 主动使用 |
+| office job vs remote job | 🟡 | 2026-05-13 | — | Quick Fire 未主动使用 |
+| office space（可数性）| 🟢 | 2026-05-13 | — | `no much` 旧疾复发后修复 🏆 |
+| have + 时间 + off | 🟢 | 2026-05-13 | — | 4 句式接近满分；介词 `on` 和时态细节需注意 |
+| invite sb over | 🟢 | 2026-05-13 | — | 主动用上 `come over` 🏆 |
+| ever（习惯 vs 过去疑问）| 🟡 | 2026-05-13 | — | 概念清晰；`ever`+否定句+完成时未练习 |
+| not really | 🟢 | 2026-05-13 | — | 3 轮全满分 🏆 |
+| that side of（抽象用法）| 🟡 | 2026-05-13 | — | 结构正确；document vs documentation 区分需巩固 |
+
+**当前数量**：85 条（超出 80 上限，需归档 🟢 最旧条目）

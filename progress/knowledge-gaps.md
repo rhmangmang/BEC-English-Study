@@ -21,7 +21,9 @@
 - [ ] **🔴 `quite know` / `I can do with` 地道性**: `I quite know` ❌ → `I know quite well` ✅；`I can do with hotpot` ❌ → `I'm fine with hotpot` ✅。中文思维直译需替换为地道表达。2026-05-04 新发现。
 - [ ] **🔴 `be worried` + what 从句语法**: `be worried what tools you need` ❌ → `worry about which tool to use` ✅。`worried` 不直接接 what 从句。2026-05-04 新发现。
 - [ ] **🔴 `go in` 不及物性**: `go in their discussions` ❌ → `go in on` / `join in on`。`go in` 不及物，不能直接接名词。2026-05-06 新发现。
-- [ ] **🔴 `come across as` 主动使用意识不足**: 概念已学，但大 Role-play 中仍用 `No one feels that I'm a rookie` 替代 `I don't come across as a rookie`。2026-05-06 新发现。
+- [ ] **🔴 `know about` vs `know` 及物/不及物区分**: `know this meeting` ❌ → `know about this meeting` ✅。知道存在/信息用 `know about`，认识某人/某物用 `know`。2026-05-13 新发现。
+- [ ] **🔴 `prepare for` vs `prepare` 及物性区分**: `prepare it`（"准备它"本身） vs `prepare for it`（为它做准备）。会议/事件类用 `prepare for`。2026-05-13 新发现。
+- [ ] **🔴 `document process` vs `documentation process`**: `document` = 具体文档文件；`documentation` = 文档工作/文档资料整体。2026-05-13 新发现。
 
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。

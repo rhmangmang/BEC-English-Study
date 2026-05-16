@@ -3,7 +3,11 @@
 > **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 18 条 · 🟡 持续观察 14 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
 - [x] **72BEC 完结**: 已完成全部 7 个语言点（`build into`, `talk shop`, `be past that`, `what would be`, `with how well it went`, `have context with sth`, `whenever this lifts`）。
-- [ ] **73BEC 继续推进**: 已完成 5 个语言点（`appreciate sb doing`, `As..., we'll...`, `thrive through`, `throughout`, `quote unquote`），剩余推进。
+- [x] **73BEC 完结**: 已完成 6 个语言点（`appreciate sb doing`, `As..., we'll...`, `thrive through`, `throughout`, `quote unquote`, `That'd be...`）+ Micro Role-play 整合 🎉。
+- [x] **01BEC.md 遗留语言点训练**: 9 个 LP 全部遍历。🟢 掌握：`office space`/`have+时间+off`/`invite sb over`/`not really`；🟡 需巩固：`go into work`/`office job`/`ever`/`that side of`/`quote unquote` 位置。
+- [ ] **01BEC 🟡 巩固抽查**: `go into work` Quick Fire + 否定+`ever` 完成时、`that side of` 自然表达、`documentation process` 区分
+- [ ] **下一步 BEC 课程**: 73BEC 已完结，推进 74BEC 或选择其他 BEC 源文本
+- [ ] **active-pool 超过 80 条上限**: 需归档最早的 🟢 条目到 mastered-points.md
 - [ ] **🔴 `get out for dinner` → `go out for dinner`**: 全场顽固错误，需一次根除。
 - [ ] **条件句场景选择（Type 1/2/3 判断）**: 隔夜抽查中过度使用 Type 3，需强化"先判断真实/建议/过去假设"的意识。
 - [ ] **🟡 `come across as` 主动使用抽查**: 概念已学，Role-play 未主动使用。
