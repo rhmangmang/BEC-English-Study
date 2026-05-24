@@ -30,6 +30,8 @@
 - [ ] **🔴 `document process` vs `documentation process`**: `document` = 具体文档文件；`documentation` = 文档工作/文档资料整体。2026-05-13 新发现。
 - [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
 - [ ] **🔴 百分比介词 by 遗漏**: `increase 10%` ❌ → `increase **by** 10%` ✅。百分比变化需要介词 by。2026-05-22 新发现。
+- [ ] **🔴 `need to like` 主语必须是"人"**: `being a PM needs to like` ❌ → `a PM needs to like` ✅。`need to like` 的主体必须是 someone，不能是岗位/活动。2026-05-24 新发现。
+- [ ] **🔴 `need to like` 否定句中不丢失 `like`**: `You don't need to manage people` ❌ → `You don't need to **like** managing` ✅。否定句中容易把语义滑向"不需要做某事"而丢失 like。2026-05-24 新发现。
 
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。

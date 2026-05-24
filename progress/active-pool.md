@@ -88,4 +88,8 @@
 | give an overview of | 🟢 | 2026-05-22 | — | 3 句式全通关；辨析 overview vs introduce vs summarize 🏆 |
 | future opportunities / areas of growth | 🟢 | 2026-05-22 | — | 骨架及撤骨架均正确使用 🏆 |
 
-**当前数量**：79 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）
+| with 依托载体结构 (persuade with / market with) | 🟡 | 2026-05-24 | — | 否定句中 `with just guessing` 不如 `by`/`on` 自然 |
+| need to like (前提条件结构) | 🟡 | 2026-05-24 | — | 注意主语必须是"人"；否定句中不丢失 `like` |
+| take + [vehicle] + straight + to + [place] | 🟢 | 2026-05-24 | — | 3轮核心+QF全通关；出行直达模式 🏆 |
+
+**当前数量**：82 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）

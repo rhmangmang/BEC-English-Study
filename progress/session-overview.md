@@ -91,3 +91,4 @@
 | 2026-05-13 | **复习纠偏 + 73BEC 收尾 + 01BEC 遗留语言点 9 个** | ✅ | 73BEC 完结（`That'd be...` + Micro Role-play 6 个 LP 整合成功）🎉。01BEC.md 遍历 9 个遗留 LP，含 `go into work`, `office job/remote job`, `office space`, `have+时间+off`, `invite sb over`, `ever`, `not really`, `that side of`。`no much` 复发 1 次后当场修复。|
 | 2026-05-16 | **02-04BEC 扫描 + 话题构建训练 (远程协作)** | ✅ | 攻克 `start school`, `take part in`, `with+doing`。**话题构建脱稿陈述惊艳！** 🔴 过去分词复发第 4 次。 |
 | 2026-05-22 | **05BEC 扫描 + 话题构建 (季度汇报)** | ✅ | 新增 5 个语言点 (account for / be split into / give an overview of / areas of growth / That brings me to the end of)。话题构建 4 步全走过，撤骨架表达自然。🔴 Tag 代词 + 情态动词原形 + Type 3 被动过度纠正。 |
+| 2026-05-24 | **06BEC/08BEC/09BEC 扫描 + 3 个新语言点** | ✅ | 提取 3 个新 LP：`with` 载体结构(06BEC) / `need to like`(08BEC) / `take+vehicle+straight+to`(09BEC)。过去分词 Flash Correct 零复发 🏆。🔴 `need to like` 主语陷阱 2 个新缺口。 |
