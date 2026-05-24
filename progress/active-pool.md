@@ -9,15 +9,8 @@
 | :--- | :---: | :--- | :--- | :--- |
 | step in | 🟡 | 2026-04-25 | — | step in to do / step into，不可直接接名词 |
 | run into (issues/problems) | 🔴 | 2026-04-27 | 2026-05-16 | `ran` 过去分词复发，标记为 🔴 |
-| as opposed to | 🟢 | 2026-04-27 | — | 对比区分/范畴排除 |
-| how can I put it | 🟢 | 2026-04-27 | — | 职场语气软化插片 |
-| sooner rather than later | 🟢 | 2026-04-28 | — | 建议/时间地道用法 |
 | entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
-| May I interrupt for a moment? | 🟢 | 2026-04-29 | — | 礼貌打断标准口语 |
-| both of which | 🟢 | 2026-04-29 | — | 非限定定语从句 |
-| regarding | 🟢 | 2026-04-29 | — | 商务正式版 about |
-| enter the deliberations | 🟢 | 2026-04-29 | — | 区分 enter / enter into |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
 | a paper + noun | 🟢 | 2026-04-30 | — | 纸质 vs 电子对比 |
 | personally | 🟢 | 2026-04-30 | — | 句首/主语后位置 |
@@ -90,5 +83,9 @@
 | start school | 🟡 | 2026-05-16 | 2026-05-16 | 新学 |
 | take part in | 🟡 | 2026-05-16 | 2026-05-16 | 新学，注意 `taken` 过去分词 |
 | with + doing | 🟡 | 2026-05-16 | 2026-05-16 | 新学 |
+| account for | 🟢 | 2026-05-22 | — | 5 句式全通关；占比例 🏆 |
+| be split into | 🟡 | 2026-05-22 | — | Type 3 被动过度纠正 (`had had been split`) |
+| give an overview of | 🟢 | 2026-05-22 | — | 3 句式全通关；辨析 overview vs introduce vs summarize 🏆 |
+| future opportunities / areas of growth | 🟢 | 2026-05-22 | — | 骨架及撤骨架均正确使用 🏆 |
 
-**当前数量**：82 条（已归档 the business end / rollout plan / office job / remote job / not really）
+**当前数量**：79 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）

@@ -14,13 +14,13 @@
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
 - [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
-- [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` ❌。持续复发，需专项对抗。
+- [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` ❌。持续复发，需专项对抗。2026-05-22 再次出现 (`will lost`)。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
 - [ ] **🔴 `so much + adj`**: `so much complicated` ❌ → `so complicated` ✅。`so much` 只能接名词，接形容词用 `so`。2026-05-06 复发（首次记录 2026-05-04）。
 - [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。2026-04-30 新发现。
 - [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。2026-04-30 新发现。
 - [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
-- [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。
+- [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。2026-05-22 再次出现 (`hasn't they`)。
 - [ ] **🔴 主谓一致（第三人称单数扫描）**: `somebody who usually work` ❌ → `somebody who usually works` ✅。翻译前强制扫描主语单复数。2026-05-04 新发现。
 - [ ] **🔴 `quite know` / `I can do with` 地道性**: `I quite know` ❌ → `I know quite well` ✅；`I can do with hotpot` ❌ → `I'm fine with hotpot` ✅。中文思维直译需替换为地道表达。2026-05-04 新发现。
 - [ ] **🔴 `be worried` + what 从句语法**: `be worried what tools you need` ❌ → `worry about which tool to use` ✅。`worried` 不直接接 what 从句。2026-05-04 新发现。
@@ -28,6 +28,8 @@
 - [ ] **🔴 `know about` vs `know` 及物/不及物区分**: `know this meeting` ❌ → `know about this meeting` ✅。知道存在/信息用 `know about`，认识某人/某物用 `know`。2026-05-13 新发现。
 - [ ] **🔴 `prepare for` vs `prepare` 及物性区分**: `prepare it`（"准备它"本身） vs `prepare for it`（为它做准备）。会议/事件类用 `prepare for`。2026-05-13 新发现。
 - [ ] **🔴 `document process` vs `documentation process`**: `document` = 具体文档文件；`documentation` = 文档工作/文档资料整体。2026-05-13 新发现。
+- [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
+- [ ] **🔴 百分比介词 by 遗漏**: `increase 10%` ❌ → `increase **by** 10%` ✅。百分比变化需要介词 by。2026-05-22 新发现。
 
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
