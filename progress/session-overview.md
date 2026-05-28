@@ -92,3 +92,5 @@
 | 2026-05-16 | **02-04BEC 扫描 + 话题构建训练 (远程协作)** | ✅ | 攻克 `start school`, `take part in`, `with+doing`。**话题构建脱稿陈述惊艳！** 🔴 过去分词复发第 4 次。 |
 | 2026-05-22 | **05BEC 扫描 + 话题构建 (季度汇报)** | ✅ | 新增 5 个语言点 (account for / be split into / give an overview of / areas of growth / That brings me to the end of)。话题构建 4 步全走过，撤骨架表达自然。🔴 Tag 代词 + 情态动词原形 + Type 3 被动过度纠正。 |
 | 2026-05-24 | **06BEC/08BEC/09BEC 扫描 + 3 个新语言点** | ✅ | 提取 3 个新 LP：`with` 载体结构(06BEC) / `need to like`(08BEC) / `take+vehicle+straight+to`(09BEC)。过去分词 Flash Correct 零复发 🏆。🔴 `need to like` 主语陷阱 2 个新缺口。 |
+| 2026-05-27 | **10BEC 扫描 + 3 个新语言点训练** | ✅ | 10BEC 扫描：14 个疑问点中 10 个已记录，提取 3 个新 LP。`check into`(6 句式+QF 全通关 🏆) / `set up` 被动口语缩略(Tag 极性复发⚠️) / `any longer` 肯定条件句(非断定词限制新缺口)。Flash Correct：`was ran` 仍复发。 |
+| 2026-05-28 | **13BEC/14BEC 扫描 + LP 训练** | ✅ | 13BEC 6个疑问点中4个已记录，提取 `[关系名词]+with+[合作方]` 新 LP。14BEC 8个疑问点全部已记录。Tag 极性 Flash Correct 3/3 全对 🏆。`run into` 连续2次正确复用升级 🟢。学生主动质疑导师 `before tomorrow` 和 `get onboard with sb` 两处语感失误。🔴 `in advance` 冠词错误；`already` 漏译。 |

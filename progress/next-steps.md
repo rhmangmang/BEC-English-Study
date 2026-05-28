@@ -11,5 +11,13 @@
 - [ ] **🔴 过去分词顽疾专项**: 今日零复发 🏆，继续连续累积（目前 1 天零复发）。
 - [ ] **active-pool 归档计划**: 当前 82 条，超出 80 上限需优先归档最早的 🟢 词组。
 - [ ] **`need to like` 结构 Flash Correct 拦截**: 主语必须是"人" + 否定句不丢 `like`。
-- [ ] **继续扫描 BEC 文本**: 10BEC 起，提取未记录的语言点。
+- [x] **10BEC 扫描完成**: 提取 3 个新语言点并完成训练。继续扫描 11BEC 起。
+- [x] **13BEC/14BEC 扫描完成**: 提取 1 个新语言点 `[关系名词]+with+[合作方]` 并完成训练。
+- [ ] **Flash Correct：Tag 极性专项**: 本次 3/3 全对，暂定进入 Monitoring。
+- [ ] **`get onboard with` 搭配理解深化**: 区分 `onboard sb`(动词) / `get sb on board` / `get on board with sth`。
+- [ ] **`in advance` 冠词修正**: 固定短语无冠词，注意 `in a advance` ❌。
+- [ ] **`already` 修饰词扫描**: 翻译前强制检查"已经"是否译出。
+- [ ] **Flash Correct：`pay` vs `pay for`**：新缺口，2026-05-27。
+- [ ] **`any longer` 非断定词属性巩固**: 条件句外禁止独立肯定陈述。
 - [ ] **`with` 载体结构否定句地道性巩固**: `with just guessing` → `by` / `on guesswork alone` 更自然。
+- [ ] **active-pool 归档**: 当前 85 条，超出 80 上限。需优先归档最早的 🟢 词组。

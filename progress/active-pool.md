@@ -7,8 +7,8 @@
 
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
-| step in | 🟡 | 2026-04-25 | — | step in to do / step into，不可直接接名词 |
-| run into (issues/problems) | 🔴 | 2026-04-27 | 2026-05-16 | `ran` 过去分词复发，标记为 🔴 |
+| step in | 🟡 | 2026-04-25 | 2026-05-28 | step in to do / step into，不可直接接名词；Type 3 中 `stepped in to negotiate` ✅ |
+| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-05-28 | 连续 2 次主动复用正确（Type 3 + 否定句），从 🟡 升级 🟢 🏆 |
 | entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
@@ -28,7 +28,7 @@
 | be so used to | 🔴 | 2026-05-02 | — | to 后接 -ing，非原形 |
 | all hands on deck | 🟡 | 2026-05-02 | 2026-05-16 | 🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
-| get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写 |
+| get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写；注意 `get onboard with` 只能接"想法/计划"，不能接人/公司（正确：`onboard sb` 动词 / `get sb on board`） |
 | pick up on | 🟡 | 2026-05-02 | — | 词性区分（adj vs n） |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
@@ -91,5 +91,9 @@
 | with 依托载体结构 (persuade with / market with) | 🟡 | 2026-05-24 | — | 否定句中 `with just guessing` 不如 `by`/`on` 自然 |
 | need to like (前提条件结构) | 🟡 | 2026-05-24 | — | 注意主语必须是"人"；否定句中不丢失 `like` |
 | take + [vehicle] + straight + to + [place] | 🟢 | 2026-05-24 | — | 3轮核心+QF全通关；出行直达模式 🏆 |
+| check into (a hotel) | 🟢 | 2026-05-27 | — | 10BEC 提取；6 种句式 + QF 全通关，虚拟语气零回退 🏆 |
+| set up 被动口语缩略 (be setting up = be being done) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，反义疑问句 Tag 极性错误 1 次 |
+| any longer 肯定条件句用法 (non-assertive) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，非断定词限制需巩固 |
+| contract/partnership/agreement with [partner] | 🟢 | 2026-05-28 | — | 13BEC 提取；6 句式+QF 通关；机构间合作 `with` 标注模式 🏆 |
 
-**当前数量**：82 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）
+**当前数量**：86 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）
