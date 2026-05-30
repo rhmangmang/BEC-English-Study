@@ -7,31 +7,23 @@
 - [ ] **🔴 主谓一致 (Has/Have)**: `have your child started` ❌ -> `has` ✅。在 Quick Fire 压力下出错。2026-05-16 新发现。
 - [ ] **🔴 `rely on` 漏 `on`**: `rely teachers` ❌ -> `rely **on** teachers` ✅。2026-05-16 复发（首次 2026-04-28）。
 - [ ] **🔴 `with + doing` 简洁意识**: 倾向于用 `Even though` 从句替代紧凑的 `with` 短语。2026-05-16 新发现。
-- [ ] **🔴 `feel like` 精简意识**: `feel like` 已表"想要"，避免 `feel like I want to` 冗余。直接接动名词：`feel like going`。2026-05-04 闪电纠偏结构正确但冗余问题仍存。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
 - [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
-- [ ] **🔴 `be used to + doing`（非原形）**: `be used to communicate` ❌ → `be used to **communicating**` ✅。`be used to` 是介词性短语，后须接名词/动名词。2026-05-02 复发。
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
 - [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
-- [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` ❌。持续复发，需专项对抗。2026-05-22 再次出现 (`will lost`)。
+- [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
-- [ ] **🔴 `so much + adj`**: `so much complicated` ❌ → `so complicated` ✅。`so much` 只能接名词，接形容词用 `so`。2026-05-06 复发（首次记录 2026-05-04）。
-- [ ] **🔴 `rather than` 平行结构**: `rather than submitted` ❌ → `rather than submitting / submit` ✅。2026-04-30 新发现。
-- [ ] **🔴 `recommend` 句式**: `recommend you using` ❌ → `recommend that you use` / `recommend using` ✅。2026-04-30 新发现。
 - [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
 - [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。2026-05-22 再次出现 (`hasn't they`)。
-- [ ] **🔴 主谓一致（第三人称单数扫描）**: `somebody who usually work` ❌ → `somebody who usually works` ✅。翻译前强制扫描主语单复数。2026-05-04 新发现。
-- [ ] **🔴 `quite know` / `I can do with` 地道性**: `I quite know` ❌ → `I know quite well` ✅；`I can do with hotpot` ❌ → `I'm fine with hotpot` ✅。中文思维直译需替换为地道表达。2026-05-04 新发现。
-- [ ] **🔴 `be worried` + what 从句语法**: `be worried what tools you need` ❌ → `worry about which tool to use` ✅。`worried` 不直接接 what 从句。2026-05-04 新发现。
 - [ ] **🔴 `go in` 不及物性**: `go in their discussions` ❌ → `go in on` / `join in on`。`go in` 不及物，不能直接接名词。2026-05-06 新发现。
-- [ ] **🔴 `know about` vs `know` 及物/不及物区分**: `know this meeting` ❌ → `know about this meeting` ✅。知道存在/信息用 `know about`，认识某人/某物用 `know`。2026-05-13 新发现。
 - [ ] **🔴 `prepare for` vs `prepare` 及物性区分**: `prepare it`（"准备它"本身） vs `prepare for it`（为它做准备）。会议/事件类用 `prepare for`。2026-05-13 新发现。
-- [ ] **🔴 `document process` vs `documentation process`**: `document` = 具体文档文件；`documentation` = 文档工作/文档资料整体。2026-05-13 新发现。
 - [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
 - [ ] **🔴 百分比介词 by 遗漏**: `increase 10%` ❌ → `increase **by** 10%` ✅。百分比变化需要介词 by。2026-05-22 新发现。
 - [ ] **🔴 `need to like` 主语必须是"人"**: `being a PM needs to like` ❌ → `a PM needs to like` ✅。`need to like` 的主体必须是 someone，不能是岗位/活动。2026-05-24 新发现。
 - [ ] **🔴 `need to like` 否定句中不丢失 `like`**: `You don't need to manage people` ❌ → `You don't need to **like** managing` ✅。否定句中容易把语义滑向"不需要做某事"而丢失 like。2026-05-24 新发现。
+- [ ] **🔴 `discuss` 及物性（复发型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。2026-05-30 新发现。
+- [ ] **🔴 `too more` 搭配错误**: `too more people` ❌ → `too many people` ✅。`too` 不能修饰比较级 `more`，可数名词用 `too many`。2026-05-30 新发现。
 - [ ] **🔴 `pay` vs `pay for` 及物性区分**: `pay for the bill` ❌ → `pay the bill` ✅。`pay` + 账单/人/金额（直接宾语）；`pay for` + 商品/服务。2026-05-27 新发现。
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
 
@@ -52,6 +44,15 @@
 - [ ] **`had went → had gone`**: 2026-05-01 复发 → 长期无复发。
 - [ ] **`not as...as 完整性`**: 2026-05-01 新发现 → 长期无复发。
 - [ ] **Tag 代词匹配**: 2026-05-05 新发现。`team... hasn't you?` ❌ → `haven't they?`。
+- [ ] **`rather than` 平行结构**: `rather than submitted` → `rather than submitting`。2026-04-30 → 长期无复发。
+- [ ] **`recommend` 句式**: `recommend you using` → `recommend that you use`。2026-04-30 → 长期无复发。
+- [ ] **`be used to + doing`**: 2026-05-02 曾复发 → 长期无复发。
+- [ ] **`feel like` 精简意识**: `feel like` 已表"想要"，避免冗余。2026-05-04 → 长期无复发。
+- [ ] **`so much + adj`**: `so much complicated` ❌。2026-05-04 → 长期无复发。
+- [ ] **`go in` 不及物性**: `go in their discussions` ❌。2026-05-06 → 长期无复发。
+- [ ] **`know about` vs `know`**: `know this meeting` ❌。2026-05-13 → 长期无复发。
+- [ ] **`prepare for` vs `prepare`**: 会议/事件类用 `prepare for`。2026-05-13 → 长期无复发。
+- [ ] **`document process` vs `documentation process`**: 2026-05-13 → 长期无复发。
 
 - [ ] **Pronoun Case**: 介词后接代词宾格 (for them/us)。
 - [ ] **Definite Articles (Dept)**: 指代公司职能部门必加 the。

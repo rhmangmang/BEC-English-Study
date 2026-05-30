@@ -95,5 +95,10 @@
 | set up 被动口语缩略 (be setting up = be being done) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，反义疑问句 Tag 极性错误 1 次 |
 | any longer 肯定条件句用法 (non-assertive) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，非断定词限制需巩固 |
 | contract/partnership/agreement with [partner] | 🟢 | 2026-05-28 | — | 13BEC 提取；6 句式+QF 通关；机构间合作 `with` 标注模式 🏆 |
+| get hold of | 🟢 | 2026-05-30 | — | 15BEC 提取；6 句式+QF 通关；获取某物/联系上某人；肯定句式需重出 2 次 🏆 |
+| will do | 🟢 | 2026-05-30 | — | 15BEC 提取；5 句式+QF 通关（虚拟语气跳过）；`A or B will do` 选择疑问句满分；`too more`/`discuss about` 搭配错误非短语本身 🏆 |
+| be in | 🟡 | 2026-05-30 | — | 15BEC 提取；6 句式+QF 覆盖；选择疑问句 `Will you in` ❌（漏 be）关键性错误，1 轮修复 |
+| ever | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
+| that side of | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
 
-**当前数量**：86 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations）
+**当前数量**：88 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations / most likely / walk around the block / have sth lined up）
