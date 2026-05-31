@@ -26,7 +26,8 @@
 - [ ] **🔴 `too more` 搭配错误**: `too more people` ❌ → `too many people` ✅。`too` 不能修饰比较级 `more`，可数名词用 `too many`。2026-05-30 新发现。
 - [ ] **🔴 `pay` vs `pay for` 及物性区分**: `pay for the bill` ❌ → `pay the bill` ✅。`pay` + 账单/人/金额（直接宾语）；`pay for` + 商品/服务。2026-05-27 新发现。
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
-
+- [ ] **🔴 Tag 时态一致性（新类型）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。
+- [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 

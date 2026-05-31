@@ -7,7 +7,7 @@
 
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
-| step in | 🟡 | 2026-04-25 | 2026-05-28 | step in to do / step into，不可直接接名词；Type 3 中 `stepped in to negotiate` ✅ |
+| step in | 🟢 | 2026-04-25 | 2026-05-31 | 本轮 2 次成功复用（肯定句+否定句）；升级 🟢 🏆 |
 | run into (issues/problems) | 🟢 | 2026-04-27 | 2026-05-28 | 连续 2 次主动复用正确（Type 3 + 否定句），从 🟡 升级 🟢 🏆 |
 | entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
@@ -25,11 +25,11 @@
 | run the campaigns | 🟡 | 2026-05-01 | — | run 过去分词 run（非 ran） |
 | in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
-| be so used to | 🔴 | 2026-05-02 | — | to 后接 -ing，非原形 |
-| all hands on deck | 🟡 | 2026-05-02 | 2026-05-16 | 🏆 |
+| be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
+| all hands on deck | 🟡 | 2026-05-02 | 2026-05-31 | 本轮使用但搭配偏误：`everyone is all hands on deck` ❌ → `it's all hands on deck` ✅；习语不直接修饰人 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写；注意 `get onboard with` 只能接"想法/计划"，不能接人/公司（正确：`onboard sb` 动词 / `get sb on board`） |
-| pick up on | 🟡 | 2026-05-02 | — | 词性区分（adj vs n） |
+| pick up on | 🟢 | 2026-05-02 | 2026-05-31 | 连续 2 次主动复用正确（否定句+一般疑问句），从 🟡 升级 🟢 🏆 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
 | most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
@@ -77,8 +77,6 @@
 | office space | 🟢 | 2026-05-13 | — | 🏆 |
 | have + 时间 + off | 🟢 | 2026-05-13 | — | 🏆 |
 | invite sb over | 🟢 | 2026-05-13 | — | 🏆 |
-| ever | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
-| that side of | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
 | have/get sth done | 🟢 | 2026-04-19 | 2026-05-16 | 🔴 -> 🟢 跨越式修复 🏆 |
 | start school | 🟡 | 2026-05-16 | 2026-05-16 | 新学 |
 | take part in | 🟡 | 2026-05-16 | 2026-05-16 | 新学，注意 `taken` 过去分词 |
@@ -98,7 +96,8 @@
 | get hold of | 🟢 | 2026-05-30 | — | 15BEC 提取；6 句式+QF 通关；获取某物/联系上某人；肯定句式需重出 2 次 🏆 |
 | will do | 🟢 | 2026-05-30 | — | 15BEC 提取；5 句式+QF 通关（虚拟语气跳过）；`A or B will do` 选择疑问句满分；`too more`/`discuss about` 搭配错误非短语本身 🏆 |
 | be in | 🟡 | 2026-05-30 | — | 15BEC 提取；6 句式+QF 覆盖；选择疑问句 `Will you in` ❌（漏 be）关键性错误，1 轮修复 |
-| ever | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
-| that side of | 🟢 | 2026-05-13 | 2026-05-16 | 🏆 |
-
-**当前数量**：88 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations / most likely / walk around the block / have sth lined up）
+| next week vs the next week (时间参照点) | 🟢 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 通关；不加 the 锚定现在，加 the 锚定过去 🏆 |
+| do the schedules (do 表"制定/安排"义) | 🟡 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 覆盖；`do` 搭配范围需巩固（`do testing plans` / `do sign-up sheet` 不自然），`quarterly` 词性需注意 |
+| delegator vs delegate vs delegatee | 🟡 | 2026-05-31 | — | 17BEC 提取；5 句式+QF+加练 1 轮；反义疑问句时态不一致关键性错误 1 次；`delegator` 职场中少用 |
+| must go (must 表紧迫口语) | 🟢 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 通关；must→had to 过去式转换正确 🏆 |
+**当前数量**：88 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations / most likely / walk around the block / have sth lined up / ever / that side of）

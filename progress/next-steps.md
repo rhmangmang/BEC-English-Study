@@ -24,4 +24,10 @@
 - [ ] **`discuss` 及物性纠偏**: `discuss about` ❌ → `discuss` 直接接宾语。2026-05-30 新发现。
 - [ ] **`too many` vs `too more`**: `too more people` ❌。2026-05-30 新发现。
 - [ ] **人名英文化**: `Li gong` ❌ → `Engineer Li`；`the Manager Wang` ❌ → `Manager Wang`。2026-05-30 新发现。
-- [ ] **继续扫描 BEC 文本**: 从 16BEC 继续。
+- [x] **17BEC 扫描完成**: 提取 4 个新语言点并完成训练。继续扫描 18BEC。
+- [ ] **继续扫描 BEC 文本**: 从 18BEC 继续。
+- [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。
+- [ ] **`do` 搭配范围巩固**: `do testing plans` / `do the sign-up table` ❌ → 限定于 schedules/report/rota/list。2026-05-31 新缺口。
+- [ ] **`quarterly` 词性巩固**: `quarter report` ❌ → `quarterly report` ✅。2026-05-31 新发现。
+- [ ] **`all hands on deck` 句式巩固**: `everyone is all hands on deck` ❌ → `it's all hands on deck` ✅。习语不直接修饰人。
+- [ ] **`delegator` 使用场景注意**: 职场口语极少用 `delegator`，用 `the person delegating` / `the one delegating` 更自然。
