@@ -100,4 +100,6 @@
 | do the schedules (do 表"制定/安排"义) | 🟡 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 覆盖；`do` 搭配范围需巩固（`do testing plans` / `do sign-up sheet` 不自然），`quarterly` 词性需注意 |
 | delegator vs delegate vs delegatee | 🟡 | 2026-05-31 | — | 17BEC 提取；5 句式+QF+加练 1 轮；反义疑问句时态不一致关键性错误 1 次；`delegator` 职场中少用 |
 | must go (must 表紧迫口语) | 🟢 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 通关；must→had to 过去式转换正确 🏆 |
-**当前数量**：88 条（已归档 the business end / rollout plan / office job / remote job / not really / as opposed to / how can I put it / sooner rather than later / May I interrupt / both of which / regarding / enter the deliberations / most likely / walk around the block / have sth lined up / ever / that side of）
+| with (containing/including) 包含/附带义 | 🟡 | 2026-06-04 | — | 18BEC 提取；7 句式+QF 通关；`distraction`→`summary` 词汇严重错误 1 次已修复；AI 题目设计不当 2 次 |
+| check + 省略 if/that (口语确认动词后) | 🟡 | 2026-06-04 | — | 18BEC 提取；6 句式+QF 通关；零关键性错误；表现稳定 |
+**当前数量**：90 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）

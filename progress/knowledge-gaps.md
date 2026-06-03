@@ -11,7 +11,7 @@
 - [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
-- [ ] **🔴 Tag 极性回退（肯定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅。简单句中仍有回退。2026-05-02 复发。
+- [ ] **🔴 Tag 极性回退（肯定/否定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅；`We should not...shouldn't we?` ❌ → `should we?` ✅。简单句否定+Tag 再次复发。2026-06-04 再次复发（`shouldn't we?`，加练 1 轮已修复）。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
 - [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
@@ -28,6 +28,7 @@
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
 - [ ] **🔴 Tag 时态一致性（新类型）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。
 - [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
+- [ ] **🔴 `ask for` 介词遗漏（新类型）**: `ask reports` ❌ → `ask **for** reports` ✅。`ask` 表"索要/要求"时必须加介词 `for`（另：`ask sb` 表"问某人"时及物，不冲突）。2026-06-04 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 

@@ -25,7 +25,10 @@
 - [ ] **`too many` vs `too more`**: `too more people` ❌。2026-05-30 新发现。
 - [ ] **人名英文化**: `Li gong` ❌ → `Engineer Li`；`the Manager Wang` ❌ → `Manager Wang`。2026-05-30 新发现。
 - [x] **17BEC 扫描完成**: 提取 4 个新语言点并完成训练。继续扫描 18BEC。
-- [ ] **继续扫描 BEC 文本**: 从 18BEC 继续。
+- [x] **18BEC 扫描完成**: 提取 2 个新语言点并完成训练。
+- [ ] **继续扫描 BEC 文本**: 从 19BEC 开始。
+- [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
+- [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。
 - [ ] **`do` 搭配范围巩固**: `do testing plans` / `do the sign-up table` ❌ → 限定于 schedules/report/rota/list。2026-05-31 新缺口。
 - [ ] **`quarterly` 词性巩固**: `quarter report` ❌ → `quarterly report` ✅。2026-05-31 新发现。
