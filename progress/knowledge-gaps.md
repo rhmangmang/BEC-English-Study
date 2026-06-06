@@ -3,7 +3,7 @@
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 
-- [ ] **🔴 不规则动词过去分词复发**: `have ran` / `have took` / `have went`。虽然 Flash Correct 通过，但在长句自由表达时极易回退。2026-05-16 严重复发。
+- [ ] **🔴 不规则动词过去分词复发**: `have ran` / `have took` / `have went` / `have drove`。虽然 Flash Correct 通过，但在长句自由表达时极易回退。2026-05-16 严重复发。2026-06-06 再次出现 `have drove` ❌。
 - [ ] **🔴 主谓一致 (Has/Have)**: `have your child started` ❌ -> `has` ✅。在 Quick Fire 压力下出错。2026-05-16 新发现。
 - [ ] **🔴 `rely on` 漏 `on`**: `rely teachers` ❌ -> `rely **on** teachers` ✅。2026-05-16 复发（首次 2026-04-28）。
 - [ ] **🔴 `with + doing` 简洁意识**: 倾向于用 `Even though` 从句替代紧凑的 `with` 短语。2026-05-16 新发现。
@@ -29,6 +29,9 @@
 - [ ] **🔴 Tag 时态一致性（新类型）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。
 - [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
 - [ ] **🔴 `ask for` 介词遗漏（新类型）**: `ask reports` ❌ → `ask **for** reports` ✅。`ask` 表"索要/要求"时必须加介词 `for`（另：`ask sb` 表"问某人"时及物，不冲突）。2026-06-04 新发现。
+- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。
+- [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
+- [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 
@@ -78,7 +81,6 @@
 - [ ] **条件句时态匹配**: 真实条件 `don't→won't`; 虚拟假设 `didn't→could not`。不可混搭。
 - [ ] **`wording` (uncountable)**: 不可数名词，代词用 the/that，不可用 those。
 - [ ] **会议介词 `in` vs `on`**: 会议=场景→`In the meeting`; `On`=日期(`On Monday`)。
-- [ ] **`whole` vs `overall`**: 整体/宏观用 `overall`；全部/完整用 `whole`。
 - [ ] **复合名词修饰语不加s**: customer feedback (非 customers), release process (非 releasing)。
 - [ ] **代词一致性 (复数 -> them)**: constraints ↔ it 不一致。需养成扫描前文名词单复数的习惯。
 - [ ] **`provide` + with 脱敏**: `provide us sth` ❌ → `provide us **with** sth` ✅。
@@ -117,7 +119,7 @@
 - [x] 反义疑问句极性（虚拟语气/否定叠加）— 正式修复 2026-03-07 🏆
 - [x] `have to` Tag 助动词 — 正式修复 2026-03-09 🏆
 - [x] `'s been` 缩写还原 + 隐性否定 Tag — 正式修复 2026-03-17 🏆
-- [x] `many vs much` 可数/不可数 — 正式修复 2026-03-11 🏆
+- [x] `many vs much` 可数/不可数 — 正式修复 2026-03-11 🏆 ⚠️ 2026-06-06 复发，已重新激活至 Active。
 - [x] `so vs such` — 正式修复 2026-03-14 🏆
 - [x] `no any` 叠加禁忌 — 正式修复 2026-03-29 🏆
 - [x] Mixed vs Type 3 结果句辨析 — 正式修复 2026-03-29 🏆

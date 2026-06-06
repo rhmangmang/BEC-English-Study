@@ -16,7 +16,7 @@
 | personally | 🟢 | 2026-04-30 | — | 句首/主语后位置 |
 | their + 单/复数 | 🟡 | 2026-04-30 | — | 整体视角 vs 个体视角 |
 | be limited to | 🟢 | 2026-04-30 | — | Type 3 被动虚拟三层叠加 🏆 |
-| get sb doing | 🔴 | 2026-04-30 | — | vs get sb + 形容词 |
+| get sb doing | 🟡 | 2026-04-30 | 2026-06-06 | vs get sb + 形容词；已升级 🟡（19BEC 训练中成功使用 1 次）|
 | noise（讨论/反馈义） | 🟢 | 2026-05-01 | — | 不可数；🏆 |
 | in a nutshell / the nutshell is | 🟢 | 2026-05-01 | — | a vs the 区分 |
 | be nailed down | 🟢 | 2026-05-01 | — | 完成时+被动+Tag |
@@ -102,4 +102,8 @@
 | must go (must 表紧迫口语) | 🟢 | 2026-05-31 | — | 17BEC 提取；5 句式+QF 通关；must→had to 过去式转换正确 🏆 |
 | with (containing/including) 包含/附带义 | 🟡 | 2026-06-04 | — | 18BEC 提取；7 句式+QF 通关；`distraction`→`summary` 词汇严重错误 1 次已修复；AI 题目设计不当 2 次 |
 | check + 省略 if/that (口语确认动词后) | 🟡 | 2026-06-04 | — | 18BEC 提取；6 句式+QF 通关；零关键性错误；表现稳定 |
-**当前数量**：90 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| stage/step in + doing | 🟡 | 2026-06-06 | — | 19BEC 提取；5/6 句式覆盖；特殊/反义 2 次漏用目标结构；需强化 `in + 动名词` 意识 |
+| need/want/require + doing (主动表被动) | 🟡 | 2026-06-06 | — | 19BEC 提取；5/6 句式覆盖；一般疑问句漏结构 1 次 + `Does needs` 形态错误 1 次 |
+| it is 口语插入 wh- 从句 | 🟡 | 2026-06-06 | — | 19BEC 提取；4/6 句式覆盖；特殊/反义语序 3 轮纠正后掌握；稳定性需加强 |
+| would 假设/委婉语气 | 🟢 | 2026-06-06 | — | 19BEC 提取；5/6 句式+QF 全满分 🏆；`many/much` 复发 1 次（非 `would` 问题）|
+**当前数量**：67 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
