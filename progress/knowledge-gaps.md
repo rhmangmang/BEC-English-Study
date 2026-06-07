@@ -21,15 +21,17 @@
 - [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
 - [ ] **🔴 百分比介词 by 遗漏**: `increase 10%` ❌ → `increase **by** 10%` ✅。百分比变化需要介词 by。2026-05-22 新发现。
 - [ ] **🔴 `need to like` 主语必须是"人"**: `being a PM needs to like` ❌ → `a PM needs to like` ✅。`need to like` 的主体必须是 someone，不能是岗位/活动。2026-05-24 新发现。
+- [ ] **🔴 `let sb do`（使役动词无 to）+ `allow sb to do` 区分混淆**: 话题构建撤骨架中 `let us **to** work` ❌ + 同段 `allows us **scale**` ❌。`let` 无 to / `allow` 有 to 的规则在撤骨架压力下双双回退。2026-06-07 新发现。
 - [ ] **🔴 `need to like` 否定句中不丢失 `like`**: `You don't need to manage people` ❌ → `You don't need to **like** managing` ✅。否定句中容易把语义滑向"不需要做某事"而丢失 like。2026-05-24 新发现。
 - [ ] **🔴 `discuss` 及物性（复发型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。2026-05-30 新发现。
 - [ ] **🔴 `too more` 搭配错误**: `too more people` ❌ → `too many people` ✅。`too` 不能修饰比较级 `more`，可数名词用 `too many`。2026-05-30 新发现。
 - [ ] **🔴 `pay` vs `pay for` 及物性区分**: `pay for the bill` ❌ → `pay the bill` ✅。`pay` + 账单/人/金额（直接宾语）；`pay for` + 商品/服务。2026-05-27 新发现。
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
 - [ ] **🔴 Tag 时态一致性（新类型）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。
+- [ ] **🔴 Tag 极性回退（同一 session 两次复发）**: 2026-06-07 在同一 session 的两个不同语言点反义疑问句中均出现 Tag 极性错误：`or anything...aren't you?` ❌ + `the sort of thing...isn't it?` ❌。否定主句后 Tag 用肯定（`are you?`/`is it?`）的规则仍不稳定。加练后已修复。2026-06-07 新复发。
 - [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
 - [ ] **🔴 `ask for` 介词遗漏（新类型）**: `ask reports` ❌ → `ask **for** reports` ✅。`ask` 表"索要/要求"时必须加介词 `for`（另：`ask sb` 表"问某人"时及物，不冲突）。2026-06-04 新发现。
-- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。
+- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。2026-06-07 未复发，累积 1 天零复发。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 ### 🟡 持续观察 (Monitoring)

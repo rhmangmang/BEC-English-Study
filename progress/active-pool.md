@@ -106,4 +106,9 @@
 | need/want/require + doing (主动表被动) | 🟡 | 2026-06-06 | — | 19BEC 提取；5/6 句式覆盖；一般疑问句漏结构 1 次 + `Does needs` 形态错误 1 次 |
 | it is 口语插入 wh- 从句 | 🟡 | 2026-06-06 | — | 19BEC 提取；4/6 句式覆盖；特殊/反义语序 3 轮纠正后掌握；稳定性需加强 |
 | would 假设/委婉语气 | 🟢 | 2026-06-06 | — | 19BEC 提取；5/6 句式+QF 全满分 🏆；`many/much` 复发 1 次（非 `would` 问题）|
-**当前数量**：67 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| be about (核心在于) | 🟢 | 2026-06-07 | — | 20BEC 提取；7 句式+QF 全满分 🏆；零关键性错误 |
+| be of + noun (性质/类别/关联) | 🟢 | 2026-06-07 | — | 20BEC 提取；7 句式+QF+1 轮加练；选择疑问句 2 轮加练后通过；虚拟语气满分 🏆 |
+| or anything (诸如此类/或其他什么) | 🟡 | 2026-06-07 | — | 20BEC 提取；4 句式+QF 覆盖（+2 种句式不适用已说明）；反义疑问句 Tag 极性回退 1 次后修复 |
+| the sort of thing (这类东西) | 🟡 | 2026-06-07 | — | 20BEC 提取；6 句式+QF 覆盖；肯定句 `sort of` 漏 `of` 1 次 + 反义疑问句 Tag 极性回退 1 次 + QF 主谓一致问题 |
+
+**当前数量**：71 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）

@@ -27,7 +27,8 @@
 - [x] **17BEC 扫描完成**: 提取 4 个新语言点并完成训练。继续扫描 18BEC。
 - [x] **18BEC 扫描完成**: 提取 2 个新语言点并完成训练。
 - [x] **19BEC 扫描完成**: 6 个已记录 / 4 个未记录语言点全部完成训练。继续扫描 20BEC。
-- [ ] **继续扫描 BEC 文本**: 从 20BEC 开始。
+- [x] **20BEC 扫描完成**: 30+ 疑问点中 7 个已掌握、9 个未记录中提取 4 个完成训练。继续扫描 21BEC。
+- [ ] **继续扫描 BEC 文本**: 从 21BEC 开始。
 - [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。
@@ -35,7 +36,11 @@
 - [ ] **`quarterly` 词性巩固**: `quarter report` ❌ → `quarterly report` ✅。2026-05-31 新发现。
 - [ ] **`all hands on deck` 句式巩固**: `everyone is all hands on deck` ❌ → `it's all hands on deck` ✅。习语不直接修饰人。
 - [ ] **`delegator` 使用场景注意**: 职场口语极少用 `delegator`，用 `the person delegating` / `the one delegating` 更自然。
-- [ ] **🔴 `many/much` 反击纠偏**: 2026-06-06 复发，`as much needs` ❌。可数名词用 `many`。重新激活至 Active。
+- [ ] **🔴 `many/much` 反击纠偏**: 2026-06-06 复发，`as much needs` ❌。可数名词用 `many`。重新激活至 Active。2026-06-07 未复发。
 - [ ] **`make a review session` 搭配纠正**: `make a session` ❌ → `have a walkthrough` / `walk through it`。2026-06-06 新发现。
 - [ ] **`it is` 插入 wh- 从句语序巩固**: 特殊疑问句 `When it is` ❌ → `When is it`；反义疑问句 `know it is what` ❌ → `know what it is`。语序位置仍不稳定。
 - [ ] **🔴 过去分词顽固复发（`drove`→`driven`）**: 第 N 次复发。`drive-drove-driven` 在 `have` 后仍不自觉用 drove。
+- [ ] **🔴 Tag 极性同一 session 两次复发（2026-06-07）**: `or anything...aren't you?` ❌ + `the sort of thing...isn't it?` ❌。加练后修复但仍需持续拦截。
+- [ ] **`let sb do`（无 to）+ `allow sb to` 区分巩固**: 话题构建撤骨架中双重回退。使役动词 + `let/allow` 规则区分。
+- [ ] **`be of + noun` 名词选择意识**: 选择疑问句中 `of data or intuition` 不自然——`be of + noun` 更配性质类名词（value/importance/significance）。
+- [ ] **`works`（艺术作品）/ `by feel`（凭感觉）等 20BEC 未练语言点**: 留待后续扫描训练补完。
