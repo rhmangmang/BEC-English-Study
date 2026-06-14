@@ -23,7 +23,7 @@
 - [ ] **🔴 `need to like` 主语必须是"人"**: `being a PM needs to like` ❌ → `a PM needs to like` ✅。`need to like` 的主体必须是 someone，不能是岗位/活动。2026-05-24 新发现。
 - [ ] **🔴 `let sb do`（使役动词无 to）+ `allow sb to do` 区分混淆**: 话题构建撤骨架中 `let us **to** work` ❌ + 同段 `allows us **scale**` ❌。`let` 无 to / `allow` 有 to 的规则在撤骨架压力下双双回退。2026-06-07 新发现。
 - [ ] **🔴 `need to like` 否定句中不丢失 `like`**: `You don't need to manage people` ❌ → `You don't need to **like** managing` ✅。否定句中容易把语义滑向"不需要做某事"而丢失 like。2026-05-24 新发现。
-- [ ] **🔴 `discuss` 及物性（复发型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。2026-05-30 新发现。
+- [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 - [ ] **🔴 `too more` 搭配错误**: `too more people` ❌ → `too many people` ✅。`too` 不能修饰比较级 `more`，可数名词用 `too many`。2026-05-30 新发现。
 - [ ] **🔴 `pay` vs `pay for` 及物性区分**: `pay for the bill` ❌ → `pay the bill` ✅。`pay` + 账单/人/金额（直接宾语）；`pay for` + 商品/服务。2026-05-27 新发现。
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
@@ -31,12 +31,24 @@
 - [ ] **🔴 Tag 极性回退（同一 session 两次复发）**: 2026-06-07 在同一 session 的两个不同语言点反义疑问句中均出现 Tag 极性错误：`or anything...aren't you?` ❌ + `the sort of thing...isn't it?` ❌。否定主句后 Tag 用肯定（`are you?`/`is it?`）的规则仍不稳定。加练后已修复。2026-06-07 新复发。
 - [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
 - [ ] **🔴 `ask for` 介词遗漏（新类型）**: `ask reports` ❌ → `ask **for** reports` ✅。`ask` 表"索要/要求"时必须加介词 `for`（另：`ask sb` 表"问某人"时及物，不冲突）。2026-06-04 新发现。
+- [ ] **🔴 `more good` → `better` 形容词不规则比较级**: `more good for` ❌ → `better for` ✅。`good → better → best` 是不规则变化的基础语法。2026-06-14 造句压力下暴露。
+- [ ] **🔴 `Would better` + 动词 — `had better` / `would be better to` 混淆**: `Would better buy` ❌。两个结构的混淆：`had better do sth`（最好）和 `It would be better to do sth`。不能单独用 `Would better + 动词`。2026-06-14 Micro Role-play 中暴露。
+- [ ] **🔴 `lack of`（名词性）vs `lack`（动词）混淆**: `he's lack of experience` ❌。`lack of` 是名词短语（如 `a lack of`），不能直接放系动词后当表语。动词用法 `lack sth` 不接 `of`。2026-06-14 选择疑问句造句中暴露。
+
 - [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。2026-06-07 未复发，累积 1 天零复发。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
+> 注意：`discuss` 及物性从 Active 移入，持续抽查。
 
+- [ ] **`discuss` 及物性**: 2026-05-30 发现 → 2026-06-14 Flash Correct 2次复发+2轮加练后修复。自由产出仍被 `talk about` 干扰。
+- [ ] **`transmission` vs `migration`**: 2026-06-14 话题构建中 `transmission` ❌（数据传输义）→ `migration`/`transitioning` ✅（技术栈迁移）。
+- [ ] **`save money` vs `make money` 词汇混淆**: 2026-06-14 "省钱"错译为 `make money` ❌ → `save money` ✅。
+- [ ] **`specially`（特意地）vs `special`（特别的）**: 2026-06-14 `work specially` ❌ → `is anything special` ✅。
+- [ ] **`keep up using` 动词短语冗余**: 2026-06-14 `keep up using` — `up` 和 `using` 语义重叠 → `keep using` / `stick with`。
+- [ ] **双重系动词（一般疑问句）**: 2026-06-14 `Are...is` ❌。一般疑问句已提 Be，不能再保留原系动词。
+- [ ] **`put efforts on how to make...smoothly` — 搭配混乱**: 2026-06-14 复合错：`effort` 不可数 + `put effort into doing` ✅ + `make...smooth`（adj 宾补）。
 - [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。

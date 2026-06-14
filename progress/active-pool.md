@@ -111,4 +111,8 @@
 | or anything (诸如此类/或其他什么) | 🟡 | 2026-06-07 | — | 20BEC 提取；4 句式+QF 覆盖（+2 种句式不适用已说明）；反义疑问句 Tag 极性回退 1 次后修复 |
 | the sort of thing (这类东西) | 🟡 | 2026-06-07 | — | 20BEC 提取；6 句式+QF 覆盖；肯定句 `sort of` 漏 `of` 1 次 + 反义疑问句 Tag 极性回退 1 次 + QF 主谓一致问题 |
 
-**当前数量**：71 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| good for | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；5 句式+QF 覆盖（虚拟语气跳过）；选择疑问句 `more good`→`better` 需要额外巩固；QF 选词（bench/waist）可优化 |
+| up to date | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 通关；一般疑问句双重系动词+反义疑问句 Tag 极性回退；虚拟语气主动产出满分 🏆 |
+| I can't see how... | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；`lack of` 混淆+选词偏差各1次；反义疑问句极性满分 🏆🏆 |
+
+**当前数量**：74 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）

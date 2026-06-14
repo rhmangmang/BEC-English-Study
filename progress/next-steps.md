@@ -28,7 +28,8 @@
 - [x] **18BEC 扫描完成**: 提取 2 个新语言点并完成训练。
 - [x] **19BEC 扫描完成**: 6 个已记录 / 4 个未记录语言点全部完成训练。继续扫描 20BEC。
 - [x] **20BEC 扫描完成**: 30+ 疑问点中 7 个已掌握、9 个未记录中提取 4 个完成训练。继续扫描 21BEC。
-- [ ] **继续扫描 BEC 文本**: 从 21BEC 开始。
+- [x] **21BEC 扫描完成**: 12 组疑问点中 10 个未记录，提取 `good for` / `up to date` / `I can't see how...` 3 个语言点完成训练。话题构建（技术决策与 trade-off）4 步通过 🏆。
+- [ ] **继续扫描 BEC 文本**: 从 22BEC 开始。
 - [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。
@@ -44,3 +45,7 @@
 - [ ] **`let sb do`（无 to）+ `allow sb to` 区分巩固**: 话题构建撤骨架中双重回退。使役动词 + `let/allow` 规则区分。
 - [ ] **`be of + noun` 名词选择意识**: 选择疑问句中 `of data or intuition` 不自然——`be of + noun` 更配性质类名词（value/importance/significance）。
 - [ ] **`works`（艺术作品）/ `by feel`（凭感觉）等 20BEC 未练语言点**: 留待后续扫描训练补完。
+- [ ] **🔴 `more good` → `better` 基础形容词不规则比较级**: 2026-06-14 暴露，`good for` 选择疑问句中 `more good` ❌。
+- [ ] **🔴 `Would better` 动词结构混淆**: 2026-06-14 Micro Role-play 暴露。需区分 `had better do` / `would be better to do`。
+- [ ] **🔴 `lack of`（n）vs `lack`（vt）混淆**: 2026-06-14 暴露。`he's lack of experience` ❌。
+- [ ] **21BEC 未练语言点**: `opinions on/views on`, `somewhere` 作名词, `enough` 后置修饰, `show+宾+现分`, `say` 拟人化, 功能区域零冠词 — 留待后续扫描训练。
