@@ -48,4 +48,7 @@
 - [ ] **🔴 `more good` → `better` 基础形容词不规则比较级**: 2026-06-14 暴露，`good for` 选择疑问句中 `more good` ❌。
 - [ ] **🔴 `Would better` 动词结构混淆**: 2026-06-14 Micro Role-play 暴露。需区分 `had better do` / `would be better to do`。
 - [ ] **🔴 `lack of`（n）vs `lack`（vt）混淆**: 2026-06-14 暴露。`he's lack of experience` ❌。
-- [ ] **21BEC 未练语言点**: `opinions on/views on`, `somewhere` 作名词, `enough` 后置修饰, `show+宾+现分`, `say` 拟人化, 功能区域零冠词 — 留待后续扫描训练。
+- [x] **21BEC 7 个语言点全部训练完成**: `good for` / `up to date` / `I can't see how` / `opinions on` / `enough` / `the sort of` / `show+宾+现分` 全部 🟡。
+- [ ] **21BEC 未练语言点**: `somewhere` 作名词, `say` 拟人化, 功能区域零冠词 — 概念类/修辞类，留待后续扫描训练。
+- [ ] **🔴 `distracting`（adj）vs `distract`（v）**: 2026-06-14 `make people distracting` ❌。
+- [ ] **🔴 `very + adj + enough` 双重修饰**: 2026-06-14 `very simple enough` ❌。

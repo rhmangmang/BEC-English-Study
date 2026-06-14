@@ -114,5 +114,9 @@
 | good for | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；5 句式+QF 覆盖（虚拟语气跳过）；选择疑问句 `more good`→`better` 需要额外巩固；QF 选词（bench/waist）可优化 |
 | up to date | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 通关；一般疑问句双重系动词+反义疑问句 Tag 极性回退；虚拟语气主动产出满分 🏆 |
 | I can't see how... | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；`lack of` 混淆+选词偏差各1次；反义疑问句极性满分 🏆🏆 |
+| opinions on | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；Tag 极性回退 1 次（`do you?`→`don't you?`）；`Most of people` 冠词缺失 |
+| enough (adj + enough) | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；`very simple enough` 双重修饰冲突 1 次；QF 选词（good enough→detailed enough）需巩固 |
+| the sort of (泛化任意名词) | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取（合并到 `the sort of thing` 🟡 条目）；从 thing 泛化到 person/approach；`distracting`→`distract` 词性混淆 + `live long`→`last long` 选词 |
+| show + 宾语 + 现在分词 | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖，零关键性错误；Tag 极性连续 5 次正确 🏆 |
 
-**当前数量**：74 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+**当前数量**：78 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）

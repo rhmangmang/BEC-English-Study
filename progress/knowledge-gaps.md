@@ -34,6 +34,7 @@
 - [ ] **🔴 `more good` → `better` 形容词不规则比较级**: `more good for` ❌ → `better for` ✅。`good → better → best` 是不规则变化的基础语法。2026-06-14 造句压力下暴露。
 - [ ] **🔴 `Would better` + 动词 — `had better` / `would be better to` 混淆**: `Would better buy` ❌。两个结构的混淆：`had better do sth`（最好）和 `It would be better to do sth`。不能单独用 `Would better + 动词`。2026-06-14 Micro Role-play 中暴露。
 - [ ] **🔴 `lack of`（名词性）vs `lack`（动词）混淆**: `he's lack of experience` ❌。`lack of` 是名词短语（如 `a lack of`），不能直接放系动词后当表语。动词用法 `lack sth` 不接 `of`。2026-06-14 选择疑问句造句中暴露。
+- [ ] **🔴 `distracting`（adj）vs `distract`（v）**: `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性，如 This noise is distracting），`make sb + distracting` 逻辑不通。2026-06-14 LP 6 反义疑问句中暴露。
 
 - [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。2026-06-07 未复发，累积 1 天零复发。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
@@ -49,6 +50,9 @@
 - [ ] **`keep up using` 动词短语冗余**: 2026-06-14 `keep up using` — `up` 和 `using` 语义重叠 → `keep using` / `stick with`。
 - [ ] **双重系动词（一般疑问句）**: 2026-06-14 `Are...is` ❌。一般疑问句已提 Be，不能再保留原系动词。
 - [ ] **`put efforts on how to make...smoothly` — 搭配混乱**: 2026-06-14 复合错：`effort` 不可数 + `put effort into doing` ✅ + `make...smooth`（adj 宾补）。
+- [ ] **`very + adj + enough` 双重程度修饰冲突**: 2026-06-14 `very simple enough` ❌。`very` 和 `enough` 不能同时修饰同一形容词。
+- [ ] **`Most of people` → `Most people`**: 2026-06-14 LP 4 `Most of people` ❌ → `Most people` ✅（泛指）。`most` + 泛指名词不加 `of`。
+- [ ] **`live long` vs `last long`**: 2026-06-14 `the sort of thing that can live long` ❌ → `last long` ✅。`live` 主语必须是生物。
 - [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。

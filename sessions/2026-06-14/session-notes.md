@@ -2,9 +2,9 @@
 
 ## 0. 会话概述
 - **扫描文本**：21BEC.md（Listening Script 5.3 "Some Opinions on Art"）
-- **21BEC 扫描结果**：学生 12 组疑问点中，`the sort of + 名词`（⚠️ 部分记录）和功能区域零冠词（⚠️ 部分记录）为已有部分覆盖；10 个未记录语言点中提取 3 个进行训练（`good for` / `up to date` / `I can't see how...`）
-- **实际训练**：定向纠偏（`discuss` 及物性 2+2 轮）+ LP 1（`good for` 5 句式+QF）+ LP 2（`up to date` 6 句式+QF）+ Micro Role-play（LP 1-2 整合）+ LP 3（`I can't see how...` 6 句式+QF）+ 话题构建训练（技术决策与 trade-off 解释，4 步全程走过）
-- **本次未训练的语言点**：`opinions on / views on`、`somewhere` 作名词、`enough` 后置修饰形容词、`show + 宾语 + 现在分词`、`say` 拟人化用法、功能区域零冠词规则（留待后续扫描训练）
+- **21BEC 扫描结果**：学生 12 组疑问点中，`the sort of + 名词`（⚠️ 部分记录）和功能区域零冠词（⚠️ 部分记录）为已有部分覆盖；10 个未记录语言点中提取 7 个进行训练（`good for` / `up to date` / `I can't see how...` / `opinions on` / `enough` / `the sort of` 泛化 / `show + 宾语 + 现在分词`）
+- **实际训练**：定向纠偏（`discuss` 及物性 2+2 轮）+ knowledge-gaps 轮换（Tag 极性 2 轮）+ LP 1（`good for` 5 句式+QF）+ LP 2（`up to date` 6 句式+QF）+ LP 3（`I can't see how...` 6 句式+QF）+ LP 4（`opinions on` 6 句式+QF）+ LP 5（`enough` 6 句式+QF）+ LP 6（`the sort of` 泛化 6 句式+QF）+ LP 7（`show + 宾语 + 现分` 6 句式+QF）+ Micro Role-play x2 + 话题构建训练（技术决策与 trade-off 解释，4 步全程走过）
+- **本次未训练的语言点**：`somewhere` 作名词、`say` 拟人化用法、功能区域零冠词规则（留待后续扫描训练）
 - **模型**：deepseek-v4-flash
 
 ---
@@ -219,7 +219,225 @@
 
 ---
 
-## 3. 🏗️ 话题构建训练 — 技术决策与 trade-off 解释
+### LP 4: `opinions on` / `views on`（表达对…的看法）— 新学 🆕
+
+**来源**：21BEC — `Some Opinions on Art`（课文标题）
+**含义**：`opinions on` = 对某事的看法/意见（侧重个人判断）；`views on` = 对某事的观点（侧重系统性见解）。都用介词 **`on`** 引出对象。❌ 不要说 `opinions about art`。
+**训练句式**：6/6（全部覆盖 + QF）
+
+#### Round 1 (肯定陈述句) 🏆
+- 中文：大家对远程办公有不同的看法。
+- 学生：`There are different opinions on remote working.`
+- 评价：✅ **满分**。`opinions on` + 宾语 `remote working` 完全正确。`There are` + 复数名词，主谓一致正确。
+
+#### Round 2 (否定陈述句) ⚠️ Most of people 冠词缺
+- 中文：大多数人还没有对此形成一个明确的看法。
+- 学生：`Most of people have not had a clear opinion on this.`
+- 评价：⚠️ `Most of people` ❌ → `Most people` ✅（泛指）或 `Most of the people` ✅（特指）。`most` + 泛指名词不加 `of`。`opinion on` 结构用对了 ✅。`had` → `formed` 更精准（"形成看法"）。
+
+#### Round 3 (一般疑问句) 🏆
+- 中文：你对这个培训计划有什么看法吗？
+- 学生：`Do you have any opinions on this training plan?`
+- 评价：✅ **满分**。一般疑问句结构正确，`any opinions on` 高频搭配。
+
+#### Round 4 (反义疑问句) ❌ Tag 极性回退
+- 中文：你对远程办公有些看法，对吧？
+- 学生：`You have some opinions on remote work, do you?`
+- 评价：✅ `opinions on` 正确。🔴 Tag 极性回退：肯定主句 `You have` → 应为否定反问 `don't you?`（非 `do you?`）。今日第二次 Tag 极性回退（首次在 LP 2）。
+
+#### Round 5 (选择疑问句) ⚠️ 单复数代词不匹配
+- 中文：你对他的提议是持积极的看法还是消极的看法？
+- 学生：`Do you have positive opinions on his proposal or negative one?`
+- 评价：✅ `opinions on` 正确。⚠️ `negative one` — `one` 单数指代复数 `opinions`，应为 `negative ones`。更自然的说法：`Do you have a positive or negative opinion on his proposal?`
+
+#### Round 6 (虚拟语气) ✅
+- 中文：如果你是客户，你对这个价格会有不同的看法吗？
+- 学生：`If you were the client, would you have different opinions on this price?`
+- 评价：✅ Type 2 虚拟语气完全正确。`opinions on` 嵌入 `would have` 结构中自然使用。⚠️ `opinions on this price` 稍显生硬，`pricing` / `pricing strategy` 更自然，但非错误。
+
+#### Quick Fire
+- 场景：刚做完项目汇报，新同事悄悄问你大家对汇报的看法。
+- 学生：`Well, I have different opinions on this report, but I cannot say right now, I have to conclude my opinions in a document later.`
+- 评价：✅ `opinions on` 正确。⚠️ 场景理解略有偏差：同事问的是"大家"的看法，你回应的是"你个人的"看法。`conclude my opinions` 中式搭配 → `summarize my thoughts` / `write up my opinions`。
+
+**LP 状态**：🟡 复用中。核心结构掌握良好。Tag 极性回退 1 次 + `Most of people` 冠词缺失 + `conclude` 搭配偏差。6 句式全覆盖。
+
+---
+
+### LP 5: `enough` 后置修饰形容词 — 新学 🆕
+
+**来源**：21BEC — `It isn't bold enough for this area.`
+**含义**：`adj + enough`（后置修饰形容词）；`enough + noun`（前置修饰名词）；`adj + enough + for + sb/sth`；`adj + enough + to do`。❌ `very + adj + enough` 双重程度修饰冲突。
+**训练句式**：6/6（全部覆盖 + QF）
+
+#### Round 1 (肯定陈述句) ❌ very simple enough 双重修饰
+- 中文：这个问题很简单，足够让新人也解决。
+- 学生：`This question is very simple enough to make newcomers solve it.`
+- 评价：❌ `very simple enough` — `very` 和 `enough` 不能同时修饰同一形容词，语义冲突。❌ `make newcomers solve it` → `for newcomers to solve`。🔴 **关键性错误 → 加练 1 轮**。
+- **修正轮（→句式 2 合并）**：按句式 2 否定陈述句继续出题。
+
+#### Round 2 (否定陈述句) 🏆
+- 中文：这个会议室不够大，坐不下 20 个人。
+- 学生：`This meeting room is not big enough to fit twenty people.`
+- 评价：✅ **满分**。`not big enough to fit` — 否定形式 + `enough to do` 结构完美。零瑕疵。
+
+#### Round 3 (一般疑问句) 🏆
+- 中文：这个报告够详细吗，能交给经理看了？
+- 学生：`Is this report detailed enough to submit to the manager?`
+- 评价：✅ **满分**。`detailed enough to submit` — 一般疑问句 + `adj + enough + to do` 完美。
+
+#### Round 4 (反义疑问句) 🏆 Tag 极性连续正确
+- 中文：这间办公室够干净的了，对吧？
+- 学生：`this office is clean enough, isn't it?`
+- 评价：✅ **满分**。Tag 极性正确：肯定主句 `is clean` → 否定反问 `isn't it?` ✅（LP 4 Tag 回退后立即回归正确）。
+
+#### Round 5 (选择疑问句) ⚠️ a little bit 冗余
+- 中文：这个任务对你来说是足够简单还是有点难？
+- 学生：`Is this task easy enough or a little bit difficult for you?`
+- 评价：✅ `easy enough` 正确。⚠️ `a little bit` 冗余，`a bit` 或 `a little` 任一即可。
+
+#### Round 6 (虚拟语气) 🏆
+- 中文：如果这间公寓再大一点，对我们来说就够住了。
+- 学生：`If this flat were a little bigger, it would be good enough for us.`
+- 评价：✅ **满分**。Type 2 虚拟语气 + `adj + enough` 完美融合。`flat`（英式）地道。
+
+#### Quick Fire
+- 场景：看同事写的设计文档，想告诉他细节还不够，还不能给开发团队看。
+- 学生：`Well, the idea is correct, however, details are not good enough for you to submit to the development team.`
+- 评价：✅ `not good enough` 结构正确。⚠️ `good enough` → `detailed enough`（更精准）；`for you to submit` → `for us to hand off to`（场景是"我们"一起，而非"你"）；`submit` → `hand off to` / `share with`。
+
+**LP 状态**：🟡 复用中。核心结构掌握良好。`very + adj + enough` 双重修饰 + QF 选词精准度需巩固。
+
+---
+
+### Micro Role-play 2（整合 LP 4-5: `opinions on` + `enough`）
+
+**场景**：PM 想在周会上让大家对新流程提意见。你担心大家对流程还不够了解，现在收集看法太早。
+
+**学生产出**：
+> `Well, my opinions on this new workflow are that it's too early for us to collect feedback because most of us are still not familiar with this process. So if we are good enough to use this new process, we would be able to give the feedback.`
+
+**目标短语覆盖**：
+| 短语 | 是否使用 | 用法评价 |
+|:---|:---:|:---|
+| `opinions on` | ✅ | `my opinions on this new workflow` — 介词 `on` 正确 |
+| `enough` | ✅ | `good enough to use` — 结构对但选词偏差（应为 `familiar enough` / `comfortable enough`） |
+
+**评价**：
+- ✅ `opinions on` 正确使用
+- ⚠️ `good enough to use` → `familiar enough with` 更精准
+- ❌ 条件句混搭：`if we are`（Type 1 现在时）→ `we would be`（Type 2 结果句）❌。Type 2 的条件从句应为 `if we were`
+- **Micro RP 通过**（目标短语覆盖 ✅，条件句混搭为新发现细节）
+
+---
+
+## 3. ⚡ knowledge-gaps 轮换 — Tag 极性专项
+
+**选题原因**：上午 LP 2 和下午 LP 4 共 2 次 Tag 极性回退，需专项拦截。
+
+- **第 1 题**：你对这个决定不太满意，对吧？
+  - 学生：`You're not happy with this decision, are you?`
+  - 评价：✅ **满分**。否定主句 `not happy` → 肯定反问 `are you?`，极性完全正确。🏆
+
+- **第 2 题**：你不觉得这个方案有什么问题，对吧？
+  - 学生：`You don't think there were any issues with this proposal, do you?`
+  - 评价：✅ **满分**。否定主句 `don't think` → 肯定反问 `do you?`，极性完全正确。🏆 ⚠️ `were` → `are` 更贴合中文原句现在时，但 `were` 在语境中也能说通。
+
+**Flash Correct 小结**：2/2 满分 ✅。Tag 极性今日首次在专项 Flash Correct 中零回退。
+
+---
+
+### LP 6: `the sort of` 泛化 — 部分重复 🆡（基于 20BEC `the sort of thing`）
+
+**来源**：21BEC — `It is the sort of painting to help you relax.`
+**含义**：从已学的 `the sort of thing` 泛化到 `the sort of + 任意名词`（`painting` / `person` / `approach` 等）。特指某一类，缩小范围。
+**训练句式**：6/6（全部覆盖 + QF）
+
+#### Round 1 (肯定陈述句)
+- 中文：非暴力沟通是那种能改变团队氛围的交流方式。
+- 学生：`Nonviolent communication is the sort of way that can change the atmosphere of the team.`
+- 评价：✅ `the sort of` 从 `thing` 泛化到 `way` ✅。⚠️ `way` 偏空泛 → `approach` 更精准；`the atmosphere of the team` → `team atmosphere` 更简洁。
+
+#### Round 2 (否定陈述句)
+- 中文：匆忙赶工不是那种能带来好结果的做事方式。
+- 学生：`Rushing through work is not the sort of way that can bring good results.`
+- 评价：✅ `not the sort of` 否定形式正确。
+
+#### Round 3 (一般疑问句) 🏆
+- 中文：你觉得这是一种可以复用的方案吗？
+- 学生：`Do you think this is the sort of thing that can be reusable?`
+- 评价：✅ `the sort of thing` 正确，主动复用历史学习内容。🏆 ⚠️ `can be reusable` → `can be reused` 更常见（但非错误）。
+
+#### Round 4 (反义疑问句) 🏆 Tag 极性连续第 4 次正确
+- 中文：那种紧急但不重要的任务，是最容易让人分心的，对吧？
+- 学生：`The urgent but not important task is the sort of thing that can make people distracting, isn't it?`
+- 评价：✅ `the sort of thing` 正确。🏆 Tag 极性正确（`is`→`isn't it?`）。❌ `make people distracting` → `distract people` ✅（`distracting` 是形容词，`make sb + adj` = 让某人变成...，逻辑不通）。
+
+#### Round 5 (选择疑问句) 🏆
+- 中文：你觉得他是那种擅长技术的人，还是擅长沟通的人？
+- 学生：`Do you think he is the sort of person good at technology or communication?`
+- 评价：✅ **满分**。`the sort of person` — 从 `thing` 成功泛化到 `person`！🏆 选择疑问句平行结构正确。
+
+#### Round 6 (虚拟语气)
+- 中文（简化后）：如果他是个爱冒险的人，这种安稳的工作就不是他会选的。
+- 学生：`If he were the sort of person who loves adventures, then the stable work would not be his choice.`
+- 评价：✅ `the sort of person who` — Type 2 虚拟语气中完美嵌入。`If he were → would not be` 完全正确。⚠️ `the stable work` → `a stable job`；`would not be his choice` 偏书面化。
+
+#### Quick Fire
+- 场景：同事连续三周周末加班。告诉他周末加班这种事不是长久之计。
+- 学生：`Well, working at the weekends is not the sort of thing that can live long.`
+- 评价：✅ `the sort of thing` 正确。❌ `live long` → `last long` ✅（`live` 主语必须是生物）。可用上历史词组：`works in the long run` ✅。
+
+**LP 状态**：🟡 复用中。`the sort of` 泛化成功，从 `thing` 到 `person` 自然丝滑。`distracting`→`distract` 词性混淆 + `live long`→`last long` 选词偏差。
+
+---
+
+### LP 7: `show + 宾语 + 现在分词`（宾语补足语）— 新学 🆕
+
+**来源**：21BEC — `It shows a man thinking.`
+**含义**：`show + 宾语 + 现在分词`，现在分词作宾语补足语，强调宾语"正在做某事"的持续状态。类似结构：`see sb doing` / `hear sb doing` / `find sb doing`。
+**训练句式**：6/6（全部覆盖 + QF）
+
+#### Round 1 (肯定陈述句) 🏆
+- 中文：监控录像显示他在进办公室前等了很久。
+- 学生：`The CCTV footage shows him waiting for a long time before entering the office.`
+- 评价：✅ **满分**。`shows him waiting` + `before entering`，零瑕疵。
+
+#### Round 2 (否定陈述句) 🏆
+- 中文：这张照片并没有显示大家在开会。
+- 学生：`This photo doesn't show them attending the meeting.`
+- 评价：✅ **满分**。`doesn't show them attending`，否定形式 + 宾补结构完美。
+
+#### Round 3 (一般疑问句)
+- 中文：那组数据有没有显示销售额在下降？
+- 学生：`Do the data show sales declining?`
+- 评价：✅ `show sales declining` 正确。⚠️ `data` 现代英语更常用单数 `Does the data show`，但 `Do the data` 在正式场合也正确。
+
+#### Round 4 (反义疑问句) 🏆 Tag 极性连续第 5 次正确
+- 中文：这个数据显示出我们的用户在增长，对吧？
+- 学生：`The data shows our users growing, doesn't it?`
+- 评价：✅ **满分**。`shows our users growing` 正确。Tag 极性 `doesn't it?` 连续第 5 次正确 🏆！
+
+#### Round 5 (选择疑问句) ⚠️ 两选项同义
+- 中文：这些数据说明用户在流失还是在增长？
+- 学生：`Does this data show users leaving or churning?`
+- 评价：✅ `show users leaving/churning` 结构正确。⚠️ `leaving` 和 `churning` 含义一致（都是"流失"），应对比"流失 vs 增长"→ `churning or growing`。
+
+#### Round 6 (虚拟语气) ✅
+- 中文：如果数据没显示出问题，他就不会这么担心了。
+- 学生：`If the data didn't show any issues, he would not be so worried.`
+- 评价：✅ Type 2 虚拟语气完全正确。`show any issues` — 这里不需要硬套 `show + obj + V-ing`，因为"问题"不是"正在做某事"的持续动作。学生理解了这个结构的最佳使用场景 ✅。
+
+#### Quick Fire
+- 场景：和同事看一张活动现场照片——老板在逗乐大家，所有人都在笑。
+- 学生：`So, I want to take a picture of the boss that shows him amusing us.`
+- 评价：✅ `shows him amusing us` 结构完全正确！⚠️ 场景理解略偏：是"已经在看照片"而非"想去拍"。结构本身掌握了。
+
+**LP 状态**：🟡 复用中。6 句式全覆盖，零关键性错误。Tag 极性连续 5 次正确。结构理解到位，知道最佳使用场景。
+
+---
+
+## 4. 🏗️ 话题构建训练 — 技术决策与 trade-off 解释
 
 **场景**：你是 Tech Lead，团队里有人想继续用老框架，有人想迁移到新技术栈。在组会上表达立场——为什么应该迁移。
 
@@ -294,6 +512,10 @@
 | 10 | 🟡 **`specially`（特意地）vs `special`（特别的）** | 🟡 | LP 3 否定句 `work specially` ❌ → `is anything special` ✅。`specially` 是副词，修饰动词表示"特意地"；这里需要形容词 `special` 表"特别之处"。 | 新发现 |
 | 11 | 🟡 **`keep up using` — 动词短语冗余** | 🟡 | 话题构建撤骨架中 `keep up using` — `keep up` 和 `using` 语义重叠（`up` 表"持续"+"using"也表持续）。查 `keep using` ✅ 或换词 `stick with` ✅。 | 新发现 |
 | 12 | 🟡 **主客体对应偏差（中英主语切换）** | 🟡 | LP 1 否定句 `This computer is not good for this place` — 中文主语是"位置"，但翻译时把主语换成了"电脑"，导致语义偏差。 | 新发现 |
+| 13 | 🟡 **`distracting`（adj）vs `distract`（v）混淆** | 🟡 | LP 6 反义疑问句 `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性），`make sb distracting` 逻辑不通。 | 新发现 |
+| 14 | 🟡 **`live long` vs `last long` 选词** | 🟡 | LP 6 QF `the sort of thing that can live long` ❌ → `last long` ✅。`live long` = 长寿（主语必须是人/生物），表示"长期有效"用 `last long` / `is sustainable`。 | 新发现 |
+| 15 | 🟡 **`very + adj + enough` 双重程度修饰** | 🟡 | LP 5 肯定句 `very simple enough` ❌ — `very` 和 `enough` 不能同时修饰同一形容词。`very simple` 或 `simple enough`，不能叠加。 | 新发现 |
+| 16 | 🟡 **`Most of people` → `Most people`（冠词/限定词）** | 🟡 | LP 4 否定句 `Most of people` ❌ → `Most people` ✅（泛指）或 `Most of the people` ✅（特指）。`most` + 泛指名词不加 `of`。 | 新发现 |
 
 ### 4.2 本次会话新学语言点初始状态
 
@@ -302,8 +524,12 @@
 | `good for`（适合/有益于） | 🟡 复用中 | 5 句式通过，但选择疑问句 `more good` 暴露不规则比较级缺口 + QF 词汇选词偏差（bench/waist） |
 | `up to date`（新潮的/及时的） | 🟡 复用中 | 6 句式覆盖，双重系动词和 Tag 极性回退需巩固。虚拟语气主动产出优秀 🏆 |
 | `I can't see how...`（委婉质疑） | 🟡 复用中 | 6 句式覆盖，`lack of` 混淆和选词偏差各 1 次。反义疑问句极性满分 🏆 |
+| `opinions on`（对…的看法） | 🟡 复用中 | 6 句式+QF 覆盖，Tag 极性回退 1 次（`do you?`→`don't you?`），已当场指出 |
+| `enough`（后置修饰形容词） | 🟡 复用中 | 6 句式+QF 覆盖。`very simple enough` 双重程度修饰 1 次，`good enough` vs `familiar enough` 选词偏差 1 次 |
+| `the sort of` 泛化（任意名词） | 🟡 复用中 | 6 句式+QF 覆盖，从 `the sort of thing` 成功泛化到 `person/approach`。`distracting`→`distract` 词性混淆 1 次，`live long`→`last long` 选词 1 次 |
+| `show + 宾语 + 现在分词`（宾补） | 🟡 复用中 | 6 句式+QF 覆盖，零关键性错误。场景理解 1 次偏差（非语言问题）|
 
-> 三个 LP 初始状态全部为 🟡（非 🟢），因为每个 LP 都在训练过程中暴露了至少 1 个需要后续关注的底层语法或选词问题。
+> 七个 LP 初始状态全部为 🟡（非 🟢），因为每个 LP 都在训练过程中暴露了至少 1 个需要后续关注的底层语法或选词问题。
 
 ### 4.3 历史词组复用追踪
 
@@ -342,6 +568,9 @@
 4. **历史词组自然复用**：`run into`（🟢）在 QF 和 Topic Building 中多次正确使用；`in the long run`（archived）在撤骨架中被正确调用。
 5. **自我纠正意识**：Topic Building 中 `we're gonna have or we're gonna run into` — 从 `have` 自我纠正为 `run into`，词汇选择意识良好。
 6. **21BEC 全文扫描完成**：12 组疑问点全部分析，10 个未记录语言点识别完成。
+7. **Tag 极性下午连续 5 次正确 🏆🏆**：LP 4 回退 1 次后，LP 5/6/7 + Flash Correct 连续 5 次 Tag 极性零错误，明显好转。
+8. **7 个语言点全部覆盖**：21BEC 中 7 个适合造句训练的语言点全部完成训练，仅剩 3 个偏概念/修辞类留待后续。
+9. **`show + 宾语 + 现分` 零关键性错误**：学生理解了该结构的最佳使用场景（视觉/证据呈现中某人正在做某事），不盲目套用。
 
 ---
 
@@ -353,9 +582,15 @@
 - `good for`（适合/有益于）→ 🟡 复用中
 - `up to date`（新潮的/及时的）→ 🟡 复用中
 - `I can't see how...`（委婉质疑句式）→ 🟡 复用中
+- `opinions on`（对…的看法）→ 🟡 复用中
+- `enough`（后置修饰形容词）→ 🟡 复用中
+- `the sort of` 泛化（任意名词）→ 🟡 复用中（合并到原有 `the sort of thing` 🟡 条目）
+- `show + 宾语 + 现分`（宾语补足语）→ 🟡 复用中
 
 **本轮植入的历史词组状态更新：**
 - `run into` 🟢 → 🟢 维持（在 QF + Topic Building 中正确使用 2 次）
+- `keep up with` — Topic Building 中自主复用
+- `in the long run` 🟢（archived）— Topic Building 撤骨架中成功召回
 
 **归档检查**：无符合归档条件的词组。
 
