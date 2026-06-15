@@ -26,7 +26,18 @@
 | in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
 | be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
-| all hands on deck | 🟡 | 2026-05-02 | 2026-05-31 | 本轮使用但搭配偏误：`everyone is all hands on deck` ❌ → `it's all hands on deck` ✅；习语不直接修饰人 |
+| all hands on deck | 🟡 | 2026-05-02 | 2026-06-15 | 2026-06-15 LP 2 搭配复发（`for us to be` ❌）→ LP 5 同 session 修复（`it should be` ✅）🏆 |
+
+| be worth doing | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；Mixed Conditional 满分 🏆；`for sb` 插入结构破坏 1 次 |
+| sit around | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；完成时+过去时间 2 次复发 ⚠️；祈使/疑问表现好 |
+| I'm assuming | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；变体运用灵活（Are you assuming / I would assume）；`get onboard with` 搭配不稳 |
+| check with + 人 + on + 事 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取（合并到 check 系列）；6 句式+QF；3 句式满分 |
+| not in time for | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；`catched`→`caught` 当场修复；`didn't be` 新暴露 |
+| next year's + noun | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；核心概念掌握；`as much as`（sales）需注意 |
+| go out（商务义）| 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；今日最优 LP 🏆；4/6 句式满分 |
+| not...until 省略 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；偏书面/口语省略；概念讲解完成 |
+| What's my budget? | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6；简洁问句掌握良好 |
+| as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写；注意 `get onboard with` 只能接"想法/计划"，不能接人/公司（正确：`onboard sb` 动词 / `get sb on board`） |
 | pick up on | 🟢 | 2026-05-02 | 2026-05-31 | 连续 2 次主动复用正确（否定句+一般疑问句），从 🟡 升级 🟢 🏆 |

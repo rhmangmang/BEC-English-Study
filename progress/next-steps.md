@@ -29,7 +29,8 @@
 - [x] **19BEC 扫描完成**: 6 个已记录 / 4 个未记录语言点全部完成训练。继续扫描 20BEC。
 - [x] **20BEC 扫描完成**: 30+ 疑问点中 7 个已掌握、9 个未记录中提取 4 个完成训练。继续扫描 21BEC。
 - [x] **21BEC 扫描完成**: 12 组疑问点中 10 个未记录，提取 `good for` / `up to date` / `I can't see how...` 3 个语言点完成训练。话题构建（技术决策与 trade-off）4 步通过 🏆。
-- [ ] **继续扫描 BEC 文本**: 从 22BEC 开始。
+- [x] **22BEC 扫描完成**: 约 30 组疑问点中 12 个未记录 LP，10 个完成训练（`be worth doing`/`sit around`/`I'm assuming`/`check with+人+on+事`/`not in time for`/`next year's`/`go out`/`not...until`/`What's my budget?`/`as+adj`）。`I don't think we have any choice` 跳过，`new for + 时间` 未开始。
+- [ ] **继续扫描 BEC 文本**: 从 23BEC 开始。
 - [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。

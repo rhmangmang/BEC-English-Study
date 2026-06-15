@@ -53,6 +53,10 @@
 - [ ] **`very + adj + enough` 双重程度修饰冲突**: 2026-06-14 `very simple enough` ❌。`very` 和 `enough` 不能同时修饰同一形容词。
 - [ ] **`Most of people` → `Most people`**: 2026-06-14 LP 4 `Most of people` ❌ → `Most people` ✅（泛指）。`most` + 泛指名词不加 `of`。
 - [ ] **`live long` vs `last long`**: 2026-06-14 `the sort of thing that can live long` ❌ → `last long` ✅。`live` 主语必须是生物。
+- [ ] **🔴 `catched` → `caught`（过去分词复发新类型）**: 2026-06-15 `hadn't catched` ❌ → `hadn't caught` ✅。`catch-caught-caught`。当轮加练修复。
+- [ ] **🔴 `catch up with the train` → `catch the train`（短语混淆）**: 2026-06-15 `catch up with` = 追赶进度/人，不是"赶上车"。正确：`catch the train` / `make the train`。
+- [ ] **🔴 `didn't be` → `wasn't`**: 2026-06-15 `didn't be in time` ❌。`be` 动词否定过去式不用 `did`。
+- [ ] **🟡 `onboarding gate` → `boarding gate`**: 2026-06-15 `onboarding` = 入职。登机口 = `boarding gate`。
 - [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。
