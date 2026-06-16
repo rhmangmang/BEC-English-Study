@@ -14,7 +14,7 @@
 - [ ] **🔴 Tag 极性回退（肯定/否定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅；`We should not...shouldn't we?` ❌ → `should we?` ✅。简单句否定+Tag 再次复发。2026-06-04 再次复发（`shouldn't we?`，加练 1 轮已修复）。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
-- [ ] **🔴 间接疑问句语序**: see/know/understand 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。
+- [ ] **🔴 间接疑问句语序**: `Do you think` / `know` / `understand` 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。2026-06-16 LP 2 R3 复发：`Do you think if we just...can it keep up` ❌ → `we can keep up` ✅。
 - [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。2026-05-22 再次出现 (`hasn't they`)。
 - [ ] **🔴 `go in` 不及物性**: `go in their discussions` ❌ → `go in on` / `join in on`。`go in` 不及物，不能直接接名词。2026-05-06 新发现。
 - [ ] **🔴 `prepare for` vs `prepare` 及物性区分**: `prepare it`（"准备它"本身） vs `prepare for it`（为它做准备）。会议/事件类用 `prepare for`。2026-05-13 新发现。
@@ -39,6 +39,10 @@
 - [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。2026-06-07 未复发，累积 1 天零复发。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
+- [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
+- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露。
+- [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
+- [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。
@@ -50,7 +54,13 @@
 - [ ] **`keep up using` 动词短语冗余**: 2026-06-14 `keep up using` — `up` 和 `using` 语义重叠 → `keep using` / `stick with`。
 - [ ] **双重系动词（一般疑问句）**: 2026-06-14 `Are...is` ❌。一般疑问句已提 Be，不能再保留原系动词。
 - [ ] **`put efforts on how to make...smoothly` — 搭配混乱**: 2026-06-14 复合错：`effort` 不可数 + `put effort into doing` ✅ + `make...smooth`（adj 宾补）。
-- [ ] **`very + adj + enough` 双重程度修饰冲突**: 2026-06-14 `very simple enough` ❌。`very` 和 `enough` 不能同时修饰同一形容词。
+- [ ] **`Very + adj + enough` 双重程度修饰冲突**: 2026-06-14 `very simple enough` ❌。`very` 和 `enough` 不能同时修饰同一形容词。
+- [ ] **`at last` vs `finally`/`in the end`**: 2026-06-16 `at last` 不当使用。`at last` 有"等了很久终于…"的强烈感慨语气，中性叙实用 `finally` / `in the end`。
+- [ ] **`department union` → `department gathering`/`team lunch`**: 2026-06-16。`union` = 工会，部门聚餐是 `gathering` / `team lunch`。
+- [ ] **`all the afternoon` → `all afternoon`**: 2026-06-16 Flash Correct。`all + 时间` 不加 `the`（`all day`/`all afternoon`/`all morning`）。
+- [ ] **`played on the figures` → `played with the figures`**: 2026-06-16 LP 5 R6。`play tricks on sb`（捉弄人）vs `play tricks with + 数据`（做手脚）。
+- [ ] **`as a result` 逗号连接独立句**: 2026-06-16 LP 5 R2。两个独立句不能用逗号连接，需分号/句号/连词。
+- [ ] **`host`（会议主持）→ `chair`/`facilitator`**: 2026-06-16 LP 5 R4。`host` 偏活动/节目主持，会议主持人用 `chair` / `facilitator`。
 - [ ] **`Most of people` → `Most people`**: 2026-06-14 LP 4 `Most of people` ❌ → `Most people` ✅（泛指）。`most` + 泛指名词不加 `of`。
 - [ ] **`live long` vs `last long`**: 2026-06-14 `the sort of thing that can live long` ❌ → `last long` ✅。`live` 主语必须是生物。
 - [ ] **🔴 `catched` → `caught`（过去分词复发新类型）**: 2026-06-15 `hadn't catched` ❌ → `hadn't caught` ✅。`catch-caught-caught`。当轮加练修复。
@@ -95,7 +105,7 @@
 - [ ] **词性转换**: failure→failed, success→succeed, 情态动词后必须接动词原形。
 - [ ] **半否定词 + tag question**: hardly/barely/seldom/rarely/never → 主句视为否定 → tag 用肯定。
 - [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
-- [ ] **完成时+过去时间不兼容**: last week/yesterday 等明确过去时间 → 必须用简单过去时。
+- [ ] **🔴 完成时+过去语境不兼容（含隐式过去锚点）**: `yesterday`/`last week` 等明确过去时间 → 简单过去时。**2026-06-16 新维度暴露**：Flash Correct 3/3 ✅，但自由造句中在无显式时间标记的已结束事件场景下 5 次回退（`have run into...in the meeting` ❌ / `have taken`（培训已结束） ❌）。核心缺失：不认为"已结束事件本身"是过去锚点。从 Monitoring 重新激活至 🔴 Active。
 - [ ] **no vs not 搭配**: no+名词, not+enough+名词，不能混搭(no enough ❌)。
 - [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态。

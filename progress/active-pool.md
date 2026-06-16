@@ -26,7 +26,7 @@
 | in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
 | be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
-| all hands on deck | 🟡 | 2026-05-02 | 2026-06-15 | 2026-06-15 LP 2 搭配复发（`for us to be` ❌）→ LP 5 同 session 修复（`it should be` ✅）🏆 |
+| all hands on deck | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 LP 2 `for us to be` ❌ → LP 5 `it should be` ✅ 同 session 修复；2026-06-16 LP 1 R3 `it needs to be all hands on deck` ✅ 正迁移巩固 |
 
 | be worth doing | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；Mixed Conditional 满分 🏆；`for sb` 插入结构破坏 1 次 |
 | sit around | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；完成时+过去时间 2 次复发 ⚠️；祈使/疑问表现好 |
@@ -39,7 +39,7 @@
 | What's my budget? | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6；简洁问句掌握良好 |
 | as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
-| get onboard with | 🔴 | 2026-05-02 | — | 名词修饰名词形态、拼写；注意 `get onboard with` 只能接"想法/计划"，不能接人/公司（正确：`onboard sb` 动词 / `get sb on board`） |
+| get onboard with | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 `you're not got` ❌ → 2026-06-16 LP 1 R4 `have not gotten onboard with` ✅ 修复成功，升级 🟡；搭配限制：只接想法/计划 |
 | pick up on | 🟢 | 2026-05-02 | 2026-05-31 | 连续 2 次主动复用正确（否定句+一般疑问句），从 🟡 升级 🟢 🏆 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
@@ -56,7 +56,7 @@
 | per se | 🟢 | 2026-05-03 | — | not... per se 结构 🏆 |
 | planned downtime | 🟡 | 2026-05-04 | — | 主语一致性、虚拟结果句 |
 | walk around the block | 🟢 | 2026-05-04 | 2026-05-04 | 5 句式全通关 + QF；跨 4 天复用满分 🏆 |
-| make lunch | 🔴 | 2026-05-04 | — | 时态、词汇、could have 从句 |
+| make lunch | 🟡 | 2026-05-04 | 2026-06-16 | 隔 30+ 天未碰，2026-06-16 LP 2 加练轮首次尝试即正确 ✅ `made lunch and brought it along`，升级 🟡 |
 | or whatever | 🟡 | 2026-05-04 | — | 核心用法正确；平行结构和介词需注意 |
 | a social setting | 🟢 | 2026-05-04 | — | 2轮+QF全对；主动引入 strike up a conversation |
 | as somebody who | 🟡 | 2026-05-04 | — | Round 1 主谓一致/quite know 错误；Round 2 满分 |
@@ -130,4 +130,10 @@
 | the sort of (泛化任意名词) | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取（合并到 `the sort of thing` 🟡 条目）；从 thing 泛化到 person/approach；`distracting`→`distract` 词性混淆 + `live long`→`last long` 选词 |
 | show + 宾语 + 现在分词 | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖，零关键性错误；Tag 极性连续 5 次正确 🏆 |
 
-**当前数量**：78 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| a choice of + 数量 + 名词 | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；Mixed Conditional 满分 🏆；`get onboard with` 同 session 修复成功 |
+| choose + 数量 + out of + 数量 | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；R1 关键性错误未使用目标结构→加练修复；Mixed 类型偏差1次；间接疑问句语序复发 |
+| give sb the option to do | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取（与 `a choice of` 合并训练）；6 句式+QF；Type 3 满分；`not in time for sb to do` 结构错误1次 |
+| make notes / take notes | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；`not in time for` 后接错误2次；`familiar with` 混淆1次 |
+| if you wish | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；仅 1/6 句式（用户叫停）；未做 QF |
+
+**当前数量**：83 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
