@@ -8,14 +8,14 @@
 - [ ] **🔴 `rely on` 漏 `on`**: `rely teachers` ❌ -> `rely **on** teachers` ✅。2026-05-16 复发（首次 2026-04-28）。
 - [ ] **🔴 `with + doing` 简洁意识**: 倾向于用 `Even though` 从句替代紧凑的 `with` 短语。2026-05-16 新发现。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
-- [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。
+- [ ] **🔴 `have sb do`（无 to）**: `have the team to arrange` ❌ → `have the team **arrange**` ✅。使役动词 `have/make/let` 后接省略 `to` 的不定式。2026-05-03 新发现。2026-06-20 Flash Correct 2/2 满分：`let us finish` ✅ + `have the maintainer find` ✅ 零回退。
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
 - [ ] **🔴 Tag 极性回退（肯定/否定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅；`We should not...shouldn't we?` ❌ → `should we?` ✅。简单句否定+Tag 再次复发。2026-06-04 再次复发（`shouldn't we?`，加练 1 轮已修复）。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
-- [ ] **🔴 间接疑问句语序**: `Do you think` / `know` / `understand` 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。2026-06-16 LP 2 R3 复发：`Do you think if we just...can it keep up` ❌ → `we can keep up` ✅。
-- [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。2026-05-22 再次出现 (`hasn't they`)。
+- [ ] **🔴 间接疑问句语序**: `Do you think` / `know` / `understand` 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。2026-06-16 LP 2 R3 复发：`Do you think if we just...can it keep up` ❌。2026-06-20 LP 4 R5 再次复发：`Which one is more important you think` ❌ → `Which one do you think is more important` ✅。
+- [ ] **🔴 Tag 代词匹配（新类型）**: `your team... hasn't you?` ❌ → `haven't they?` / `hasn't it?`。Tag 代词必须与主句主语人称/数一致。2026-05-05 新发现。2026-05-22 再次出现 (`hasn't they`)。2026-06-20 再次复发：`your team...haven't you?` ❌，加练后修复。
 - [ ] **🔴 `go in` 不及物性**: `go in their discussions` ❌ → `go in on` / `join in on`。`go in` 不及物，不能直接接名词。2026-05-06 新发现。
 - [ ] **🔴 `prepare for` vs `prepare` 及物性区分**: `prepare it`（"准备它"本身） vs `prepare for it`（为它做准备）。会议/事件类用 `prepare for`。2026-05-13 新发现。
 - [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
@@ -36,7 +36,8 @@
 - [ ] **🔴 `lack of`（名词性）vs `lack`（动词）混淆**: `he's lack of experience` ❌。`lack of` 是名词短语（如 `a lack of`），不能直接放系动词后当表语。动词用法 `lack sth` 不接 `of`。2026-06-14 选择疑问句造句中暴露。
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性，如 This noise is distracting），`make sb + distracting` 逻辑不通。2026-06-14 LP 6 反义疑问句中暴露。
 
-- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。从 Monitoring 重新激活。2026-06-07 未复发，累积 1 天零复发。
+- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。2026-06-07 未复发。2026-06-20 LP 3 R6 虚拟语气压力下再次复发：`so much issues` ❌ → `so many issues` ✅（Flash Correct 中零复发但复杂句仍回退）。
+- [ ] **🔴 `there would not have had` — `there be` + `have` 混淆（新类型）**: `there would not have had requirement gaps` ❌ → `there would not have **been**...` ✅。`there be` 完成体虚拟是 `there would have been`，非 `would have had`。2026-06-20 LP 9 R6 加练 新暴露。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 - [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
@@ -66,7 +67,18 @@
 - [ ] **🔴 `catched` → `caught`（过去分词复发新类型）**: 2026-06-15 `hadn't catched` ❌ → `hadn't caught` ✅。`catch-caught-caught`。当轮加练修复。
 - [ ] **🔴 `catch up with the train` → `catch the train`（短语混淆）**: 2026-06-15 `catch up with` = 追赶进度/人，不是"赶上车"。正确：`catch the train` / `make the train`。
 - [ ] **🔴 `didn't be` → `wasn't`**: 2026-06-15 `didn't be in time` ❌。`be` 动词否定过去式不用 `did`。
-- [ ] **🟡 `onboarding gate` → `boarding gate`**: 2026-06-15 `onboarding` = 入职。登机口 = `boarding gate`。
+- [ ] **`onboarding gate` → `boarding gate`**: 2026-06-15 `onboarding` = 入职。登机口 = `boarding gate`。
+- [ ] **🟡 `come across as` 结构固化追踪**: 2026-06-20 本 session 连续 3 次结构错误（`as like` / `as that` / `as unlike` ❌）→ 第 5 次 `as unreliable` ✅ 突破。`as + adj` 结构初步固化，需隔场抽查确认。
+- [ ] **🟡 `Does...happens` 主谓不一致**: 2026-06-20 LP 7 R5 `Does this problem happens` ❌ → `does` 后接动词原形 `happen` ✅。
+- [ ] **🟡 `have catch up` 冠词遗漏**: 2026-06-20 LP 9 R5 `have catch up` ❌ → `have **a** catch-up` ✅。名词作宾语需冠词。
+- [ ] **🟡 `should have to` 冗余**: 2026-06-20 LP 8 QF `we should have to align` — `should` 和 `have to` 叠用冗余，择一即可。
+- [ ] **🟡 `can be moving` 情态+进行时叠加**: 2026-06-20 LP 7 R3 `can the design review be moving` ❌ → 情态动词+进行时叠加奇怪。日常行为用一般现在时 `does...go` ✅。
+- [ ] **🟡 `anticipation` → `expectations`**: 2026-06-20 LP 4 R3。`anticipation` = 期待/预料（情感），`expectations` = 预期（职场标准）。
+- [ ] **🟡 `bias` → `misalignment` / `gap`**: 2026-06-20 LP 9 R6。`bias` = 偏见/偏心，需求偏差 = `gaps` / `misalignment`。
+- [ ] **🟡 `maintainer` → `ops`**: 2026-06-20 FC R2。`maintainer` = 开源维护者，运维 = `ops guy` / `ops team`。
+- [ ] **🟡 `found out` → `found`/`flagged`**: 2026-06-20 Micro RP 2。`find out` = 查明事实，不用于"发现代码问题"。
+- [ ] **🟡 `come up with reviews` 搭配不当**: 2026-06-20 LP 7 QF。`come up with` + ideas/solutions，不接 reviews/meetings。
+- [ ] **🟡 `bugs with the feature` → `bugs in this feature`**: 2026-06-20 FC R1b。介词 `in` 而非 `with`。
 - [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。

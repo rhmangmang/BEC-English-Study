@@ -31,12 +31,13 @@
 - [x] **21BEC 扫描完成**: 12 组疑问点中 10 个未记录，提取 `good for` / `up to date` / `I can't see how...` 3 个语言点完成训练。话题构建（技术决策与 trade-off）4 步通过 🏆。
 - [x] **22BEC 扫描完成**: 约 30 组疑问点中 12 个未记录 LP，10 个完成训练（`be worth doing`/`sit around`/`I'm assuming`/`check with+人+on+事`/`not in time for`/`next year's`/`go out`/`not...until`/`What's my budget?`/`as+adj`）。`I don't think we have any choice` 跳过，`new for + 时间` 未开始。
 - [x] **23BEC 扫描完成**: 9 个未记录 LP 中 5 个完成训练（`a choice of` / `choose N out of M` / `give sb the option to do` / `make notes` / `if you wish` 仅 1/6）。LP 4 `give a presentation on` 用户跳过。LP 7-9 未开始。继续扫描 24BEC。
-- [ ] **23BEC 未完语言点**: `if you wish` 剩余 5 句式+QF / `have + 时间 + to do` / `make notes` vs `take notes` 差异辨析（已自然融入）/ `a choice of two out of three` 组合（已自然融入）。
+- [x] **23BEC 未完语言点**: `if you wish` 2026-06-20 补齐至 5/6+QF ✅ / `have + 时间 + to do` 2026-06-20 完成 6/6+QF ✅ / `make notes` vs `take notes` 已自然融入 / `a choice of two out of three` 已自然融入。
+- [x] **24BEC-10s 扫描完成**: 14 组问答中 6 个未记录 LP，完成 `work with / align with the business`🟡 / `the same thing happens with`🟡 / `development stream`🟡 / 进行时表常态化🟡 共 4 个。`for + noun` / `every + 数字 + 时间单位` 跳过。继续扫描 25BEC。
 - [ ] **🔴 `not in time for` 后接类型 Flash Correct 拦截**: `for sb to do` ❌ / `for + 非事件名词` ❌。`in time for` 只接事件名词（deadline/meeting）；动作用 `in time to do`。2026-06-16 3 次新复发。
 - [ ] **🔴 完成时+隐式过去锚点专项拦截**: 2026-06-16 Flash Correct 3/3 满分，但自由造句中在"已结束事件"场景下 5 次回退（`in the meeting` / 培训已结束 等无言 time marker）。核心缺失：认为只有 `yesterday`/`last week` 才算过去时间。
 - [ ] **🔴 `familiar with` vs `used to` 纠偏**: 2026-06-16 LP 5 R5 `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。
 - [ ] **🔴 Mixed vs Type 3 虚拟结果句选择纠偏**: 2026-06-16 LP 2 R6 `had had → would go` ❌ → `would have gone` ✅。中文语境判断"行为归属时间"有偏差。
-- [ ] **🔴 间接疑问句语序**: 2026-06-16 LP 2 R3 复发。`do you think` 后仍需陈述语序。
+- [ ] **🔴 间接疑问句语序**: 2026-06-16 LP 2 R3 复发 → 2026-06-20 LP 4 R5 再次复发：`Which one is more important you think` ❌。`do you think` 插入后主句语序不变。
 - [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **🔴 Tag 时态一致性 Flash Correct 拦截**: `picks up...didn't he?` ❌ → `doesn't he?`。2026-05-31 新缺口。
@@ -44,7 +45,7 @@
 - [ ] **`quarterly` 词性巩固**: `quarter report` ❌ → `quarterly report` ✅。2026-05-31 新发现。
 - [x] **`all hands on deck` 句式巩固**: 2026-05-31 `everyone is all hands on deck` ❌ → 2026-06-15 LP 2 `for us to be` ❌ → LP 5 `it should be` ✅ 修复 → 2026-06-16 LP 1 `it needs to be` ✅ 正迁移巩固 🏆。已稳定。
 - [ ] **`delegator` 使用场景注意**: 职场口语极少用 `delegator`，用 `the person delegating` / `the one delegating` 更自然。
-- [ ] **🔴 `many/much` 反击纠偏**: 2026-06-06 复发，`as much needs` ❌。可数名词用 `many`。重新激活至 Active。2026-06-07 未复发。
+- [ ] **🔴 `many/much` 纠偏**: 2026-06-06 复发，`as much needs` ❌ → 2026-06-20 LP 3 R6 虚拟语气压力下再次复发 `so much issues` ❌。Flash Correct 中零复发但复杂句仍回退。
 - [ ] **`make a review session` 搭配纠正**: `make a session` ❌ → `have a walkthrough` / `walk through it`。2026-06-06 新发现。
 - [ ] **`it is` 插入 wh- 从句语序巩固**: 特殊疑问句 `When it is` ❌ → `When is it`；反义疑问句 `know it is what` ❌ → `know what it is`。语序位置仍不稳定。
 - [ ] **🔴 过去分词顽固复发（`drove`→`driven`）**: 第 N 次复发。`drive-drove-driven` 在 `have` 后仍不自觉用 drove。
@@ -59,3 +60,9 @@
 - [ ] **21BEC 未练语言点**: `somewhere` 作名词, `say` 拟人化, 功能区域零冠词 — 概念类/修辞类，留待后续扫描训练。
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: 2026-06-14 `make people distracting` ❌。
 - [ ] **🔴 `very + adj + enough` 双重修饰**: 2026-06-14 `very simple enough` ❌。
+- [ ] **🔴 `there would not have had` — `there be` + `have` 混淆（新缺口）**: 2026-06-20 LP 9 R6 加练：`there would not have had gaps` ❌ → `there would not have been gaps` ✅。`there be` 完成体虚拟需专项巩固。
+- [ ] **🟡 `come across as` 结构固化抽查**: 2026-06-20 本 session 第 5 次尝试突破（`as adj` ✅），需隔场抽查确认是否固化。
+- [ ] **🟡 `Does...happens` / `have catch up` 等新暴露语法小错**: 2026-06-20 LP 7 R5 / LP 9 R5。`does` 后加原形 + 名词宾语需冠词。
+- [ ] **🟡 `can be moving` 情态+进行时叠加 / `should have to` 冗余**: 2026-06-20 LP 7 R3 / LP 8 QF。情态动词+进行时叠用不自然；两义务词叠用冗余。
+- [ ] **🟡 `bias` → `gap`/`misalignment` + `anticipation` → `expectations` + `maintainer` → `ops`**: 2026-06-20 词汇精准度项。
+- [ ] **继续扫描 25BEC**。

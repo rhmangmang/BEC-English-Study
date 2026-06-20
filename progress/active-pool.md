@@ -70,7 +70,7 @@
 | go in and speak their language | 🟡 | 2026-05-06 | — | go in 不及物性需注意 |
 | high-level questions | 🟢 | 2026-05-06 | — | vs low-level ones 对比正确；概念辨析到位 🏆 |
 | let alone + 原形 | 🟢 | 2026-05-06 | 2026-05-08 | 全程修复 + 隔夜满分 🏆 |
-| come across as | 🟡 | 2026-05-06 | — | 概念已学，Role-play 未主动使用 |
+| come across as | 🟡 | 2026-05-06 | 2026-06-20 | 2026-06-20 重大突破：连续 3 次结构错误（`as like`/`as that`/`as unlike`）→ 第 5 次 `as unreliable` ✅ `as + adj` 结构固化 |
 | build A into B | 🟢 | 2026-05-08 | — | 6 种句式全部通关 🏆 |
 | talk shop | 🟢 | 2026-05-08 | — | 固定习语；5 种句式 + QF 满分 🏆 |
 | be past that | 🟢 | 2026-05-08 | — | 5 种句式通关；概念辨析到位 |
@@ -134,6 +134,11 @@
 | choose + 数量 + out of + 数量 | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；R1 关键性错误未使用目标结构→加练修复；Mixed 类型偏差1次；间接疑问句语序复发 |
 | give sb the option to do | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取（与 `a choice of` 合并训练）；6 句式+QF；Type 3 满分；`not in time for sb to do` 结构错误1次 |
 | make notes / take notes | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；`not in time for` 后接错误2次；`familiar with` 混淆1次 |
-| if you wish | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；仅 1/6 句式（用户叫停）；未做 QF |
+| if you wish | 🟡 | 2026-06-16 | 2026-06-20 | 23BEC 提取；补齐至 5/6+QF；选择疑问句兼容性差（AI 出题 3 次失败）；核心结构正确 |
+| have + 时间 + to do | 🟡 | 2026-06-20 | 2026-06-20 | 23BEC 提取；6 句式+QF；目标结构不稳（R3 `need` 回避 + R3b `have to` 歧义）；`many/much` 复发 1 次；关键性错误 1 次→加练 |
+| work with / align with the business | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；6 句式+QF；Type 3 满分；连续 3 次 `come across as` 结构错误（第 5 次突破）；间接疑问句语序复发 1 次；`align with sb on sth` 用法确认 |
+| the same thing happens with | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；5/6+QF（虚拟跳过）；关键性错误 1 次（`Does...happens`）；AI 出题 2 次被驳回 |
+| development stream | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；5/6+QF（虚拟跳过）；连续 5 句式零失误；`come across as` 🏆 第 5 次结构突破为 `as adj`；跨 LP 复用 |
+| 进行时表常态化工作流程 | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；6/6+QF；前 4 句式零失误；`cadence` 3 月+未碰首次即对 🏆；R5 冠词+R6 结构回避+QF 回避；`there be`+`have` 混淆新缺口 |
 
-**当前数量**：83 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+**当前数量**：88 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
