@@ -65,4 +65,11 @@
 - [ ] **🟡 `Does...happens` / `have catch up` 等新暴露语法小错**: 2026-06-20 LP 7 R5 / LP 9 R5。`does` 后加原形 + 名词宾语需冠词。
 - [ ] **🟡 `can be moving` 情态+进行时叠加 / `should have to` 冗余**: 2026-06-20 LP 7 R3 / LP 8 QF。情态动词+进行时叠用不自然；两义务词叠用冗余。
 - [ ] **🟡 `bias` → `gap`/`misalignment` + `anticipation` → `expectations` + `maintainer` → `ops`**: 2026-06-20 词汇精准度项。
-- [ ] **继续扫描 25BEC**。
+- [x] **继续扫描 25BEC**。
+- [x] **25BEC 扫描完成**: 12 疑问点中 3 已记录，提取 `percentage graph`🟡 + `if I can remember`🟡 共 2 个 LP 并完成训练。`graph vs chart` 用户跳过。26BEC-41BEC 速扫完成（仅 27BEC 产出 2 个 LP）。
+- [x] **27BEC 扫描完成**: 8 疑问点中 6 已记录，提取 `priority` 可数/不可数🟡 + `so to speak`🟡 共 2 个 LP 并完成训练。
+- [ ] **继续扫描 42BEC+**: 25BEC-41BEC 仅有 27BEC 产出，42BEC-52BEC 同样为 2026 年 2-3 月首轮训练批次，预计零产出。真正未记录 LP 密集区为 53BEC+。
+- [ ] **🔴 Tag 时态一致性专项拦截（新次型）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。2026-06-20 新暴露。主句系动词 `was` → Tag 必须跟 `was`，不能跳 `did`。
+- [ ] **🟡 `so to speak` 句法位置巩固**: 2026-06-20 句末甩尾错误→加练修复。需隔场抽查。
+- [ ] **🟡 `might be done` → `might have been done` 情态+过去→完成体**: 2026-06-20 Micro RP 暴露。中文"可能是去年做的"隐含过去时间+推测→英文需完成体。
+- [ ] **🟡 `right?` → `isn't he?` 反义疑问句 Tag 规范**: 2026-06-20 LP 13 暴露。口语化 `right?` 不能替代标准 Tag。

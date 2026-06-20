@@ -12,6 +12,7 @@
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
 - [ ] **🔴 Tag 极性回退（肯定/否定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅；`We should not...shouldn't we?` ❌ → `should we?` ✅。简单句否定+Tag 再次复发。2026-06-04 再次复发（`shouldn't we?`，加练 1 轮已修复）。
+- [ ] **🔴 Tag 时态一致性（助动词与主句不匹配）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。主句系动词 `was`，Tag 助动词必须跟 `was`，不能跳 `did`。2026-06-20 新暴露，加练后修复。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
 - [ ] **🔴 间接疑问句语序**: `Do you think` / `know` / `understand` 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。2026-06-16 LP 2 R3 复发：`Do you think if we just...can it keep up` ❌。2026-06-20 LP 4 R5 再次复发：`Which one is more important you think` ❌ → `Which one do you think is more important` ✅。
@@ -79,6 +80,15 @@
 - [ ] **🟡 `found out` → `found`/`flagged`**: 2026-06-20 Micro RP 2。`find out` = 查明事实，不用于"发现代码问题"。
 - [ ] **🟡 `come up with reviews` 搭配不当**: 2026-06-20 LP 7 QF。`come up with` + ideas/solutions，不接 reviews/meetings。
 - [ ] **🟡 `bugs with the feature` → `bugs in this feature`**: 2026-06-20 FC R1b。介词 `in` 而非 `with`。
+- [ ] **🟡 `might be made` → `might have been made`（情态+完成体遗漏）**: 2026-06-20 Micro RP。过去时间+情态推测 → 需完成体 `might have been done`。
+- [ ] **🟡 `so to speak` 句末甩尾**: 2026-06-20 LP 13 R4。`isn't he? so to speak.` ❌。插入语不能甩在句末 Tag 后。已加练修复。
+- [ ] **🟡 `right?` → `isn't he?`（口语 Tag 不规范）**: 2026-06-20 LP 13 R4b。口语 `right?` 能懂，但反义疑问句 Tag 需跟主句系动词一致。
+- [ ] **🟡 `didn't intend` → `don't intend`（时态选择）**: 2026-06-20 LP `take` R2。"不打算"= 当前意图 → `don't intend`，非过去 `didn't intend`。
+- [ ] **🟡 `on last Wednesday` → `last Wednesday`（冠词冗余）**: 2026-06-20 LP 11 R1。`last` 表"上个"无需再加 `on`。`next`/`last` + 时间不加介词。
+- [ ] **🟡 `spreadsheet` vs `table`**: 2026-06-20 LP 10 R3。`spreadsheet` = Excel 文件，数据表格 = `table`。
+- [ ] **🟡 `zip graph` → `line graph`**: 2026-06-20 FC R2。折线图 = `line graph`，非 `zip graph`。
+- [ ] **🟡 `mentor character` → `mentor figure`**: 2026-06-20 LP 13 R3。`mentor character` 不自然，"导师式人物" = `a mentor figure`。
+- [ ] **🟡 `magical` → `a magic bullet`**: 2026-06-20 LP 13 R2。`magical`（adj）→ `a magic bullet`（n. 比喻"灵丹妙药"）。
 - [ ] **`could have` 不用于 if 从句**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`must have been` vs `would have been`**: 2026-05-04 → 05-05 隔夜抽查 2/2 满分，已固化 🏆。
 - [ ] **`aware` + `of`**: 2026-05-05 → 05-06 隔夜抽查 1/1 满分，已固化 🏆。

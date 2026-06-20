@@ -507,4 +507,374 @@
 
 ---
 
-*本笔记由 AI 在 2026-06-20 会话结束后生成。*
+---
+---
+
+# ⏳ 续：25BEC-11s 扫描 + 多文件速扫
+
+## 0b. 会话概述（下半场）
+- **扫描文本**：25BEC-11s.md → 41BEC-60s.md（共 17 个文件）
+- **25BEC 扫描结果**：学生 12 组疑问点中 3 个已记录（`at one point`、`have a draft for`、`basically`），9 个未记录。筛选仅练学生主动发问的 3 组：`percentage graph`、`graph vs chart`（用户跳过）、`if I can remember`
+- **26BEC-41BEC 速扫结果**：26BEC 10 个已记录 / 5 个未记录全拒；27BEC 6 个已记录 / 2 个未记录（`priority` 可数/不可数 + `so to speak` 均练）；28BEC-41BEC 全部已记录（零未记录）。
+- **实际训练**：Flash Correct × 1（间接疑问句语序 3 题）→ LP 1-4 训练 → `take`（复用义）启动后被学生纠正（非未记录）→ 概念辨析（`pick up` vs `learn`、`superpower` 单复数）
+- **学生主动质疑** ×3：选择疑问句别扭 ×2、`take` 不是未记录 LP ×1
+- **AI 执行问题**：`priority` 植入 `if I can remember` 🟡 仅 2/5 轮成功；`so to speak` 全 4 轮植入失职
+
+---
+
+## ✏️ 续：⚡ 定向纠偏 (Flash Correct)
+
+### 组 4：间接疑问句语序（knowledge-gaps 🔴 Active）
+**选题原因**：2026-06-16 LP 2 R3 复发（`Do you think if we just...can it keep up` ❌），2026-06-20 上半场 LP 4 R5 再次复发。
+
+**规则**：`do you think/know` 后接**陈述语序**（`what the problem is`，非 `what's the problem`）。
+
+- **Round 1**: "你觉得哪个图表更直观？"
+  - 学生：`Which graph do you think is more intuitive?`
+  - 评价：✅ 语序完全正确。`do you think` 插入后 `is more intuitive` 保持陈述语序。🏆
+
+- **Round 2**: "你知道他为什么选了折线图而不是柱状图吗？"
+  - 学生：`Do you know why he chose the zip graph instead of the pie chart?`
+  - 评价：✅ 间接疑问句语序对。🔴 图表名称错误：`zip graph` ❌ → `line graph` ✅；`pie chart` ❌ → `bar chart` ✅（柱状图）。非语序问题，不追加轮次。
+
+- **Round 3**: "你能想起来我们当时是怎么决定用百分比图表的吗？"
+  - 学生：`Could you remember why we decided to use the percentage graph?`
+  - 评价：✅ 语序完全正确。⚠️ `why` 应改为 `how`（"怎么决定"问的是过程）。⚠️ `Could you remember` 不如 `Can you remember` / `Do you remember` 自然。
+
+**组 4 小结**：3/3 初始通过。间接疑问句语序核心语法到位，但图表名称/疑问词选择有余震。
+
+---
+
+## ✏️ 续：📝 核心语言点训练 — 25BEC
+
+---
+
+### LP 10: `percentage graph`（百分比图表）🆕
+
+**来源**：25BEC-11s.md 学生问题 — "这篇文章中的 the percentage graph 是什么意思？"
+**含义**：展示百分比比例关系的数据图表统称，可指饼图（pie chart）、柱状图（bar chart）、折线图（line graph）等。
+**本次训练**：6/6 句式全部覆盖 + Quick Fire
+
+**概念讲解**：学生表示"还没使用过表达图表的语言"，从零开始：`percentage graph` = 百分比图表，任何展示百分比比例关系的图。日常交流中 `graph` 偏线条/趋势，`chart` 更通用。
+
+#### Round 1（肯定陈述句）— 植入 `at one point` 🟢
+- 中文：我们曾经用百分比图表展示过部门预算。
+- 学生：`We used the percentage graph to show our department budgets at one point.`
+- 评价：✅ `percentage graph` 目标结构正确 ✅ `at one point` 历史词组主动复用 🏆
+
+#### Round 2（否定陈述句）
+- 中文：这份报告里没有百分比图表，只有文字描述。
+- 学生：`There's no percentage graph in this report. it just has text description.`
+- 评价：✅ 目标结构正确。⚠️ `just has text description` 漏冠词 `a` → `just a written summary` / `just text`。
+
+#### Round 3（特殊疑问句）
+- 中文：你觉得在什么场景下百分比图表比表格更有用？
+- 学生：`In what situation do you think the percentage graph is more useful than a spreadsheet?`
+- 评价：✅ 目标结构 ✅ 间接疑问句语序零回退 🏆。⚠️ `spreadsheet` 通常指 Excel 文件 → `table` 更精确。
+
+#### Round 4（反义疑问句）
+- 中文：按月展示收入占比的那张百分比图表挺清楚的，对吧？
+- 学生：`The percentage graph that shows the percentage by month is pretty clear, isn't it?`
+- 评价：✅ 目标结构正确 ✅ `isn't it?` Tag 一致。⚠️ 漏译"收入占比" → `revenue share`。
+
+#### Round 5（选择疑问句 — 第 1 版被拒）
+- 原中文：你会用饼图还是柱状图来展示这个百分比图表？
+- 学生指出："逻辑有问题——百分比图表本身就包含饼图/柱状图"。AI 承认出题不当，重出。
+- **重出**："你会用饼图还是柱状图来展示各部门的百分比数据？"
+- 学生：`Will you use a pie chart or a bar chart to display the percentage data of each department?`
+- 评价：✅ 选择疑问句结构正确。✅ 学生自发用了 `percentage data`（比 AI 题的 `percentage graph` 更自然）。🏆 **亮点**：学生语感优于 AI 出题。
+
+#### Round 6（虚拟语气）— 用户拒绝跳过
+- 中文：如果我们当时用百分比图表来展示收入分布，客户就不会觉得数据那么难消化了。
+- 学生：`If we had used the percentage graph to display the revenue distribution, the client would not have thought the data was difficult to consume.`
+- 评价：✅ Type 3 虚拟语气 `had used...would not have thought` 结构完全正确。⚠️ `difficult to consume` → `hard to digest`（数据消化用 `digest`）。
+
+#### Quick Fire
+- 场景：跟同事一起看市场分析报告，指一个直观的百分比图表给他看。
+- 学生：`Well, by looking at this percentage graph, you can get a pretty good sense of this market analysis report.`
+- 评价：✅ 目标结构用上。⚠️ `by looking at...you can get` 太书面 → `Take a look at...it gives you` 更口语指屏感。
+
+**LP 状态**：🟡 复用中。6/6 句式全覆盖，核心结构零回退，虚拟语气满分。Quick Fire 偏书面。
+
+**历史词组植入**：`at one point` 🟢（R1 自发复用）🏆
+
+---
+
+### LP 11: `if I can remember`（如果我还能想起来的话）🆕
+
+**来源**：25BEC-11s.md 学生问题 — "If I can remember 和 If I remember 这两个用法都正确吗？它们的区别是什么呢？"
+**含义**：`if I can remember` = 心里没底、得使劲想、暗示很可能想不起来；`if I remember` = 随口确认、默认能想起。
+**本次训练**：5/6 句式全覆盖（肯定/否定/特殊/反义/选择）+ Quick Fire + 1 轮加练（反义疑问句 Tag 错误）。虚拟语气跳过（语言点本身就是条件句，套虚拟语气拧巴）。
+
+#### Round 1（肯定陈述句 — 轻松语气）— 植入 `check with` 🟡
+- 中文：上周的会议，如果我没记错的话，是周三开的吧？
+- 学生：`Well, I want to check with you on this. We had a meeting on last Wednesday if i remember`
+- 评价：✅ `if I remember` 无 `can` 的正确语气选择（上周的事轻松确认）✅ `check with you on this` 🏆 历史词组复用。⚠️ `on last Wednesday` ❌ → `last Wednesday`（`last` 前不加 `on`）。
+
+#### Round 2（否定陈述句 — 心里没底）
+- 中文：如果我没记错的话，我们当时并没有把所有数据都放进去。
+- 学生：`If I can remember, we didn't put all the data into this.`
+- 评价：✅ `if I can remember` 语气选择正确（三年前+加 `can`）。⚠️ `into this` 偏模糊 → `into it back then`。
+
+#### Round 3（特殊疑问句）
+- 中文：如果我还能想起来的话，我们当时为什么要删掉那张图表？
+- 学生：`If I can still remember, why did we delete that graph back then?`
+- 评价：✅ `if I can still remember` 灵活变体非错误，加了 `still` 更贴合"还"。🏆 **亮点**：学生自发扩展了语言点。
+
+#### Round 4（反义疑问句 — 🔴 Tag 时态一致性错误）
+- 中文：如果我没记错的话，那份百分比图表是五个月前做的，对吧？
+- 学生：`If I can remember, the percentage graph was made 5 months back, didn't it?`
+- 评价：✅ `if I can remember` 语气正确。🔴 **Tag 时态不一致**：主句 `was made` → Tag `wasn't it?` 不用 `didn't it?`。**本轮加练**。
+
+- **Round 4b（加练）**：中文："那份带有百分比图表的报告，如果我没记错的话，只花了三天就做完了，对吧？"
+  - 学生：`If I can remember, the report with a percentage graph was finished within just three days, wasn't it?`
+  - 评价：✅ Tag 修复成功 `wasn't it?` ✅ `percentage graph` 跨 LP 复用 🏆
+
+#### Round 5（选择疑问句 — 第 1 版被拒）
+- 原中文："如果我没记错的话，这份报告是去年做的还是前年做的？"学生指出"别扭"。AI 承认逻辑矛盾（`if I can remember` 暗含不确定，后面却要精确二选一）。重出。
+- **重出**："如果我没记错的话，那个旧项目是用了饼图还是柱状图？"
+- 学生：`If I can remember, did the legacy project use a pie chart or a bar one?`
+- 评价：✅ 目标结构正确。⚠️ `a bar one` → `a bar chart`。
+
+#### Quick Fire — Round 1 🔴 目标结构未使用
+- 场景：同事问你两年前的竞品数据还在不在，你记不太清了。
+- 学生：`I'm not sure, I cannot remember clearly.`
+- 评价：🔴 目标语言点 `if I can remember` 未使用。重出 QF。
+- **Quick Fire Round 2**：场景—回顾会有人问项目启动细节（很久以前的事）
+- 学生：`If I can remember, that was about many years ago.`
+- 评价：✅ 目标结构用上。⚠️ `about many years ago` 冗余 → `years ago`。
+
+**LP 状态**：🟡 复用中。5/6 句式全覆盖。语境内核选择（加不加 `can`）准确，Quick Fire 第 1 轮未用目标结构。🔴 Tag 时态一致性错误 1 次，已加练修复。
+
+**历史词组植入**：`check with` 🟡（R1 成功复用）🏆；`percentage graph` 🟡（R4b 自发使用跨 LP 复用）🏆
+
+---
+
+### 🎭 Micro Role-play（整合 LP 10 + LP 11）
+
+**场景 1**：项目回顾会，同事在翻资料，你看到一份熟悉的图表，不太确定是不是去年做的版本。2-3 句英文，包含 `percentage graph` + `if I can remember`。
+- 学生：`If I can remember, the percentage graph was made last year.`
+- 评价：两个 LP 均用上 ✅。但只有 1 句，Micro RP 要求 2-3 句。鼓励加一句收尾。
+
+**场景 2**：新同事在整理旧文件夹翻到一张图表问你。2-3 句。
+- 学生：`If I can remember, that percentage graph might be made last year, but I'm not sure.`
+- 评价：✅ 两个 LP 自然融入。🔴 `might be made` ❌ → `might have been made` ✅（`last year` 是过去时间，`might` 后需完成体）。
+
+---
+
+### LP 12: `priority` 可数/不可数 🆕
+
+**来源**：27BEC-16s.md 学生问题 — "Something is my priority 和 a lot of things are my priority 都可以用，对吗？Priority 是不可数的吧？"
+**含义**：`priority` 不可数 = 抽象优先地位（`Safety is a priority.`）；`priorities` 可数复数 = 多项具体优先事项（`top 3 priorities`）。❌ 多项主语 + 单数 `priority` 不地道。
+**本次训练**：5/6 句式全覆盖（肯定/否定/特殊/反义/选择）+ Quick Fire + 1 轮加练（否定陈述句 `priorities` 遗漏）。虚拟语气跳过。
+
+#### Round 1（肯定陈述句）
+- 中文：项目交付是我目前最重要的事。
+- 学生：`The project delivery is my current priority.`
+- 评价：✅ `priority` 单数正确（单件事）。⚠️ `current` 略有语义重叠 → `top priority right now` 更自然。
+
+#### Round 2（否定陈述句 — 🔴 复数主语 + 单数 priority）
+- 中文：写周报和维护文档不是我最紧急的事。
+- 学生：`Writing a weekly report and maintaining documents are not my top priority.`
+- 评价：🔴 **关键性错误**：主语两件事 → 必须用复数 `priorities`，但学生用了单数 `priority`。**加练一轮**。
+- **Round 2b（加练）**："修那个 bug、加监控、改文档，都不是我目前最紧急的事。"
+- 学生：`Fixing the bug, adding monitoring and modifying documents aren't my top priorities.`
+- 评价：✅ `priorities` 复数修复成功。修复判定：主语三件事→表语复数，完成修复。
+
+#### Round 3（特殊疑问句）
+- 中文：你今天最重要的三件事是什么？
+- 学生：`What are your top three priorities today?`
+- 评价：✅ `priorities` 复数 ✅ `top three priorities` 地道搭配 🏆
+
+#### Round 4（反义疑问句）
+- 中文：提升测试覆盖率是你这个月的优先事项，对吧？
+- 学生：`Increasing test coverage rate is your top priority this month, isn't it?`
+- 评价：✅ `priority` 单数正确（单事项） ✅ Tag 一致。⚠️ `test coverage rate` 冗余 → `test coverage`。
+
+#### Round 5（选择疑问句）
+- 中文：汇报进度和修那个线上 bug，哪个是你的第一优先？
+- 学生：`Which one is your top priority? Reporting the progress or fixing the bug in production?`
+- 评价：✅ `priority` 单数（二选一）完全正确。选择疑问句结构到位。
+
+#### Quick Fire
+- 场景：周一早会，老板问你这周重点，你手上有三个主要任务。
+- 学生：`Well, I have three top priorities today.`
+- 评价：✅ `priorities` 复数 ✅ 即时反应快。⚠️ 实际会议中通常会列举是什么。
+
+**LP 状态**：🟡 复用中。5/6 句式全覆盖。核心考点（复数主语+复数 priorities）经加练修复。Quick Fire 零延迟。
+
+**历史词组植入**：`if I can remember` 🟡 未能成功植入（AI 出题未含引导措辞）。
+
+---
+
+### LP 13: `so to speak`（可以这么说）🆕
+
+**来源**：27BEC-16s.md 学生问题 — "So to speak 是什么意思？"
+**含义**：口语插入语，当你用了比喻或不完全精确的说法时给自己留余地。位置：句中或句末，前后加逗号。
+**本次训练**：4/6 句式覆盖（肯定/否定/一般疑问/反义疑问）+ Quick Fire + 1 轮加练（TAG 错误）。选择疑问句跳过（不兼容，`so to speak` = 留余地 vs 选择疑问句 = 要精确二选一）。虚拟语气跳过。
+
+#### Round 1（肯定陈述句）
+- 中文：我们团队现在是八爪鱼模式，可以这么说。
+- 学生：`Our team is very busy right now, so to speak.`
+- 评价：✅ `so to speak` 位置正确。⚠️ `very busy` 是直白描述，不需要 `so to speak`。该短语精髓是比喻+留余地。"八爪鱼模式"才需 `so to speak`。
+
+#### Round 2（否定陈述句）
+- 中文：这个方案并不是什么魔法子弹，可以这么说。
+- 学生：`This plan is not magical so to speak.`
+- 评价：✅ `so to speak` 用上。⚠️ `magical`（形容词）→ `a magic bullet`（名词比喻，"灵丹妙药"）。比喻才触发 `so to speak` 逻辑。
+
+#### Round 3（一般疑问句 — 第 1 版被拒）
+- 原中文被学生指出"别扭"。AI 承认 `so to speak` + 疑问句逻辑拧巴（问别人"我能不能这么说"）。
+- **重出**："你觉得他算是这个团队的导师式人物吗，可以这么说？"
+- 学生：`You think he is a mentor character in this team so to speak?`
+- 评价：✅ `so to speak` 位置正确。🔴 疑问句结构错：`You think` ❌ → `Do you think` ✅。⚠️ `mentor character` → `a mentor figure`。
+
+#### Round 4（反义疑问句 — 🔴 Tag + `so to speak` 位置错）
+- 中文：他算是团队里的润滑剂，可以这么说，对吧？
+- 学生：`He is a great person in this team, isn't he? so to speak.`
+- 评价：🔴 `so to speak` 甩在句末 Tag 后位置错，正确为句中插入。🔴 丢掉了比喻"润滑剂"=`the lubricant`。**加练一轮**。
+- **Round 4b（加练）**：中文："他是这个团队的万金油，可以这么说，对吧？"
+  - 学生先问"万金油怎么表达"。AI 提供 `a Swiss Army knife` / `a jack of all trades`。
+  - 学生：`He is a jack of all trades in this team so to speak, right?`
+  - 评价：✅ 比喻用上 ✅ `so to speak` 位置正确。⚠️ `right?` 非标准 Tag → `isn't he?`。
+
+#### Quick Fire
+- 场景：夸新来工程师学得快，准备用一个夸张的比喻。
+- 学生：`He is superpower so to speak. He can learn everything very fast.`
+- 评价：✅ `so to speak` + 夸张比喻逻辑正确。🔴 `He is superpower` ❌ → `He's got superpowers`。引出后续 `superpower` 单复数辨析（口语夸张比喻用复数/不可数模糊感更自然）。
+
+**LP 状态**：🟡 复用中。4/6 句式覆盖。比喻+留余地逻辑已建立，句法位置仍不稳定（需加练修复）。该 LP 天然不适合选择疑问句和虚拟语气，跳过合理。
+
+**历史词组植入**：AI 声明植入 `come across as` 但 4 轮全部失职（中文句均未含引导措辞）。
+
+---
+
+### 🚫 LP `take`（复用义）— 启动后被纠正中止
+
+AI 在 26BEC 扫描中推荐 `take the stuff from 14.0`（复用/沿用义）作为未记录 LP。训练至 R4（反义疑问句）时，学生当场质问："你说的 take 在前面练习过了，你忘了吗？"
+
+**反思**：`take` 的复用义在 `group sth. under`（LP 161）和 `input into`（LP 163）的 Role-play 环节已被自然带入，非独立未记录 LP。AI 此次提取违反"只练学生主动问的深度疑问"原则——`take` 在 26BEC 只被问过"take the stuff from 14.0 什么意思"（最浅层），不是值得 6 轮造句的 LP。
+
+**教训**：扫描阶段应对照历史 Role-play 环节确认是否已被间接覆盖，不能仅看 `mastered-points.md` 是否有同名 LP。
+
+---
+
+## ✏️ 续：📊 BEC 多文件速扫结果（26BEC-41BEC）
+
+### 26BEC-12s：10 已记录，5 未记录全拒
+- 学生主动问 12 组 → 8 组已记录（`be inclined to` / `all the way along` / `over the course of` / `plug in` / `group under` / `input into` / `hit` / `from A to B`）
+- 未记录 5 组：`to say like`（filler 识记级）/ `from this to this`（手势依赖）/ `individual little thing`（基础词）/ `take`（复用义，Role-play 已间接覆盖）/ `go out with`（PR niche）
+- **判定**：全部不值得 6 轮造句。26BEC 是 BEC 系列被挖掘最彻底的文件。
+
+### 27BEC-16s：6 已记录，2 未记录 → ✅ 均已训练
+- `priority` 可数/不可数 + `so to speak` → 完成训练。
+
+### 28BEC-20s：3 个疑问全部已记录
+- `scan` / `I would say like` / `from an integration point of view`
+
+### 29BEC-21s：8 个疑问全部已记录
+- `concern with vs about` / `see the argument for it` / `confusing why` / `manage simultaneously` / `typically`
+
+### 30BEC-23s：5 个疑问全部已记录
+- `move on` / `before I forget` / `pass to` / `come back to` / `double-check`
+
+### 31BEC-24s：1 个疑问已记录（`coupled into`）
+
+### 32BEC-25s：11 个疑问全部已记录
+- `I don't see why` / `point it to` / `to me confusing` / `under the hood` / `intend` / `belong there` / `consider`
+
+### 33BEC-27s：8 个疑问全部已记录
+- `basically` / `built as` / `loop in` / `exploration around` / `in a way that` / `foundations` / `a planning umbrella`
+
+### 34BEC-29s：5 个疑问全部已记录
+- `somehow` / `awkward places with wording` / `input on` / `introduce to users` / `tooltip`
+
+### 35BEC-41s：6 个疑问全部已记录
+- `source feedback` / `on a cadence` / `end up being` / `enablement`
+
+### 36BEC-38BEC：全部已记录
+- `nimble` / `jump in` / `a huge win` / `in + doing` / `go deeper` / `shift into`
+
+### 39BEC-41BEC：全部已记录
+- `the thought here is` / `ship` / `full-fledged` / `color` / `touch on` / `get one's arms around` / `your kind of` / `dependency on`
+
+**结论**：25-41BEC 共 17 个文件中，14 个零未记录。仅 25BEC（3）[25BEC 的 9 个中有 6 个为老师纠正型]、26BEC（5 全拒）、27BEC（2）有产出。原因：这批文件在 2026 年 2-3 月已被首轮深度训练。
+
+---
+
+## ✏️ 续：📊 不足汇总 (Improvement Areas)
+
+### 本半场新暴露语法层痛点
+
+| # | 缺口 | 严重度 | 首次出现 | 今日复发 | 详情 | 位置 |
+|:---:|:---|:---:|:---|:---:|:---|:---|
+| 24 | 🔴 **Tag 时态一致性（新次型）** | 🔴 | 2026-06-20 | **今日新暴露** | `was made...didn't it?` ❌ → `wasn't it?` ✅。主句 `was` → Tag 必须跟 `was`，不能跳到 `did`。加练后修复 | LP 11 R4 |
+| 25 | 🟡 **`might be made last year` 情态+完成体遗漏** | 🟡 | 2026-06-20 | 新暴露 | `might be made last year` ❌ → `might have been made` ✅。过去时间+情态推测→完成体 | Micro RP R2 |
+| 26 | 🟡 **`didn't intend`→`don't intend`（时态）** | 🟡 | 2026-06-20 | 新暴露 | "不打算"是当前意图 → 用 `don't intend`，非 `didn't intend` | LP `take` R2 |
+| 27 | 🟡 **`so to speak` 句末甩尾** | 🟡 | 2026-06-20 | 新暴露 | `isn't he? so to speak.` ❌。插入语不能在句末 Tag 后。已加练修复 | LP 13 R4 |
+
+### 本半场新暴露词汇/搭配层痛点
+
+| # | 缺口 | 严重度 | 详情 | 位置 |
+|:---:|:---|:---:|:---|:---|
+| 28 | 🟡 **`zip graph`→`line graph`** | 🟡 | 未知图表名，"折线图"→ `line graph` | FC R2 |
+| 29 | 🟡 **`magical`→`a magic bullet`** | 🟡 | `magical`（adj）→ `a magic bullet`（n. 比喻"灵丹妙药"） | LP 13 R2 |
+| 30 | 🟡 **`mentor character`→`mentor figure`** | 🟡 | `mentor character` 不自然 → `a mentor figure` | LP 13 R3 |
+| 31 | 🟡 **`on last Wednesday` 冠词冗余** | 🟡 | `last` 表"上个"不再加 `on` | LP 11 R1 |
+| 32 | 🟡 **`spreadsheet` vs `table`** | 🟡 | `spreadsheet` = Excel 文件，`table` = 数据表格 | LP 10 R3 |
+
+### 本半场学生亮点 🏆
+
+1. **主动质疑 ×3** 🏆：
+   - LP 10 R5 指出 AI 原选择题逻辑错误（"百分比图表本身就包含饼图，不该问用什么图展示图表"）
+   - LP 12 R5（`so to speak` 选择疑问句）指出"句子有点别扭"
+   - LP `take` R4 当场质疑 "take 前面练习过了，你忘了吗？" 让 AI 中止无效训练
+2. **`at one point` 自发跨 LP 复用** 🏆（LP 10 R1，25BEC 旧 LP 自然融入新 LP）
+3. **`percentage graph` 跨 LP 复用** 🏆（LP 11 R4b，前一个 LP 学的内容自然带入后续 LP）
+4. **`if I can still remember` 灵活变体** 🏆（LP 11 R3，学生自发在固定表达中加入 `still` 增强语气而不破坏结构）
+5. **`percentage data` 优于 AI 出题** 🏆（LP 10 R5，学生在场景中选了更自然的词）
+6. **概念追问 ×2**："pick up vs learn 区别"、"superpower 为什么用复数"（自发延伸学习）
+
+### 本半场 AI 执行问题
+
+| # | 问题 | 严重度 | 详情 |
+|:---:|:---|:---:|:---|
+| 6 | **LP 10 R5 出题逻辑错误** | 🟡 | "你会用饼图还是柱状图来展示这个百分比图表？" 逻辑不自洽，被学生指出 |
+| 7 | **LP 11 R5 + LP 12 R5 选择疑问句出题别扭** | 🟡 | `so to speak` + 选择疑问句语义不兼容；`if I can remember` + 二选一逻辑矛盾 |
+| 8 | **`take` 不当提取** | 🔴 | 将非独立 LP 当作未记录训练到 R4，被学生纠正后中止。根因：未检查 Role-play 历史 |
+| 9 | **`so to speak` 全场 AI 植入失职** | 🔴 | 声明植入 `come across as` 但 LP 13 4 轮全无对应中文措辞 |
+
+---
+
+## ✏️ 续：🛠️ 会话末检查清单（下半场）
+
+### 本半场新学语言点初始状态
+
+| 语言点 | 状态 | 判定依据 |
+|:---|:---:|:---|
+| `percentage graph`（25BEC） | 🟡 | 6/6+QF；零关键性错误；核心结构稳；Quick Fire 偏书面；1 次跨 LP 复用 |
+| `if I can remember`（25BEC） | 🟡 | 5/6+QF+1 加练；语境（加不加 `can`）判断准确；Tag 时态错误 1 次→修复；Quick Fire R1 未用目标结构 R2 补上；2 次跨 LP 复用 |
+| `priority` 可数/不可数（27BEC） | 🟡 | 5/6+QF+1 加练；核心考点（复数主语+复数 priorities）加练修复；Quick Fire 零延迟 |
+| `so to speak`（27BEC） | 🟡 | 4/6+QF+1 加练；比喻+留余地逻辑建立；句法位置 1 次错误→修复；选择/虚拟已合理跳过 |
+
+### 整体 session 已练语言点汇总（上半场 + 下半场）
+
+| 来源 | 语言点数 | 状态分布 |
+|:---|:---:|:---|
+| 23BEC 补齐 | 2（`if you wish`+`have+时间+to do`） | 🟡 |
+| 24BEC | 4（`align with`/`happens with`/`dev stream`/进行时） | 🟡 |
+| **25BEC** | **2** | 🟡 |
+| **27BEC** | **2** | 🟡 |
+| **合计** | **10** | 🟡×10 |
+
+### 25BEC-41BEC 扫描未练语言点（非学生主动提问 / 被拒）
+
+| 文件 | 未记录 LP | 状态 |
+|:---|:---|:---|
+| 25BEC | `look up vs look for/check` / `cuz→because` / `played around with us` / `FYI 语序` / `Mr Rate` / `updated message→updated data` | ⏭️ 老师纠正型，非学生主动提问 |
+| 25BEC | `graph vs chart` | ⏭️ 用户跳过 |
+| 26BEC | `to say like` / `from this to this` / `individual little thing` / `take`（复用义）/ `go out with` | ⏭️ 全拒（识记级/niche/已间接覆盖） |
+
+---
+
+*本笔记由 AI 在 2026-06-20 会话结束后生成。下半场为 25BEC-41BEC 扫描 + 4 个新 LP 训练。*

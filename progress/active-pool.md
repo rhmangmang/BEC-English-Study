@@ -141,4 +141,9 @@
 | development stream | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；5/6+QF（虚拟跳过）；连续 5 句式零失误；`come across as` 🏆 第 5 次结构突破为 `as adj`；跨 LP 复用 |
 | 进行时表常态化工作流程 | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；6/6+QF；前 4 句式零失误；`cadence` 3 月+未碰首次即对 🏆；R5 冠词+R6 结构回避+QF 回避；`there be`+`have` 混淆新缺口 |
 
-**当前数量**：88 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| percentage graph | 🟡 | 2026-06-20 | 2026-06-20 | 25BEC 提取；6/6+QF；零关键性错误；核心结构稳；Quick Fire 偏书面；1 次跨 LP 复用 `at one point` |
+| if I can remember | 🟡 | 2026-06-20 | 2026-06-20 | 25BEC 提取；5/6+QF+1 加练；语境（加不加 `can`）判断准确；Tag 时态错误 1 次→修复；QF R1 未用目标结构 R2 补上；2 次跨 LP 复用 |
+| priority 可数/不可数 | 🟡 | 2026-06-20 | 2026-06-20 | 27BEC 提取；5/6+QF+1 加练；核心考点（复数主语+复数 priorities）加练修复；Quick Fire 零延迟；否定陈述句 `priority`→`priorities` 1 次复发→修复 |
+| so to speak | 🟡 | 2026-06-20 | 2026-06-20 | 27BEC 提取；4/6+QF+1 加练；比喻+留余地逻辑建立；句法位置 1 次错误→修复；选择/虚拟合理跳过；`right?`→`isn't he?` 1 次 Tag 不规范 |
+
+**当前数量**：92 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
