@@ -1,4 +1,6 @@
-# Session Notes: 2026-06-21
+# Session Notes: 2026-06-21（全日志 / 上午 + 下午）
+
+## 上午场：42BEC 扫描 + 训练
 
 ## 0. 会话概述
 - **扫描文本**：42BEC-61s.md（口语会议对话纠错记录）
@@ -633,3 +635,293 @@
 ---
 
 *会话笔记记录完毕，共训练 6 个未记录 LP + 2 组 Flash Correct。*
+
+
+---
+
+# 会话笔记 - 2026-06-21 (下午场：43BEC 扫描 + 训练)
+
+## 会话概览
+
+- **日期**: 2026-06-21（下午）
+- **时长**: 约 90 分钟
+- **形式**: 43BEC 文本扫描 + 造句训练 + Micro Role-play + Flash Correct + `there be` 纠偏
+- **主要话题**: 43BEC 未记录语言点补充训练
+- **训练语言点**: `treat A as B` (6 句式 + 2 QF) + `specifically` (6 句式 + 1 QF)
+- **跳过**: `kind of`（用户认为太简单）、`meaning two things`（用户认为太简单）
+
+---
+
+## 43BEC 文本扫描结果
+
+文本文件 `texts/43BEC-63s.md`：1 段学生独白 + 9 组师生问答。学生有疑问的语言点共 11 个：
+
+| # | 语言点 | 状态 | 处理方式 |
+|---|--------|:---:|------|
+| 1 | `treat A as B` | ❌ 未记录 | 完整训练（6 句式 + 2 QF） |
+| 2 | `It goes back to` | ❌ 未记录 | LP 1/2 造句中多次复用激活 |
+| 3 | `broader confusion of` | ❌ 未记录 | LP 2 造句中复用激活 |
+| 4 | `meaning two things`（现在分词逻辑主语）| ❌ 未记录 | 用户跳过 |
+| 5 | `the superset of` | ❌ 未记录 | LP 2 造句中复用激活 |
+| 6 | `specifically` | ❌ 未记录 | 完整训练（6 句式 + 1 QF） |
+| 7 | `stuff / and stuff` | ✅ 已记录 | active-pool 🟡（来自 42BEC） |
+| 8 | `kind of`（修饰动词）| ❌ 未记录 | 用户跳过 |
+| 9 | `go in` | ✅ 已记录 | knowledge-gaps 🔴 `go in 不及物性` |
+| 10 | `subfilter` | ❌ 未记录 | 未提取（生僻词） |
+| 11 | `issue-type issue` | ❌ 未记录 | LP 1 造句中复用激活 |
+
+---
+
+## Flash Correct：`there be` + `have` 混淆（2 题）
+
+> **选类依据**: knowledge-gaps 🔴 Active 列表中 `there be` + `have` 混淆（06-20 首次暴露 → 06-21 上午 Flash Correct 复发），严重程度升级为最高优先级。
+
+### FC Round 1 — `there be` 过去完成体
+- **中文**: "由于当时没有备份，那个数据中心里其实并没有过任何数据丢失的情况。"
+- **学生答案**: `Because there was no backups at that time, the data center actually didn't have the situation of losing data.`
+- **评价**:
+  - 🔴🔴 **`there be` 结构完全回避**：整句用 `didn't have` 回避了本轮核心考点
+  - 🔴 **`there was no backups`** → `backups` 复数，应为 `there were no backups`
+  - 🔴 **`didn't have the situation of losing data`** — 标准中式直译。正确：`there had been no data loss`
+  - 关键性错误 → **加练 1 轮**
+
+### FC Round 1b（加练）— `there be` 现在完成体
+- **中文**: "在那个旧系统里，其实从来就没有过一个完整的数据备份。"
+- **学生答案**: `In the legacy system, there has not been a complete data backup.`
+- **评价**:
+  - ✅ **`there be` 反射建立成功**：`there has not been` 完全正确
+  - ✅ 主谓一致正确（`a backup` 单数 → `has`）
+  - ⚠️ `has not been` → 强调"从来没有过"用 `has never been` 更精准
+- **结果**: 通过 ✅
+
+---
+
+## 造句训练
+
+### 语言点 1: `treat A as B`
+
+> **来源**: 43BEC `treating it as`，03-15 练过 5 轮但未入 active-pool
+
+#### Round 1 — 肯定陈述句
+- **中文**: "目前，我们基本上把那个旧接口当作所有遗留数据的全集来处理。"
+- **学生答案**: `Currently, we basically treat that legacy interface as the overall leftover data.`
+- **评价**: ✅ `treat A as B` 命中。🔴 `overall leftover data` → `superset` + `legacy data`。AI 失职：承诺植入 `pick up on` 但中文缺引导词。
+
+#### Round 2 — 否定陈述句
+- **中文**: "说实话，我们并没有把这个新字段当作专门为第三方服务设计的东西。"
+- **学生答案**: `Honestly, we didn't treat this new field as a specified thing just for the third service.`
+- **评价**: ✅ `treat as` 骨架。🔴 `specified` ≠ `specifically`（词性混淆）。🔴 `the third service` → `third-party services`。
+- **随堂概念辨析**: `specifically` vs `specified` — 已讲解。
+
+#### Round 3 — 特殊疑问句
+- **中文**: "我们到底该把它当什么来处理？"（12 字）
+- **学生答案**: `What exactly should we treat it as?`
+- **评价**: 🏆 满分！句末 `as` 留空位极其地道。
+
+#### Round 4 — 反义疑问句
+- **中文**: "你们并没有把它当紧急任务来处理，给人的感觉挺随意的，对吧？"（24 字）
+- **学生答案**: `You didn't treat it as an emergency. It came across as casual, right?`
+- **评价**: ✅ `treat as` + `come across as` 双命中。✅✅ `come across as casual` — `as+adj` 结构突破 🎉。🔴 Tag 用 `right?` → 应为 `didn't it?`。
+
+#### Round 5 — 选择疑问句
+- **中文**: "你们是把这当技术债处理，还是它归结于需求不清晰？"（22 字）
+- **学生答案**: `Do you treat this as a technical debt, or should it go back to unclear requirement?`
+- **评价**: ✅ `treat as` + `go back to` 双命中。🔴 `a technical debt` 不加冠词。🔴 平行结构不对称。
+
+#### Round 6 — 混合虚拟语气
+- **中文**: "如果你们早点注意到这个设计缺陷，现在就不会把它当临时方案处理了。"（28 字）
+- **学生答案**: `If you had picked up on this design defect earlier, it would not have been treated as a temporary proposal.`
+- **评价**: ✅✅ `pick up on` 植入成功。🔴🔴 Mixed Conditional 结果句选错：中文"现在" → `would + 原形`，非 `would have + pp`。🔴 `temporary proposal` → `temporary solution`。→ **加练 1 轮**
+
+#### Round 6b（加练 1）— 混合虚拟语气
+- **中文**: "如果你们当初把它当技术债来处理，现在就不会有这么多问题了。"（25 字）
+- **学生答案**: `If you had not treated as technical debt, there would not have so many issues.`
+- **评价**: 🔴 `treat` 丢宾语 `it`。🔴🔴 `there would not have` — `there be`+`have` 混淆（本 session 第 3 次）。→ **继续加练**
+
+#### Round 6c（加练 2）— 混合虚拟语气
+- **中文**: "如果你们当初把它当紧急任务来处理，团队现在就会有更少的大范围混淆。"（27 字）
+- **学生答案**: `If you had treated it as an emergency, there would less broader confusion for the team now.`
+- **评价**: 🔴🔴 `there would less` 漏 `be`（第 4 次）。🔴 `less broader` 冲突。→ **继续加练**
+
+#### Round 6d（加练 3）— 混合虚拟语气（无 `there be`）
+- **中文**: "如果你们当初把它当技术债标注出来，团队现在就不会这么被动了。"（25 字）
+- **学生答案**: `If you had flagged it as technical debt, the team would not be busy now.`
+- **评价**: ✅✅ Mixed Conditional 正确（无 `there be` 干扰）。⚠️ `busy` → `in a reactive position`。
+- **通过** ✅
+
+#### ⚡ Quick Fire 1
+- **场景**: 同事把 UI 调整当 P0 紧急任务
+- **学生答案**: `It doesn't matter that you treated the UI change as a P0 priority task.`
+- **评价**: ✅ `treat as` 命中。⚠️ 语义偏（安慰→应该质疑）。
+
+#### ⚡ Quick Fire 2
+- **场景**: 向老板说明新模块定位
+- **学生答案**: `It was not specifically designed for the old system. it should be treated as a basic component for the new architecture.`
+- **评价**: ✅ `specifically designed for` + `treat as` 命中。
+
+#### `treat A as B` 句式池覆盖清单
+| 句式 | 状态 | 备注 |
+|---|---|---|
+| 1. 肯定陈述句 | ✅ | `superset` / `leftover` 词汇 |
+| 2. 否定陈述句 | ✅ | `specified` ≠ `specifically` |
+| 3. 特殊疑问句 | ✅ 满分 | 句末 `as` 留空位 |
+| 4. 反义疑问句 | ✅ | Tag `right?` → `didn't it?` |
+| 5. 选择疑问句 | ✅ | 平行结构不对称 |
+| 6. 虚拟语气 | ✅ | 3 轮加练后通过 |
+
+---
+
+### 语言点 2: `specifically`
+
+> **来源**: 43BEC `not specifically the issue-type issue`，03-17 练过 5 轮但未入 active-pool
+
+#### Round 1 — 肯定陈述句
+- **中文**: "这个字段是专门为那类问题类型的问题设计的。"（19 字）
+- **学生答案**: `This field is specifically designed for the kind of issue type issue.`
+- **评价**: ✅ `specifically designed for` + `issue-type issue` 双激活。AI 失职：无历史词组植入。
+
+#### Round 2 — 否定陈述句
+- **中文**: "这个模块并不专门针对旧系统，它归结于一个更大的设计问题。"（23 字）
+- **学生答案**: `This module is not specifically targeted to old systems, it goes back to a bigger design issue.`
+- **评价**: ✅✅ `specifically` + `goes back to` 双命中。🔴 Comma Splice。⚠️ `old` → `legacy`。
+
+#### Round 3 — 特殊疑问句
+- **中文**: "到底哪个模块是专门为所有数据类型设计的全集？"（19 字）
+- **学生答案**: `Which module exactly is specifically designed for the superset of all the data type?`
+- **评价**: ✅✅ `specifically` + `the superset of` 双命中。🔴 `all the data type` → `all data types`。
+
+#### Round 4 — 反义疑问句
+- **中文**: "这个接口并不是专门为那套旧架构设计的，它根源在于一个更大的混淆，对吧？"（27 字）
+- **学生答案**: `This interface was not specifically designed for the legacy architecture, it goes back to a bigger confusion, doesn't it?`
+- **评价**: ✅✅ `specifically` + `goes back to` 连续 2 轮双命中。✅ Tag `doesn't it?` 满分。🔴 Comma Splice。
+
+#### Round 5 — 选择疑问句
+- **中文**: "这个字段是专门为新架构设计的，还是它源自大家对需求的大范围混淆？"（27 字）
+- **学生答案**: `Is this field specifically designed for the new architecture, or does it go back to broader confusion for requirements?`
+- **评价**: ✅✅✅ `specifically` + `go back to` + `broader confusion` 三 LP 融合。🔴 `broader confusion for` → `of`。
+
+#### Round 6 — 混合虚拟语气
+- **中文**: "如果你当初把这个模块专门设计成所有功能的全集，现在就不会有这种大范围混淆了。"（30 字）
+- **学生答案**: `If you had specifically designed this module as the superset of all the features, there would not such broader confusion now.`
+- **评价**: ✅✅ `specifically designed as` + `superset` 双命中。🔴🔴 `there would not` 漏 `be`（第 4 次）。→ **加练**
+
+#### Round 6b（加练）— 混合虚拟语气（无 `there be`）
+- **中文**: "如果你当初专门为旧系统设计了这个接口，你现在就不会面临这么大的压力了。"（28 字）
+- **学生答案**: `If you had specifically designed this interface for the legacy system, you would not face such big pressure now.`
+- **评价**: ✅✅ Mixed Conditional 正确。⚠️ `such big pressure` → `so much pressure`。
+- **通过** ✅
+- **随堂概念辨析**: `such` vs `so much` / `so many` — 已讲解。
+
+#### ⚡ Quick Fire 1
+- **场景**: PM 问功能覆盖范围
+- **学生答案**: `This was not specifically designed for the mobile, it should cover all the platforms.`
+- **评价**: ✅ 命中。⚠️ 冠词（`for mobile`/`all platforms`）。⚠️ Comma Splice。
+
+#### `specifically` 句式池覆盖清单
+| 句式 | 状态 | 备注 |
+|---|---|---|
+| 1. 肯定陈述句 | ✅ | `issue-type issue` 激活 |
+| 2. 否定陈述句 | ✅ | + `goes back to` |
+| 3. 特殊疑问句 | ✅ | + `superset` 激活 |
+| 4. 反义疑问句 | ✅ | Tag 满分 |
+| 5. 选择疑问句 | ✅ | 三 LP 融合 |
+| 6. 虚拟语气 | ✅ | 1 轮加练后通过 |
+
+---
+
+## Micro Role-play（整合 LP 1 + LP 2）
+
+**场景**: 向新同事解释旧 data pipeline 的定位。
+
+**学生原文**:
+> "Well, this pipeline is treated as a temporary solution. It was not specifically designed for the production. So all the problems now go back to that no one treated it as a formal production component at the beginning."
+
+**评价**:
+- 🏆 三个 LP 全部融入，逻辑层层递进
+- 🔴 `go back to that no one treated it` — 介词 `to` 后 `that` 从句 ❌ → `go back to nobody treating it` ✅
+- ⚠️ `for the production` → `for production`
+
+---
+
+## 结束前专项纠偏：`there be` 情态体（2 题）
+
+> **选类依据**: 本 session `there be` 触发 4 次，严重程度升级
+
+### 纠偏题 1
+- **中文**: "如果我们当初沟通得更清楚，现在就根本不会有这种大范围混淆了。"
+- **学生答案**: `If we had communicated more clearly at that time, there would not be such broad confusion now.`
+- **评价**: 🏆🏆🏆 `there would not be` 完全正确！本 session 首次零错误。
+
+### 纠偏题 2
+- **中文**: "如果之前有过一次完整的数据备份，那些遗留服务现在就不会有中断的风险了。"
+- **学生答案**: `If there had been a complete data backup, those legacy services would not have interrupted risks.`
+- **评价**: 🏆 `there had been` 正确。🔴 Mixed Conditional 结果句错。🔴 `interrupted risks` 语义不对。→ **加练**
+
+### 纠偏题 2b（加练 1）
+- **中文**: "如果那个接口当初被当全集来设计，现在就不会有这么多字段混淆了。"
+- **学生答案**: `If the interface had been designed for the superset, there would not so many field confusion now.`
+- **评价**: 🔴🔴 `there would not` 漏 `be`（第 5 次）。🔴 `many confusion` → `much`。→ **继续加练**
+
+### 纠偏题 2c（加练 2）
+- **中文**: "如果没有清晰的文档，现在就会有更多大范围混淆。"
+- **学生答案**: `If there was no clear document, there would be broader confusion now.`
+- **评价**: 🏆 `there would be` 最终命中！`be` 没丢！⚠️ `If there was` → `If there were`。
+
+---
+
+## 重点纠错与不足总结
+
+| 知识点 | 错误 | 严重程度 |
+|:---|:---|:---:|
+| `there be` 情态体漏 `be` | ×5（FC + R6b + R6c + R6 + 纠偏 2b） | **极高** |
+| Mixed Conditional 结果句时态 | ×2（`would have + pp` → `would + 原形`） | **高** |
+| `treat` 丢宾语 | ×1 | 中 |
+| Comma Splice | LP 2 R2/R4/QF1 | 中 |
+| 介词 + `that` 从句 | Micro RP `go back to that...` | 中 |
+| `leftover` → `legacy` | ×1 | 低 |
+| `specified` ≠ `specifically` | ×1 | 低 |
+| `such broader` 搭配 | ×1 | 低 |
+| many/much 混用复发 | ×1 | 低 |
+
+---
+
+## 跳过/未完成
+
+| 项目 | 原因 |
+|:---|:---|
+| `kind of` | 用户跳过 |
+| `meaning two things` | 用户跳过 |
+| 大场景化模拟 | 未做 |
+| 话题构建训练 | 未做 |
+
+## 复用的历史词组追踪
+
+| 词组 | 状态 | 成功 | 失败 |
+|:---|:---:|:---:|:---:|
+| `pick up on` | 🟢 | LP 1 R6 | 0 |
+| `come across as` | 🟡→🟢 | LP 1 R4 | 0 |
+
+## 概念辨析记录（随堂）
+
+| 概念 | 触发场景 |
+|:---|:---|
+| `specifically` vs `specified` | LP 1 R2 |
+| `in a reactive position` / `on the back foot` | LP 1 QF1 |
+| `in the first place` 用法 | Micro RP |
+| 介词 + 动名词（`go back to nobody treating it`）| Micro RP |
+| `such` vs `so much` / `so many` | LP 2 R6b |
+
+## AI 失职记录
+
+| 轮次 | 内容 |
+|:---|:---|
+| LP 1 R1 | 承诺植入 `pick up on` 但中文缺引导词 |
+| LP 2 R1 | 承诺植入 `goes back to` 但中文缺引导词 |
+| LP 1 R3 | 句子太短无植入空间 |
+
+## 下次会话行动项
+
+- [ ] **🔴🔴 `there be` Flash Correct 专项（最高优先级）**: 两日 3 场复发
+- [ ] **🔴 Mixed Conditional 结果句时态专项**: 中文"现在"→ `would + 原形`
+- [ ] **44BEC 扫描**: 43BEC 意外产出 9 个 LP，44BEC 建议扫描
+- [ ] **`come across as` → 🟢 持续追踪**

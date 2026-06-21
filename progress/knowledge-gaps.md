@@ -37,19 +37,20 @@
 - [ ] **🔴 `lack of`（名词性）vs `lack`（动词）混淆**: `he's lack of experience` ❌。`lack of` 是名词短语（如 `a lack of`），不能直接放系动词后当表语。动词用法 `lack sth` 不接 `of`。2026-06-14 选择疑问句造句中暴露。
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性，如 This noise is distracting），`make sb + distracting` 逻辑不通。2026-06-14 LP 6 反义疑问句中暴露。
 
-- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。2026-06-07 未复发。2026-06-20 LP 3 R6 虚拟语气压力下再次复发：`so much issues` ❌ → `so many issues` ✅（Flash Correct 中零复发但复杂句仍回退）。
-- [ ] **🔴 `there be` + `have` 混淆（隔日复发！）**: `there would not have had gaps` ❌（06-20 首次暴露）→ `there had not had the data backup` ❌（06-21 Flash Correct 中复发）。`there be` 完成体是 `there would have been` / `there had been`，非 `have had`。**两天连续复发，严重程度升级**。2026-06-20 首曝 → 2026-06-21 复发。
+- [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。2026-06-07 未复发。2026-06-20 LP 3 R6 虚拟语气压力下再次复发：`so much issues` ❌ → `so many issues` ✅。2026-06-21 下午再次触发：`so many field confusion` ❌（`confusion` 不可数→ `so much confusion`）。Flash Correct 零复发但复杂句仍回退。
+- [ ] **🔴🔴 `there be` + `have` 混淆（两日 3 场连续复发，已升级为最顽固系统性缺口）**: `there would not have had gaps` ❌（06-20 首曝）→ `there had not had the data backup` ❌（06-21 FC）→ **06-21 下午 5 次复发**：`there would not have` ×1 + `there would not` 漏 `be` ×3 + `there would less` 漏 `be` ×1。已从单纯 `have` 混淆演变为情态体下漏 `be` 的变形错误。**硬性检查规则：`there` 出现 → 句子必须有 `be`（或其时态变体）。每次造句后强制自检。** 2026-06-20 首曝 → 06-21 两场升级。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 - [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
-- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露。
+- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露 → **2026-06-21 下午再次触发 2 次**：`would not have been treated`（应 `would not be`，现在果）+ `would not have interrupted risks`（应 `would not be at risk`，现在果）。中文"现在/如今"→ `would + 原形`，"当初/当时"→ `would have + pp`。
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
 - [ ] **🔴 Comma Splice 逗号拼接（新缺口-高频）**: 同一 session 触发 10+ 次。两个完整句子之间只用逗号连接是英文书面语法错误，应用分号 `;` 或句号 `.`。在自由产出（造句/Role-play/Quick Fire）中全部出现。需建立"写完一句→检查前面是否 Comma Splice"的自觉。2026-06-21 新发现。
 - [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
 - [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
-- [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。
+- [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。→ **2026-06-21 下午扩展**：`go back to that no one treated it` ❌ — 同位介词 `to` 同样不能接 `that` 从句。正确：`go back to nobody treating it`（动名词短语）。
+- [ ] **🔴 `specified`（adj. 被指定的）vs `specifically`（adv. 专门地）词性混淆**: `a specified thing` ❌ 中文"专门为…设计的东西" → `specifically designed` ✅。`specify` 的过去分词 vs 副词的词性/词义双重混淆。2026-06-21 新暴露（LP 1 R2 造句中触发）。随堂已讲解区分。
 - [ ] **🔴 词性混淆（副词→名词修饰语）**: `slightly change` ❌（`slightly` 是副词，只能修饰动词/形容词）→ `slight change` ✅（形容词+名词）。2026-06-21 新发现。
 - [ ] **🔴 `pretty much` ≠ "挺多的"**: `pretty much time` ❌（义为"基本上/差不多"）→ `quite a lot of time` ✅。`pretty much` 是口语短语表"几乎/差不多"，非程度副词修饰数量。2026-06-21 新发现。
 - [ ] **🔴 `ask problems` → `ask questions`**: `ask...technical problems` ❌。`ask` 的宾语是"问题本身"而非"问题的内容"→ `ask questions` ✅。中文"问问题"的直译陷阱。2026-06-21 新发现。

@@ -40,7 +40,7 @@
 | as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 `you're not got` ❌ → 2026-06-16 LP 1 R4 `have not gotten onboard with` ✅ 修复成功，升级 🟡；搭配限制：只接想法/计划 |
-| pick up on | 🟢 | 2026-05-02 | 2026-05-31 | 连续 2 次主动复用正确（否定句+一般疑问句），从 🟡 升级 🟢 🏆 |
+| pick up on | 🟢 | 2026-05-02 | 2026-06-21 | 连续 3 次主动复用正确（06-21 LP 1 R6 `had picked up on` ✅），🏆 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
 | most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
@@ -70,7 +70,13 @@
 | go in and speak their language | 🟡 | 2026-05-06 | — | go in 不及物性需注意 |
 | high-level questions | 🟢 | 2026-05-06 | — | vs low-level ones 对比正确；概念辨析到位 🏆 |
 | let alone + 原形 | 🟢 | 2026-05-06 | 2026-05-08 | 全程修复 + 隔夜满分 🏆 |
-| come across as | 🟡 | 2026-05-06 | 2026-06-20 | 2026-06-20 重大突破：连续 3 次结构错误（`as like`/`as that`/`as unlike`）→ 第 5 次 `as unreliable` ✅ `as + adj` 结构固化 |
+| come across as | 🟢 | 2026-05-06 | 2026-06-21 | 2026-06-20 第 5 次 `as unreliable` ✅ 结构突破 → 2026-06-21 LP 1 R4 `as casual` ✅ 隔场连续正确，升级 🟢 🏆 |
+| treat A as B | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；6 句式+2 QF+Micro RP；`there be` 干扰下虚拟语气 3 轮加练后通过；`treat` 丢宾语 1 次；`leftover`→`legacy` 词汇偏差 |
+| specifically | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；6 句式+1 QF+Micro RP；与 `specified` 混淆 1 次已讲解；1 轮加练后通过 |
+| go back to | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；LP 1/2 造句中多次复用激活；介词 `to` 后 `that` 从句错误 1 次（Micro RP） |
+| broader confusion of | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；LP 2 造句中复用激活；介词搭配 `for`→`of` 需注意 |
+| the superset of | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；LP 2 造句中复用激活；拼写注意 `super`+`set` |
+| issue-type issue | 🟡 | 2026-06-21 | 2026-06-21 | 43BEC 提取（3 月训练过但未入池）；LP 1/2 造句中复用激活；嵌套类型表达的连字符规范 |
 | build A into B | 🟢 | 2026-05-08 | — | 6 种句式全部通关 🏆 |
 | talk shop | 🟢 | 2026-05-08 | — | 固定习语；5 种句式 + QF 满分 🏆 |
 | be past that | 🟢 | 2026-05-08 | — | 5 种句式通关；概念辨析到位 |
@@ -158,4 +164,4 @@
 | bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；隐含轻微不满/批评语气 |
 | aligned with（方向/立场一致）vs similar to（表面相似） | 🟡 | 2026-06-21 | 2026-06-21 | LP3 R5 随堂辨析 |
 
-**当前数量**：98 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+**当前数量**：104 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）

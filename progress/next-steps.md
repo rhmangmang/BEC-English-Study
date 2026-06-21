@@ -36,7 +36,7 @@
 - [ ] **🔴 `not in time for` 后接类型 Flash Correct 拦截**: `for sb to do` ❌ / `for + 非事件名词` ❌。`in time for` 只接事件名词（deadline/meeting）；动作用 `in time to do`。2026-06-16 3 次新复发。
 - [ ] **🔴 完成时+隐式过去锚点专项拦截**: 2026-06-16 Flash Correct 3/3 满分，但自由造句中在"已结束事件"场景下 5 次回退（`in the meeting` / 培训已结束 等无言 time marker）。核心缺失：认为只有 `yesterday`/`last week` 才算过去时间。
 - [ ] **🔴 `familiar with` vs `used to` 纠偏**: 2026-06-16 LP 5 R5 `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。
-- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择纠偏**: 2026-06-16 LP 2 R6 `had had → would go` ❌ → `would have gone` ✅。中文语境判断"行为归属时间"有偏差。
+- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择纠偏**: 2026-06-16 LP 2 R6 `had had → would go` ❌ → `would have gone` ✅。中文语境判断"行为归属时间"有偏差。→ 06-21 下午再次触发 2 次（`would not have been treated` → `would not be treating`；`would not have interrupted risks` → `would not be at risk`）。Flash Correct 加入 2 题含明确中文时间词的判断训练。
 - [ ] **🔴 间接疑问句语序**: 2026-06-16 LP 2 R3 复发 → 2026-06-20 LP 4 R5 再次复发：`Which one is more important you think` ❌。`do you think` 插入后主句语序不变。
 - [ ] **`check vs confirm` 辨析训练**: 18BEC 提取但未练，待后续补充。
 - [ ] **`interest` 三种句式训练**: 18BEC 提取但未练，待后续补充。
@@ -70,13 +70,16 @@
 - [x] **27BEC 扫描完成**: 8 疑问点中 6 已记录，提取 `priority` 可数/不可数🟡 + `so to speak`🟡 共 2 个 LP 并完成训练。
 - [x] **继续扫描 42BEC+**: 25BEC-41BEC 仅有 27BEC 产出，42BEC-52BEC 同样为 2026 年 2-3 月首轮训练批次，预计零产出。真正未记录 LP 密集区为 53BEC+。
 - [x] **42BEC 扫描完成**: 12 个疑问点中 5 个已训练，6 个未记录 LP 全部完成训练（`stuff`🟡/`change`🟡/`the same as`🟡/`technical services`🟡/`typically vs generally`🟡/`naturally vs in nature`🟡）。`train up`/`trains colleagues` 学生跳过。随堂辨析 14 次新增 4 个新词组入 active-pool。Flash Correct ×2（情态+原形 2/2 ✅ / many+much 2/2 ✅）。Micro RP ×2 一次通关 🏆。
-- [ ] **🔴 `there be` + `have` 混淆 Flash Correct 专项拦截**: 06-20 首次暴露（`there would not have had gaps` ❌）→ 06-21 Flash Correct 中即复发（`there had not had the data backup` ❌）。两天连续复发，需列入最高优先级 Flash Correct。
+- [ ] **🔴🔴 `there be` + `have` 混淆 Flash Correct 专项拦截（最高优先级）**: 06-20 首次暴露（`there would not have had gaps` ❌）→ 06-21 FC 复发 → **06-21 下午 5 次复发**（`there would not have` + `there would not` 漏 `be`×3 + `there would less`漏`be`×1）。两日 3 场连续复发，已从 `have` 混淆演变为情态体下漏 `be` 的变形错误。下次开场必须先做 2 题含 `there would be` / `there had been` 的 Flash Correct。建立硬性检查：`there` 出现 → 句子必须有 `be`。
 - [ ] **🔴 Comma Splice 逗号拼接专项纠偏**: 06-21 同一 session 10+ 次触发。需建立"写完一句→检查前句是否 Comma Splice"的写作自觉。建议下次 Flash Correct 专设 2 题强制使用分号。
 - [ ] **🔴 造词习惯纠偏（un-前缀/后缀泛化）**: 06-21 暴露 4 个不存在词（`untransparent`/`untrust`/`changability`/`batchly`）。核心：培养"不确定就查词典"的习惯，不发散构词。
 - [ ] **🔴 比较对象一致性 Flash Correct 拦截**: `the same as` 后比较对象需类型一致（`style vs style` 非 `style vs person`）。06-21 R3+R5 同一 session 连续复发。
 - [ ] **🔴 `about that` 从句 + 词性混淆（adv→adj）+ `pretty much` + `I'm not agree`**: 06-21 新暴露基础语法/词汇缺口。可由 Flash Correct 自然拦截。
-- [ ] **继续扫描 43BEC+**: 42BEC 已完成。43BEC-52BEC 为 2026 年 2-3 月首轮训练批次，预计零产出。跳过至 53BEC+（06-15 已确认）。
+- [x] **继续扫描 43BEC+**: 42BEC 已完成。43BEC-52BEC 为 2026 年 2-3 月首轮训练批次，预计零产出。跳过至 53BEC+（06-15 已确认）。**→ 43BEC 扫描发现 9 个未记录 LP（3 月训练过但未入池），已补充训练 2 个 + 复用激活 4 个 + 跳过 2 个。** 44BEC 建议同样扫描。
 - [ ] **🔴 Tag 时态一致性专项拦截（新次型）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。2026-06-20 新暴露。主句系动词 `was` → Tag 必须跟 `was`，不能跳 `did`。
+- [ ] **🔴 `specified`（adj. 被指定的）vs `specifically`（adv. 专门地）Flash Correct 拦截**: 2026-06-21 LP 1 R2 `a specified thing` ❌ 中文"专门为…设计" → `specifically designed` ✅。随堂已讲解，需隔场抽查确认区分。
+- [ ] **继续扫描 44BEC**: 43BEC 意外产出 9 个未记录 LP。44BEC（`44BEC-69s.md`）同为 3 月训练批次，建议扫描确认是否有类似遗漏。
+- [ ] **🟡 `come across as` → 🟢 持续追踪**: 06-20 `as adj` 首次突破 → 06-21 再次成功。如再通过 1 次复查可正式确认 🟢 升级。
 - [ ] **🟡 `so to speak` 句法位置巩固**: 2026-06-20 句末甩尾错误→加练修复。需隔场抽查。
 - [ ] **🟡 `might be done` → `might have been done` 情态+过去→完成体**: 2026-06-20 Micro RP 暴露。中文"可能是去年做的"隐含过去时间+推测→英文需完成体。
 - [ ] **🟡 `right?` → `isn't he?` 反义疑问句 Tag 规范**: 2026-06-20 LP 13 暴露。口语化 `right?` 不能替代标准 Tag。
