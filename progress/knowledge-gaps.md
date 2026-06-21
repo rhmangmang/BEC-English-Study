@@ -38,13 +38,23 @@
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性，如 This noise is distracting），`make sb + distracting` 逻辑不通。2026-06-14 LP 6 反义疑问句中暴露。
 
 - [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。2026-06-07 未复发。2026-06-20 LP 3 R6 虚拟语气压力下再次复发：`so much issues` ❌ → `so many issues` ✅（Flash Correct 中零复发但复杂句仍回退）。
-- [ ] **🔴 `there would not have had` — `there be` + `have` 混淆（新类型）**: `there would not have had requirement gaps` ❌ → `there would not have **been**...` ✅。`there be` 完成体虚拟是 `there would have been`，非 `would have had`。2026-06-20 LP 9 R6 加练 新暴露。
+- [ ] **🔴 `there be` + `have` 混淆（隔日复发！）**: `there would not have had gaps` ❌（06-20 首次暴露）→ `there had not had the data backup` ❌（06-21 Flash Correct 中复发）。`there be` 完成体是 `there would have been` / `there had been`，非 `have had`。**两天连续复发，严重程度升级**。2026-06-20 首曝 → 2026-06-21 复发。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 - [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
 - [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露。
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
+
+- [ ] **🔴 Comma Splice 逗号拼接（新缺口-高频）**: 同一 session 触发 10+ 次。两个完整句子之间只用逗号连接是英文书面语法错误，应用分号 `;` 或句号 `.`。在自由产出（造句/Role-play/Quick Fire）中全部出现。需建立"写完一句→检查前面是否 Comma Splice"的自觉。2026-06-21 新发现。
+- [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
+- [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
+- [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。
+- [ ] **🔴 词性混淆（副词→名词修饰语）**: `slightly change` ❌（`slightly` 是副词，只能修饰动词/形容词）→ `slight change` ✅（形容词+名词）。2026-06-21 新发现。
+- [ ] **🔴 `pretty much` ≠ "挺多的"**: `pretty much time` ❌（义为"基本上/差不多"）→ `quite a lot of time` ✅。`pretty much` 是口语短语表"几乎/差不多"，非程度副词修饰数量。2026-06-21 新发现。
+- [ ] **🔴 `ask problems` → `ask questions`**: `ask...technical problems` ❌。`ask` 的宾语是"问题本身"而非"问题的内容"→ `ask questions` ✅。中文"问问题"的直译陷阱。2026-06-21 新发现。
+- [ ] **🔴 `I'm not agree` → `I don't agree`**: `agree` 是动词，不能放在 `I'm` 后作形容词。`I'm not agree` ❌ → `I don't agree` ✅。类似：`I'm not understand` ❌。2026-06-21 新发现。
+- [ ] **🔴 `since` 悬空**: `have not optimized it since.` — `since` 作副词"从那以后"时需隐含时间参照，句尾悬空不自然。更常用：`still haven't` / `have never`。2026-06-21 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。

@@ -68,7 +68,14 @@
 - [x] **继续扫描 25BEC**。
 - [x] **25BEC 扫描完成**: 12 疑问点中 3 已记录，提取 `percentage graph`🟡 + `if I can remember`🟡 共 2 个 LP 并完成训练。`graph vs chart` 用户跳过。26BEC-41BEC 速扫完成（仅 27BEC 产出 2 个 LP）。
 - [x] **27BEC 扫描完成**: 8 疑问点中 6 已记录，提取 `priority` 可数/不可数🟡 + `so to speak`🟡 共 2 个 LP 并完成训练。
-- [ ] **继续扫描 42BEC+**: 25BEC-41BEC 仅有 27BEC 产出，42BEC-52BEC 同样为 2026 年 2-3 月首轮训练批次，预计零产出。真正未记录 LP 密集区为 53BEC+。
+- [x] **继续扫描 42BEC+**: 25BEC-41BEC 仅有 27BEC 产出，42BEC-52BEC 同样为 2026 年 2-3 月首轮训练批次，预计零产出。真正未记录 LP 密集区为 53BEC+。
+- [x] **42BEC 扫描完成**: 12 个疑问点中 5 个已训练，6 个未记录 LP 全部完成训练（`stuff`🟡/`change`🟡/`the same as`🟡/`technical services`🟡/`typically vs generally`🟡/`naturally vs in nature`🟡）。`train up`/`trains colleagues` 学生跳过。随堂辨析 14 次新增 4 个新词组入 active-pool。Flash Correct ×2（情态+原形 2/2 ✅ / many+much 2/2 ✅）。Micro RP ×2 一次通关 🏆。
+- [ ] **🔴 `there be` + `have` 混淆 Flash Correct 专项拦截**: 06-20 首次暴露（`there would not have had gaps` ❌）→ 06-21 Flash Correct 中即复发（`there had not had the data backup` ❌）。两天连续复发，需列入最高优先级 Flash Correct。
+- [ ] **🔴 Comma Splice 逗号拼接专项纠偏**: 06-21 同一 session 10+ 次触发。需建立"写完一句→检查前句是否 Comma Splice"的写作自觉。建议下次 Flash Correct 专设 2 题强制使用分号。
+- [ ] **🔴 造词习惯纠偏（un-前缀/后缀泛化）**: 06-21 暴露 4 个不存在词（`untransparent`/`untrust`/`changability`/`batchly`）。核心：培养"不确定就查词典"的习惯，不发散构词。
+- [ ] **🔴 比较对象一致性 Flash Correct 拦截**: `the same as` 后比较对象需类型一致（`style vs style` 非 `style vs person`）。06-21 R3+R5 同一 session 连续复发。
+- [ ] **🔴 `about that` 从句 + 词性混淆（adv→adj）+ `pretty much` + `I'm not agree`**: 06-21 新暴露基础语法/词汇缺口。可由 Flash Correct 自然拦截。
+- [ ] **继续扫描 43BEC+**: 42BEC 已完成。43BEC-52BEC 为 2026 年 2-3 月首轮训练批次，预计零产出。跳过至 53BEC+（06-15 已确认）。
 - [ ] **🔴 Tag 时态一致性专项拦截（新次型）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。2026-06-20 新暴露。主句系动词 `was` → Tag 必须跟 `was`，不能跳 `did`。
 - [ ] **🟡 `so to speak` 句法位置巩固**: 2026-06-20 句末甩尾错误→加练修复。需隔场抽查。
 - [ ] **🟡 `might be done` → `might have been done` 情态+过去→完成体**: 2026-06-20 Micro RP 暴露。中文"可能是去年做的"隐含过去时间+推测→英文需完成体。

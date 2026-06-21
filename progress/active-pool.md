@@ -146,4 +146,16 @@
 | priority 可数/不可数 | 🟡 | 2026-06-20 | 2026-06-20 | 27BEC 提取；5/6+QF+1 加练；核心考点（复数主语+复数 priorities）加练修复；Quick Fire 零延迟；否定陈述句 `priority`→`priorities` 1 次复发→修复 |
 | so to speak | 🟡 | 2026-06-20 | 2026-06-20 | 27BEC 提取；4/6+QF+1 加练；比喻+留余地逻辑建立；句法位置 1 次错误→修复；选择/虚拟合理跳过；`right?`→`isn't he?` 1 次 Tag 不规范 |
 
-**当前数量**：92 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| stuff（口语泛指"东西/工作内容"） | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；`and stuff like that` 即学即用 🏆；`pretty much`≠"挺多的"需注意 |
+| change 不可数抽象 vs changes 可数具体 | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF+1 加练；R2 `the changes per se` ❌ 关键性错误→加练修复；R4 `untransparent`/`untrust` 造词；QF `minor tweaks` 精准 |
+| the same as（简洁比较结构） | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF+2 加练；R3+R5 比较对象一致性 2 次复发→加练修复；R4 满分 🏆 |
+| technical services（复数表部门） | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；零关键性错误；部门名无冠词规则全部到位 🏆 |
+| typically vs generally | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；核心区分正确；R4 `ask problems` ❌；`Generally...usually` 冗余 |
+| naturally vs in nature | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；R4/R5 连续满分 🏆🏆；R3 `changability` 造词 ❌；QF `I'm not agree` ❌ |
+
+| push back on（反对/抵制）+ push through（强行推动） | 🟡 | 2026-06-21 | 2026-06-21 | Micro RP 2 中随堂辨析；`push back` 不及物+ `on` 桥接 → `push back on sth`；`push through` = 顶着阻力硬推 |
+| streamline（精简/去冗余）vs optimize（广泛优化） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；`streamline` = 做减法；`optimize` = 任何方向的优化 |
+| bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；隐含轻微不满/批评语气 |
+| aligned with（方向/立场一致）vs similar to（表面相似） | 🟡 | 2026-06-21 | 2026-06-21 | LP3 R5 随堂辨析 |
+
+**当前数量**：98 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
