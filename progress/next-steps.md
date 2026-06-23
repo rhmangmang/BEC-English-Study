@@ -78,8 +78,17 @@
 - [x] **继续扫描 43BEC+**: 42BEC 已完成。43BEC-52BEC 为 2026 年 2-3 月首轮训练批次，预计零产出。跳过至 53BEC+（06-15 已确认）。**→ 43BEC 扫描发现 9 个未记录 LP（3 月训练过但未入池），已补充训练 2 个 + 复用激活 4 个 + 跳过 2 个。** 44BEC 建议同样扫描。
 - [ ] **🔴 Tag 时态一致性专项拦截（新次型）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。2026-06-20 新暴露。主句系动词 `was` → Tag 必须跟 `was`，不能跳 `did`。
 - [ ] **🔴 `specified`（adj. 被指定的）vs `specifically`（adv. 专门地）Flash Correct 拦截**: 2026-06-21 LP 1 R2 `a specified thing` ❌ 中文"专门为…设计" → `specifically designed` ✅。随堂已讲解，需隔场抽查确认区分。
-- [ ] **继续扫描 44BEC**: 43BEC 意外产出 9 个未记录 LP。44BEC（`44BEC-69s.md`）同为 3 月训练批次，建议扫描确认是否有类似遗漏。
+- [x] **44BEC 扫描完成**: 4 个未记录 LP（`should be doing` / `hopefully` / `go down the list` / `get down vs go down`）全部完成训练。继续扫描 45BEC+。
 - [ ] **🟡 `come across as` → 🟢 持续追踪**: 06-20 `as adj` 首次突破 → 06-21 再次成功。如再通过 1 次复查可正式确认 🟢 升级。
 - [ ] **🟡 `so to speak` 句法位置巩固**: 2026-06-20 句末甩尾错误→加练修复。需隔场抽查。
 - [ ] **🟡 `might be done` → `might have been done` 情态+过去→完成体**: 2026-06-20 Micro RP 暴露。中文"可能是去年做的"隐含过去时间+推测→英文需完成体。
 - [ ] **🟡 `right?` → `isn't he?` 反义疑问句 Tag 规范**: 2026-06-20 LP 13 暴露。口语化 `right?` 不能替代标准 Tag。
+- [ ] **✅ `there be` 情态体隔日抽查**: 06-23 FC 3/3 满分，需隔日确认是否固化。如后续再通过 1 次可考虑降级至 🟡 Monitoring。
+- [ ] **🔴 Comma Splice 第三轮拦截（最高优先级）**: 06-21 10+次 → 06-23 2次+FC复发。极端顽固。下次 session 开场 FC 仍设 2 题 Comma Splice 拦截。
+- [ ] **🔴 被动进行态 Flash Correct 拦截**: `tickets should be closing off` ❌ → 主语为物时需检查是否需被动 `should be being done`。2026-06-23 新缺口。
+- [ ] **🔴 `severity` 词性混淆 Flash Correct 拦截**: `severity bug` ❌ → `critical defect` ✅。名词不能直接修饰名词（在非固定搭配中）。2026-06-23 新缺口。
+- [ ] **🔴 `flagged as` 缺介词 Flash Correct 拦截**: `flagged emergency` ❌ → `flagged as urgent` ✅。`flag` + `as` + 分类标签固定搭配。2026-06-23 新缺口。
+- [ ] **🔴 `pick up on + that` 从句结构 Flash Correct 拦截**: `pick up on that the risk was increasing` ❌ → `pick up that / pick up on the fact that` ✅。2026-06-23 新发现，与 `about that` / `go back to that` 同类缺口。
+- [ ] **继续扫描 45BEC+**: 44BEC 已完成。45BEC-52BEC 为 2026 年 3 月首轮训练批次，预计仍有未记录 LP 遗漏。
+- [ ] **🔴 AI 失职记录 — 历史词组植入**: 06-23 session 多轮未按 GEMINI.md 要求扫描 `active-pool.md` 植入历史词组。仅最后一轮补偿植入 `pick up on`。下次 session 必须在**每一轮出题前**强制检查：本题要植入哪个历史词组？中文对应何处引导？
+- [ ] **🔴 active-pool 超限归档**: 当前 111 条（超出 80 上限）。需优先归档最早 🟢 词组

@@ -40,7 +40,7 @@
 | as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 `you're not got` ❌ → 2026-06-16 LP 1 R4 `have not gotten onboard with` ✅ 修复成功，升级 🟡；搭配限制：只接想法/计划 |
-| pick up on | 🟢 | 2026-05-02 | 2026-06-21 | 连续 3 次主动复用正确（06-21 LP 1 R6 `had picked up on` ✅），🏆 |
+| pick up on | 🟢 | 2026-05-02 | 2026-06-23 | 06-23 补偿轮中复用 1 次（`pick up on that the risk` ⚠️ `on that` 从句结构错误已修正）；词汇选择正确，从句结构需隔日抽查 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
 | most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
@@ -164,4 +164,12 @@
 | bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；隐含轻微不满/批评语气 |
 | aligned with（方向/立场一致）vs similar to（表面相似） | 🟡 | 2026-06-21 | 2026-06-21 | LP3 R5 随堂辨析 |
 
-**当前数量**：104 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条）
+| should be doing（进行态：抱怨/推断/未来预期） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；三层含义全覆盖（学生补全第三层🧠）；被动进行态 `being done` 需巩固；QF 引导 2 轮后命中 |
+| hopefully（句首副词：乐观但不确定） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；Tag 满分 🏆；`hopefully` + 确定动词搭配理解到位；`make it into` 即学即用 |
+| go down the list（逐条过清单） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；零关键性错误；`be in charge of going down` 嵌套满分；QF 3 词即时回应 🏆 |
+| get down vs go down（短语语义辨析） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；2 轮对比辨析；对比句同时使用两个短语，语义方向区分确认 |
+| make it into（赶进/进入某版本/状态） | 🟡 | 2026-06-23 | 2026-06-23 | LP 2/3 造句+Micro RP 中多次使用；主语可人可物（拟人化表达）；即学即用 🏆 |
+| close off（关掉/完结工单） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 原文提取；LP 2 否定句/补偿题中使用；被动进行态 `should be being closed off` 需注意 |
+| be in charge of + doing（负责做某事） | 🟡 | 2026-06-23 | 2026-06-23 | LP 3 R3 自然使用；`Who exactly should be in charge of going down...` 结构满分 🏆 |
+
+**当前数量**：111 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）
