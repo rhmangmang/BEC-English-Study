@@ -2,6 +2,14 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 20 条 · 🟡 持续观察 14 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
+- [ ] **45BEC 扫尾**: `ought to be looking at` 今日跳过，下次补训。
+- [ ] **47BEC 剩余**: `here` = 在场/参与（概念辨析）、`disappointing vs disappointed`、`requirements` 永远复数（语法规则）——上述未练，后续判断是否值得造句训练。
+- [ ] **下一单元扫描**: 48BEC 或 49BEC，继续扫描未记录语言点。
+- [x] **45BEC/47BEC 扫描+训练**: 4 个未记录 LP 全部通关（`back in` / `communicate` / `not really like` / `initially`）。
+- [ ] **`pick up on` 结构隔场确认**: 今日 `on that` 从句错误跨 session 彻底修正为 `on + 名词短语`。下次造句中抽查一次确认永久固化，即可从 Active 降级归档。
+- [ ] **完成时+过去时间不兼容隔场抽查**: `back in` 加练后反射刚建立，下次首轮即测。
+- [ ] **`put up with` vs `bring up` 短语区分**: 首次暴露混淆，下次纠偏中安排 1 题验证。
+
 - [x] **72BEC 完结**: 已完成全部 7 个语言点。
 - [x] **73BEC 完结**: 已完成 6 个语言点 + Micro Role-play 整合 🎉。
 - [x] **01BEC.md 遗留语言点训练**: 9 个 LP 全部遍历。

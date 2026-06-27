@@ -46,7 +46,7 @@
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
-- [ ] **🔴 Comma Splice 逗号拼接（极顽固-两场连续触发）**: 06-21 同一 session 触发 10+ 次 → 06-23 再次触发 2 次（`go down the list` R2 + **FC 专项中第 2 题复发** ⚠️）。两个完整句子之间只用逗号连接是英文书面语法错误，应用分号 `;` 或句号 `.`。在自由产出（造句/Role-play/Quick Fire）中全部出现。需建立"写完一句→检查前面是否 Comma Splice"的自觉。**FC 专项中复发说明该缺口极端顽固，需要在下次 session 继续拦截。** 2026-06-21 新发现 → 2026-06-23 延续。
+- [ ] **🔴 Comma Splice 逗号拼接（极顽固-三场连续触发）**: 06-21 触发 10+ 次 → 06-23 触发 2 次 → **06-27 触发 2 次**（纠偏题 2 + `not really like` R3）。**已连续三场触发，缺口极端顽固。** 需建立"写完一句→检查前面是否 Comma Splice"的自觉。
 - [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
 - [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
 - [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。→ **2026-06-21 下午扩展**：`go back to that no one treated it` ❌ — 同位介词 `to` 同样不能接 `that` 从句。正确：`go back to nobody treating it`（动名词短语）。
@@ -59,12 +59,17 @@
 - [ ] **🔴 被动进行态意识弱（`should be doing` 主语为物时的被动变形）**: `tickets should be closing off` ❌ → `tickets should be **being** closed off` ✅ 或换人作主语。当 `should be doing` 的主语是物时，需自觉检查是否需被动语态 `should be being done`。2026-06-23 新发现。
 - [ ] **🔴 `severity` 词性混淆（名词不能直接修饰名词）**: `severity bug` ❌ → `critical defect` / `serious bug` ✅。`severity` 是名词（严重程度），不能当形容词修饰 `bug`。需注意同类名词作修饰语的限制。2026-06-23 新发现。
 - [ ] **🔴 `flagged as` 固定搭配缺介词**: `those flagged emergency` ❌ → `those flagged **as** urgent` ✅。`flag` 作为"标记"义时，必须接 `as` + 分类标签。2026-06-23 新发现。
-- [ ] **🔴 `pick up on + that` 从句（扩展 to `about that` 同类缺口）**: `pick up on that the risks were increasing` ❌ → `pick up that the risks were increasing` ✅。`pick up on` 后不能直接接 `that` 从句；需去掉 `on` 或用 `pick up on the fact that`。同类缺口：`about that` / `go back to that`。2026-06-23 新发现。
+- [ ] **🔴 `pick up on + that` 从句（扩展 to `about that` 同类缺口）**: `pick up on that the risks were increasing` ❌ → `pick up that the risks were increasing` ✅。`pick up on` 后不能直接接 `that` 从句；需去掉 `on` 或用 `pick up on the fact that`。同类缺口：`about that` / `go back to that`。**2026-06-27 跨 session 修复** 🏆🏆：连续 3 次正确使用 `on + 名词短语`（`on the confusion` / `on the bottleneck` / `on the defect`），`on that` 从句错误已彻底修正。**可考虑降级至 🟡 Monitoring，隔场确认后归档。**
+- [ ] **🔴 缺主语（情态动词直接开头）**: `Should communicate the current risk situation` ❌ → `We should communicate...` ✅。英语陈述句必须有主语，不能以情态动词直接开头。2026-06-27 新发现。
+- [ ] **🔴 `put up with`（忍受）vs `bring up`（提出）短语混淆**: `put up with that question` ❌（语义变成"忍受那个问题"）。中文"提出问题" = `bring up`（bring-brought-brought）。两个短语形似但义完全相反。2026-06-27 新发现。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。
 
-- [ ] **`discuss` 及物性**: 2026-05-30 发现 → 2026-06-14 Flash Correct 2次复发+2轮加练后修复。自由产出仍被 `talk about` 干扰。
+- [ ] **`as` vs `like` 叠加结构冲突**（新类型）: `come across as not really like` ❌。`as` 和 `like` 功能重叠不可叠加。2026-06-27 新发现。
+- [ ] **`effective` (adj) vs `effect` (n) 词性混淆**: `took effective` ❌ → `took effect` ✅。`effective` = 形容词（有效的），`effect` = 名词（效果）。`take effect` = 生效。2026-06-27 新发现。
+- [ ] **`duplicated`（复制）vs `deprecated`（废弃）**: `migration tool duplicated` ❌ → `deprecated` / `decommissioned` ✅。IT 完全不同的两个术语。2026-06-27 新发现。
+- [ ] **`back in` 只接时间点不可接时间段**: `back in the last half year` ❌。`back in` + 具体时间锚点（月/年/版本），不接时间段。2026-06-27 新发现。
 - [ ] **`transmission` vs `migration`**: 2026-06-14 话题构建中 `transmission` ❌（数据传输义）→ `migration`/`transitioning` ✅（技术栈迁移）。
 - [ ] **`save money` vs `make money` 词汇混淆**: 2026-06-14 "省钱"错译为 `make money` ❌ → `save money` ✅。
 - [ ] **`specially`（特意地）vs `special`（特别的）**: 2026-06-14 `work specially` ❌ → `is anything special` ✅。
@@ -142,7 +147,7 @@
 - [ ] **词性转换**: failure→failed, success→succeed, 情态动词后必须接动词原形。
 - [ ] **半否定词 + tag question**: hardly/barely/seldom/rarely/never → 主句视为否定 → tag 用肯定。
 - [ ] **Parallel Structure**: to do vs doing 选择疑问句中需保持一致。
-- [ ] **🔴 完成时+过去语境不兼容（含隐式过去锚点）**: `yesterday`/`last week` 等明确过去时间 → 简单过去时。**2026-06-16 新维度暴露**：Flash Correct 3/3 ✅，但自由造句中在无显式时间标记的已结束事件场景下 5 次回退（`have run into...in the meeting` ❌ / `have taken`（培训已结束） ❌）。核心缺失：不认为"已结束事件本身"是过去锚点。从 Monitoring 重新激活至 🔴 Active。
+- [ ] **🔴 完成时+过去语境不兼容（含隐式过去锚点）**: `yesterday`/`last week` 等明确过去时间 → 简单过去时。**2026-06-16 新维度暴露**：Flash Correct 3/3 ✅，但自由造句中在无显式时间标记的已结束事件场景下 5 次回退。**2026-06-27 进展**：`back in` 训练中触发 3 次（`back in + has been`），但经过 3 轮加练后时态反射初步建立——后半场零复发。**需隔场抽查确认固化，若稳定可降级至 🟡 Monitoring。**
 - [ ] **no vs not 搭配**: no+名词, not+enough+名词，不能混搭(no enough ❌)。
 - [ ] **修饰词漏译(顺序词)**: "先/直接/最终" 等顺序/程度词需纳入翻译前扫描。
 - [ ] **叙述时态（讲故事=过去时）**: 叙述过去发生的事件时，全篇必须统一用过去时态。

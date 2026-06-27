@@ -40,7 +40,7 @@
 | as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
 | get onboard with | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 `you're not got` ❌ → 2026-06-16 LP 1 R4 `have not gotten onboard with` ✅ 修复成功，升级 🟡；搭配限制：只接想法/计划 |
-| pick up on | 🟢 | 2026-05-02 | 2026-06-23 | 06-23 补偿轮中复用 1 次（`pick up on that the risk` ⚠️ `on that` 从句结构错误已修正）；词汇选择正确，从句结构需隔日抽查 |
+| pick up on | 🟢 | 2026-05-02 | 2026-06-27 | 06-27 3 次成功复用：`on + confusion` / `on + bottleneck` / `on + defect` 全部用名词短语。`on that` 从句错误跨 session 彻底修正 🏆🏆 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
 | most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
@@ -171,5 +171,9 @@
 | make it into（赶进/进入某版本/状态） | 🟡 | 2026-06-23 | 2026-06-23 | LP 2/3 造句+Micro RP 中多次使用；主语可人可物（拟人化表达）；即学即用 🏆 |
 | close off（关掉/完结工单） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 原文提取；LP 2 否定句/补偿题中使用；被动进行态 `should be being closed off` 需注意 |
 | be in charge of + doing（负责做某事） | 🟡 | 2026-06-23 | 2026-06-23 | LP 3 R3 自然使用；`Who exactly should be in charge of going down...` 结构满分 🏆 |
+| back in + 时间（早在……那会儿） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；5/6+QF；时态反射（完成时→过去时）经过 3 轮加练后建立；`back in` + 时间段（非时间点）搭配需注意 |
+| communicate 职场义（同步/告知） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；6/6+QF；`communicate sth to sb` 全句式稳固；QF 场景理解偏差 1 次；漏 `to sb` 1 次 |
+| not really like（不算是/算不上） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；4/6+QF（虚拟跳过）；核心语义内化；特殊疑问句 `as` + `like` 结构冲突 1 次 |
+| initially（最初/一开始） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；5/6+QF；Tag 极性回退（`no one...didn't they?`）1 次加练修复；QF 绕开目标词 1 次 |
 
 **当前数量**：111 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）

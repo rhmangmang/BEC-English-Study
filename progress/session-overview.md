@@ -2,6 +2,7 @@
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
+| 2026-06-27 | 45BEC/47BEC 扫描+训练: `back in` `communicate` `not really like` `initially` (4 LP, 20轮造句+QF+Micro RP×2) + 纠偏×6 | ✅ | 🏆 完成时+过去时间反射初建；`pick up on` 从句错误跨session修正 |
 | 2026-01-19 | 01BEC 强化训练 (Part 1) | ✅ | |
 | 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |
 | 2026-01-21 | 01BEC 实战 + 02BEC 社交 + 03BEC 口语 | ✅ | |
