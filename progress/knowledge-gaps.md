@@ -46,7 +46,7 @@
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
-- [ ] **🔴 Comma Splice 逗号拼接（极顽固-三场连续触发）**: 06-21 触发 10+ 次 → 06-23 触发 2 次 → **06-27 触发 2 次**（纠偏题 2 + `not really like` R3）。**已连续三场触发，缺口极端顽固。** 需建立"写完一句→检查前面是否 Comma Splice"的自觉。
+- [ ] **🟡 Comma Splice 逗号拼接（三场→06-30 整场 55 次零回退 ✅）**: 06-21 触发 10+ 次 → 06-23 触发 2 次 → 06-27 触发 2 次 → **06-30 全 session 55 次零回退 🏆**。分号断开独立句的自觉已建立。隔场抽查确认后即可考虑降级归档。
 - [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
 - [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
 - [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。→ **2026-06-21 下午扩展**：`go back to that no one treated it` ❌ — 同位介词 `to` 同样不能接 `that` 从句。正确：`go back to nobody treating it`（动名词短语）。
@@ -62,6 +62,10 @@
 - [ ] **🔴 `pick up on + that` 从句（扩展 to `about that` 同类缺口）**: `pick up on that the risks were increasing` ❌ → `pick up that the risks were increasing` ✅。`pick up on` 后不能直接接 `that` 从句；需去掉 `on` 或用 `pick up on the fact that`。同类缺口：`about that` / `go back to that`。**2026-06-27 跨 session 修复** 🏆🏆：连续 3 次正确使用 `on + 名词短语`（`on the confusion` / `on the bottleneck` / `on the defect`），`on that` 从句错误已彻底修正。**可考虑降级至 🟡 Monitoring，隔场确认后归档。**
 - [ ] **🔴 缺主语（情态动词直接开头）**: `Should communicate the current risk situation` ❌ → `We should communicate...` ✅。英语陈述句必须有主语，不能以情态动词直接开头。2026-06-27 新发现。
 - [ ] **🔴 `put up with`（忍受）vs `bring up`（提出）短语混淆**: `put up with that question` ❌（语义变成"忍受那个问题"）。中文"提出问题" = `bring up`（bring-brought-brought）。两个短语形似但义完全相反。2026-06-27 新发现。
+- [ ] **🔴 平行结构 A or B 动词形式不一致**: `Do you want to apologize or sent` ❌ → `send` ✅。选择疑问句/并列结构中 `to A or B` 的 A 和 B 必须同为动词原形。2026-06-30 `apologies for` 选择疑问句中暴露，加练后修复。
+- [ ] **🔴 `live` 词性混淆为过去分词（被动进行态中）**: `is being live` ❌ → `is being live-streamed` ✅。`live` 是形容词/副词，不能放在 `being` 后的过去分词位置。被动进行态公式 `be being + pp` 中 `being` 后的词必须是动词过去分词。2026-06-30 `be being + pp` 反义疑问句中暴露，加练后修复。
+- [ ] **🔴 完成时否定 + `until now`/`so far` 时态冲突**: `There's no glitch...until now` ❌ → `There haven't been any glitches...so far` ✅。`until now`/`so far` 等"持续到现在"的时间状语要求现在完成时，不能搭配一般现在时否定句。2026-06-30 `technical glitch` 否定句中 3 次加练才修复。
+- [ ] **🔴 `it's + noun + adj` 中式直译**: `it's camera open` ❌ → `the camera is on` ✅。中文"摄像头开了"→ 英语不能用 `it's + noun + adj` 来表达。`it's` 后接形容词是描述 `it` 的性质，而非独立物体的状态。2026-06-30 QF 中暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。

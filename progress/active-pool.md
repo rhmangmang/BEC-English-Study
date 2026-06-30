@@ -175,5 +175,12 @@
 | communicate 职场义（同步/告知） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；6/6+QF；`communicate sth to sb` 全句式稳固；QF 场景理解偏差 1 次；漏 `to sb` 1 次 |
 | not really like（不算是/算不上） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；4/6+QF（虚拟跳过）；核心语义内化；特殊疑问句 `as` + `like` 结构冲突 1 次 |
 | initially（最初/一开始） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；5/6+QF；Tag 极性回退（`no one...didn't they?`）1 次加练修复；QF 绕开目标词 1 次 |
+| conference vs meeting（区分日常会/正式大会） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；5/6+QF（虚拟跳过）；时态 `will`→一般现在时 1 次加练修复；conference/meeting 区分意识建立 |
+| do a check-in（会议签到/同步状态） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；6/6+QF；`check in with devices` 搭配错误 1 次；`synced` 代替目标词 1 次加练修复；QF `all set` 地道 |
+| recap（简要回顾/总结要点） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；6/6+QF；主谓一致 `do`→`does` 1 次加练修复；`recap report` 冗余 1 次；QF 一次通关 🏆 |
+| apologies for（固定口语道歉短句） | 🟡 | 2026-06-30 | 2026-06-30 | 50BEC 提取；6/6+QF；动词→名词形式切换 2 次加练修复；`sent`→`send` 平行结构 1 次加练修复；QF `my late` 词性错误 |
+| technical glitch（小技术故障/小毛病） | 🟡 | 2026-06-30 | 2026-06-30 | 50BEC 提取；6/6+QF；完成时否定+until now 3 次加练修复；`be asked to finish` 语义偏差 1 次；QF 冠词 `a issue`→`an issue` |
+| convene（正式召开/召集） | 🟡 | 2026-06-30 | 2026-06-30 | 51BEC 提取；6/6+QF；`commission`→`committee` 词汇 1 次；`will be convening`→`is convening` 时态 1 次；QF 满分 🏆 |
+| be being + pp（被动进行态） | 🟡 | 2026-06-30 | 2026-06-30 | 51BEC 提取；6/6+QF；`is going`→`is being held` 目标结构未使用 1 次；`is being live` 词性混淆 1 次加练修复；QF `it's camera open` 中式直译 |
 
-**当前数量**：111 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）
+**当前数量**：118 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）

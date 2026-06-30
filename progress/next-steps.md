@@ -4,11 +4,17 @@
 
 - [ ] **45BEC 扫尾**: `ought to be looking at` 今日跳过，下次补训。
 - [ ] **47BEC 剩余**: `here` = 在场/参与（概念辨析）、`disappointing vs disappointed`、`requirements` 永远复数（语法规则）——上述未练，后续判断是否值得造句训练。
-- [ ] **下一单元扫描**: 48BEC 或 49BEC，继续扫描未记录语言点。
+- [ ] **下一单元扫描**: 52BEC，继续扫描未记录语言点。
+- [x] **48-51BEC 扫描+训练**: 4 个 BEC 单元全部完成（48BEC 零未记录，49BEC 3/4 LP，50BEC 2/3 LP，51BEC 2/3 LP）。7 个新 LP 全部 6 句式+QF 通关。
 - [x] **45BEC/47BEC 扫描+训练**: 4 个未记录 LP 全部通关（`back in` / `communicate` / `not really like` / `initially`）。
 - [ ] **`pick up on` 结构隔场确认**: 今日 `on that` 从句错误跨 session 彻底修正为 `on + 名词短语`。下次造句中抽查一次确认永久固化，即可从 Active 降级归档。
 - [ ] **完成时+过去时间不兼容隔场抽查**: `back in` 加练后反射刚建立，下次首轮即测。
 - [ ] **`put up with` vs `bring up` 短语区分**: 首次暴露混淆，下次纠偏中安排 1 题验证。
+- [ ] **🔴 平行结构 A or B Flash Correct 拦截**: `apologize or sent` ❌。2026-06-30 新暴露，加练后修复。隔场抽查 1 题验证。
+- [ ] **🔴 `live` 词性混淆（被动进行态中）Flash Correct 拦截**: `is being live` ❌。2026-06-30 新暴露。下次 Flash Correct 出 1 题验证 `be being + pp` 结构完整性。
+- [ ] **🔴 完成时否定 `until now`/`so far` 时态搭配**: 2026-06-30 3 次加练才修复。隔场抽查 1 题确认。
+- [ ] **🔴 `it's camera open` 中式直译**: 2026-06-30 QF 暴露。下次造句中安排类似结构（描述设备/物品状态）抽查。
+- [ ] **🟡 Comma Splice 隔场固化确认**: 06-30 整场 55 次零回退。隔场再抽查 1 题，若继续稳定可降级归档。
 
 - [x] **72BEC 完结**: 已完成全部 7 个语言点。
 - [x] **73BEC 完结**: 已完成 6 个语言点 + Micro Role-play 整合 🎉。

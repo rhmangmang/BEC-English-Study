@@ -3,6 +3,7 @@
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
 | 2026-06-27 | 45BEC/47BEC 扫描+训练: `back in` `communicate` `not really like` `initially` (4 LP, 20轮造句+QF+Micro RP×2) + 纠偏×6 | ✅ | 🏆 完成时+过去时间反射初建；`pick up on` 从句错误跨session修正 |
+| 2026-06-30 | 48-51BEC 扫描+训练: `conference/meeting` `check-in` `recap` `apologies for` `technical glitch` `convene` `be being+pp` (7 LP, 50+轮+QF+Micro RP×3) + 纠偏×4(Comma Splice+情态+冠词+冠词隔场) | ✅ | 🏆 Comma Splice 55次零回退；冠词跨session 4/4；被动进行态从`is being live`→稳定输出；3个新缺口(平行结构/完成时否定/live词性) |
 | 2026-01-19 | 01BEC 强化训练 (Part 1) | ✅ | |
 | 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |
 | 2026-01-21 | 01BEC 实战 + 02BEC 社交 + 03BEC 口语 | ✅ | |
