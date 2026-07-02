@@ -7,8 +7,8 @@
 
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
-| step in | 🟢 | 2026-04-25 | 2026-05-31 | 本轮 2 次成功复用（肯定句+否定句）；升级 🟢 🏆 |
-| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-05-28 | 连续 2 次主动复用正确（Type 3 + 否定句），从 🟡 升级 🟢 🏆 |
+| step in | 🔴 | 2026-04-25 | 2026-07-02 | 07-02 in the field R6: `been stepped in` ❌ 被动化(不及物动词不能被动)；加练修复后同轮 `wait` 再次同类错误 ⚠️。从 🟢 降级 🔴 |
+| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-07-02 | 07-02 in the field R2: `when we run into issues` ✅ 隔约 1 个月唤醒；连续多次主动使用正确，维持 🟢 🏆 |
 | entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
@@ -26,12 +26,12 @@
 | in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
 | be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
-| all hands on deck | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 LP 2 `for us to be` ❌ → LP 5 `it should be` ✅ 同 session 修复；2026-06-16 LP 1 R3 `it needs to be all hands on deck` ✅ 正迁移巩固 |
+| all hands on deck | 🟢 | 2026-05-02 | 2026-07-02 | 07-02 boost R2: `it's not all hands on deck` ✅ 隔约 2 个月成功唤醒，否定句用法正确 🏆 |
 
-| be worth doing | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；Mixed Conditional 满分 🏆；`for sb` 插入结构破坏 1 次 |
+| be worth doing | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 enhance R2: `not worth spending` ✅ 隔 16 天 SRS 高危窗口成功唤醒，升级 🟢 🏆 |
 | sit around | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；完成时+过去时间 2 次复发 ⚠️；祈使/疑问表现好 |
 | I'm assuming | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；变体运用灵活（Are you assuming / I would assume）；`get onboard with` 搭配不稳 |
-| check with + 人 + on + 事 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取（合并到 check 系列）；6 句式+QF；3 句式满分 |
+| check with + 人 + on + 事 | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 in the field R1: `checking with the team on the concrete timeline` ✅ 隔 16 天唤醒，升级 🟢 🏆 |
 | not in time for | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；`catched`→`caught` 当场修复；`didn't be` 新暴露 |
 | next year's + noun | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；核心概念掌握；`as much as`（sales）需注意 |
 | go out（商务义）| 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；今日最优 LP 🏆；4/6 句式满分 |
@@ -39,8 +39,8 @@
 | What's my budget? | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6；简洁问句掌握良好 |
 | as + adj 作状语 | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；自我纠正成功（`as a separate one`→`as separate`）🏆 |
 | drive engagement | 🟡 | 2026-05-02 | — | drive 过去分词 driven |
-| get onboard with | 🟡 | 2026-05-02 | 2026-06-16 | 2026-06-15 `you're not got` ❌ → 2026-06-16 LP 1 R4 `have not gotten onboard with` ✅ 修复成功，升级 🟡；搭配限制：只接想法/计划 |
-| pick up on | 🟢 | 2026-05-02 | 2026-06-27 | 06-27 3 次成功复用：`on + confusion` / `on + bottleneck` / `on + defect` 全部用名词短语。`on that` 从句错误跨 session 彻底修正 🏆🏆 |
+| get onboard with | 🟢 | 2026-05-02 | 2026-07-02 | 06-16 修复成功→07-02 boost R4: `got onboard with it very quickly` ✅ 隔 15 天成功复用，升级 🟢 🏆 |
+| pick up on | 🟢 | 2026-05-02 | 2026-07-02 | 06-27 3 次成功复用 ✅；07-02 boost R1: `picked up on the difference` ✅ `on + 名词短语` 跨 session 持续稳定，可归档 🏆 |
 | intangible pieces of | 🟡 | 2026-05-02 | — | 选择疑问句平行结构、If not for |
 | leading question | 🟡 | 2026-05-02 | — | indifferent vs neutral 词义 |
 | most likely | 🟢 | 2026-05-02 | 2026-05-08 | 否定语序已固化；隔夜抽查通过 🏆 |
@@ -108,7 +108,7 @@
 | take + [vehicle] + straight + to + [place] | 🟢 | 2026-05-24 | — | 3轮核心+QF全通关；出行直达模式 🏆 |
 | check into (a hotel) | 🟢 | 2026-05-27 | — | 10BEC 提取；6 种句式 + QF 全通关，虚拟语气零回退 🏆 |
 | set up 被动口语缩略 (be setting up = be being done) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，反义疑问句 Tag 极性错误 1 次 |
-| any longer 肯定条件句用法 (non-assertive) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，非断定词限制需巩固 |
+| any longer 肯定条件句用法 (non-assertive) | 🟢 | 2026-05-27 | 2026-07-02 | 10BEC 提取；07-02 flashing light R5: `cannot wait any longer` ✅ 隔约 1 个月成功唤醒，否定句 non-assertive 用法正确，升级 🟢 🏆 |
 | contract/partnership/agreement with [partner] | 🟢 | 2026-05-28 | — | 13BEC 提取；6 句式+QF 通关；机构间合作 `with` 标注模式 🏆 |
 | get hold of | 🟢 | 2026-05-30 | — | 15BEC 提取；6 句式+QF 通关；获取某物/联系上某人；肯定句式需重出 2 次 🏆 |
 | will do | 🟢 | 2026-05-30 | — | 15BEC 提取；5 句式+QF 通关（虚拟语气跳过）；`A or B will do` 选择疑问句满分；`too more`/`discuss about` 搭配错误非短语本身 🏆 |
@@ -159,8 +159,8 @@
 | typically vs generally | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；核心区分正确；R4 `ask problems` ❌；`Generally...usually` 冗余 |
 | naturally vs in nature | 🟡 | 2026-06-21 | 2026-06-21 | 42BEC 提取；5/6+QF；R4/R5 连续满分 🏆🏆；R3 `changability` 造词 ❌；QF `I'm not agree` ❌ |
 
-| push back on（反对/抵制）+ push through（强行推动） | 🟡 | 2026-06-21 | 2026-06-21 | Micro RP 2 中随堂辨析；`push back` 不及物+ `on` 桥接 → `push back on sth`；`push through` = 顶着阻力硬推 |
-| streamline（精简/去冗余）vs optimize（广泛优化） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；`streamline` = 做减法；`optimize` = 任何方向的优化 |
+| push back on（反对/抵制）+ push through（强行推动） | 🟢 | 2026-06-21 | 2026-07-02 | 07-02 boost R6: `pushed back on those non-critical requirements` ✅ 隔 10 天成功唤醒，升级 🟢 🏆 |
+| streamline（精简/去冗余）vs optimize（广泛优化） | 🟢 | 2026-06-21 | 2026-07-02 | 07-02 enhance R1: `We streamlined the process` ✅ 隔 10 天成功表达，升级 🟢 🏆 |
 | bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；隐含轻微不满/批评语气 |
 | aligned with（方向/立场一致）vs similar to（表面相似） | 🟡 | 2026-06-21 | 2026-06-21 | LP3 R5 随堂辨析 |
 
@@ -168,8 +168,8 @@
 | hopefully（句首副词：乐观但不确定） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；Tag 满分 🏆；`hopefully` + 确定动词搭配理解到位；`make it into` 即学即用 |
 | go down the list（逐条过清单） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；零关键性错误；`be in charge of going down` 嵌套满分；QF 3 词即时回应 🏆 |
 | get down vs go down（短语语义辨析） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；2 轮对比辨析；对比句同时使用两个短语，语义方向区分确认 |
-| make it into（赶进/进入某版本/状态） | 🟡 | 2026-06-23 | 2026-06-23 | LP 2/3 造句+Micro RP 中多次使用；主语可人可物（拟人化表达）；即学即用 🏆 |
-| close off（关掉/完结工单） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 原文提取；LP 2 否定句/补偿题中使用；被动进行态 `should be being closed off` 需注意 |
+| make it into（赶进/进入某版本/状态） | 🟢 | 2026-06-23 | 2026-07-02 | 07-02 flashing light R1: `make it into next week's release` ✅ 隔 8 天成功复用，升级 🟢 🏆 |
+| close off（关掉/完结工单） | 🟢 | 2026-06-23 | 2026-07-02 | 44BEC 原文提取；07-02 flashing light R4: `has been closed off` ✅ 完成时被动用法正确，隔 8 天后升级 🟢 🏆 |
 | be in charge of + doing（负责做某事） | 🟡 | 2026-06-23 | 2026-06-23 | LP 3 R3 自然使用；`Who exactly should be in charge of going down...` 结构满分 🏆 |
 | back in + 时间（早在……那会儿） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；5/6+QF；时态反射（完成时→过去时）经过 3 轮加练后建立；`back in` + 时间段（非时间点）搭配需注意 |
 | communicate 职场义（同步/告知） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；6/6+QF；`communicate sth to sb` 全句式稳固；QF 场景理解偏差 1 次；漏 `to sb` 1 次 |
@@ -183,4 +183,10 @@
 | convene（正式召开/召集） | 🟡 | 2026-06-30 | 2026-06-30 | 51BEC 提取；6/6+QF；`commission`→`committee` 词汇 1 次；`will be convening`→`is convening` 时态 1 次；QF 满分 🏆 |
 | be being + pp（被动进行态） | 🟡 | 2026-06-30 | 2026-06-30 | 51BEC 提取；6/6+QF；`is going`→`is being held` 目标结构未使用 1 次；`is being live` 词性混淆 1 次加练修复；QF `it's camera open` 中式直译 |
 
-**当前数量**：118 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）
+| boost（商务义：提升/加强/拉升） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+1加练；搭配 boost sales/efficiency/service；Tag 极性+选择疑问主谓一致各加练1轮 |
+| enhance（提品质/优化） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+1加练；vs boost(拉规模)对比辨析；Tag 极性回退1次已修复 |
+| in the field（在现场/外勤/一线） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+QF+1加练；不及物动词被动化(`step in`) 1次关键性错误；field engineer 职位名辨析 |
+| a flashing light（闪烁的警示灯） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+QF；名词短语 vs 动词进行态辨析(`flashing light` vs `the light is flashing`)；零关键性错误 🏆 |
+| bring up（提出/引出话题） | 🟡 | 2026-07-02 | 2026-07-02 | 52BEC in the field R5: `bring up this issue` ✅ 选词正确，与 `put up with`(忍受)零混淆；首次入池 |
+
+**当前数量**：122 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）

@@ -38,7 +38,7 @@
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: `make people distracting` ❌ → `distract people` ✅。`distracting` = 让人分心的（主动属性，如 This noise is distracting），`make sb + distracting` 逻辑不通。2026-06-14 LP 6 反义疑问句中暴露。
 
 - [ ] **🔴 `many/much` 复发**: `as much needs` ❌ → `as **many** needs` ✅。可数名词 `needs` 用 `many`。2026-06-06 Quick Fire 中复发。2026-06-07 未复发。2026-06-20 LP 3 R6 虚拟语气压力下再次复发：`so much issues` ❌ → `so many issues` ✅。2026-06-21 下午再次触发：`so many field confusion` ❌（`confusion` 不可数→ `so much confusion`）。Flash Correct 零复发但复杂句仍回退。
-- [ ] **🔴🔴 `there be` + `have` 混淆（三场连续复发→06-23 3/3 满分 ✅）**: `there would not have had gaps` ❌（06-20 首曝）→ `there had not had the data backup` ❌（06-21 FC）→ **06-21 下午 5 次复发**：`there would not have` ×1 + `there would not` 漏 `be` ×3 + `there would less` 漏 `be` ×1。→ **06-23 Flash Correct 专项 3/3 满分 🏆**：`there would not be` / `there had been` / `there would not be` 连续三轮 `be` 零遗漏。硬性检查规则（`there` → 必有 `be`）初步建立。**需隔日抽查确认固化，满足条件后可降级至 🟡 Monitoring。**
+- [ ] **🟡 `there be` + `have` 混淆（已修复→持续观察）**: `there would not have had gaps` ❌（06-20 首曝）→ `there had not had the data backup` ❌（06-21 FC）→ **06-21 下午 5 次复发**：`there would not have` ×1 + `there would not` 漏 `be` ×3 + `there would less` 漏 `be` ×1。→ **06-23 Flash Correct 专项 3/3 满分 🏆** → 07-02 未触发，降级至 🟡 Monitoring。
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 - [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
@@ -58,14 +58,16 @@
 - [ ] **🔴 `since` 悬空**: `have not optimized it since.` — `since` 作副词"从那以后"时需隐含时间参照，句尾悬空不自然。更常用：`still haven't` / `have never`。2026-06-21 新发现。
 - [ ] **🔴 被动进行态意识弱（`should be doing` 主语为物时的被动变形）**: `tickets should be closing off` ❌ → `tickets should be **being** closed off` ✅ 或换人作主语。当 `should be doing` 的主语是物时，需自觉检查是否需被动语态 `should be being done`。2026-06-23 新发现。
 - [ ] **🔴 `severity` 词性混淆（名词不能直接修饰名词）**: `severity bug` ❌ → `critical defect` / `serious bug` ✅。`severity` 是名词（严重程度），不能当形容词修饰 `bug`。需注意同类名词作修饰语的限制。2026-06-23 新发现。
-- [ ] **🔴 `flagged as` 固定搭配缺介词**: `those flagged emergency` ❌ → `those flagged **as** urgent` ✅。`flag` 作为"标记"义时，必须接 `as` + 分类标签。2026-06-23 新发现。
-- [ ] **🔴 `pick up on + that` 从句（扩展 to `about that` 同类缺口）**: `pick up on that the risks were increasing` ❌ → `pick up that the risks were increasing` ✅。`pick up on` 后不能直接接 `that` 从句；需去掉 `on` 或用 `pick up on the fact that`。同类缺口：`about that` / `go back to that`。**2026-06-27 跨 session 修复** 🏆🏆：连续 3 次正确使用 `on + 名词短语`（`on the confusion` / `on the bottleneck` / `on the defect`），`on that` 从句错误已彻底修正。**可考虑降级至 🟡 Monitoring，隔场确认后归档。**
+- [ ] **🟡 `flagged as` 固定搭配缺介词（已修复→持续观察）**: `those flagged emergency` ❌ → `those flagged **as** urgent` ✅。`flag` 作为"标记"义时，必须接 `as` + 分类标签。2026-06-23 新发现。**2026-07-02 确认修复**：`flagged as urgent` ✅ 一次性零错误。降级至 🟡 Monitoring。
+- [ ] **🟡 `pick up on + that` 从句（扩展 to `about that` 同类缺口）**: `pick up on that the risks were increasing` ❌ → `pick up that the risks were increasing` ✅。`pick up on` 后不能直接接 `that` 从句；需去掉 `on` 或用 `pick up on the fact that`。同类缺口：`about that` / `go back to that`。**2026-06-27 跨 session 修复** 🏆🏆 → **2026-07-02 再次确认**：`picked up on the difference` ✅，降级至 🟡 Monitoring。隔场确认后归档。
 - [ ] **🔴 缺主语（情态动词直接开头）**: `Should communicate the current risk situation` ❌ → `We should communicate...` ✅。英语陈述句必须有主语，不能以情态动词直接开头。2026-06-27 新发现。
-- [ ] **🔴 `put up with`（忍受）vs `bring up`（提出）短语混淆**: `put up with that question` ❌（语义变成"忍受那个问题"）。中文"提出问题" = `bring up`（bring-brought-brought）。两个短语形似但义完全相反。2026-06-27 新发现。
+- [ ] **🟡 `put up with`（忍受）vs `bring up`（提出）短语混淆（已修复→持续观察）**: `put up with that question` ❌（语义变成"忍受那个问题"）。中文"提出问题" = `bring up`（bring-brought-brought）。两个短语形似但义完全相反。2026-06-27 新发现。**2026-07-02 确认修复**：`put up with this glitch` ✅ 零混淆 + `bring up this issue` ✅ 选词正确。降级至 🟡 Monitoring。
 - [ ] **🔴 平行结构 A or B 动词形式不一致**: `Do you want to apologize or sent` ❌ → `send` ✅。选择疑问句/并列结构中 `to A or B` 的 A 和 B 必须同为动词原形。2026-06-30 `apologies for` 选择疑问句中暴露，加练后修复。
 - [ ] **🔴 `live` 词性混淆为过去分词（被动进行态中）**: `is being live` ❌ → `is being live-streamed` ✅。`live` 是形容词/副词，不能放在 `being` 后的过去分词位置。被动进行态公式 `be being + pp` 中 `being` 后的词必须是动词过去分词。2026-06-30 `be being + pp` 反义疑问句中暴露，加练后修复。
 - [ ] **🔴 完成时否定 + `until now`/`so far` 时态冲突**: `There's no glitch...until now` ❌ → `There haven't been any glitches...so far` ✅。`until now`/`so far` 等"持续到现在"的时间状语要求现在完成时，不能搭配一般现在时否定句。2026-06-30 `technical glitch` 否定句中 3 次加练才修复。
 - [ ] **🔴 `it's + noun + adj` 中式直译**: `it's camera open` ❌ → `the camera is on` ✅。中文"摄像头开了"→ 英语不能用 `it's + noun + adj` 来表达。`it's` 后接形容词是描述 `it` 的性质，而非独立物体的状态。2026-06-30 QF 中暴露。
+- [ ] **🔴 `A or B` 主谓一致（二选一主语单数）**: `Do you think the sales campaign or the new design boost sales?` ❌ → `boosts` ✅。选择疑问句中 `A or B` 视为单数，动词加 `s`。2026-07-02 boost 选择疑问句中暴露，加练 1 轮后修复。隔场需验证。
+- [ ] **🔴 不及物动词被动化扩展（`step in` / `wait` 系列）**: `would have been stepped in` ❌（step in 不及物）+ `would not have been waited` ❌（wait 不及物）→ `someone would have stepped in` ✅ / `would not have dragged on` ✅。同一轮连续两个不及物动词被用于被动语态，说明"不及物动词不可被动"的规则在造句压力下仍未成为硬性反射。2026-07-02 in the field 虚拟语气中暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。

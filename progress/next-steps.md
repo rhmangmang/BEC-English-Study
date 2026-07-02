@@ -2,14 +2,14 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 20 条 · 🟡 持续观察 14 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
-- [ ] **45BEC 扫尾**: `ought to be looking at` 今日跳过，下次补训。
+- [x] **45BEC 扫尾**: `ought to be looking at` 今日跳过，下次补训。
 - [ ] **47BEC 剩余**: `here` = 在场/参与（概念辨析）、`disappointing vs disappointed`、`requirements` 永远复数（语法规则）——上述未练，后续判断是否值得造句训练。
-- [ ] **下一单元扫描**: 52BEC，继续扫描未记录语言点。
+- [x] **下一单元扫描**: 52BEC，继续扫描未记录语言点。
 - [x] **48-51BEC 扫描+训练**: 4 个 BEC 单元全部完成（48BEC 零未记录，49BEC 3/4 LP，50BEC 2/3 LP，51BEC 2/3 LP）。7 个新 LP 全部 6 句式+QF 通关。
 - [x] **45BEC/47BEC 扫描+训练**: 4 个未记录 LP 全部通关（`back in` / `communicate` / `not really like` / `initially`）。
-- [ ] **`pick up on` 结构隔场确认**: 今日 `on that` 从句错误跨 session 彻底修正为 `on + 名词短语`。下次造句中抽查一次确认永久固化，即可从 Active 降级归档。
+- [x] **`pick up on` 结构隔场确认**: 今日 `on the difference` ✅ 跨 session 持续稳定。进入 🟡 Monitoring，隔场确认后可归档。
 - [ ] **完成时+过去时间不兼容隔场抽查**: `back in` 加练后反射刚建立，下次首轮即测。
-- [ ] **`put up with` vs `bring up` 短语区分**: 首次暴露混淆，下次纠偏中安排 1 题验证。
+- [x] **🔴 `put up with` vs `bring up` 短语区分**: 2026-07-02 `put up with this glitch` ✅ 零混淆 + `bring up this issue` ✅ 选词正确。已移入 🟡 Monitoring。
 - [ ] **🔴 平行结构 A or B Flash Correct 拦截**: `apologize or sent` ❌。2026-06-30 新暴露，加练后修复。隔场抽查 1 题验证。
 - [ ] **🔴 `live` 词性混淆（被动进行态中）Flash Correct 拦截**: `is being live` ❌。2026-06-30 新暴露。下次 Flash Correct 出 1 题验证 `be being + pp` 结构完整性。
 - [ ] **🔴 完成时否定 `until now`/`so far` 时态搭配**: 2026-06-30 3 次加练才修复。隔场抽查 1 题确认。
@@ -74,7 +74,7 @@
 - [ ] **21BEC 未练语言点**: `somewhere` 作名词, `say` 拟人化, 功能区域零冠词 — 概念类/修辞类，留待后续扫描训练。
 - [ ] **🔴 `distracting`（adj）vs `distract`（v）**: 2026-06-14 `make people distracting` ❌。
 - [ ] **🔴 `very + adj + enough` 双重修饰**: 2026-06-14 `very simple enough` ❌。
-- [ ] **🔴 `there would not have had` — `there be` + `have` 混淆（新缺口）**: 2026-06-20 LP 9 R6 加练：`there would not have had gaps` ❌ → `there would not have been gaps` ✅。`there be` 完成体虚拟需专项巩固。
+- [x] **🔴 `there would not have had` — `there be` + `have` 混淆（新缺口）**: 2026-06-20 首曝→06-21 5次复发→06-23 FC 3/3满分→07-02 未触发。已降级 🟡 Monitoring。
 - [ ] **🟡 `come across as` 结构固化抽查**: 2026-06-20 本 session 第 5 次尝试突破（`as adj` ✅），需隔场抽查确认是否固化。
 - [ ] **🟡 `Does...happens` / `have catch up` 等新暴露语法小错**: 2026-06-20 LP 7 R5 / LP 9 R5。`does` 后加原形 + 名词宾语需冠词。
 - [ ] **🟡 `can be moving` 情态+进行时叠加 / `should have to` 冗余**: 2026-06-20 LP 7 R3 / LP 8 QF。情态动词+进行时叠用不自然；两义务词叠用冗余。
@@ -97,12 +97,15 @@
 - [ ] **🟡 `so to speak` 句法位置巩固**: 2026-06-20 句末甩尾错误→加练修复。需隔场抽查。
 - [ ] **🟡 `might be done` → `might have been done` 情态+过去→完成体**: 2026-06-20 Micro RP 暴露。中文"可能是去年做的"隐含过去时间+推测→英文需完成体。
 - [ ] **🟡 `right?` → `isn't he?` 反义疑问句 Tag 规范**: 2026-06-20 LP 13 暴露。口语化 `right?` 不能替代标准 Tag。
-- [ ] **✅ `there be` 情态体隔日抽查**: 06-23 FC 3/3 满分，需隔日确认是否固化。如后续再通过 1 次可考虑降级至 🟡 Monitoring。
+- [x] **🟡 `there be` 情态体隔日抽查**: 06-23 FC 3/3 满分，07-02 未触发已检查，降级至 🟡 Monitoring。
 - [ ] **🔴 Comma Splice 第三轮拦截（最高优先级）**: 06-21 10+次 → 06-23 2次+FC复发。极端顽固。下次 session 开场 FC 仍设 2 题 Comma Splice 拦截。
 - [ ] **🔴 被动进行态 Flash Correct 拦截**: `tickets should be closing off` ❌ → 主语为物时需检查是否需被动 `should be being done`。2026-06-23 新缺口。
 - [ ] **🔴 `severity` 词性混淆 Flash Correct 拦截**: `severity bug` ❌ → `critical defect` ✅。名词不能直接修饰名词（在非固定搭配中）。2026-06-23 新缺口。
-- [ ] **🔴 `flagged as` 缺介词 Flash Correct 拦截**: `flagged emergency` ❌ → `flagged as urgent` ✅。`flag` + `as` + 分类标签固定搭配。2026-06-23 新缺口。
-- [ ] **🔴 `pick up on + that` 从句结构 Flash Correct 拦截**: `pick up on that the risk was increasing` ❌ → `pick up that / pick up on the fact that` ✅。2026-06-23 新发现，与 `about that` / `go back to that` 同类缺口。
+- [x] **🔴 `flagged as` 缺介词 Flash Correct 拦截**: `flagged emergency` ❌ → `flagged as urgent` ✅。2026-07-02 `flagged as urgent` ✅ 一次性修复。移入 🟡 Monitoring。
+- [ ] **🟡 `pick up on + that` 从句结构 — 已修复进入 Monitoring**: `pick up on that the risk was increasing` ❌ → `pick up that / pick up on the fact that` ✅。2026-06-23 新发现。2026-07-02 确认修复，移入 🟡 Monitoring。隔场确认后归档。
 - [ ] **继续扫描 45BEC+**: 44BEC 已完成。45BEC-52BEC 为 2026 年 3 月首轮训练批次，预计仍有未记录 LP 遗漏。
 - [ ] **🔴 AI 失职记录 — 历史词组植入**: 06-23 session 多轮未按 GEMINI.md 要求扫描 `active-pool.md` 植入历史词组。仅最后一轮补偿植入 `pick up on`。下次 session 必须在**每一轮出题前**强制检查：本题要植入哪个历史词组？中文对应何处引导？
-- [ ] **🔴 active-pool 超限归档**: 当前 111 条（超出 80 上限）。需优先归档最早 🟢 词组
+- [ ] **🔴 active-pool 超限归档**: 当前 111-122 条（超出 80 上限）。需优先归档最早 🟢 词组。
+- [x] **52BEC 扫描+训练完成**: 5 个未记录 LP 中 4 个完成训练，`field engineer` 用户跳过。52BEC 完结 🏆
+- [ ] **🔴 `A or B` 主谓一致 Flash Correct 拦截**: `the campaign or the design boost` ❌→`boosts`✅。2026-07-02 新暴露，隔场验证 1 题。
+- [ ] **🔴 不及物动词被动化 Flash Correct 拦截（扩展型）**: `been stepped in` + `been waited` ❌。2026-07-02 同一轮连续两个不及物动词被被动化。FC 出 1 题含不及物动词虚拟语气。
