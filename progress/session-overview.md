@@ -4,6 +4,7 @@
 | :--- | :--- | :---: | :--- |
 | 2026-06-27 | 45BEC/47BEC 扫描+训练: `back in` `communicate` `not really like` `initially` (4 LP, 20轮造句+QF+Micro RP×2) + 纠偏×6 | ✅ | 🏆 完成时+过去时间反射初建；`pick up on` 从句错误跨session修正 |
 | 2026-06-30 | 48-51BEC 扫描+训练: `conference/meeting` `check-in` `recap` `apologies for` `technical glitch` `convene` `be being+pp` (7 LP, 50+轮+QF+Micro RP×3) + 纠偏×4(Comma Splice+情态+冠词+冠词隔场) | ✅ | 🏆 Comma Splice 55次零回退；冠词跨session 4/4；被动进行态从`is being live`→稳定输出；3个新缺口(平行结构/完成时否定/live词性) |
+| 2026-07-04 | **53BEC 再训练+补录入池**: `I'm here with sb` `get onboarded` `head up` `become successful doing` (4 LP, 30+轮造句+QF+Micro RP×3) + FC×2(过去分词/完成时+时间状语) + KG轮换(Tag时态一致✅) | ✅ | 🏆 53BEC 4个LP 3月训过但未入池，本次再训练全部通关；16个历史词组成功唤醒15个(94%)；`step in`🔴→🟡/`need to like`🔴→🟡/`in the field`🟡→🟢；5个关键性错误加练修复(主谓一致/过去分词/`let sb do`/Mixed Conditional/被动语态)；学生质疑AI错误5次+概念追问9次 |
 | 2026-07-02 | **52BEC 扫描+训练**: `boost` `enhance` `in the field` `a flashing light` (4 LP, 20+轮造句+QF+Micro RP×2) + FC(`need to like` 3/3✅) + knowledge-gaps轮换(Tag时态一致2/2✅) | ✅ | 🏆 间隔唤醒7个历史词组(SRS黄金窗口全成功🎉)；`put up with`/`flag as`/`pick up on` 3个知识缺口修复；`step in`不及物被动化降级🔴；2个新缺口(`A or B`主谓一致/不及物被动化扩展) |
 | 2026-01-19 | 01BEC 强化训练 (Part 1) | ✅ | |
 | 2026-01-20 | 01BEC 强化训练 (Part 2 & 3) | ✅ | |

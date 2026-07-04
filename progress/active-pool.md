@@ -7,9 +7,9 @@
 
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
-| step in | 🔴 | 2026-04-25 | 2026-07-02 | 07-02 in the field R6: `been stepped in` ❌ 被动化(不及物动词不能被动)；加练修复后同轮 `wait` 再次同类错误 ⚠️。从 🟢 降级 🔴 |
+| step in | 🟡 | 2026-04-25 | 2026-07-04 | 07-02 🔴 降级 → 07-04 两次正确复用：LP1 R2 `step in to deal with` ✅ + LP4 R4 `send someone to step in` ✅。不及物用法连续2次正确，升级 🟡 |
 | run into (issues/problems) | 🟢 | 2026-04-27 | 2026-07-02 | 07-02 in the field R2: `when we run into issues` ✅ 隔约 1 个月唤醒；连续多次主动使用正确，维持 🟢 🏆 |
-| entail | 🟡 | 2026-04-28 | — | 区分与 include 必然涉及 |
+| entail | 🟡 | 2026-04-28 | 2026-07-04 | 07-04 LP1 R2b: 63天真空后首次唤醒 ✅，搭配 `entails connecting with` 需注意 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
 | a paper + noun | 🟢 | 2026-04-30 | — | 纸质 vs 电子对比 |
@@ -29,8 +29,8 @@
 | all hands on deck | 🟢 | 2026-05-02 | 2026-07-02 | 07-02 boost R2: `it's not all hands on deck` ✅ 隔约 2 个月成功唤醒，否定句用法正确 🏆 |
 
 | be worth doing | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 enhance R2: `not worth spending` ✅ 隔 16 天 SRS 高危窗口成功唤醒，升级 🟢 🏆 |
-| sit around | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；完成时+过去时间 2 次复发 ⚠️；祈使/疑问表现好 |
-| I'm assuming | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；变体运用灵活（Are you assuming / I would assume）；`get onboard with` 搭配不稳 |
+| sit around | 🟡 | 2026-06-15 | 2026-07-04 | 07-04 LP1 R4: `sit around waiting` ✅ 隔17天唤醒，`sit around + doing` 结构正确 |
+| I'm assuming | 🟡 | 2026-06-15 | 2026-07-04 | 07-04 LP4 R1: `I'm assuming` ✅ 隔17天唤醒，句首使用自然 |
 | check with + 人 + on + 事 | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 in the field R1: `checking with the team on the concrete timeline` ✅ 隔 16 天唤醒，升级 🟢 🏆 |
 | not in time for | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；`catched`→`caught` 当场修复；`didn't be` 新暴露 |
 | next year's + noun | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；2/6+QF；核心概念掌握；`as much as`（sales）需注意 |
@@ -104,7 +104,7 @@
 | future opportunities / areas of growth | 🟢 | 2026-05-22 | — | 骨架及撤骨架均正确使用 🏆 |
 
 | with 依托载体结构 (persuade with / market with) | 🟡 | 2026-05-24 | — | 否定句中 `with just guessing` 不如 `by`/`on` 自然 |
-| need to like (前提条件结构) | 🟡 | 2026-05-24 | — | 注意主语必须是"人"；否定句中不丢失 `like` |
+| need to like (前提条件结构) | 🟡 | 2026-05-24 | 2026-07-04 | 07-04 LP2 R2: `doesn't need to like writing` ✅ 38天真空后成功唤醒，否定句不丢 `like`，主语是"人"规则零回退。🔴→🟡 升级 |
 | take + [vehicle] + straight + to + [place] | 🟢 | 2026-05-24 | — | 3轮核心+QF全通关；出行直达模式 🏆 |
 | check into (a hotel) | 🟢 | 2026-05-27 | — | 10BEC 提取；6 种句式 + QF 全通关，虚拟语气零回退 🏆 |
 | set up 被动口语缩略 (be setting up = be being done) | 🟡 | 2026-05-27 | — | 10BEC 提取；5 句式通关，反义疑问句 Tag 极性错误 1 次 |
@@ -126,10 +126,10 @@
 | be about (核心在于) | 🟢 | 2026-06-07 | — | 20BEC 提取；7 句式+QF 全满分 🏆；零关键性错误 |
 | be of + noun (性质/类别/关联) | 🟢 | 2026-06-07 | — | 20BEC 提取；7 句式+QF+1 轮加练；选择疑问句 2 轮加练后通过；虚拟语气满分 🏆 |
 | or anything (诸如此类/或其他什么) | 🟡 | 2026-06-07 | — | 20BEC 提取；4 句式+QF 覆盖（+2 种句式不适用已说明）；反义疑问句 Tag 极性回退 1 次后修复 |
-| the sort of thing (这类东西) | 🟡 | 2026-06-07 | — | 20BEC 提取；6 句式+QF 覆盖；肯定句 `sort of` 漏 `of` 1 次 + 反义疑问句 Tag 极性回退 1 次 + QF 主谓一致问题 |
+| the sort of thing (这类东西) | 🟡 | 2026-06-07 | 2026-07-04 | 07-04 LP3 R5: `this sort of thing` ✅ 隔25天唤醒 |
 
-| good for | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；5 句式+QF 覆盖（虚拟语气跳过）；选择疑问句 `more good`→`better` 需要额外巩固；QF 选词（bench/waist）可优化 |
-| up to date | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 通关；一般疑问句双重系动词+反义疑问句 Tag 极性回退；虚拟语气主动产出满分 🏆 |
+| good for | 🟡 | 2026-06-14 | 2026-07-04 | 07-04 LP4 R3: `will be good for` ✅ 隔18天唤醒 |
+| up to date | 🟡 | 2026-06-14 | 2026-07-04 | 07-04 LP4 R2: `up to date` ✅ 隔18天唤醒 |
 | I can't see how... | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；`lack of` 混淆+选词偏差各1次；反义疑问句极性满分 🏆🏆 |
 | opinions on | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；Tag 极性回退 1 次（`do you?`→`don't you?`）；`Most of people` 冠词缺失 |
 | enough (adj + enough) | 🟡 | 2026-06-14 | 2026-06-14 | 21BEC 提取；6 句式+QF 覆盖；`very simple enough` 双重修饰冲突 1 次；QF 选词（good enough→detailed enough）需巩固 |
@@ -139,7 +139,7 @@
 | a choice of + 数量 + 名词 | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；Mixed Conditional 满分 🏆；`get onboard with` 同 session 修复成功 |
 | choose + 数量 + out of + 数量 | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；R1 关键性错误未使用目标结构→加练修复；Mixed 类型偏差1次；间接疑问句语序复发 |
 | give sb the option to do | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取（与 `a choice of` 合并训练）；6 句式+QF；Type 3 满分；`not in time for sb to do` 结构错误1次 |
-| make notes / take notes | 🟡 | 2026-06-16 | 2026-06-16 | 23BEC 提取；6 句式+QF；`not in time for` 后接错误2次；`familiar with` 混淆1次 |
+| make notes / take notes | 🟡 | 2026-06-16 | 2026-07-04 | 07-04 LP2 R5: `making notes` ✅ 隔16天唤醒 |
 | if you wish | 🟡 | 2026-06-16 | 2026-06-20 | 23BEC 提取；补齐至 5/6+QF；选择疑问句兼容性差（AI 出题 3 次失败）；核心结构正确 |
 | have + 时间 + to do | 🟡 | 2026-06-20 | 2026-06-20 | 23BEC 提取；6 句式+QF；目标结构不稳（R3 `need` 回避 + R3b `have to` 歧义）；`many/much` 复发 1 次；关键性错误 1 次→加练 |
 | work with / align with the business | 🟡 | 2026-06-20 | 2026-06-20 | 24BEC 提取；6 句式+QF；Type 3 满分；连续 3 次 `come across as` 结构错误（第 5 次突破）；间接疑问句语序复发 1 次；`align with sb on sth` 用法确认 |
@@ -161,7 +161,7 @@
 
 | push back on（反对/抵制）+ push through（强行推动） | 🟢 | 2026-06-21 | 2026-07-02 | 07-02 boost R6: `pushed back on those non-critical requirements` ✅ 隔 10 天成功唤醒，升级 🟢 🏆 |
 | streamline（精简/去冗余）vs optimize（广泛优化） | 🟢 | 2026-06-21 | 2026-07-02 | 07-02 enhance R1: `We streamlined the process` ✅ 隔 10 天成功表达，升级 🟢 🏆 |
-| bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-06-21 | LP5 R2 随堂辨析；隐含轻微不满/批评语气 |
+| bother to do（费心去做） | 🟡 | 2026-06-21 | 2026-07-04 | 07-04 LP4 R5: `bother to help` ✅ 隔11天唤醒 |
 | aligned with（方向/立场一致）vs similar to（表面相似） | 🟡 | 2026-06-21 | 2026-06-21 | LP3 R5 随堂辨析 |
 
 | should be doing（进行态：抱怨/推断/未来预期） | 🟡 | 2026-06-23 | 2026-06-23 | 44BEC 提取；5/6+QF；三层含义全覆盖（学生补全第三层🧠）；被动进行态 `being done` 需巩固；QF 引导 2 轮后命中 |
@@ -174,10 +174,10 @@
 | back in + 时间（早在……那会儿） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；5/6+QF；时态反射（完成时→过去时）经过 3 轮加练后建立；`back in` + 时间段（非时间点）搭配需注意 |
 | communicate 职场义（同步/告知） | 🟡 | 2026-06-27 | 2026-06-27 | 45BEC 提取；6/6+QF；`communicate sth to sb` 全句式稳固；QF 场景理解偏差 1 次；漏 `to sb` 1 次 |
 | not really like（不算是/算不上） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；4/6+QF（虚拟跳过）；核心语义内化；特殊疑问句 `as` + `like` 结构冲突 1 次 |
-| initially（最初/一开始） | 🟡 | 2026-06-27 | 2026-06-27 | 47BEC 提取；5/6+QF；Tag 极性回退（`no one...didn't they?`）1 次加练修复；QF 绕开目标词 1 次 |
+| initially（最初/一开始） | 🟡 | 2026-06-27 | 2026-07-04 | 07-04 LP3 R4: `Initially` ✅ 隔7天 SRS 黄金窗口唤醒 |
 | conference vs meeting（区分日常会/正式大会） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；5/6+QF（虚拟跳过）；时态 `will`→一般现在时 1 次加练修复；conference/meeting 区分意识建立 |
 | do a check-in（会议签到/同步状态） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；6/6+QF；`check in with devices` 搭配错误 1 次；`synced` 代替目标词 1 次加练修复；QF `all set` 地道 |
-| recap（简要回顾/总结要点） | 🟡 | 2026-06-30 | 2026-06-30 | 49BEC 提取；6/6+QF；主谓一致 `do`→`does` 1 次加练修复；`recap report` 冗余 1 次；QF 一次通关 🏆 |
+| recap（简要回顾/总结要点） | 🟡 | 2026-06-30 | 2026-07-04 | 07-04 LP3 R3: `recap` ✅ 隔3天唤醒 |
 | apologies for（固定口语道歉短句） | 🟡 | 2026-06-30 | 2026-06-30 | 50BEC 提取；6/6+QF；动词→名词形式切换 2 次加练修复；`sent`→`send` 平行结构 1 次加练修复；QF `my late` 词性错误 |
 | technical glitch（小技术故障/小毛病） | 🟡 | 2026-06-30 | 2026-06-30 | 50BEC 提取；6/6+QF；完成时否定+until now 3 次加练修复；`be asked to finish` 语义偏差 1 次；QF 冠词 `a issue`→`an issue` |
 | convene（正式召开/召集） | 🟡 | 2026-06-30 | 2026-06-30 | 51BEC 提取；6/6+QF；`commission`→`committee` 词汇 1 次；`will be convening`→`is convening` 时态 1 次；QF 满分 🏆 |
@@ -185,8 +185,13 @@
 
 | boost（商务义：提升/加强/拉升） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+1加练；搭配 boost sales/efficiency/service；Tag 极性+选择疑问主谓一致各加练1轮 |
 | enhance（提品质/优化） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+1加练；vs boost(拉规模)对比辨析；Tag 极性回退1次已修复 |
-| in the field（在现场/外勤/一线） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+QF+1加练；不及物动词被动化(`step in`) 1次关键性错误；field engineer 职位名辨析 |
+| in the field（在现场/外勤/一线） | 🟢 | 2026-07-02 | 2026-07-04 | 07-04 LP2 R4+LP3 R1 两次自然复用零错误。升级 🟢 🏆 |
 | a flashing light（闪烁的警示灯） | 🟡 | 2026-07-02 | — | 52BEC 提取；6/6句式+QF；名词短语 vs 动词进行态辨析(`flashing light` vs `the light is flashing`)；零关键性错误 🏆 |
 | bring up（提出/引出话题） | 🟡 | 2026-07-02 | 2026-07-02 | 52BEC in the field R5: `bring up this issue` ✅ 选词正确，与 `put up with`(忍受)零混淆；首次入池 |
 
-**当前数量**：122 条（已归档 step in / run into / rely on sb to do / material / a paper + noun / personally / be limited to / noise / in a nutshell / be nailed down / go with / in place / hop on a meeting / plan out / ultimately / have sth lined up / per se / walk around the block / a social setting / at my own pace / consume / meet with sb / high-level questions / let alone / build A into B / talk shop / be past that — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）
+| I'm here with somebody（会议/直播介绍开场白） | 🟢 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；5/6+QF（虚拟跳过）；零关键性错误 🏆 |
+| get onboarded（被引导完成入职/入驻/上手流程） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；过去分词崩溃+`let sb do`回退+Mixed Conditional 选错各加练1轮 |
+| head up（负责/主管/领导） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；被动语态缺失加练1轮，其余零关键性错误 |
+| become successful doing（在做某事上取得成功） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；目标结构未使用2次+加练修复 |
+
+**当前数量**：126 条（已归档 step in / run into / ... — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）

@@ -3,8 +3,8 @@
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 
-- [ ] **🔴 不规则动词过去分词复发**: `have ran` / `have took` / `have went` / `have drove`。虽然 Flash Correct 通过，但在长句自由表达时极易回退。2026-05-16 严重复发。2026-06-06 再次出现 `have drove` ❌。
-- [ ] **🔴 主谓一致 (Has/Have)**: `have your child started` ❌ -> `has` ✅。在 Quick Fire 压力下出错。2026-05-16 新发现。
+- [ ] **🔴 不规则动词过去分词复发**: `have ran` / `have took` / `have went` / `have drove`。虽然 Flash Correct 通过，但在长句自由表达时极易回退。2026-05-16 严重复发。2026-06-06 再次出现 `have drove` ❌。**2026-07-04 再次复发**：`has already went` ❌ → `has gone` ✅ (`go-went-gone`，03-26 已归档项复发)。
+- [ ] **🔴 主谓一致 (Has/Have)**: `have your child started` ❌ -> `has` ✅。在 Quick Fire 压力下出错。2026-05-16 新发现。2026-07-04 再次触发：`he need` ❌ → `he needs` ✅。距上次 5/16 已 7 周，复杂句下仍不稳。
 - [ ] **🔴 `rely on` 漏 `on`**: `rely teachers` ❌ -> `rely **on** teachers` ✅。2026-05-16 复发（首次 2026-04-28）。
 - [ ] **🔴 `with + doing` 简洁意识**: 倾向于用 `Even though` 从句替代紧凑的 `with` 短语。2026-05-16 新发现。
 - [ ] **🔴 `agree` 不及物介词复发**: `agree this proposal` ❌ → `agree **to** a proposal` ✅。2026-02-08 曾修复，2026-05-03 再次出现。
@@ -22,13 +22,13 @@
 - [ ] **🔴 Type 3 被动过度纠正**: `had not had been split` ❌ → `had not been split` ✅。Type 3 被动公式只有 had + been + pp，中间不需要第二个 had。2026-05-22 新发现。
 - [ ] **🔴 百分比介词 by 遗漏**: `increase 10%` ❌ → `increase **by** 10%` ✅。百分比变化需要介词 by。2026-05-22 新发现。
 - [ ] **🔴 `need to like` 主语必须是"人"**: `being a PM needs to like` ❌ → `a PM needs to like` ✅。`need to like` 的主体必须是 someone，不能是岗位/活动。2026-05-24 新发现。
-- [ ] **🔴 `let sb do`（使役动词无 to）+ `allow sb to do` 区分混淆**: 话题构建撤骨架中 `let us **to** work` ❌ + 同段 `allows us **scale**` ❌。`let` 无 to / `allow` 有 to 的规则在撤骨架压力下双双回退。2026-06-07 新发现。
+- [ ] **🔴 `let sb do`（使役动词无 to）+ `allow sb to do` 区分混淆**: 话题构建撤骨架中 `let us **to** work` ❌ + 同段 `allows us **scale**` ❌。`let` 无 to / `allow` 有 to 的规则在撤骨架压力下双双回退。2026-06-07 新发现。**2026-07-04 再次回退**：`let them doing` ❌ → `let them do` ✅。近一个月后 `let sb do` 仍不稳。
 - [ ] **🔴 `need to like` 否定句中不丢失 `like`**: `You don't need to manage people` ❌ → `You don't need to **like** managing` ✅。否定句中容易把语义滑向"不需要做某事"而丢失 like。2026-05-24 新发现。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 - [ ] **🔴 `too more` 搭配错误**: `too more people` ❌ → `too many people` ✅。`too` 不能修饰比较级 `more`，可数名词用 `too many`。2026-05-30 新发现。
 - [ ] **🔴 `pay` vs `pay for` 及物性区分**: `pay for the bill` ❌ → `pay the bill` ✅。`pay` + 账单/人/金额（直接宾语）；`pay for` + 商品/服务。2026-05-27 新发现。
 - [ ] **🔴 `any longer` 非断定词意识**: `Guests want to stay any longer` ❌。`any longer` 属非断定词，只能在条件/否定/疑问句中出现，不能在独立肯定陈述句中使用。2026-05-27 新发现。
-- [ ] **🔴 Tag 时态一致性（新类型）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。
+- [ ] **🔴 Tag 时态一致性（新次型：缩写还原）**: `The delegatee picks up...didn't he?` ❌ → `doesn't he?` ✅。反义疑问句 Tag 助动词时态必须与主句一致。2026-05-31 新发现。**2026-07-04 新次型**：`you'd better...wouldn't you?` ❌ → `hadn't you?` ✅。`'d better` = `had better`，缩写还原是判断 Tag 的关键步骤。**2026-07-04 KG 轮换验证**：`was transferred...wasn't it?` ✅ 零回退。
 - [ ] **🔴 Tag 极性回退（同一 session 两次复发）**: 2026-06-07 在同一 session 的两个不同语言点反义疑问句中均出现 Tag 极性错误：`or anything...aren't you?` ❌ + `the sort of thing...isn't it?` ❌。否定主句后 Tag 用肯定（`are you?`/`is it?`）的规则仍不稳定。加练后已修复。2026-06-07 新复发。
 - [ ] **🔴 `do` 搭配范围不精准**: `do testing plans` / `do the sign-up table` ❌。`do` 表"制定/安排"时典型搭配为 schedules/report/rota/list，不接 plans/table。2026-05-31 新发现。
 - [ ] **🔴 `ask for` 介词遗漏（新类型）**: `ask reports` ❌ → `ask **for** reports` ✅。`ask` 表"索要/要求"时必须加介词 `for`（另：`ask sb` 表"问某人"时及物，不冲突）。2026-06-04 新发现。
@@ -42,7 +42,7 @@
 - [ ] **🔴 `make` vs `have` 搭配（会议/评审类）**: `make a review session` ❌ → `have a review session` ✅。`make` 不用于"开会/做评审"，与 plan/decision 搭配时才用 `make`。2026-06-06 新发现（话题构建训练撤骨架）。
 - [ ] **🔴 `cause` 用词错误**: `how serious this bug can cause` ❌。`cause` = 导致（后接结果），不能接程度/形容词。应改用 `how serious this bug is`。2026-06-06 新发现。
 - [ ] **🔴 `not in time for` 后接类型错误（今日 3 次）**: `not in time for us to change` ❌（不能接 `for sb to do`）+ `not in time for notes` ×2 ❌（`notes` 非事件名词）。`in time for` 后只能接**事件名词**（`the deadline`/`the meeting`）；接动作用 `in time to do`。2026-06-16 新发现。
-- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露 → **2026-06-21 下午再次触发 2 次**：`would not have been treated`（应 `would not be`，现在果）+ `would not have interrupted risks`（应 `would not be at risk`，现在果）。中文"现在/如今"→ `would + 原形`，"当初/当时"→ `would have + pp`。
+- [ ] **🔴 Mixed vs Type 3 虚拟结果句选择偏差**: `had had → would go` ❌（过去→现在歧义）→ `would have gone` ✅（过去→过去）。中文语境判断"行为归属时间"有偏差。2026-06-16 LP 2 R6 暴露 → **2026-06-21 下午再次触发 2 次**：`would not have been treated`（应 `would not be`，现在果）+ `would not have interrupted risks`（应 `would not be at risk`，现在果）。中文"现在/如今"→ `would + 原形`，"当初/当时"→ `would have + pp`。**2026-07-04 第 3 次触发**：`would have been dealing` ❌（中文"现在就已经在…"）→ `would be dealing` ✅。
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
@@ -68,6 +68,7 @@
 - [ ] **🔴 `it's + noun + adj` 中式直译**: `it's camera open` ❌ → `the camera is on` ✅。中文"摄像头开了"→ 英语不能用 `it's + noun + adj` 来表达。`it's` 后接形容词是描述 `it` 的性质，而非独立物体的状态。2026-06-30 QF 中暴露。
 - [ ] **🔴 `A or B` 主谓一致（二选一主语单数）**: `Do you think the sales campaign or the new design boost sales?` ❌ → `boosts` ✅。选择疑问句中 `A or B` 视为单数，动词加 `s`。2026-07-02 boost 选择疑问句中暴露，加练 1 轮后修复。隔场需验证。
 - [ ] **🔴 不及物动词被动化扩展（`step in` / `wait` 系列）**: `would have been stepped in` ❌（step in 不及物）+ `would not have been waited` ❌（wait 不及物）→ `someone would have stepped in` ✅ / `would not have dragged on` ✅。同一轮连续两个不及物动词被用于被动语态，说明"不及物动词不可被动"的规则在造句压力下仍未成为硬性反射。2026-07-02 in the field 虚拟语气中暴露。
+- [ ] **🔴 被动语态缺失（非固定搭配类，新类型）**: `has just assigned from headquarters` ❌ → `got transferred` / `was transferred` ✅。主语是"人"且是"被调派"时需被动语态。不同于 `step in`（不及物不可被动），这里是"及物动词但忘记用被动"。2026-07-04 LP3 R1 暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。

@@ -1,8 +1,10 @@
 # 下一步计划 (Next Steps)
 
-> **知识缺口**详见 `knowledge-gaps.md`（🔴 当前待修复 20 条 · 🟡 持续观察 14 条）。Flash Correct 的选题直接取自该区，无需在此重复罗列。
+> **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
-- [x] **45BEC 扫尾**: `ought to be looking at` 今日跳过，下次补训。
+- [x] **53BEC 扫描+再训练完成**: 4 个核心 LP（`I'm here with sb` / `get onboarded` / `head up` / `become successful doing`）全部 6 句式+QF 通关，补录入 active-pool 🏆。剩余 `newest vs new` 词汇辨析待练。
+- [ ] **53BEC 剩余**: `newest vs new` (#5) 词汇辨析造句训练。
+- [ ] **54BEC 继续扫描**: `pick your brain` / `cohort` 再训练（同 53BEC，04-01 训过但未入池）。
 - [ ] **47BEC 剩余**: `here` = 在场/参与（概念辨析）、`disappointing vs disappointed`、`requirements` 永远复数（语法规则）——上述未练，后续判断是否值得造句训练。
 - [x] **下一单元扫描**: 52BEC，继续扫描未记录语言点。
 - [x] **48-51BEC 扫描+训练**: 4 个 BEC 单元全部完成（48BEC 零未记录，49BEC 3/4 LP，50BEC 2/3 LP，51BEC 2/3 LP）。7 个新 LP 全部 6 句式+QF 通关。
@@ -109,3 +111,8 @@
 - [x] **52BEC 扫描+训练完成**: 5 个未记录 LP 中 4 个完成训练，`field engineer` 用户跳过。52BEC 完结 🏆
 - [ ] **🔴 `A or B` 主谓一致 Flash Correct 拦截**: `the campaign or the design boost` ❌→`boosts`✅。2026-07-02 新暴露，隔场验证 1 题。
 - [ ] **🔴 不及物动词被动化 Flash Correct 拦截（扩展型）**: `been stepped in` + `been waited` ❌。2026-07-02 同一轮连续两个不及物动词被被动化。FC 出 1 题含不及物动词虚拟语气。
+- [ ] **🔴 主谓一致 Flash Correct 拦截**: `he need` ❌ 2026-07-04 再次触发。下次开场 1 题含第三人称单数。
+- [ ] **🔴 过去分词 Flash Correct 拦截**: `has went` ❌ 2026-07-04 再次触发。下次开场 1 题含 `have/has + go`。
+- [ ] **🔴 `let sb do` 隔场验证**: `let them doing` ❌ 2026-07-04 再次触发。随机插入含 `let/make/have` 句子。
+- [ ] **🔴 被动语态意识（及物动词忘用被动）**: `has assigned` ❌ 2026-07-04 新暴露。开场 1 题含"人被调派/派遣"场景。
+- [ ] **🔴 Mixed vs Type 3 隔场抽查**: `would have been dealing` ❌ 2026-07-04 第3次触发。后续含"现在/当初"时间词的虚拟句需验证。
