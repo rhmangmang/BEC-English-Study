@@ -69,6 +69,9 @@
 - [ ] **🔴 `A or B` 主谓一致（二选一主语单数）**: `Do you think the sales campaign or the new design boost sales?` ❌ → `boosts` ✅。选择疑问句中 `A or B` 视为单数，动词加 `s`。2026-07-02 boost 选择疑问句中暴露，加练 1 轮后修复。隔场需验证。
 - [ ] **🔴 不及物动词被动化扩展（`step in` / `wait` 系列）**: `would have been stepped in` ❌（step in 不及物）+ `would not have been waited` ❌（wait 不及物）→ `someone would have stepped in` ✅ / `would not have dragged on` ✅。同一轮连续两个不及物动词被用于被动语态，说明"不及物动词不可被动"的规则在造句压力下仍未成为硬性反射。2026-07-02 in the field 虚拟语气中暴露。
 - [ ] **🔴 被动语态缺失（非固定搭配类，新类型）**: `has just assigned from headquarters` ❌ → `got transferred` / `was transferred` ✅。主语是"人"且是"被调派"时需被动语态。不同于 `step in`（不及物不可被动），这里是"及物动词但忘记用被动"。2026-07-04 LP3 R1 暴露。
+- [ ] **🔴 `see/watch/hear + 宾语 + 原形` 感官动词结构（新缺口）**: `saw the server crashed` ❌ → `saw the server **crash**` ✅。感官动词 + 宾 + 动词原形表示目睹完整事件。2026-07-09 `a moment of panic` R1 暴露。
+- [ ] **🔴 `altogether`（一个词=完全地）≠ `all together`（两个词=全员聚在一起）**: `we could have been altogether in person` ❌ → `we could have been **all together** in person` ✅。54BEC 原文为两词短语。同一拼写错误导致的语义混淆。2026-07-09 LP 7 R6 暴露。
+- [ ] **🔴 `go + 过去分词` 结构不存在**: `went crashed` ❌ → `crashed` / `went **down**` ✅。`go` 作系动词时后接形容词（`go remote`），不接过去分词。2026-07-09 `frantically` R1 暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。

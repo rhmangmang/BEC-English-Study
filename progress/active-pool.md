@@ -190,8 +190,18 @@
 | bring up（提出/引出话题） | 🟡 | 2026-07-02 | 2026-07-02 | 52BEC in the field R5: `bring up this issue` ✅ 选词正确，与 `put up with`(忍受)零混淆；首次入池 |
 
 | I'm here with somebody（会议/直播介绍开场白） | 🟢 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；5/6+QF（虚拟跳过）；零关键性错误 🏆 |
-| get onboarded（被引导完成入职/入驻/上手流程） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；过去分词崩溃+`let sb do`回退+Mixed Conditional 选错各加练1轮 |
+| get onboarded（被引导完成入职/入驻/上手流程） | 🟡 | 2026-03-30 | 2026-07-09 | 53BEC 提取；07-09 跨 LP 复用 8+ 次 ✅，`has...get` pp 崩溃 1 次（当场 `gotten`/`been` 修复→仍需观察），维持 🟡 |
 | head up（负责/主管/领导） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；被动语态缺失加练1轮，其余零关键性错误 |
 | become successful doing（在做某事上取得成功） | 🟡 | 2026-03-30 | 2026-07-04 | 53BEC 提取（03-30~04-01 训练过，本次再训练补录入池）；6/6+QF；目标结构未使用2次+加练修复 |
 
-**当前数量**：126 条（已归档 step in / run into / ... — 共 27 条 ⚠️ 超出 80 上限，需尽快归档 🟢 旧词组）
+| pick your brain（请教/取经/向有经验的人讨教） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；缺介词 `about` 1次→当场修复；缺助动词 `do` 1次；QFFC 时态+过去时间复发1次（`last year`+完成时）；Tag 满分；虚拟 Type3 满分 🏆 |
+| cohort（一批人/一届人/一期人） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；过去分词 `get`→`gotten` 崩溃1次加练修复；造词 `frantical` 1次→纠正；Tag 满分；虚拟 Type3 满分 🏆 |
+| go remote（转为远程办公/线上模式） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`do remote working` 回避目标结构1次→加练修复；`remote` 词性（adj作主语补足语）随堂讲解；Tag 满分；虚拟 Type3 精准 🏆 |
+| bring people on / bring on（招聘/雇用新人） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`hire` 回避目标结构1次→加练修复；被动拆分 `was brought on` 正确；QF 情态动词+原形 `can we brought` 复发1次；Tag 满分 🏆 |
+| frantically（慌乱地/焦急地） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；形容词/副词混淆（`frantic`≠`frantically`）1次→加练修复；目标结构未使用2次（`panicked`/`frantic`）→2轮加练；Tag满分；虚拟满分 🏆 |
+| fly sb out（安排某人坐飞机过来） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；过去分词 `flew`→`flown` 崩溃1次→加练修复；`headquarters` 冠词规则随堂讲解；Tag 满分；虚拟满分 🏆 |
+| all together in person（全员线下聚在一起） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`altogether`（一个词）≠ `all together`（两个词）暴露1次；会议介词 `in`+`at` 1次；Tag 满分 🏆 |
+| run cohorts（带新人入职批次） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`a lot cohorts`→`a lot of` 1次；`batch` 和 `cohort` 语义重叠注意；`run` pp（非 `ran`）零回退 🏆 |
+| a moment of panic（一阵恐慌/瞬间慌神） | 🟡 | 2026-07-09 | — | 54BEC 提取（前8轮作为历史词组已复用7次）；快速链路+1QF；第1次 `a moment panic` 漏 `of`→第3次起完整正确；感官动词+原形 `see...crash` 暴露1次 🏆 |
+
+**当前数量**：135 条（⚠️ 远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）
