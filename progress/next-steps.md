@@ -2,12 +2,18 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
+- [ ] **🔴 修饰词完整性 Flash Correct**: 57BEC 两次漏 `on time`，并有 `all`/`still`/`yet` 弱化风险。下次开场 2 题，完成翻译后强制扫描时间、范围、程度词。
+- [ ] **🔴 现在完成时被动 Tag 拦截**: `materials have been localized, are they?` ❌ → `haven't they?` ✅。下次 2 题对比 `hasn't it? / haven't they?`。
+- [ ] **🔴 Comma Splice 再次拦截**: 2026-08-21 两次复发。下次 2 题分别强制使用 `so` 与句号/分号。
+- [ ] **🟡 `marketing material/materials` 对比复测**: 集合单数 `has/it` vs 多份物料 `have/they`，加入 `some/all/not all`。
+- [ ] **🟡 `there may not be any way` 无提示复测**: 本次最终通关但多次改写为近义结构；隔场要求保留目标句型。
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` Flash Correct 拦截**: `saw the server crashed` ❌ → 感官动词 + 原形。2026-07-09 新暴露。
 - [ ] **🔴 `altogether`≠`all together` Flash Correct 拦截**: 一个词 vs 两个词语义完全不同。2026-07-09 新暴露。
 - [ ] **🔴 `go + pp` 不存在 Flash Correct 拦截**: `went crashed` ❌。`go` + adj ✅ / `go` + pp ❌。2026-07-09 新暴露。
-- [ ] **🔴 active-pool 超限归档（紧急）**: 当前 135 条（远超 80 上限）。下次 session 必须批量归档距首次学习 >14 天 + 🟢 的所有词组到 `mastered-points.md`。
-- [ ] **继续扫描 55BEC+**: 54BEC 已完成，继续下一单元。
+- [ ] **🔴 active-pool 超限归档（紧急）**: 当前 141 条（远超 80 上限）。下次 session 必须按最近 3 次主动复用证据核验后，归档距首次学习 >14 天且满足条件的 🟢 词组到 `mastered-points.md`。
+- [ ] **继续扫描 58BEC+**: 57BEC 已完成，继续下一单元。
 
+- [x] **57BEC 扫描+训练完成**: 6 个明确疑问点全部完成多句式训练与 QF；详细错误、疑问和复训安排见 `sessions/2026-08-21/session-notes.md`。
 - [x] **54BEC 扫描+训练完成**: 15 个疑问点全部处理：9 个造句训练（`pick your brain`/`cohort`/`go remote`/`bring people on`/`frantically`/`fly sb out`/`all together in person`/`run cohorts`/`a moment of panic`）全部通关 + 3 个随堂讲解 + 2 个跳过/已记录 + 1 个辨析 🏆。剩余：54BEC 语法纠错部分（时态混乱/过去将来时等）未单独训练。
 - [ ] **54BEC 语法纠错训练**: 原文中的时态错误（previously+完成时→过去时、`In a second` 口语卡顿、过去引语中将来时→过去将来时）可作Flash Correct素材。
 - [ ] **47BEC 剩余**: `here` = 在场/参与（概念辨析）、`disappointing vs disappointed`、`requirements` 永远复数（语法规则）——上述未练，后续判断是否值得造句训练。

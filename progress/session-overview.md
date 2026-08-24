@@ -2,6 +2,7 @@
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
+| 2026-08-21 | **57BEC 扫描+训练**: `walk a fine line` `localize/so much better` `in a way` `tricky` `there may not be any way` `marketing material(s)`（6 LP，多句式变形+QF） | ✅ | 6 个学生明确疑问点全部处理，当前 4 个 🟢、2 个 🟡；历史 `step in`/`run into issues`/`in place` 多次复用；新/复发缺口：目标结构回避、修饰词遗漏、完成时 Tag、material 单复数、Comma Splice。 |
 | 2026-07-09 | **54BEC 扫描+训练**: `pick your brain` `cohort` `go remote` `bring people on` `frantically` `fly sb out` `all together in person` `run cohorts` `a moment of panic` (9 LP, 62轮造句含QF+Micro RP×4) + 纠偏×7(过去分词3/3✅+主谓一致2/2✅+情态原形2/2✅) | ✅ | 🏆 54BEC 全扫描完成，15个疑问点中9个造句训练+3个随堂讲解+2个跳过+1个已记录；`a moment of panic` 7次复用 `of` 不再丢；`fly sb out` pp `flown` 加练固化；6个关键性错误全部加练修复；学生主动质疑/提问10次；新暴露4个缺口(感官动词+原形/`altogether`≠`all together`/`go+pp`不存在/`see+crash`)。`get onboarded` 8+次跨LP复用 |
 | 2026-06-27 | 45BEC/47BEC 扫描+训练: `back in` `communicate` `not really like` `initially` (4 LP, 20轮造句+QF+Micro RP×2) + 纠偏×6 | ✅ | 🏆 完成时+过去时间反射初建；`pick up on` 从句错误跨session修正 |
 | 2026-06-30 | 48-51BEC 扫描+训练: `conference/meeting` `check-in` `recap` `apologies for` `technical glitch` `convene` `be being+pp` (7 LP, 50+轮+QF+Micro RP×3) + 纠偏×4(Comma Splice+情态+冠词+冠词隔场) | ✅ | 🏆 Comma Splice 55次零回退；冠词跨session 4/4；被动进行态从`is being live`→稳定输出；3个新缺口(平行结构/完成时否定/live词性) |

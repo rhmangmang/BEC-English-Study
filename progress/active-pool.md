@@ -7,8 +7,8 @@
 
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
-| step in | 🟡 | 2026-04-25 | 2026-07-04 | 07-02 🔴 降级 → 07-04 两次正确复用：LP1 R2 `step in to deal with` ✅ + LP4 R4 `send someone to step in` ✅。不及物用法连续2次正确，升级 🟡 |
-| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-07-02 | 07-02 in the field R2: `when we run into issues` ✅ 隔约 1 个月唤醒；连续多次主动使用正确，维持 🟢 🏆 |
+| step in | 🟢 | 2026-04-25 | 2026-08-21 | 08-21 在 57BEC 中多次正确主动复用（`the expert stepped in` / `get the manager to step in`）；不及物用法稳定，升级 🟢 🏆 |
+| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-08-21 | 08-21 多次主动使用；一次 `running to issues` 介词滑误后连续正确修复，维持 🟢 |
 | entail | 🟡 | 2026-04-28 | 2026-07-04 | 07-04 LP1 R2b: 63天真空后首次唤醒 ✅，搭配 `entails connecting with` 需注意 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
@@ -23,7 +23,7 @@
 | not as...as it needs to be | 🟡 | 2026-05-01 | — | as...as 完整性、复数代词指代 |
 | go with | 🟢 | 2026-05-01 | — | 全场最佳 🏆 |
 | run the campaigns | 🟡 | 2026-05-01 | — | run 过去分词 run（非 ran） |
-| in place | 🟢 | 2026-05-02 | — | 已到位/已落实 🏆 |
+| in place | 🟢 | 2026-05-02 | 2026-08-21 | 08-21 在 process / backup plan / security measures 等语境中多次正确复用，维持 🟢 🏆 |
 | either（否定句搭配） | 🟡 | 2026-05-02 | — | 否定句中不遗漏 either |
 | be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
 | all hands on deck | 🟢 | 2026-05-02 | 2026-07-02 | 07-02 boost R2: `it's not all hands on deck` ✅ 隔约 2 个月成功唤醒，否定句用法正确 🏆 |
@@ -203,5 +203,11 @@
 | all together in person（全员线下聚在一起） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`altogether`（一个词）≠ `all together`（两个词）暴露1次；会议介词 `in`+`at` 1次；Tag 满分 🏆 |
 | run cohorts（带新人入职批次） | 🟡 | 2026-07-09 | — | 54BEC 提取；6/6+2QF；`a lot cohorts`→`a lot of` 1次；`batch` 和 `cohort` 语义重叠注意；`run` pp（非 `ran`）零回退 🏆 |
 | a moment of panic（一阵恐慌/瞬间慌神） | 🟡 | 2026-07-09 | — | 54BEC 提取（前8轮作为历史词组已复用7次）；快速链路+1QF；第1次 `a moment panic` 漏 `of`→第3次起完整正确；感官动词+原形 `see...crash` 暴露1次 🏆 |
+| walk a fine line between A and B（在两者间谨慎平衡） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；多种句式+QF 通关；`adapt to the local market` / `maintain brand identity` 搭配稳定 🏆 |
+| localize + content/materials（使内容/物料本地化） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；多种句式+QF 通关；注意 `content` 通常不可数及疑问句助动词顺序 |
+| in a way（从某种角度看） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；已能区分 `in some way`；位置和评注功能稳定 🏆 |
+| tricky（棘手的/需要仔细处理的） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；语义稳定；比较级/最高级 `trickier / trickiest` 待隔场抽查 |
+| there may not be any way to do（可能没有办法做） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；最终通关，但曾多次改用 `there may be no way` / `may not be able to` 回避目标结构 |
+| marketing material / materials（营销材料/物料） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；集合概念单数 vs 多份具体物料复数已讲清；数、助动词、代词一致性待复测 |
 
-**当前数量**：135 条（⚠️ 远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）
+**当前数量**：141 条（⚠️ 远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）

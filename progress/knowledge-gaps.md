@@ -12,7 +12,7 @@
 - [ ] **🔴 `drive` 过去分词 (`driven`)**: `had not drive` ❌ → `had not driven` ✅。drive-drove-**driven**。2026-05-02 复发。
 - [ ] **🔴 名词修饰名词形态**: `communicating channel` ❌ → `communication channel` ✅。修饰语用名词原形，非动词形式。2026-05-02 新发现。
 - [ ] **🔴 Tag 极性回退（肯定/否定主句）**: `requires all hands on deck, does it?` ❌ → `doesn't it?` ✅；`We should not...shouldn't we?` ❌ → `should we?` ✅。简单句否定+Tag 再次复发。2026-06-04 再次复发（`shouldn't we?`，加练 1 轮已修复）。
-- [ ] **🔴 Tag 时态一致性（助动词与主句不匹配）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。主句系动词 `was`，Tag 助动词必须跟 `was`，不能跳 `did`。2026-06-20 新暴露，加练后修复。
+- [ ] **🔴 Tag 时态一致性（助动词与主句不匹配）**: `was made...didn't it?` ❌ → `wasn't it?` ✅。主句系动词 `was`，Tag 助动词必须跟主句。**2026-08-21 新次型复发**：`all the marketing materials have been localized, are they?` ❌ → `haven't they?` ✅。现在完成时被动仍需保留 `have` 构造 Tag。
 - [ ] **🔴 情态动词 + 原形**: `cannot came` / `should not... shouldn't we?` / `will lost` / `Will you in?` ❌。持续复发，需专项对抗。2026-05-30 再次出现（`Will you in?` 情态动词 `will` 后漏 `be`，叠加 Tag 极性 `shouldn't we?` 也复发）。
 - [ ] **🔴 `run` 过去分词**: `be ran` ❌ → `be run` ✅。run-ran-**run**，被动语态中需用过去分词。2026-05-01 复发。
 - [ ] **🔴 间接疑问句语序**: `Do you think` / `know` / `understand` 后的从句必须用陈述语序（`what the problem is`，非 `what's the problem`）。持续复发。2026-05-05 纠偏中再次触发 ⚠️。2026-06-16 LP 2 R3 复发：`Do you think if we just...can it keep up` ❌。2026-06-20 LP 4 R5 再次复发：`Which one is more important you think` ❌ → `Which one do you think is more important` ✅。
@@ -46,7 +46,7 @@
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
-- [ ] **🟡 Comma Splice 逗号拼接（三场→06-30 整场 55 次零回退 ✅）**: 06-21 触发 10+ 次 → 06-23 触发 2 次 → 06-27 触发 2 次 → **06-30 全 session 55 次零回退 🏆**。分号断开独立句的自觉已建立。隔场抽查确认后即可考虑降级归档。
+- [ ] **🔴 Comma Splice 逗号拼接（2026-08-21 复发）**: 06-21 触发 10+ 次 → 06-23/06-27 再现 → 06-30 全场零回退；**08-21 再次出现** `These issues are tricky, we need experts...` 与 `We ran into security issues, we may not...`。需恢复最高优先级，用 `so`、句号或分号拆分独立分句。
 - [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
 - [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
 - [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。→ **2026-06-21 下午扩展**：`go back to that no one treated it` ❌ — 同位介词 `to` 同样不能接 `that` 从句。正确：`go back to nobody treating it`（动名词短语）。
@@ -76,6 +76,7 @@
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。
 
+- [ ] **`marketing material` 可数性与一致性**: 集合概念用不可数单数 `material has / it`；多份海报、手册、文案用复数 `materials have / they`。2026-08-21 暴露单复数选择和 Tag 代词/助动词不一致，需成组对比抽查。
 - [ ] **`as` vs `like` 叠加结构冲突**（新类型）: `come across as not really like` ❌。`as` 和 `like` 功能重叠不可叠加。2026-06-27 新发现。
 - [ ] **`effective` (adj) vs `effect` (n) 词性混淆**: `took effective` ❌ → `took effect` ✅。`effective` = 形容词（有效的），`effect` = 名词（效果）。`take effect` = 生效。2026-06-27 新发现。
 - [ ] **`duplicated`（复制）vs `deprecated`（废弃）**: `migration tool duplicated` ❌ → `deprecated` / `decommissioned` ✅。IT 完全不同的两个术语。2026-06-27 新发现。
@@ -151,7 +152,7 @@
 - [ ] **名词词组 vs 从句**: 减少 `the fact that` 依赖，优先使用名词短语。2026-03-15。
 - [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience`（不加 of）；名词 `a lack of experience`（加 of）。
 - [ ] **`market` vs `roll out`**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。
-- [ ] **翻译漏修饰词**: 倾向漏掉时间词、程度词（already/really/much/more/earlier）。
+- [ ] **🔴 翻译漏修饰词/限定词（2026-08-21 复发）**: 倾向漏掉时间、程度、范围和持续性词语（already/really/much/more/earlier/on time/still/all/yet）。本次两次漏 `on time`，并有 `all`/`still` 弱化风险；翻译后需单独做修饰词扫描。
 - [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
 - [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
 - [ ] **词性转换**: failure→failed, success→succeed, 情态动词后必须接动词原形。
