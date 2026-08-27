@@ -47,6 +47,9 @@
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
 - [ ] **🔴 Comma Splice 逗号拼接（2026-08-21 复发）**: 06-21 触发 10+ 次 → 06-23/06-27 再现 → 06-30 全场零回退；**08-21 再次出现** `These issues are tricky, we need experts...` 与 `We ran into security issues, we may not...`。需恢复最高优先级，用 `so`、句号或分号拆分独立分句。
+- [ ] **🔴 `this kind of + 单数名词` 的主语—助动词一致**: `Do this kind of temporary change cause...` ❌ → `Does this kind of temporary change cause...` ✅。中心词是单数 `kind`，一般疑问句用 `does`。2026-08-26 新暴露，加练 1 轮修复，需隔场抽查。
+- [ ] **🔴 并列疑问分句漏主语**: `or will make the proposal...` ❌ → `or will it make the proposal...` ✅。第二个完整问句重复情态动词时，仍必须保留主语。2026-08-26 新暴露，加练后修复。
+- [ ] **🔴 选择项逻辑层级与形式平行**: 除 `doing A or doing B` 的形式外，还要确保两个选项处在同一决策层级；2026-08-26 学生准确指出原题中“结果”与“动作”不平行。后续出题及产出均需双重检查。
 - [ ] **🔴 造词习惯（un-前缀/后缀泛化）**: 依赖构词规则推导不存在词汇：`untransparent` ❌→`opaque`/`non-transparent`、`untrust` ❌→`lose trust`、`changability` ❌→`change`(不可数)、`batchly` ❌→`in batches`。核心问题：不确定的词未查词典即使用。2026-06-21 新发现。
 - [ ] **🔴 比较对象一致性**: `the same as` 结构中比较对象不一致：`his working style...the same as you` ❌（style vs person）→ `the same as yours` ✅（style vs style）。R3+R5 同一 session 连续 2 次复发，加练后修复。2026-06-21 新发现。
 - [ ] **🔴 `about that` 从句结构**: `about that these changes will affect` ❌。`about` 是介词，后只能接名词/名词短语/动名词，不能接 `that` 从句。正确：`worried that...` ✅。2026-06-21 新发现。→ **2026-06-21 下午扩展**：`go back to that no one treated it` ❌ — 同位介词 `to` 同样不能接 `that` 从句。正确：`go back to nobody treating it`（动名词短语）。
@@ -77,6 +80,8 @@
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。
 
 - [ ] **`marketing material` 可数性与一致性**: 集合概念用不可数单数 `material has / it`；多份海报、手册、文案用复数 `materials have / they`。2026-08-21 暴露单复数选择和 Tag 代词/助动词不一致，需成组对比抽查。
+- [ ] **固定结构小词遗漏（58BEC）**: `a little bit time` ❌ → `a little bit of time`；`person charge` ❌ → `person in charge`。2026-08-26 各出现 1 次，纳入低频抽查。
+- [ ] **不定式目的/机会不等于结果**: `give sb time to get everything ready` 只说明给时间的目的或机会，不蕴含 everything 已 ready；表达结果需用 `Everything is ready` / `has finished preparing`。2026-08-26 深度辨析后理解清楚，隔场观察。
 - [ ] **`as` vs `like` 叠加结构冲突**（新类型）: `come across as not really like` ❌。`as` 和 `like` 功能重叠不可叠加。2026-06-27 新发现。
 - [ ] **`effective` (adj) vs `effect` (n) 词性混淆**: `took effective` ❌ → `took effect` ✅。`effective` = 形容词（有效的），`effect` = 名词（效果）。`take effect` = 生效。2026-06-27 新发现。
 - [ ] **`duplicated`（复制）vs `deprecated`（废弃）**: `migration tool duplicated` ❌ → `deprecated` / `decommissioned` ✅。IT 完全不同的两个术语。2026-06-27 新发现。

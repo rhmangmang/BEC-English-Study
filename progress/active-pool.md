@@ -29,7 +29,7 @@
 | all hands on deck | 🟢 | 2026-05-02 | 2026-07-02 | 07-02 boost R2: `it's not all hands on deck` ✅ 隔约 2 个月成功唤醒，否定句用法正确 🏆 |
 
 | be worth doing | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 enhance R2: `not worth spending` ✅ 隔 16 天 SRS 高危窗口成功唤醒，升级 🟢 🏆 |
-| sit around | 🟡 | 2026-06-15 | 2026-07-04 | 07-04 LP1 R4: `sit around waiting` ✅ 隔17天唤醒，`sit around + doing` 结构正确 |
+| sit around | 🟢 | 2026-06-15 | 2026-08-26 | 08-26 Flash Correct 主动使用 `We cannot sit around...` ✅，跨 7 周再次稳定复现，升级 🟢 🏆 |
 | I'm assuming | 🟡 | 2026-06-15 | 2026-07-04 | 07-04 LP4 R1: `I'm assuming` ✅ 隔17天唤醒，句首使用自然 |
 | check with + 人 + on + 事 | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 in the field R1: `checking with the team on the concrete timeline` ✅ 隔 16 天唤醒，升级 🟢 🏆 |
 | not in time for | 🟡 | 2026-06-15 | 2026-06-15 | 22BEC 提取；6 句式+QF；`catched`→`caught` 当场修复；`didn't be` 新暴露 |
@@ -50,9 +50,9 @@
 | have my calendar all organized | 🟡 | 2026-05-03 | — | Round 1 未命中目标结构 |
 | ultimately | 🟢 | 2026-05-03 | 2026-05-16 | 🏆 |
 | out of place | 🟡 | 2026-05-03 | — | 介词、feel like 用法 |
-| have something lined up | 🟢 | 2026-05-03 | — | 虚拟语气嵌套 🏆 |
+| have something lined up | 🟢 | 2026-05-03 | 2026-08-26 | 08-26 主动变体 `The tasks we lined up...` ✅；`line up tasks` 搭配正确，维持 🟢 🏆 |
 | stand in the corner | 🟡 | 2026-05-03 | — | Tag 极性回退、stood 过去分词 |
-| kind of thing | 🟡 | 2026-05-03 | — | 口语收尾用法 |
+| kind of thing | 🟢 | 2026-05-03 | 2026-08-26 | 08-26 `Does this kind of thing usually cause...` ✅；主谓一致加练后结构稳定，升级 🟢 |
 | per se | 🟢 | 2026-05-03 | — | not... per se 结构 🏆 |
 | planned downtime | 🟡 | 2026-05-04 | — | 主语一致性、虚拟结果句 |
 | walk around the block | 🟢 | 2026-05-04 | 2026-05-04 | 5 句式全通关 + QF；跨 4 天复用满分 🏆 |
@@ -209,5 +209,9 @@
 | tricky（棘手的/需要仔细处理的） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；语义稳定；比较级/最高级 `trickier / trickiest` 待隔场抽查 |
 | there may not be any way to do（可能没有办法做） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；最终通关，但曾多次改用 `there may be no way` / `may not be able to` 回避目标结构 |
 | marketing material / materials（营销材料/物料） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；集合概念单数 vs 多份具体物料复数已讲清；数、助动词、代词一致性待复测 |
+| I would suggest + doing（委婉建议做某事） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；肯定/否定/一般问句/Tag/选择问句完成；注意并列动名词平行及不要漏掉动作 |
+| I suppose + clause / Do you suppose...?（推测/征询判断） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；5 类句式完成，Tag 稳定；搭配 `make an impression on`、`person in charge` 待巩固 |
+| a tangled mess of + noun（一团相互纠缠的……） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；5 类句式+2 次关键加练完成；注意 `conflicting`、`Does this kind...` 和并列问句补主语 |
+| give sb time to do sth（给某人时间做某事） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；5 类句式完成，后 4 轮连续通过；已明确不定式表示目的/机会、不自动表示结果，待隔场确认 |
 
-**当前数量**：141 条（⚠️ 远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）
+**当前数量**：145 条（⚠️ 远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）
