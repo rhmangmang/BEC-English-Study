@@ -2,7 +2,10 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
-- [ ] **🔴 修饰词完整性 Flash Correct**: 57BEC 两次漏 `on time`，并有 `all`/`still`/`yet` 弱化风险。下次开场 2 题，完成翻译后强制扫描时间、范围、程度词。
+- [ ] **🔴 修饰词完整性 Flash Correct**: 57BEC 漏 `on time` 后，59BEC 又多次漏 `almost`，并漏过 `every time`、`still`。下次开场 3 题，翻译后强制扫描时间、范围、频率和程度词。
+- [ ] **🔴 `effortless` 语义主语专项**: 对比 `The process is effortless` / `It is effortless for sb to do` / `sb does it effortlessly`；拦截 `make sb effortless` 与 `sb is effortless to do`。下次 2 题。
+- [ ] **🟡 过去事实、过去习惯与过去假设辨析**: 对比 `did`、`used to`、`would usually`、`would have done`，避免把真实的过去经历无依据地写成虚拟结果。
+- [ ] **🟡 59BEC 7 LP 隔场复测**: 无提示抽查 `fit` 三组结构、`advancement in/of`、`in a corporate role`、`blend`、`core`、`almost` 与 `effortless`。
 - [ ] **🔴 现在完成时被动 Tag 拦截**: `materials have been localized, are they?` ❌ → `haven't they?` ✅。下次 2 题对比 `hasn't it? / haven't they?`。
 - [ ] **🔴 Comma Splice 再次拦截**: 2026-08-21 两次复发。下次 2 题分别强制使用 `so` 与句号/分号。
 - [ ] **🔴 58BEC 新缺口 Flash Correct**: 各 1 题复测 `Does this kind of + 单数名词...?` 与并列问句 `or will it...?`，同时检查选择项逻辑平行。
@@ -12,8 +15,10 @@
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` Flash Correct 拦截**: `saw the server crashed` ❌ → 感官动词 + 原形。2026-07-09 新暴露。
 - [ ] **🔴 `altogether`≠`all together` Flash Correct 拦截**: 一个词 vs 两个词语义完全不同。2026-07-09 新暴露。
 - [ ] **🔴 `go + pp` 不存在 Flash Correct 拦截**: `went crashed` ❌。`go` + adj ✅ / `go` + pp ❌。2026-07-09 新暴露。
-- [ ] **🔴 active-pool 超限归档（紧急）**: 当前 145 条（远超 80 上限）。下次 session 必须按最近 3 次主动复用证据核验后，归档距首次学习 >14 天且满足条件的 🟢 词组到 `mastered-points.md`。
-- [ ] **继续扫描 59BEC+**: 58BEC 已完成，继续下一单元。
+- [ ] **🔴 active-pool 超限归档（紧急）**: 当前实际 202 条（远超 80 上限；旧汇总数字漏计）。下次 session 必须按最近 3 次主动复用证据核验后，归档距首次学习 >14 天且满足条件的 🟢 词组到 `mastered-points.md`。
+- [ ] **继续扫描 60BEC+**: 59BEC 已完成，继续下一单元。
+
+- [x] **59BEC 扫描+补全训练完成**: 7 个未记录 LP 已完成多句式训练；62 条英文输出逐句记录，学生提问、跳过项、教师题目问题与详细不足均已归档；详见 `sessions/2026-09-08/session-notes.md`。
 
 - [x] **58BEC 扫描+训练完成**: 7 组疑问点已盘点；4 个未记录/部分记录 LP 完成多句式训练，`spend time` 按学生熟悉度跳过；详见 `sessions/2026-08-26/session-notes.md`。
 - [x] **57BEC 扫描+训练完成**: 6 个明确疑问点全部完成多句式训练与 QF；详细错误、疑问和复训安排见 `sessions/2026-08-21/session-notes.md`。
@@ -121,7 +126,7 @@
 - [ ] **🟡 `pick up on + that` 从句结构 — 已修复进入 Monitoring**: `pick up on that the risk was increasing` ❌ → `pick up that / pick up on the fact that` ✅。2026-06-23 新发现。2026-07-02 确认修复，移入 🟡 Monitoring。隔场确认后归档。
 - [ ] **继续扫描 45BEC+**: 44BEC 已完成。45BEC-52BEC 为 2026 年 3 月首轮训练批次，预计仍有未记录 LP 遗漏。
 - [ ] **🔴 AI 失职记录 — 历史词组植入**: 06-23 session 多轮未按 GEMINI.md 要求扫描 `active-pool.md` 植入历史词组。仅最后一轮补偿植入 `pick up on`。下次 session 必须在**每一轮出题前**强制检查：本题要植入哪个历史词组？中文对应何处引导？
-- [ ] **🔴 active-pool 超限归档**: 当前 111-122 条（超出 80 上限）。需优先归档最早 🟢 词组。
+- [ ] **🔴 active-pool 超限归档**: 当前实际 202 条（超出 80 上限）。需按最近 3 次主动复用证据优先归档最早的 🟢 词组。
 - [x] **52BEC 扫描+训练完成**: 5 个未记录 LP 中 4 个完成训练，`field engineer` 用户跳过。52BEC 完结 🏆
 - [ ] **🔴 `A or B` 主谓一致 Flash Correct 拦截**: `the campaign or the design boost` ❌→`boosts`✅。2026-07-02 新暴露，隔场验证 1 题。
 - [ ] **🔴 不及物动词被动化 Flash Correct 拦截（扩展型）**: `been stepped in` + `been waited` ❌。2026-07-02 同一轮连续两个不及物动词被被动化。FC 出 1 题含不及物动词虚拟语气。

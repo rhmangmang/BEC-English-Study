@@ -2,6 +2,7 @@
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
+| 2026-09-08 | **59BEC 疑问点扫描+补全训练**: `in a corporate role` `blend A with B / into B` `core + noun` `fit in / fit in with / fit sth in` `advancement(s) in / the advancement of` `almost + adjective` `effortless / make it effortless for sb to do`（7 LP，62 条英文训练输出逐句记录，含 QF 与整合练习） | ✅ | 逐句保留原句、问题、修改和能力判断；主要新缺口为修饰词遗漏、`effortless` 语义主语错绑、`give` 施受关系反转，以及过去事实/习惯/假设和状态/完成时的选择。学生多次准确识别题目语义或搭配不自然，是本轮明显优势。 |
 | 2026-08-26 | **58BEC 扫描+训练**: `I would suggest doing` `I suppose` `a tangled mess of` `give sb time to do`（4 LP，逐轮记录 44 次学生发言，其中 26 条英文输出；`spend time` 按熟悉度跳过） | ✅ | 7 组疑问点完成盘点，4 个未记录/部分记录 LP 完成多句式训练；Comma Splice 3/3；历史 `sit around`/`kind of thing`/`line up` 复现；新缺口为 `Does this kind...`、并列问句漏主语、固定小词遗漏及逻辑平行。 |
 | 2026-08-21 | **57BEC 扫描+训练**: `walk a fine line` `localize/so much better` `in a way` `tricky` `there may not be any way` `marketing material(s)`（6 LP，多句式变形+QF） | ✅ | 6 个学生明确疑问点全部处理，当前 4 个 🟢、2 个 🟡；历史 `step in`/`run into issues`/`in place` 多次复用；新/复发缺口：目标结构回避、修饰词遗漏、完成时 Tag、material 单复数、Comma Splice。 |
 | 2026-07-09 | **54BEC 扫描+训练**: `pick your brain` `cohort` `go remote` `bring people on` `frantically` `fly sb out` `all together in person` `run cohorts` `a moment of panic` (9 LP, 62轮造句含QF+Micro RP×4) + 纠偏×7(过去分词3/3✅+主谓一致2/2✅+情态原形2/2✅) | ✅ | 🏆 54BEC 全扫描完成，15个疑问点中9个造句训练+3个随堂讲解+2个跳过+1个已记录；`a moment of panic` 7次复用 `of` 不再丢；`fly sb out` pp `flown` 加练固化；6个关键性错误全部加练修复；学生主动质疑/提问10次；新暴露4个缺口(感官动词+原形/`altogether`≠`all together`/`go+pp`不存在/`see+crash`)。`get onboarded` 8+次跨LP复用 |

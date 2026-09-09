@@ -75,12 +75,16 @@
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` 感官动词结构（新缺口）**: `saw the server crashed` ❌ → `saw the server **crash**` ✅。感官动词 + 宾 + 动词原形表示目睹完整事件。2026-07-09 `a moment of panic` R1 暴露。
 - [ ] **🔴 `altogether`（一个词=完全地）≠ `all together`（两个词=全员聚在一起）**: `we could have been altogether in person` ❌ → `we could have been **all together** in person` ✅。54BEC 原文为两词短语。同一拼写错误导致的语义混淆。2026-07-09 LP 7 R6 暴露。
 - [ ] **🔴 `go + 过去分词` 结构不存在**: `went crashed` ❌ → `crashed` / `went **down**` ✅。`go` 作系动词时后接形容词（`go remote`），不接过去分词。2026-07-09 `frantically` R1 暴露。
+- [ ] **🔴 修饰词/限定词遗漏（59BEC 再次复发）**: 57BEC 漏 `on time` 后，本轮又多次漏 `almost`，并漏过 `every time`、`still`。问题不是不会这些词，而是在长句中优先保留主干、弱化了程度/频率/持续性信息。翻译后需逐项扫描时间、范围、频率、程度词。
+- [ ] **🔴 形容词的语义主语错绑（`effortless`）**: `make the person in charge effortless` ❌、`the person in charge would be effortless to confirm` ❌。`effortless` 描述事情/过程“不费力”，不能直接描述人。应使用 `It is effortless for sb to do`、`make the process effortless` 或 `sb does sth effortlessly`。2026-09-08 连续两次暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
 > 注意：`discuss` 及物性从 Active 移入，持续抽查。
 
 - [ ] **`marketing material` 可数性与一致性**: 集合概念用不可数单数 `material has / it`；多份海报、手册、文案用复数 `materials have / they`。2026-08-21 暴露单复数选择和 Tag 代词/助动词不一致，需成组对比抽查。
-- [ ] **固定结构小词遗漏（58BEC）**: `a little bit time` ❌ → `a little bit of time`；`person charge` ❌ → `person in charge`。2026-08-26 各出现 1 次，纳入低频抽查。
+- [ ] **固定结构小词遗漏（58–59BEC）**: `a little bit time` ❌ → `a little bit of time`；`person charge` ❌ → `person in charge`。`person in charge` 在 2026-09-08 又漏 `in` 两次，后续多数输出正确，继续低频抽查。
+- [ ] **`give` 的施事者与接受者反转**: 原意“给负责人更多时间”时，应为 `we/the team should give the person in charge more time`；本轮一次写成 `the person in charge give more time`，改变了谁给谁时间。长句先标记 giver / receiver 再翻译。
+- [ ] **状态、完成过程与现在完成时被动的选择**: `the testing has been almost finished` 语法可成立但在项目状态汇报中生硬；优先 `testing is almost complete`（状态）或 `we have almost finished testing`（完成过程）。2026-09-08 暴露。
 - [ ] **不定式目的/机会不等于结果**: `give sb time to get everything ready` 只说明给时间的目的或机会，不蕴含 everything 已 ready；表达结果需用 `Everything is ready` / `has finished preparing`。2026-08-26 深度辨析后理解清楚，隔场观察。
 - [ ] **`as` vs `like` 叠加结构冲突**（新类型）: `come across as not really like` ❌。`as` 和 `like` 功能重叠不可叠加。2026-06-27 新发现。
 - [ ] **`effective` (adj) vs `effect` (n) 词性混淆**: `took effective` ❌ → `took effect` ✅。`effective` = 形容词（有效的），`effect` = 名词（效果）。`take effect` = 生效。2026-06-27 新发现。
@@ -157,7 +161,6 @@
 - [ ] **名词词组 vs 从句**: 减少 `the fact that` 依赖，优先使用名词短语。2026-03-15。
 - [ ] **`lack` 动词/名词搭配**: 动词 `lacks experience`（不加 of）；名词 `a lack of experience`（加 of）。
 - [ ] **`market` vs `roll out`**: 内部推广系统用 `roll out` / `drive adoption`，不用 `market`。
-- [ ] **🔴 翻译漏修饰词/限定词（2026-08-21 复发）**: 倾向漏掉时间、程度、范围和持续性词语（already/really/much/more/earlier/on time/still/all/yet）。本次两次漏 `on time`，并有 `all`/`still` 弱化风险；翻译后需单独做修饰词扫描。
 - [ ] **单复数一致性 (Pronoun-Antecedent)**: risks ↔ it 不一致，代词需和名词对应。
 - [ ] **冠词 (可数名词)**: do assessment → do an assessment，行为名词需加 a/an。
 - [ ] **词性转换**: failure→failed, success→succeed, 情态动词后必须接动词原形。
