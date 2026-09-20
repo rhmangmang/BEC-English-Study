@@ -2,6 +2,7 @@
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
+| 2026-09-11 | **60BEC 疑问点扫描+补全训练**：`fill someone in on`、`fill in for`、`descriptive name`、`in batches`（4 LP 完整训练，45 条英文训练输出逐句记录，含 QF 与 Micro Role-play） | ⏳ | 所有疑问点均已处理，核心训练已完成；最终 4–5 句 CRM 综合 Role-play 已出题但尚未作答。主要不足为目标结构被近义表达替代、时间/程度等细节遗漏、中式搭配、场景意图偏移及句子边界格式。 |
 | 2026-09-08 | **59BEC 疑问点扫描+补全训练**: `in a corporate role` `blend A with B / into B` `core + noun` `fit in / fit in with / fit sth in` `advancement(s) in / the advancement of` `almost + adjective` `effortless / make it effortless for sb to do`（7 LP，62 条英文训练输出逐句记录，含 QF 与整合练习） | ✅ | 逐句保留原句、问题、修改和能力判断；主要新缺口为修饰词遗漏、`effortless` 语义主语错绑、`give` 施受关系反转，以及过去事实/习惯/假设和状态/完成时的选择。学生多次准确识别题目语义或搭配不自然，是本轮明显优势。 |
 | 2026-08-26 | **58BEC 扫描+训练**: `I would suggest doing` `I suppose` `a tangled mess of` `give sb time to do`（4 LP，逐轮记录 44 次学生发言，其中 26 条英文输出；`spend time` 按熟悉度跳过） | ✅ | 7 组疑问点完成盘点，4 个未记录/部分记录 LP 完成多句式训练；Comma Splice 3/3；历史 `sit around`/`kind of thing`/`line up` 复现；新缺口为 `Does this kind...`、并列问句漏主语、固定小词遗漏及逻辑平行。 |
 | 2026-08-21 | **57BEC 扫描+训练**: `walk a fine line` `localize/so much better` `in a way` `tricky` `there may not be any way` `marketing material(s)`（6 LP，多句式变形+QF） | ✅ | 6 个学生明确疑问点全部处理，当前 4 个 🟢、2 个 🟡；历史 `step in`/`run into issues`/`in place` 多次复用；新/复发缺口：目标结构回避、修饰词遗漏、完成时 Tag、material 单复数、Comma Splice。 |

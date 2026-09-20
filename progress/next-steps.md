@@ -2,6 +2,8 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
+- [ ] **完成 60BEC 最终综合 Role-play**：直接回答 `sessions/2026-09-11/session-notes.md` 中记录的 4–5 句 CRM 场景；至少命中 `fill someone in on`、`fill in for`、`descriptive name`、`in batches` 中 3 个，并正确使用过去时描述昨天的导入错误。
+- [ ] **60BEC 输出完整性复盘**：综合场景后核对目标结构、时间词、角色名词与场景意图，重点拦截漏 `more/tomorrow/now/new`、`admin/manager` 混淆和 Comma Splice。
 - [ ] **🔴 修饰词完整性 Flash Correct**: 57BEC 漏 `on time` 后，59BEC 又多次漏 `almost`，并漏过 `every time`、`still`。下次开场 3 题，翻译后强制扫描时间、范围、频率和程度词。
 - [ ] **🔴 `effortless` 语义主语专项**: 对比 `The process is effortless` / `It is effortless for sb to do` / `sb does it effortlessly`；拦截 `make sb effortless` 与 `sb is effortless to do`。下次 2 题。
 - [ ] **🟡 过去事实、过去习惯与过去假设辨析**: 对比 `did`、`used to`、`would usually`、`would have done`，避免把真实的过去经历无依据地写成虚拟结果。
