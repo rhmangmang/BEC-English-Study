@@ -2,6 +2,11 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
+- [ ] **🔴 题目信息忠实度 Flash Correct**: 2026-09-21 再次漏 `several/updates/in batches`，并把 `yesterday` 改成 `today`。下次 3 题按“人物—时间—动作—对象—数量—方式”逐项核对。
+- [ ] **🟡 `willing` vs `willingness` 词形复测**: `his willing` ❌ → `his willingness` ✅。安排 1–2 题含物主限定词 + 名词位置。
+- [ ] **🔴 `one ... the other` 平行结构复测**: 修复 `The one is the issue...the other one is issues...`；同时检查限定词、单复数和概念层级。
+- [ ] **🟡 动词后接 `-ing` 隔场确认**: 本轮 `support/keep/suggest/worth + doing` 4/4；下次无提示抽查 2 题，继续全对后再判断固化。
+- [ ] **🟡 `the issue of / issues with` 无提示复用**: 放入安全评审或缺陷复盘场景，检查是否仍能区分“议题”与“具体困难”。
 - [ ] **完成 60BEC 最终综合 Role-play**：直接回答 `sessions/2026-09-11/session-notes.md` 中记录的 4–5 句 CRM 场景；至少命中 `fill someone in on`、`fill in for`、`descriptive name`、`in batches` 中 3 个，并正确使用过去时描述昨天的导入错误。
 - [ ] **60BEC 输出完整性复盘**：综合场景后核对目标结构、时间词、角色名词与场景意图，重点拦截漏 `more/tomorrow/now/new`、`admin/manager` 混淆和 Comma Splice。
 - [ ] **🔴 修饰词完整性 Flash Correct**: 57BEC 漏 `on time` 后，59BEC 又多次漏 `almost`，并漏过 `every time`、`still`。下次开场 3 题，翻译后强制扫描时间、范围、频率和程度词。
@@ -17,8 +22,9 @@
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` Flash Correct 拦截**: `saw the server crashed` ❌ → 感官动词 + 原形。2026-07-09 新暴露。
 - [ ] **🔴 `altogether`≠`all together` Flash Correct 拦截**: 一个词 vs 两个词语义完全不同。2026-07-09 新暴露。
 - [ ] **🔴 `go + pp` 不存在 Flash Correct 拦截**: `went crashed` ❌。`go` + adj ✅ / `go` + pp ❌。2026-07-09 新暴露。
-- [ ] **🔴 active-pool 超限归档（紧急）**: 当前实际 202 条（远超 80 上限；旧汇总数字漏计）。下次 session 必须按最近 3 次主动复用证据核验后，归档距首次学习 >14 天且满足条件的 🟢 词组到 `mastered-points.md`。
-- [ ] **继续扫描 60BEC+**: 59BEC 已完成，继续下一单元。
+- [ ] **🔴 active-pool 超限归档（紧急）**: 当前实际 205 条（远超 80 上限）。本轮已扫描候选但缺少逐项“最近 3 次主动复用全对”的可核验证据；下次必须先核验再归档，不能只按日期批量移动。
+- [x] **62BEC/63BEC 遗漏核查与补训完成**: 18 句英文输出逐句归档；62BEC 两个低收益项按学生意愿跳过，63BEC 漏项 `the issue of / issues with` 完成 6/6+QF。详见 `sessions/2026-09-23/session-notes.md`。
+- [ ] **继续扫描 64BEC**: 62BEC/63BEC 补扫已结清；下一单元从 64BEC 开始。
 
 - [x] **59BEC 扫描+补全训练完成**: 7 个未记录 LP 已完成多句式训练；62 条英文输出逐句记录，学生提问、跳过项、教师题目问题与详细不足均已归档；详见 `sessions/2026-09-08/session-notes.md`。
 

@@ -8,7 +8,7 @@
 | 语言点 | 状态 | 首次学习 | 最近复用 | 备注 |
 | :--- | :---: | :--- | :--- | :--- |
 | step in | 🟢 | 2026-04-25 | 2026-08-21 | 08-21 在 57BEC 中多次正确主动复用（`the expert stepped in` / `get the manager to step in`）；不及物用法稳定，升级 🟢 🏆 |
-| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-08-21 | 08-21 多次主动使用；一次 `running to issues` 介词滑误后连续正确修复，维持 🟢 |
+| run into (issues/problems) | 🟢 | 2026-04-27 | 2026-09-21 | 09-21 在第三条件句中正确使用 `would not have run into`，过去分词与介词均稳定，维持 🟢 |
 | entail | 🟡 | 2026-04-28 | 2026-07-04 | 07-04 LP1 R2b: 63天真空后首次唤醒 ✅，搭配 `entails connecting with` 需注意 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
@@ -28,7 +28,7 @@
 | be so used to | 🟡 | 2026-05-02 | 2026-05-31 | `to + doing` 使用正确（`be so used to getting off work` ✅），从 🔴 升级 🟡 |
 | all hands on deck | 🟢 | 2026-05-02 | 2026-07-02 | 07-02 boost R2: `it's not all hands on deck` ✅ 隔约 2 个月成功唤醒，否定句用法正确 🏆 |
 
-| be worth doing | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 enhance R2: `not worth spending` ✅ 隔 16 天 SRS 高危窗口成功唤醒，升级 🟢 🏆 |
+| be worth doing | 🟢 | 2026-06-15 | 2026-09-21 | 09-21 两次正确使用 `worth practising/trying`；目标结构零回退，维持 🟢 🏆 |
 | sit around | 🟢 | 2026-06-15 | 2026-09-08 | 08-26 Flash Correct 主动使用；09-08 在多种复合句中多次正确复现，保持 🟢 🏆 |
 | I'm assuming | 🟡 | 2026-06-15 | 2026-07-04 | 07-04 LP4 R1: `I'm assuming` ✅ 隔17天唤醒，句首使用自然 |
 | check with + 人 + on + 事 | 🟢 | 2026-06-15 | 2026-07-02 | 22BEC 提取；07-02 in the field R1: `checking with the team on the concrete timeline` ✅ 隔 16 天唤醒，升级 🟢 🏆 |
@@ -209,16 +209,19 @@
 | tricky（棘手的/需要仔细处理的） | 🟢 | 2026-08-21 | 2026-08-21 | 57BEC 提取；语义稳定；比较级/最高级 `trickier / trickiest` 待隔场抽查 |
 | there may not be any way to do（可能没有办法做） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；最终通关，但曾多次改用 `there may be no way` / `may not be able to` 回避目标结构 |
 | marketing material / materials（营销材料/物料） | 🟡 | 2026-08-21 | 2026-08-21 | 57BEC 提取；集合概念单数 vs 多份具体物料复数已讲清；数、助动词、代词一致性待复测 |
-| I would suggest + doing（委婉建议做某事） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；肯定/否定/一般问句/Tag/选择问句完成；注意并列动名词平行及不要漏掉动作 |
+| I would suggest + doing（委婉建议做某事） | 🟢 | 2026-08-26 | 2026-09-21 | 58BEC 完整训练后，09-21 隔场正确输出 `I suggest releasing...`；动名词形式稳定，升级 🟢 |
 | I suppose + clause / Do you suppose...?（推测/征询判断） | 🟡 | 2026-08-26 | 2026-08-26 | 58BEC 提取；5 类句式完成，Tag 稳定；搭配 `make an impression on`、`person in charge` 待巩固 |
-| a tangled mess of + noun（一团相互纠缠的……） | 🟡 | 2026-08-26 | 2026-09-08 | 59BEC 多次主动复用，结构稳定；仍需提升搭配的真实业务语义与自然度 |
+| a tangled mess of + noun（一团相互纠缠的……） | 🟢 | 2026-08-26 | 2026-09-21 | 09-21 两次完整正确使用 `a tangled mess of dependencies`，与 `sort out`/`keep doing` 组合自然，升级 🟢 |
 | give sb time to do sth（给某人时间做某事） | 🟡 | 2026-08-26 | 2026-09-08 | 59BEC 多次正确复用；一次出现 giver/receiver 反转，维持 🟡 |
-| in a corporate role（任职于企业岗位） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；过去事实与 `would have done` 假设边界需继续辨析 |
+| in a corporate role（任职于企业岗位） | 🟡 | 2026-09-08 | 2026-09-21 | 09-21 短语本身使用正确；相邻出现 `his willing`→`his willingness` 词形错误，维持 🟡 |
 | blend A with B / blend A into B（把 A 与 B 融合／把 A 融入 B） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；两种介词结构均已完成肯定、否定、疑问和 Tag 变形 |
-| core + noun（核心目标／任务／要求） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；结构掌握较稳，需避免抽象名词堆叠造成语义生硬 |
+| core + noun（核心目标／任务／要求） | 🟡 | 2026-09-08 | 2026-09-21 | 09-21 正确输出 `the core issue of data security`；搭配自然，维持 🟡 等待再次无提示复用 |
 | fit in / fit in with / fit sth in（融入／相符／安排进日程） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；三种结构可区分，复杂句中的时态与宾语指代待巩固 |
 | advancement(s) in / the advancement of（某领域的进展／某事物的发展） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；已理解 `in` 标领域、`of` 标发展主体；可数性和自然搭配待复测 |
 | almost + adjective（几乎达到某状态） | 🔴 | 2026-09-08 | 2026-09-08 | 59BEC 提取；多轮漏译 `almost`，需纳入修饰词完整性 Flash Correct |
-| effortless / make it effortless for sb to do（毫不费力／让某人做某事不费力） | 🔴 | 2026-09-08 | 2026-09-08 | 59BEC 提取；两次把 `effortless` 直接绑定到人，需固化语义主语 |
+| effortless / make it effortless for sb to do（毫不费力／让某人做某事不费力） | 🟡 | 2026-09-08 | 2026-09-21 | 09-21 正确输出 `make it effortless for the team to...`，语义主语修复；由 🔴 升为 🟡 继续观察 |
+| in batches（分批／按批次） | 🟡 | 2026-09-11 | 2026-09-21 | 60BEC 漏录补入；09-21 多次正确召回，但两轮漏掉 `updates/in batches` 场景信息，维持 🟡 |
+| support + doing（支持做某事） | 🟡 | 2026-09-20 | 2026-09-21 | 09-20 曾写 `support to release/support increase`；09-21 隔场正确输出 `support making`，进入复用观察 |
+| the issue of / issues with + noun（议题／具体问题） | 🟡 | 2026-09-21 | 2026-09-21 | 63BEC 漏项补训；6/6+QF；`of` / `with` 区分稳定；QF 中 `one ... the other` 平行结构与场景信息忠实度待巩固 |
 
-**当前数量**：202 条（⚠️ 已按表格实际条目重新核验；远超 80 上限，需尽快批量归档最早的 🟢 词组。建议下次 session 开始时归档所有距首次学习 >14 天 + 🟢 + 满足条件的词组）
+**当前数量**：205 条（⚠️ 远超 80 上限；本轮已扫描归档候选，但未逐项满足“最近 3 次主动复用全对”的可核验证据，暂不贸然归档。下次 session 优先做证据核验与批量归档）
