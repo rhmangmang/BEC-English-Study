@@ -1,5 +1,17 @@
 # 待解决的知识缺口 (Knowledge Gaps)
 
+## 2026-11-02 补录：本会话优先复测证据
+
+> 原 Active 列表本已超过 20 条，本次不大幅重排或删除旧缺口；以下作为本会话证据索引，与已有“信息完整性／情态原形／entail／Comma Splice”条目联动，不宣称旧缺口已修复。
+
+1. **hear from 来源/内容框架混合**：U052 `hear from the views from the team`、U056 `hear from the team’s views`。U057 的 `hear the team’s views` 语法正确，仅目标未命中；U058 修正后还需无提示新场景。
+2. **修正时再次漏信息**：U020/U027 漏 updates，U074/U077 连续漏 yet，U052 漏会议场景、U084 漏 now。说明改对局部后仍需回读整题。
+3. **决策动作与权限偏移**：U066 把提供意见改为作最终决定；U067 丢掉具体发布选项；U069 把具体判断泛化为采纳意见。先确定“谁提供意见／谁决定／决定什么”。
+4. **句法骨架与时态**：U046 `were almost cannot solved` → U047 修复；U054 `whether adopting releasing` → U055 修复；U079 用习惯性现在时表达截至现在未完成 → U081 完成时修复。只记提示后修正，不记永久关闭。
+5. **评价边界**：U060 的第三条件句合法，we/it 是原题主语省略产生的场景问题；ask 非必需、共享冠词非一律非法；if/whether、could/would 与 solve/resolve 应依语境评价。书面格式不混入口语流畅度评分。
+
+完整原句与不足见 `sessions/2026-11-02/wx-acp-codex-o9cq808V/训练详细记录.md`。
+
 ### 🔴 当前待修复 (Active)
 > Flash Correct 选题来源。控制在 20 条以内，超出时将最早发现且近期无复发的条目移入"持续观察"。
 

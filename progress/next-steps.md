@@ -2,6 +2,18 @@
 
 > **知识缺口**详见 `knowledge-gaps.md`。Flash Correct 的选题直接取自该区，无需在此重复罗列。
 
+## 2026-11-02 补录后的准确续练位置
+
+- [x] **全会话逐句补录**：101 条用户消息均建立索引，71 条输出/判断逐项评价；历史粘贴与既有 63/64BEC 逐句分析配套归档。
+- [x] **65BEC 已实际完成的训练**：hear from 六类句式与两轮 QF；if I may 五轮功能练习与两轮 QF；两点 Micro RP；part of 五类句式与两轮 QF。最终修正通过不等于无提示熟练，if I may 标准句式池覆盖仍有缺项。
+- [ ] **从 plan submission 接上**：末条 U101 已正确理解提交年度计划行为；英文造句未开始，先辨析行为/材料及名词修饰关系。
+- [ ] **hear from 无提示复测**：来源接人/机构，与 hear + views 的内容框架区分；不在题目中先给英文词。
+- [ ] **信息扫描与决策意图**：三题同类纠偏，重点 updates/yet/now；每次修正后重新核对原题六项信息。另用短场景核对咨询方、决策方和具体选择。
+- [ ] **entail / rely on 未完事项**：entail 提示后正确，待隔场召回；rely on “不能指望每个用户自己找到说明页面”仍未答。
+- [ ] **训练覆盖收尾**：if I may 缺独立 Tag，part of 未见虚拟轮适用性说明；依用户偏好与 GEMINI.md 确认后安排，不把缺失轮次追记为通过。
+
+### 原有行动项（保留；实际状态以上述补录证据为准）
+
 - [ ] **🔴 题目信息忠实度 Flash Correct**: 2026-09-21 再次漏 `several/updates/in batches`，并把 `yesterday` 改成 `today`。下次 3 题按“人物—时间—动作—对象—数量—方式”逐项核对。
 - [ ] **🟡 `willing` vs `willingness` 词形复测**: `his willing` ❌ → `his willingness` ✅。安排 1–2 题含物主限定词 + 名词位置。
 - [ ] **🔴 `one ... the other` 平行结构复测**: 修复 `The one is the issue...the other one is issues...`；同时检查限定词、单复数和概念层级。
