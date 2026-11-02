@@ -9,7 +9,7 @@
 | :--- | :---: | :--- | :--- | :--- |
 | step in | 🟢 | 2026-04-25 | 2026-08-21 | 08-21 在 57BEC 中多次正确主动复用（`the expert stepped in` / `get the manager to step in`）；不及物用法稳定，升级 🟢 🏆 |
 | run into (issues/problems) | 🟢 | 2026-04-27 | 2026-09-21 | 09-21 在第三条件句中正确使用 `would not have run into`，过去分词与介词均稳定，维持 🟢 |
-| entail | 🟡 | 2026-04-28 | 2026-07-04 | 07-04 LP1 R2b: 63天真空后首次唤醒 ✅，搭配 `entails connecting with` 需注意 |
+| entail | 🟡 | 2026-04-28 | 2026-10-21 | 10-21 延迟复测首轮改用 `be involved in`，讲解后又采用生硬被动；经两轮提示才改为主动结构 `the rollout plan entails...`，主动召回与语义角色映射仍未自动化，维持 🟡 |
 | rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
 | a paper + noun | 🟢 | 2026-04-30 | — | 纸质 vs 电子对比 |
@@ -220,11 +220,16 @@
 | advancement(s) in / the advancement of（某领域的进展／某事物的发展） | 🟡 | 2026-09-08 | 2026-09-08 | 59BEC 提取；已理解 `in` 标领域、`of` 标发展主体；可数性和自然搭配待复测 |
 | almost + adjective（几乎达到某状态） | 🔴 | 2026-09-08 | 2026-09-08 | 59BEC 提取；多轮漏译 `almost`，需纳入修饰词完整性 Flash Correct |
 | effortless / make it effortless for sb to do（毫不费力／让某人做某事不费力） | 🟡 | 2026-09-08 | 2026-09-21 | 09-21 正确输出 `make it effortless for the team to...`，语义主语修复；由 🔴 升为 🟡 继续观察 |
-| in batches（分批／按批次） | 🟡 | 2026-09-11 | 2026-09-21 | 60BEC 漏录补入；09-21 多次正确召回，但两轮漏掉 `updates/in batches` 场景信息，维持 🟡 |
-| support + doing（支持做某事） | 🟡 | 2026-09-20 | 2026-09-21 | 09-20 曾写 `support to release/support increase`；09-21 隔场正确输出 `support making`，进入复用观察 |
-| the issue of / issues with + noun（议题／具体问题） | 🟡 | 2026-09-21 | 2026-09-21 | 63BEC 漏项补训；6/6+QF；`of` / `with` 区分稳定；QF 中 `one ... the other` 平行结构与场景信息忠实度待巩固 |
+| in batches（分批／按批次） | 🟡 | 2026-09-11 | 2026-10-21 | 10-21 多轮正确复用；短语本身稳定，但两次漏掉相邻宾语 `updates`，继续与信息忠实度联动观察 |
+| support + doing（支持做某事） | 🟡 | 2026-09-20 | 2026-10-21 | 10-21 形式多次正确；Quick Fire 一次把支持者从团队错绑为改动，且两次漏 `updates`，维持 🟡 |
+| the issue of / issues with + noun（议题／具体问题） | 🟡 | 2026-09-21 | 2026-10-21 | 10-21 多次正确区分“议题”与“具体问题”，含 Tag 与 Micro Role-play；维持 🟡 等待下一次无提示复用 |
+| call + object + noun complement（称某物为……） | 🟡 | 2026-10-21 | 2026-10-21 | 64BEC 补训；5 类句式+3QF+Micro RP 完成；Tag 极性、类别名词冠词及自由命名词汇均经修正后通过 |
+| deserve + noun（值得／理应配有……） | 🟡 | 2026-10-21 | 2026-10-21 | 64BEC 补训；6/6+2QF+Micro RP 完成；选择问句倒装错误 1 次，QF 语义关系与信息忠实度多轮修正 |
+| hear from + person/organization（收到消息／听取意见） | 🔴 | 2026-10-26 | 2026-10-30 | 65BEC 补训；6/6+2QF 完成；两次混成 `hear from + views`，两次未使用目标结构；早期 QF 多次改变决策主体或内容；10-30 在 `part of` 快练中两次按提示正确复用，仍需无提示复测 |
+| if I may（正式请求许可／礼貌插话；谓语可按语境省略） | 🟡 | 2026-10-27 | 2026-10-27 | 65BEC 补训；5 轮核心+2QF 完成；主动识别 `if I may [do so/ask/speak]` 的省略机制，并指出孤立题缺少语用场景、`ask` 并非必需；委婉反对中两次漏 `yet`，礼貌提问首次误用一般现在时，QF2 首轮未按要求置于句尾且写成 `submit the conflict of interest`，修正为 `I'd like to declare a conflict of interest now, if I may` 后通过，需隔场复测句尾用法与信息忠实度 |
+| part of / the part of（组成关系／特定部分） | 🟡 | 2026-10-30 | 2026-10-30 | 65BEC 补训；5/5+2QF 完成；起初无法判断，讲解后能区分普通组成关系与带限定信息的特定部分；R1 仅书面复合修饰语漏连字符（`decision-making`）；R2 使用形式主语且目标结构正确，但 `solve issues`、冠词和指示词不如 `resolve the issues` / `this rollout plan` 精确；R3-R5 的特殊疑问句、Tag 与选择问句全对；QF1 自然改写为 `part of our job`，QF2 准确输出 `the part of ... that covers ...`；两次正确复用 `hear from` |
 
-**当前数量**：205 条（⚠️ 远超 80 上限；本轮已扫描归档候选，但未逐项满足“最近 3 次主动复用全对”的可核验证据，暂不贸然归档。下次 session 优先做证据核验与批量归档）
+**当前数量**：210 条（⚠️ 远超 80 上限；本轮已扫描归档候选，但未逐项满足“最近 3 次主动复用全对”的可核验证据，暂不贸然归档。下次 session 优先做证据核验与批量归档）
 
 ## 2026-11-02｜wx-acp-codex-o9cq808V 全会话补录证据
 

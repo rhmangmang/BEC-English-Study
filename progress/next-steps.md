@@ -14,7 +14,10 @@
 
 ### 原有行动项（保留；实际状态以上述补录证据为准）
 
-- [ ] **🔴 题目信息忠实度 Flash Correct**: 2026-09-21 再次漏 `several/updates/in batches`，并把 `yesterday` 改成 `today`。下次 3 题按“人物—时间—动作—对象—数量—方式”逐项核对。
+- [ ] **🔴 题目信息忠实度 Flash Correct**: 2026-10-21 又两次漏 `updates`，并发生施事者与逻辑关系偏移。下次 3 题按“人物—动作—对象—数量—方式—逻辑关系”逐项核对。
+- [ ] **🟡 完成 64BEC `rely on sb to do` 延迟复测**: 继续回答已暂停的“不能指望每个用户自己找到说明页面”，不给结构提示，重点检查 `on` 与 `to`。
+- [ ] **🔴 `entail` 主动召回与主被动映射**: 隔场用新的成本/职责场景无提示复测 2 题；先建立 `plan/role entails...` 主动底层句，再做 Wh 宾语前置。
+- [ ] **🟡 `call + 宾语 + 名词补语` / `deserve + noun` 隔场确认**: 各 1 题无提示复测；同时检查类别名词冠词、选择问句倒装和 Tag 极性。
 - [ ] **🟡 `willing` vs `willingness` 词形复测**: `his willing` ❌ → `his willingness` ✅。安排 1–2 题含物主限定词 + 名词位置。
 - [ ] **🔴 `one ... the other` 平行结构复测**: 修复 `The one is the issue...the other one is issues...`；同时检查限定词、单复数和概念层级。
 - [ ] **🟡 动词后接 `-ing` 隔场确认**: 本轮 `support/keep/suggest/worth + doing` 4/4；下次无提示抽查 2 题，继续全对后再判断固化。
@@ -34,9 +37,9 @@
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` Flash Correct 拦截**: `saw the server crashed` ❌ → 感官动词 + 原形。2026-07-09 新暴露。
 - [ ] **🔴 `altogether`≠`all together` Flash Correct 拦截**: 一个词 vs 两个词语义完全不同。2026-07-09 新暴露。
 - [ ] **🔴 `go + pp` 不存在 Flash Correct 拦截**: `went crashed` ❌。`go` + adj ✅ / `go` + pp ❌。2026-07-09 新暴露。
-- [ ] **🔴 active-pool 超限归档（紧急）**: 当前实际 205 条（远超 80 上限）。本轮已扫描候选但缺少逐项“最近 3 次主动复用全对”的可核验证据；下次必须先核验再归档，不能只按日期批量移动。
+- [ ] **🔴 active-pool 超限归档（紧急）**: 当前实际 207 条（远超 80 上限）。本轮已扫描候选但缺少逐项“最近 3 次主动复用全对”的可核验证据；下次必须先核验再归档，不能只按日期批量移动。
 - [x] **62BEC/63BEC 遗漏核查与补训完成**: 18 句英文输出逐句归档；62BEC 两个低收益项按学生意愿跳过，63BEC 漏项 `the issue of / issues with` 完成 6/6+QF。详见 `sessions/2026-09-23/session-notes.md`。
-- [ ] **继续扫描 64BEC**: 62BEC/63BEC 补扫已结清；下一单元从 64BEC 开始。
+- [x] **64BEC 疑问点补扫与核心训练完成**: 新增 `call + 宾语 + 名词补语`、`deserve + noun` 两个 🟡 语言点；`that` 指代按学生要求跳过；`entail` 延迟复测保留 🟡。34 次提交事件逐项记录于 `sessions/2026-10-21/session-notes.md`。
 
 - [x] **59BEC 扫描+补全训练完成**: 7 个未记录 LP 已完成多句式训练；62 条英文输出逐句记录，学生提问、跳过项、教师题目问题与详细不足均已归档；详见 `sessions/2026-09-08/session-notes.md`。
 

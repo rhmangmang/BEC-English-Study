@@ -58,7 +58,7 @@
 - [ ] **🔴 `familiar with` vs `used to` 词义混淆**: `Are you familiar with taking notes` ❌ 中文"习惯" → `Do you usually` / `Are you used to` ✅。`familiar with` = 了解/知道，不表"习惯"。2026-06-16 LP 5 R5 暴露。
 - [ ] **🔴 `discuss` 及物性（自由产出干扰型）**: `discuss about this` ❌ → `discuss this` ✅。`discuss` 是及物动词，直接接宾语，不加 `about`。自由产出时仍被 `talk about` 思维干扰。2026-05-30 新发现 → 2026-06-14 Flash Correct 加练后修复，移入 Monitoring。
 
-- [ ] **🔴 Comma Splice 逗号拼接（2026-08-21 复发）**: 06-21 触发 10+ 次 → 06-23/06-27 再现 → 06-30 全场零回退；**08-21 再次出现** `These issues are tricky, we need experts...` 与 `We ran into security issues, we may not...`。需恢复最高优先级，用 `so`、句号或分号拆分独立分句。
+- [ ] **🔴 Comma Splice 逗号拼接（2026-10-21 再次复发）**: 06-21 触发 10+ 次 → 06-23/06-27 再现 → 06-30 全场零回退 → 08-21 再次出现；**10-21 Micro Role-play 又写出** `4 document pages have different names for it, 3 of them...`。下一轮已能用冒号修复，但长期复发，继续最高优先级拦截。
 - [ ] **🔴 `this kind of + 单数名词` 的主语—助动词一致**: `Do this kind of temporary change cause...` ❌ → `Does this kind of temporary change cause...` ✅。中心词是单数 `kind`，一般疑问句用 `does`。2026-08-26 新暴露，加练 1 轮修复，需隔场抽查。
 - [ ] **🔴 并列疑问分句漏主语**: `or will make the proposal...` ❌ → `or will it make the proposal...` ✅。第二个完整问句重复情态动词时，仍必须保留主语。2026-08-26 新暴露，加练后修复。
 - [ ] **🔴 选择项逻辑层级与形式平行**: 除 `doing A or doing B` 的形式外，还要确保两个选项处在同一决策层级。2026-08-26 学生准确指出原题中“结果”与“动作”不平行；**2026-09-21 Quick Fire 复发**：`The one is the issue...the other one is issues...` 在限定词、单复数和概念层级上均不平行。应统一为 `One was to discuss...; the other was to address...`。
@@ -87,7 +87,8 @@
 - [ ] **🔴 `see/watch/hear + 宾语 + 原形` 感官动词结构（新缺口）**: `saw the server crashed` ❌ → `saw the server **crash**` ✅。感官动词 + 宾 + 动词原形表示目睹完整事件。2026-07-09 `a moment of panic` R1 暴露。
 - [ ] **🔴 `altogether`（一个词=完全地）≠ `all together`（两个词=全员聚在一起）**: `we could have been altogether in person` ❌ → `we could have been **all together** in person` ✅。54BEC 原文为两词短语。同一拼写错误导致的语义混淆。2026-07-09 LP 7 R6 暴露。
 - [ ] **🔴 `go + 过去分词` 结构不存在**: `went crashed` ❌ → `crashed` / `went **down**` ✅。`go` 作系动词时后接形容词（`go remote`），不接过去分词。2026-07-09 `frantically` R1 暴露。
-- [ ] **🔴 题目信息／修饰词完整性（63BEC 再次复发）**: 57BEC 漏 `on time`，59BEC 多次漏 `almost/every time/still`；**2026-09-21 又漏 `several`、`updates`、`in batches`，并把 `yesterday` 改为 `today`、把“分批发布问题”泛化为“系统问题”**。问题不是不会主干，而是输出时压缩了人物、时间、数量、对象或方式。提交前需按“人物—时间—动作—对象—数量—方式”六项扫描。
+- [ ] **🔴 题目信息／修饰词完整性（64BEC 再次复发）**: 57BEC 漏 `on time`，59BEC 多次漏 `almost/every time/still`；2026-09-21 又漏 `several/updates/in batches` 并替换时间和问题类型；**2026-10-21 两次漏 `updates`，并把“团队支持分批发布”改成“改动能够支持分批发布”，另自行加入 `we should roll it out`**。问题已扩展到施事者和逻辑关系偏移；提交前按“人物—动作—对象—数量—方式—逻辑关系”六项扫描。
+- [ ] **🔴 `entail` 主被动语义角色映射（新缺口）**: 2026-10-21 无提示时先写 `will be involved in this rollout plan`，讲解后又写 `will be entailed in this rollout plan`；连续两轮让 `UI changes` 充当被动主语。应固化主动底层句 `The rollout plan entails UI changes`，再做 Wh 宾语前置。
 - [ ] **🔴 形容词的语义主语错绑（`effortless`）**: `make the person in charge effortless` ❌、`the person in charge would be effortless to confirm` ❌。`effortless` 描述事情/过程“不费力”，不能直接描述人。应使用 `It is effortless for sb to do`、`make the process effortless` 或 `sb does sth effortlessly`。2026-09-08 连续两次暴露。
 ### 🟡 持续观察 (Monitoring)
 > 已发现但非近期高频复发的缺口。Flash Correct 低频抽查，Role-play 中留意。
@@ -99,7 +100,7 @@
 - [ ] **状态、完成过程与现在完成时被动的选择**: `the testing has been almost finished` 语法可成立但在项目状态汇报中生硬；优先 `testing is almost complete`（状态）或 `we have almost finished testing`（完成过程）。2026-09-08 暴露。
 - [ ] **形容词／名词词形选择（`willing` vs `willingness`）**: 2026-09-21 `his willing` ❌ → `his willingness` ✅。`willing` 是形容词；`my/his/their + ___` 后若表示“意愿”需名词，并成块记忆 `show one's willingness to do`。
 - [ ] **自行添加限定词改变信息焦点**: 2026-09-21 `Why did just the person in charge...?` 无依据加入 `just`，把普通原因问句变成“为什么只有负责人”。原题没有“只有／仅仅”时，不主动加入 `just/only`。
-- [ ] **句首大写与原因从句标点**: 2026-09-21 `this plan...` 句首未大写；`language point, because...` 在必要原因从句前多加逗号。提交前做句首、标点与空格三秒扫描。
+- [ ] **句首大写与原因从句标点**: 2026-09-21 `this plan...` 句首未大写；**2026-10-21 又出现 `. does`、`. it`、`. this` 三次句首小写**，并多次在必要原因从句前写逗号、出现双空格。提交前做句首、标点与空格三秒扫描。
 - [ ] **不定式目的/机会不等于结果**: `give sb time to get everything ready` 只说明给时间的目的或机会，不蕴含 everything 已 ready；表达结果需用 `Everything is ready` / `has finished preparing`。2026-08-26 深度辨析后理解清楚，隔场观察。
 - [ ] **`as` vs `like` 叠加结构冲突**（新类型）: `come across as not really like` ❌。`as` 和 `like` 功能重叠不可叠加。2026-06-27 新发现。
 - [ ] **`effective` (adj) vs `effect` (n) 词性混淆**: `took effective` ❌ → `took effect` ✅。`effective` = 形容词（有效的），`effect` = 名词（效果）。`take effect` = 生效。2026-06-27 新发现。
