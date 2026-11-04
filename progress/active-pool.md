@@ -10,7 +10,7 @@
 | step in | 🟢 | 2026-04-25 | 2026-08-21 | 08-21 在 57BEC 中多次正确主动复用（`the expert stepped in` / `get the manager to step in`）；不及物用法稳定，升级 🟢 🏆 |
 | run into (issues/problems) | 🟢 | 2026-04-27 | 2026-09-21 | 09-21 在第三条件句中正确使用 `would not have run into`，过去分词与介词均稳定，维持 🟢 |
 | entail | 🟡 | 2026-04-28 | 2026-10-21 | 10-21 延迟复测首轮改用 `be involved in`，讲解后又采用生硬被动；经两轮提示才改为主动结构 `the rollout plan entails...`，主动召回与语义角色映射仍未自动化，维持 🟡 |
-| rely on sb to do sth | 🟢 | 2026-04-28 | 2026-05-16 | 成功纠正 `on` 错误，升级为 🟢 |
+| rely on sb to do sth | 🟢 | 2026-04-28 | 2026-11-04 | 既有 🟢 保持；11-04 `We cannot rely on them to provide the update yet.` 正确复用，on/to 完整；旧说明页面题仍未答 |
 | material（话题素材义） | 🟢 | 2026-04-30 | — | 不可数；🏆 |
 | a paper + noun | 🟢 | 2026-04-30 | — | 纸质 vs 电子对比 |
 | personally | 🟢 | 2026-04-30 | — | 句首/主语后位置 |
@@ -225,7 +225,7 @@
 | the issue of / issues with + noun（议题／具体问题） | 🟡 | 2026-09-21 | 2026-10-21 | 10-21 多次正确区分“议题”与“具体问题”，含 Tag 与 Micro Role-play；维持 🟡 等待下一次无提示复用 |
 | call + object + noun complement（称某物为……） | 🟡 | 2026-10-21 | 2026-10-21 | 64BEC 补训；5 类句式+3QF+Micro RP 完成；Tag 极性、类别名词冠词及自由命名词汇均经修正后通过 |
 | deserve + noun（值得／理应配有……） | 🟡 | 2026-10-21 | 2026-10-21 | 64BEC 补训；6/6+2QF+Micro RP 完成；选择问句倒装错误 1 次，QF 语义关系与信息忠实度多轮修正 |
-| hear from + person/organization（收到消息／听取意见） | 🔴 | 2026-10-26 | 2026-10-30 | 65BEC 补训；6/6+2QF 完成；两次混成 `hear from + views`，两次未使用目标结构；早期 QF 多次改变决策主体或内容；10-30 在 `part of` 快练中两次按提示正确复用，仍需无提示复测 |
+| hear from + person/organization（收到消息／听取意见） | 🟡 | 2026-10-26 | 2026-11-04 | 11-04 `We need to hear from two teams now.` 来源框架正确，🔴→🟡观察；意见内容依语境，仍待新场景复测。历史： 65BEC 补训；6/6+2QF 完成；两次混成 `hear from + views`，两次未使用目标结构；早期 QF 多次改变决策主体或内容；10-30 在 `part of` 快练中两次按提示正确复用，仍需无提示复测 |
 | if I may（正式请求许可／礼貌插话；谓语可按语境省略） | 🟡 | 2026-10-27 | 2026-10-27 | 65BEC 补训；5 轮核心+2QF 完成；主动识别 `if I may [do so/ask/speak]` 的省略机制，并指出孤立题缺少语用场景、`ask` 并非必需；委婉反对中两次漏 `yet`，礼貌提问首次误用一般现在时，QF2 首轮未按要求置于句尾且写成 `submit the conflict of interest`，修正为 `I'd like to declare a conflict of interest now, if I may` 后通过，需隔场复测句尾用法与信息忠实度 |
 | part of / the part of（组成关系／特定部分） | 🟡 | 2026-10-30 | 2026-10-30 | 65BEC 补训；5/5+2QF 完成；起初无法判断，讲解后能区分普通组成关系与带限定信息的特定部分；R1 仅书面复合修饰语漏连字符（`decision-making`）；R2 使用形式主语且目标结构正确，但 `solve issues`、冠词和指示词不如 `resolve the issues` / `this rollout plan` 精确；R3-R5 的特殊疑问句、Tag 与选择问句全对；QF1 自然改写为 `part of our job`，QF2 准确输出 `the part of ... that covers ...`；两次正确复用 `hear from` |
 
@@ -240,3 +240,11 @@
 - `plan submission`：11-02 U101 仅回答概念含义；尚未英文造句，不加入已完成语言点行，不增加候选数量。
 - `in batches` / `support + doing` / `deserve` / `issue of / issues with`：各有正确复用与局部遗漏，详细轨迹已归档，维持既有状态。本次未新增符合完整训练条件的语言点。
 - 归档扫描：现有资料无法逐项证明最近三次“无提示／主动复用全对”，不批量移入 mastered-points；保留现有历史库。
+
+
+## 2026-11-04 续训证据
+
+- `part of`：`Plans submission is part of our work.` 中短语本身正确；提示后加练 `Plan submission is part of the approval process.` 正确；否定句用 our responsibility 为合法替代表达。保持 🟡，不据连续提示加练直接升级。
+- `hear from`：本日正确接 two teams，无 views 框架混合，升 🟡 观察；仍需精确表达意见内容的无提示新场景。
+- `rely on`：本日 on/to 完整，保持既有 🟢，不替记旧未答题通过。
+- `plan submission`：训练中，仅肯定句（修正后）和否定句通过，R3 已出未答；不新增已完成语言点、不增加当前数量。归档无新增可核验证据，保留原历史记录。

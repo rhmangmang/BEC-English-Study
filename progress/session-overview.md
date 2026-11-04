@@ -2,6 +2,7 @@
 
 | 日期 | 主要内容 | 状态 | 备注 |
 | :--- | :--- | :---: | :--- |
+| 2026-11-04 | **65BEC 续训：update 单复数、名词中心词与 plan submission** | ⏳ | 三题纠偏、3 条核心造句提交（含肯定句加练），共 6 条英文原句逐项保存；Plans submission 经修正通过，否定句通过。特殊疑问句已出未答，后续句式/QF 未做；在线词典核验因代理 403 未完成。详见 `sessions/2026-11-04/session-notes.md`。 |
 | 2026-11-02 | **wx-acp-codex-o9cq808V 全会话详细补录（实际训练 10-20 至 11-02，含历史粘贴）** | ⏳ | 101 条用户消息全部索引，71 条输出/判断逐项评价；每次原句、修正与重发保留，既有 63/64BEC 分析配套归档。新增完整 65BEC 训练轨迹；重点为 hear from 框架混合、信息遗漏、决策内容偏移及句法骨架。末尾 plan submission 仅概念判断，英文造句未开始；rely on 仍未答。详见 `sessions/2026-11-02/session-notes.md`。 |
 | 2026-10-21 | **64BEC 疑问点补扫与二次训练**：`call + 宾语 + 名词补语`、`deserve + noun` 完整句式池+QF+Micro RP，`would`/`entail` 概念辨析与延迟复测 | ⏳ | 34 次提交事件、44 个句子实例全部逐项记录（含重复提交）；主要不足为信息/语义角色偏移、Comma Splice、选择问句倒装、句首格式及 `entail` 主被动映射。`that` 指代按学生要求跳过；`rely on sb to do` 延迟复测已出题但尚未回答。详见 `sessions/2026-10-21/session-notes.md`。 |
 | 2026-09-24 | **63BEC 隔场复测与历史补录**：信息忠实度、`the issue of / issues with`、`as opposed to`、`run into`、`the business end` 语义校准及并列结构复测 | ✅ | 共 25 组答题输出逐组记录（21 组含 26 个完整英文句子，另有 4 组词语级作答）。主要不足为商务搭配、近义名词、`did + 原形`、局部信息遗漏及 Comma Splice；另单列导师对 `the business end` 的语境误导，不归责于学生。详见 `sessions/2026-09-24/session-notes.md`。 |

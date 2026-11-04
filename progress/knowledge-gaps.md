@@ -1,5 +1,12 @@
 # 待解决的知识缺口 (Knowledge Gaps)
 
+## 2026-11-04 续训证据（不宣称长期缺口关闭）
+
+- **名词修饰语形态继续观察**：`Plans submission is part of our work.` → 加练 `Plan submission is part of the approval process.` 正确；否定句亦正确。新情境无提示复测前不记固化，联动既有“名词修饰名词形态”缺口，不扩充 Active 列表。
+- **信息完整性**：完成时否定、cannot ... yet、two teams now 均有正确证据；首句未显式写 yet 不是根本语法错误。`any update` 可成立，不作为单复数错误登记。
+- **hear from 框架**：`We need to hear from two teams now.` 正确接来源；“意见”依赖语境，需保留内容精确度观察。
+- **核验状态**：本日解释未完成在线权威词典验证，网络恢复后核对；详见 `sessions/2026-11-04/session-notes.md`。
+
 ## 2026-11-02 补录：本会话优先复测证据
 
 > 原 Active 列表本已超过 20 条，本次不大幅重排或删除旧缺口；以下作为本会话证据索引，与已有“信息完整性／情态原形／entail／Comma Splice”条目联动，不宣称旧缺口已修复。
