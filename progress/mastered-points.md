@@ -382,3 +382,26 @@
 | **be past that** | 10 | 🟢 | 2026-05-08 | 归档（5 种句式通关+概念辨析）🏆 |
 | **with (containing/including) 包含/附带义** | 7 | 🟡 | 2026-06-04 | 18BEC 提取；7 句式+QF 通关；`distraction` 词汇严重错误 1 次已修复；AI 题目设计不当 2 次 |
 | **check + 省略 if/that (口语确认动词后)** | 6 | 🟡 | 2026-06-04 | 18BEC 提取；6 句式+QF 通关；零关键性错误；混合虚拟语气满分 🏆 |
+
+
+## 2026-11-09｜65BEC训练证据追加（非永久掌握声明）
+
+> 保留主表全部历史；本节追加最终证据，不依据旧“极高”或几次相似题宣布永久固化。[详记](../sessions/2026-11-09/session-notes.md)；141条作答、156个句子/片段。
+
+| 项目 | 完成证据 | 观察状态 |
+| --- | --- | --- |
+| plan submission | 前置肯定/否定与本聊天余下句式+QF | 🟡 Tag经加练，名词修饰已修复。 |
+| declare a conflict of interest | 六类+两QF+整合 | 🟡 重复is、语义角色和信息遗漏曾发生。 |
+| should have done | 六类+两QF+hidden/否定位置复测 | 🟡 have hid、具体过去条件句修复；委员会旧题仍未答。 |
+| raise | 六类+两QF+整合 | 🟡 句尾许可与散会前需提示后补全。 |
+| submission可数材料/意见义 | 材料义六类+QF，正式意见由hear练习补 | 🟡 与提交行为及普通陈述分清。 |
+| deliberation(s) | 六类+两QF+多次概念辨析 | 🟡 词族及考虑/讨论义易混，单复数不按天数或个人/集体机械分。 |
+| hear a submission | 六类+两QF+整合 | 🟡 had been heard修复为had heard；need/will意图修复。 |
+| enter / enter into | 协议六类+两QF、地点阶段讨论交叉检查 | 🟡 用户明确遗忘后复训；新词典证据纠正旧绝对规则。 |
+| enter信息in/into位置 | 六类+两QF，最后姓名in first box正确 | 🟡 information/in batches曾漏，提示后通过。 |
+| be linked to | 机构关联义六类+两QF+整合 | 🟡 关联不自动隶属，未知不自动否定。 |
+| both/neither of which | 历史基础上嵌入与否定拓展，U125综合正确 | 🟡 and与which混用、linked/entail语义差曾发生。 |
+| regarding | 句首与concerns后抽查正确 | 保留历史，Do you have与What concerns功能不同。 |
+| part of / if I may | 虚拟/独立Tag缺项补齐 | 保持🟡，不宣称不适用句式也全部覆盖。 |
+
+**复用证据限制**：rely on正确多次；in batches同时有正确和漏译；entail经提示修正正确。没有新增可证最近三次独立无提示全对的批量归档，不删除旧记录。

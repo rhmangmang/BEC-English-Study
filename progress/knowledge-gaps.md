@@ -1,5 +1,26 @@
 # 待解决的知识缺口 (Knowledge Gaps)
 
+## 2026-11-09｜65BEC逐句补录的缺口证据
+
+> 本节联动既有Active类别，不扩增本已超限的红色清单；修正后通过不代表长期关闭。[逐句证据](../sessions/2026-11-09/session-notes.md)。
+
+| 类别 | 本聊天证据 | 状态及下一步 |
+| --- | --- | --- |
+| 不规则过去分词 | U021 have hid→U023 hidden；U036延迟复测hidden；taken/heard正确 | 旧类别继续观察，不能因一题正确关闭。 |
+| 主动/被动 | U079 had been heard a submission→U080 had heard | 加练修复，隔场用听取主体复测。 |
+| Wh/主谓/词性 | U010重复is；U063 Does the submissions；U092 Why there is a necessary | 分别修正；do/does、必要necessary形容词与疑问语序需无提示复测。 |
+| 过去反事实 | U027 If you were there（具体过去）→U028 had been | 后续Type3多次正确，修复有证据但不永久关闭。 |
+| 关系从句与否定范围 | U118 and both of which→U119逗号嵌入；U121 both…not→U122 neither；U125并列both/neither正确 | 🟡监测；原题强制both表达全否定欠妥，不全归学生。 |
+| 信息完整性 | 漏now、散会前、former company、information、in batches；I/We、him/them替换 | 🔴既有类别继续拦截，尤其长句和多个目标同时出现。 |
+| 信息依据与交际意图 | U112把未知所有权断言为不拥有→U113not necessarily；needs/will、whether/what差别 | 新情境先确认已知、未知及想问什么，不把语法正确等同语义完整。 |
+| 词族与可数性 | deliberation多次忘记考虑义；deliberate/desperate、liberation混淆；two day deliberation | 单独词义召回仍需巩固；不可单复数硬分个人/集体。 |
+| 冠词和拼写 | U114 an university→U115 a；U091 considerration；U015 companys’ | 修正通过，记录为格式/词形缺口，不夸大到核心搭配全错。 |
+| 书面连接 | U071 however逗号拼接→U072but；U115However另句正确；U112分号合法 | 有修复，复杂Role-play继续抽查，标点不混入口语流利度。 |
+
+**必须保留的评价边界**：my relative不等于只有一位亲属；any update/any submission单数可成立；responsibility整体单数、合法冠词与协议复数依语境；缺yet不自动判语法错；both…not优先改neither但不一概不成立；linked/affiliated不保证所有或管理；信息录入enter…in/into/on均有词典证据。
+
+**已做但未固化**：part of虚拟与if I may Tag已补；both/neither和regarding抽查已经发生，不再误列为从没练。**主动跳过**：believe时态/that，不记错误或通过。
+
 ## 2026-11-04 续训证据（不宣称长期缺口关闭）
 
 - **名词修饰语形态继续观察**：`Plans submission is part of our work.` → 加练 `Plan submission is part of the approval process.` 正确；否定句亦正确。新情境无提示复测前不记固化，联动既有“名词修饰名词形态”缺口，不扩充 Active 列表。

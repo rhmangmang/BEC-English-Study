@@ -1,5 +1,20 @@
 # 下一步计划 (Next Steps)
 
+## 2026-11-09｜65BEC完整补录后的当前断点
+
+> 本节优先于下方旧日期断点；证据见[65BEC详细笔记](../sessions/2026-11-09/session-notes.md)及同目录65BEC-answer-ledger.json。旧日期内容保留，不能再拿旧“plan submission R3未答”作为当前进度。
+
+- [x] **65BEC逐句详细记录**：参照03-14结构保存本聊天141条英文作答、156个句子/词组片段，另附11-04前置6条；首答、自改、提示后修正和重复输入分开。
+- [x] **核心补训**：plan submission、declare a conflict of interest、should have done、raise、submission、deliberation、hear a submission及enter信息录入义，已完成对应核心+QF；具体错误与边界见逐句记录。
+- [x] **历史项补缺与校准**：part of虚拟、if I may独立Tag补齐；enter协议义复训及地点/阶段/讨论交叉；be linked to关联义、both/neither嵌入与否定、regarding多位置复测完成。此项不等同全部永久固化。
+- [x] **20条原课语言问题复核**：最后补完enter信息in/into位置的录入分支；旧“协议必加into”“into必深入”“enter后in永错”“linked必隶属”规则已纠正。
+- **主动跳过保留**：believe当前判断+过去事件与believe+that英文专项训练，不自动重开，不标已掌握。
+- [ ] **当前下一课断点：66BEC listing**：已读取66BEC及04-30历史，问招聘语境a listing是什么意思，尚未回答。weed out曾跳过，不擅自重开；其余旧项按实际需求抽查，不无依据全量重训。
+- [ ] **65BEC延迟复测**：have+过去分词、had heard主动结构、Wh长主语、do/does、two days of deliberation(s)、信息完整性、未知不等于否定。新场景少提示；既有相似题多次正确不直接判固化。
+- [ ] **旧待答题保留**：“委员会本该在审议前听取团队的正式意见。”已出未答；本聊天没有后来补答，不追记完成。64BEC说明页面rely on旧题亦不据本轮新句替记通过。
+- [ ] **SRS精确盘点**：历史手写候选总数仅为当时标注；本次没有逐项满足三次独立正确主动复用的归档证据，不批量清库，不宣称降到80以内。
+- [ ] **话题构建与当日随机抽查**：话题构建未实际开始；both/regarding是指定历史抽查，不冒充按日期随机抽查已完成。
+
 ## 2026-11-04 最新续练断点（优先于旧补录断点）
 
 - [ ] **65BEC plan submission R3 已出未答**：重发“为什么提交计划属于我们的职责？”，要求名词短语。肯定句首答 Plans submission → 加练修复；否定句已正确。后续 Tag、选择问句、虚拟适用性及 QF 未做。

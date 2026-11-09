@@ -1,0 +1,1573 @@
+{
+  "scope": "本聊天65BEC英文作答，不含前置P01–P06",
+  "record_count": 141,
+  "sentence_or_phrase_count": 156,
+  "records": [
+    {
+      "prompt": "R3：为什么提交计划属于我们的职责？",
+      "answer": "Why is the plan submission our responsibility?",
+      "feedback": "✅ 语序、单数is和目标名词短语正确。the可指已知的提交事项，不判多余。未使用part of属于合法改写，不算语法错误。",
+      "correction": "泛指工作可说Why is plan submission our responsibility? 原句不必修改。",
+      "id": "U001",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "Why is the plan submission our responsibility?"
+      ]
+    },
+    {
+      "prompt": "R4：提交计划是我们工作的一部分，对吧？",
+      "answer": "Plan submission is part of our job, is it?",
+      "feedback": "🔴 本题普通确认要求前肯后否，应isn’t it。主句及part of our job正确。is it在同极性Tag中可表达惊讶、回应或质疑，不说任何语境都错。",
+      "correction": "Plan submission is part of our job, isn’t it?",
+      "id": "U002",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "Plan submission is part of our job, is it?"
+      ]
+    },
+    {
+      "prompt": "R4加练：提交计划不属于我们的职责，对吧？",
+      "answer": "plan submission is not our responsibility, is it?",
+      "feedback": "✅ 前否后肯及it指代正确，加练通过。书面句首需大写，不混入口语能力评价。",
+      "correction": "Plan submission is not our responsibility, is it?",
+      "id": "U003",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "plan submission is not our responsibility, is it?"
+      ]
+    },
+    {
+      "prompt": "R5：提交计划是我们工作的一部分，还是他们的？",
+      "answer": "Is plan submission part of our job or theirs?",
+      "feedback": "✅ Is位置、or选项及theirs代替their job均正确自然。part of正确复用。",
+      "correction": "原句可保留。",
+      "id": "U004",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "Is plan submission part of our job or theirs?"
+      ]
+    },
+    {
+      "prompt": "R6：如果提交计划不属于我们的职责，我们就不会做。",
+      "answer": "If plan submission  were not our responsibility, we would not do that.",
+      "feedback": "✅ were not→would not do表达现在反事实。do that可以成立；平实回指该工作时do it更自然。两空格只属录入格式。",
+      "correction": "If plan submission were not our responsibility, we would not do it.",
+      "id": "U005",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "If plan submission  were not our responsibility, we would not do that."
+      ]
+    },
+    {
+      "prompt": "QF1：反对把提交计划交给别的团队，说明属于自己的职责。",
+      "answer": "Well, I don't think this is appropriate, because plan submission is part of our responsibility.",
+      "feedback": "✅ 反对立场和原因完整；目标短语与part of正确。part of our responsibility把责任视为整体，可以成立，不强制改复数；part of our job更惯常。",
+      "correction": "Well, I don’t think that’s appropriate because plan submission is part of our job.",
+      "id": "U006",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "Well, I don't think this is appropriate, because plan submission is part of our responsibility."
+      ]
+    },
+    {
+      "prompt": "QF2：询问分工，谁负责提交计划？",
+      "answer": "Who should be responsible for the plan submission?",
+      "feedback": "✅ responsible for与目标短语正确。should询问应由谁负责，适合讨论分工；若确认已经存在的分工，用Who is responsible…更精确。",
+      "correction": "讨论应然分工保留原句；确认既有责任用Who is responsible for the plan submission?",
+      "id": "U007",
+      "section": "语言点 1：plan submission 续练",
+      "sentences": [
+        "Who should be responsible for the plan submission?"
+      ]
+    },
+    {
+      "prompt": "R1：申报利益冲突是我们工作的一部分。",
+      "answer": "Declaring a conflict of interest is part of our job.",
+      "feedback": "✅ 动名词短语作主语用is，申报搭配及part of均准确。",
+      "correction": "原句可保留。",
+      "id": "U008",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "Declaring a conflict of interest is part of our job."
+      ]
+    },
+    {
+      "prompt": "R2：我们不能指望他主动申报利益冲突。",
+      "answer": "We cannot rely on him to declare conflicts of interest proactively.",
+      "feedback": "✅ rely on sb to do的on/to完整；conflicts of interest复数可泛指多项利益冲突，原题未限定数量；proactively偏正式但符合主动义。",
+      "correction": "原句可保留，不强制改成单数。",
+      "id": "U009",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "We cannot rely on him to declare conflicts of interest proactively."
+      ]
+    },
+    {
+      "prompt": "R3：为什么申报利益冲突是工作的一部分？",
+      "answer": "Why is declaring conflicts of interest is part of the job?",
+      "feedback": "🔴 is重复。is前移到主语declaring conflicts of interest之前后，原谓语位置不能再留一个is。目标搭配与part of本身正确。",
+      "correction": "Why is declaring conflicts of interest part of the job?",
+      "id": "U010",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "Why is declaring conflicts of interest is part of the job?"
+      ]
+    },
+    {
+      "prompt": "R3加练：为什么申报利益冲突是审核流程的一部分？",
+      "answer": "Why is declaring conflicts of interest part of the review process?",
+      "feedback": "✅ 本轮只有一个is，长主语之后不再重复系动词；review process准确，加练通过。",
+      "correction": "原句可保留。",
+      "id": "U011",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "Why is declaring conflicts of interest part of the review process?"
+      ]
+    },
+    {
+      "prompt": "R4：申报利益冲突是审核流程的一部分，对吧？",
+      "answer": "Declaring a conflict of interest is part of the review process, isn't it?",
+      "feedback": "✅ is→isn’t it；it指整个活动。已避免早先Tag极性错误。",
+      "correction": "原句可保留。",
+      "id": "U012",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "Declaring a conflict of interest is part of the review process, isn't it?"
+      ]
+    },
+    {
+      "prompt": "R5：申报利益冲突是审核流程的一部分，还是额外步骤？",
+      "answer": "Is declaring a conflict of interest part of the review process or an extra step?",
+      "feedback": "✅ Is倒装、两项表语及an extra step冠词均准确。",
+      "correction": "原句可保留。",
+      "id": "U013",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "Is declaring a conflict of interest part of the review process or an extra step?"
+      ]
+    },
+    {
+      "prompt": "R6：如果我们能指望他，他就会主动申报利益冲突。（现在反事实）",
+      "answer": "If we could rely on him, he would declare a conflict of interest proactively.",
+      "feedback": "✅ could rely→would declare；目标搭配及rely on均正确，没有把would放进if从句。",
+      "correction": "原句可保留。",
+      "id": "U014",
+      "section": "语言点 2：declare a conflict of interest 核心造句",
+      "sentences": [
+        "If we could rely on him, he would declare a conflict of interest proactively."
+      ]
+    },
+    {
+      "prompt": "QF1首答：供应商负责人是亲属，先说明关系再申报。",
+      "answer": "Well, one of the companys' head is my relative. So, I'd  like to declare a conflict of interest first.",
+      "feedback": "🔴 companys’拼写及one of…主语结构不清。申报句正确；my relative本身合法，不能列为错误。应先选其中一家公司的负责人，而非把one of直接放在混乱的所有格前。",
+      "correction": "Well, the head of one of the companies is my relative, so I’d like to declare a conflict of interest first.",
+      "id": "U015",
+      "section": "语言点 2：Quick Fire、亲属表达与整合",
+      "sentences": [
+        "Well, one of the companys' head is my relative.",
+        "So, I'd  like to declare a conflict of interest first."
+      ]
+    },
+    {
+      "prompt": "QF1修正：先说明亲属关系再申报。",
+      "answer": "Well, the head of one of the companies is my relative, so I'd like to declare a conflict of interest first.",
+      "feedback": "✅ head为中心词用is；one of the companies复数及my relative合法。用so连接理由与申报意图清楚。",
+      "correction": "原句可保留；a relative of mine只是另一种表达。",
+      "id": "U016",
+      "section": "语言点 2：Quick Fire、亲属表达与整合",
+      "sentences": [
+        "Well, the head of one of the companies is my relative, so I'd like to declare a conflict of interest first."
+      ]
+    },
+    {
+      "prompt": "QF2首答：礼貌打断，表示现在申报，并句尾征求许可。",
+      "answer": "Sorry to jump in here. I'd like to declare a conflict of interest.",
+      "feedback": "🟡 两句语法及搭配正确，但漏now和句尾许可。礼貌插话不等于已表达全部场景信息；不能记首答完整通过。",
+      "correction": "Sorry to jump in here. I’d like to declare a conflict of interest now, if I may.",
+      "id": "U017",
+      "section": "语言点 2：Quick Fire、亲属表达与整合",
+      "sentences": [
+        "Sorry to jump in here.",
+        "I'd like to declare a conflict of interest."
+      ]
+    },
+    {
+      "prompt": "QF2修正：补现在和句尾许可。",
+      "answer": "Sorry to interrupt you here. I'd like to declare a conflict of interest now, if I may.",
+      "feedback": "✅ 礼貌插话、now和句尾if I may齐全，修正通过；此为提示后正确，不作为无提示固化。",
+      "correction": "原句可保留。",
+      "id": "U018",
+      "section": "语言点 2：Quick Fire、亲属表达与整合",
+      "sentences": [
+        "Sorry to interrupt you here.",
+        "I'd like to declare a conflict of interest now, if I may."
+      ]
+    },
+    {
+      "prompt": "Micro RP：团队负责计划提交，参与公司的负责人是亲属，需要申报。",
+      "answer": "Plan submission is part of our team's responsibility, and the head of one of the companies is a relative of mine. I'd like to declare a conflict of interest first.",
+      "feedback": "✅ 两个目标短语、亲属关系和主谓一致正确。our team’s responsibility可作整体责任，不判单数错误。part of有些冗长，可简化为is our team’s responsibility。",
+      "correction": "Plan submission is our team’s responsibility. The head of one of the companies is a relative of mine, so I’d like to declare a conflict of interest first.",
+      "id": "U019",
+      "section": "语言点 2：Quick Fire、亲属表达与整合",
+      "sentences": [
+        "Plan submission is part of our team's responsibility, and the head of one of the companies is a relative of mine.",
+        "I'd like to declare a conflict of interest first."
+      ]
+    },
+    {
+      "prompt": "R1：我本该在提交计划前申报利益冲突。",
+      "answer": "I should have declared a conflict of interest before the plan submission.",
+      "feedback": "✅ should have declared表达过去本该却没做；before接名词短语成立，plan submission正确复用。",
+      "correction": "原句可保留。",
+      "id": "U020",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "I should have declared a conflict of interest before the plan submission."
+      ]
+    },
+    {
+      "prompt": "R2首答：我本不该隐瞒这项利益冲突。",
+      "answer": "I should not have hid this conflict of interest.",
+      "feedback": "🔴 have后用了过去式hid，必须过去分词hidden。否定位置should not have正确。该错延续历史have+过去式缺口。",
+      "correction": "I should not have hidden this conflict of interest.",
+      "id": "U021",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "I should not have hid this conflict of interest."
+      ]
+    },
+    {
+      "prompt": "R2加练1：我们本不该指望他隐瞒这项利益冲突。",
+      "answer": "We should not have hoped he could hide this conflict of interest.",
+      "feedback": "🟡 should not have hoped与could hide均语法正确，但hope侧重希望，原题指望更偏rely on。此句没有直接检验hidden；导师加练设计未对准过去分词，不算hidden修复证据。",
+      "correction": "We should not have relied on him to hide this conflict of interest.",
+      "id": "U022",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "We should not have hoped he could hide this conflict of interest."
+      ]
+    },
+    {
+      "prompt": "R2加练2：我本不该在提交计划前隐瞒这项利益冲突。",
+      "answer": "I should not have hidden this conflict of interest before the plan submission.",
+      "feedback": "✅ hidden修复到位，时间和对象完整。此处是加练后通过，不是首答无误。",
+      "correction": "原句可保留。",
+      "id": "U023",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "I should not have hidden this conflict of interest before the plan submission."
+      ]
+    },
+    {
+      "prompt": "R3：我们本该在提交计划前做什么？",
+      "answer": "What should we have done before the plan submission?",
+      "feedback": "✅ What should we have done语序正确，done为正确过去分词。",
+      "correction": "原句可保留。",
+      "id": "U024",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "What should we have done before the plan submission?"
+      ]
+    },
+    {
+      "prompt": "R4：我们本该申报利益冲突，对吧？",
+      "answer": "We should have declared a conflict of interest, shouldn't we?",
+      "feedback": "✅ Tag跟随情态should而不是have；前肯后否正确。",
+      "correction": "原句可保留。",
+      "id": "U025",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "We should have declared a conflict of interest, shouldn't we?"
+      ]
+    },
+    {
+      "prompt": "R5：我们本该申报利益冲突，还是保持沉默？",
+      "answer": "Should we have declared a conflict of interest or kept silent?",
+      "feedback": "✅ declared与kept共用should have；keep–kept–kept正确，选项平行。",
+      "correction": "原句可保留。",
+      "id": "U026",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "Should we have declared a conflict of interest or kept silent?"
+      ]
+    },
+    {
+      "prompt": "R6首答：如果你当时在场，你会告诉我，我本该申报利益冲突。（过去反事实）",
+      "answer": "If you were there, you would have told me that I should have declared a conflict of interest.",
+      "feedback": "🔴 本题是具体过去不在场，if从句需had been。后半句would have told、should have declared正确；不能一概说were与would have永不能混用，但本场景不支持当前状态影响过去结果的混合解释。",
+      "correction": "If you had been there, you would have told me that I should have declared a conflict of interest.",
+      "id": "U027",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "If you were there, you would have told me that I should have declared a conflict of interest."
+      ]
+    },
+    {
+      "prompt": "R6加练：如果他当时在场，他就会提醒我，我本该申报利益冲突。",
+      "answer": "If he had been there, he would have told me that I should have declared a conflict of interest.",
+      "feedback": "✅ had been→would have told修复了过去反事实。🟡 told是告诉，不显式保证提醒；reminded更准确对应原题。目标should have正确。",
+      "correction": "If he had been there, he would have reminded me that I should have declared a conflict of interest.",
+      "id": "U028",
+      "section": "语言点 3：should have done 核心造句与加练",
+      "sentences": [
+        "If he had been there, he would have told me that I should have declared a conflict of interest."
+      ]
+    },
+    {
+      "prompt": "QF1：会后意识到漏报，反思之前该做什么。",
+      "answer": "Well, I forgot to declare a conflict of interest. I should have declared it in the meeting.",
+      "feedback": "✅ forgot to说明未做，should have declared表达反省；it指代明确，in the meeting合法，不强制改during。",
+      "correction": "原句可保留。",
+      "id": "U029",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "Well, I forgot to declare a conflict of interest.",
+        "I should have declared it in the meeting."
+      ]
+    },
+    {
+      "prompt": "QF2原场景：同事公开利益冲突后道歉，表达当初不该告诉别人。",
+      "answer": "Well, the conflict of interest is my privacy. You should not have told others.",
+      "feedback": "✅ should not have told结构正确。🟡 is my privacy不惯常，具体事情用a private matter；told others可按语境省略内容，about it更明确。导师把应申报利益冲突设成隐私秘密，场景本身欠妥，随后换成家庭信息，不归责学生。",
+      "correction": "Well, that was a private matter. You shouldn’t have told others about it.",
+      "id": "U030",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "Well, the conflict of interest is my privacy.",
+        "You should not have told others."
+      ]
+    },
+    {
+      "prompt": "QF2换场景修正：同事未经许可告诉别人家庭情况。",
+      "answer": "This is a private matter. You should not have told others in public.",
+      "feedback": "✅ private matter与should not have told正确；in public增加当众，原场景未限定。不是所有告诉别人都等于公开场合披露。目标通过，语义细节继续观察。",
+      "correction": "This is a private matter. You shouldn’t have told others about it.",
+      "id": "U031",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "This is a private matter.",
+        "You should not have told others in public."
+      ]
+    },
+    {
+      "prompt": "过去分词Flash Correct 1/2：我们已经在现场采取行动了。",
+      "answer": "We have already taken actions in the field.",
+      "feedback": "✅ taken正确，already及in the field完整。🟡 泛指采取行动优先take action；具体多项举措可take several actions，不能把复数一概判错。",
+      "correction": "We have already taken action in the field.",
+      "id": "U032",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "We have already taken actions in the field."
+      ]
+    },
+    {
+      "prompt": "过去分词Flash Correct 2/2首答：我们还没收到他们的消息。",
+      "answer": "I have not heard from them yet.",
+      "feedback": "✅ heard、hear from及yet正确。🟡 原题我们变成I，施事信息遗漏，不能记完全忠实。",
+      "correction": "We haven’t heard from them yet.",
+      "id": "U033",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "I have not heard from them yet."
+      ]
+    },
+    {
+      "prompt": "FC2修正第1次提交。",
+      "answer": "we  haven't heard  from  them  yet.",
+      "feedback": "✅ 主语We修复，结构和时间信息正确；多空格和句首小写属书面输入，不混入口语评分。",
+      "correction": "We haven’t heard from them yet.",
+      "id": "U034",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "we  haven't heard  from  them  yet."
+      ]
+    },
+    {
+      "prompt": "FC2修正第2次提交（原样重复）。",
+      "answer": "we  haven't heard  from  them  yet.",
+      "feedback": "✅ 用户连续提交同一句，独立保留。不是新题，不据重复输入计算两次独立召回或额外升级。",
+      "correction": "同上。",
+      "id": "U035",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "we  haven't heard  from  them  yet."
+      ]
+    },
+    {
+      "prompt": "hidden延迟复测：他本不该隐瞒计划中的问题。",
+      "answer": "He should have not hidden issues with the plan.",
+      "feedback": "✅ hidden正确，issues with the plan搭配正确；should have not hidden可理解，普通本不该的否定更惯常为should not have hidden。不把所有not后置一概判绝对不合语法。",
+      "correction": "He shouldn’t have hidden issues with the plan.",
+      "id": "U036",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "He should have not hidden issues with the plan."
+      ]
+    },
+    {
+      "prompt": "否定位置复测：我们本不该指望他解决这些问题。",
+      "answer": "We should not have relied on him to solve these issues.",
+      "feedback": "✅ should not have relied否定与过去分词正确；rely on him to solve框架和these issues准确。",
+      "correction": "原句可保留。",
+      "id": "U037",
+      "section": "语言点 3：Quick Fire、闪电纠偏与延迟复测",
+      "sentences": [
+        "We should not have relied on him to solve these issues."
+      ]
+    },
+    {
+      "prompt": "R1：我们提出了现场发现的问题。",
+      "answer": "We raised issues we spotted in the field.",
+      "feedback": "✅ raised、spotted和in the field正确；宾语关系代词省略成立。不加the可成立，明确已知一批时the issues更清楚。",
+      "correction": "原句可保留；特指可用the issues we spotted。",
+      "id": "U038",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "We raised issues we spotted in the field."
+      ]
+    },
+    {
+      "prompt": "R2：我们还没提出现场发现的问题。",
+      "answer": "We have not raised the issues we spotted in the field.",
+      "feedback": "✅ 完成时否定及关系从句正确。yet可更明确还没，但缺yet不是基本语法错误。",
+      "correction": "We haven’t raised the issues we spotted in the field yet.",
+      "id": "U039",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "We have not raised the issues we spotted in the field."
+      ]
+    },
+    {
+      "prompt": "R3：你什么时候会提出现场发现的问题？",
+      "answer": "When will you raise issues spotted in the field?",
+      "feedback": "✅ When will you raise语序正确，spotted过去分词后置修饰正确；the依特指语境，不强制。",
+      "correction": "原句可保留。",
+      "id": "U040",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "When will you raise issues spotted in the field?"
+      ]
+    },
+    {
+      "prompt": "R4：你已经提出现场发现的问题了，对吧？",
+      "answer": "You have already raised issues spotted in the field, haven't you?",
+      "feedback": "✅ have raised→haven’t you；already及现场信息完整。",
+      "correction": "原句可保留。",
+      "id": "U041",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "You have already raised issues spotted in the field, haven't you?"
+      ]
+    },
+    {
+      "prompt": "R5：你会今天提出现场发现的问题，还是明天？",
+      "answer": "Will you raise issues spotted in the field today or tomorrow?",
+      "feedback": "✅ Will倒装及today or tomorrow正确；通常能按语境理解提出问题的时间。",
+      "correction": "原句可保留。",
+      "id": "U042",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "Will you raise issues spotted in the field today or tomorrow?"
+      ]
+    },
+    {
+      "prompt": "R6：如果你当时在现场，你会提出这个问题吗？",
+      "answer": "If you had been in the field at that time, would you have raised this issue?",
+      "feedback": "✅ had been→would you have raised准确表达过去反事实；at that time完整。此题没有复发were误用。",
+      "correction": "原句可保留。",
+      "id": "U043",
+      "section": "语言点 4：raise 核心六类句式",
+      "sentences": [
+        "If you had been in the field at that time, would you have raised this issue?"
+      ]
+    },
+    {
+      "prompt": "QF1：现场发现问题，将在下午团队会议提出。",
+      "answer": "I spotted an issue, and I'm gonna raise it at this afternoon's team meeting.",
+      "feedback": "✅ spotted→raise it指代与计划完整。gonna适合随意口语，正式书面用going to；现场背景已由场景提供，不强制重复。",
+      "correction": "正式表达：I spotted an issue, and I’m going to raise it at this afternoon’s team meeting.",
+      "id": "U044",
+      "section": "语言点 4：Quick Fire 与 should have 整合",
+      "sentences": [
+        "I spotted an issue, and I'm gonna raise it at this afternoon's team meeting."
+      ]
+    },
+    {
+      "prompt": "QF2首答：散会前提一个现场问题，句尾征求许可。",
+      "answer": "I'd like to raise the issues spotted in the field.",
+      "feedback": "✅ 搭配语法正确。🟡 场景一个问题变复数，漏散会前及句尾许可。不能算首答完整通过。",
+      "correction": "I’d like to raise the issue spotted in the field before the meeting ends, if I may.",
+      "id": "U045",
+      "section": "语言点 4：Quick Fire 与 should have 整合",
+      "sentences": [
+        "I'd like to raise the issues spotted in the field."
+      ]
+    },
+    {
+      "prompt": "QF2修正1。",
+      "answer": "If I may, I'd like to raise the issue spotted in the field before the meeting ends.",
+      "feedback": "✅ 问题单数、散会前均补全，if I may句首合法。🟡 本轮明确练句尾位置，尚未达特定位置要求；不是语法错误。",
+      "correction": "将if I may移至句尾即可。",
+      "id": "U046",
+      "section": "语言点 4：Quick Fire 与 should have 整合",
+      "sentences": [
+        "If I may, I'd like to raise the issue spotted in the field before the meeting ends."
+      ]
+    },
+    {
+      "prompt": "QF2修正2。",
+      "answer": "I'd like to raise the issue spotted in the field before the meeting ends, if I may.",
+      "feedback": "✅ 信息与句尾位置齐全，提示后通过。the issue可指心中明确的问题，不强制改an。",
+      "correction": "原句可保留。",
+      "id": "U047",
+      "section": "语言点 4：Quick Fire 与 should have 整合",
+      "sentences": [
+        "I'd like to raise the issue spotted in the field before the meeting ends, if I may."
+      ]
+    },
+    {
+      "prompt": "Micro RP：昨天漏提现场问题，今天说明反省与下午安排。",
+      "answer": "Well, I should have raised issues spotted in the field yesterday at the meeting. Today, I will raise them at this afternoon's meeting.",
+      "feedback": "✅ should have raised与will raise分别表达过去反省和未来安排，them清楚。🟡 yesterday邻近spotted可能影响修饰理解；at yesterday’s meeting更清楚。Today与this afternoon可同时用，后者已足够。",
+      "correction": "Well, I should have raised the issues spotted in the field at yesterday’s meeting. I’ll raise them at this afternoon’s meeting.",
+      "id": "U048",
+      "section": "语言点 4：Quick Fire 与 should have 整合",
+      "sentences": [
+        "Well, I should have raised issues spotted in the field yesterday at the meeting.",
+        "Today, I will raise them at this afternoon's meeting."
+      ]
+    },
+    {
+      "prompt": "R1：我们已经分批审核了这些提交材料。",
+      "answer": "We have reviewed these submissions in batches.",
+      "feedback": "✅ 现在完成时、可数复数和in batches准确；无需强制already。",
+      "correction": "原句可保留。",
+      "id": "U049",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "We have reviewed these submissions in batches."
+      ]
+    },
+    {
+      "prompt": "R2：我们不会分批审核这些提交材料。",
+      "answer": "We won't review these submissions in batches.",
+      "feedback": "✅ won’t后原形review正确，否定及方式完整。",
+      "correction": "原句可保留。",
+      "id": "U050",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "We won't review these submissions in batches."
+      ]
+    },
+    {
+      "prompt": "R3：你们为什么要分批审核这些提交材料？",
+      "answer": "Why do you need to review these submissions in batches?",
+      "feedback": "✅ need to实义动词疑问式正确；询问必要性，适合原题为什么要。",
+      "correction": "原句可保留。",
+      "id": "U051",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "Why do you need to review these submissions in batches?"
+      ]
+    },
+    {
+      "prompt": "R4：你们已经分批审核这些提交材料了，对吧？",
+      "answer": "You have reviewed these submissions in batches, haven't you?",
+      "feedback": "✅ have reviewed→haven’t you；方式和对象完整，无already也成立。",
+      "correction": "原句可保留。",
+      "id": "U052",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "You have reviewed these submissions in batches, haven't you?"
+      ]
+    },
+    {
+      "prompt": "R5：你们会分批审核这些提交材料，还是一次全部审核？",
+      "answer": "Will you review these submissions in batches or all at once?",
+      "feedback": "✅ 两种方式平行，all at once在此是一次全部，不是突然。",
+      "correction": "原句可保留。",
+      "id": "U053",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "Will you review these submissions in batches or all at once?"
+      ]
+    },
+    {
+      "prompt": "R6：如果提交材料更少，我们就能一次全部审核。",
+      "answer": "If there were fewer submissions, we would review them all at once.",
+      "feedback": "✅ 条件句、fewer、them正确。🟡 would侧重就会，could更精确对应就能，不将合法would句判语法崩溃。",
+      "correction": "If there were fewer submissions, we could review them all at once.",
+      "id": "U054",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "If there were fewer submissions, we would review them all at once."
+      ]
+    },
+    {
+      "prompt": "QF1首答：材料太多，所以团队正在分批审核。",
+      "answer": "Because submissions are too many, the team is reviewing them in batches.",
+      "feedback": "✅ submissions复数、进行时和in batches正确。🟡 普通职场表达更惯常There are too many submissions；原表达不够地道但不一概宣布语法不成立。",
+      "correction": "Because there are too many submissions, the team is reviewing them in batches.",
+      "id": "U055",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "Because submissions are too many, the team is reviewing them in batches."
+      ]
+    },
+    {
+      "prompt": "QF1修正。",
+      "answer": "There are too many submissions. The team is reviewing them in batches.",
+      "feedback": "✅ there are too many+复数修正，them指代清楚。两句可以并置说明原因与动作。",
+      "correction": "原句可保留。",
+      "id": "U056",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "There are too many submissions.",
+        "The team is reviewing them in batches."
+      ]
+    },
+    {
+      "prompt": "QF2：截止后两团队未提交，向经理说明并表示会催交。",
+      "answer": " There are still two teams that have not met the deadline. They have not submitted the materials. I will contact them and ask for the submissions.",
+      "feedback": "✅ 数量、截止、未提交和后续联系完整。meet the deadline与miss the deadline都惯常。前两句可合并以精简，三句不因超过建议一两句而判错。",
+      "correction": "Two teams have missed the deadline and still haven’t submitted their materials. I’ll contact them and ask for their submissions.",
+      "id": "U057",
+      "section": "语言点 5：submission 可数材料义",
+      "sentences": [
+        "There are still two teams that have not met the deadline.",
+        "They have not submitted the materials.",
+        "I will contact them and ask for the submissions."
+      ]
+    },
+    {
+      "prompt": "R1：经过慎重考虑，我们决定分批审核提交材料。",
+      "answer": "After much deliberation, we decided to review submissions in batches.",
+      "feedback": "✅ 不可数much deliberation、decided to和历史in batches正确；submissions无需一概加the。",
+      "correction": "原句可保留。",
+      "id": "U058",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "After much deliberation, we decided to review submissions in batches."
+      ]
+    },
+    {
+      "prompt": "R2：未经慎重考虑，我们不会提出这个问题。",
+      "answer": "Without much deliberation, we will not raise this issue.",
+      "feedback": "✅ without+名词和否定主句正确。much强调充分程度，与本题相容；careful更直译慎重。",
+      "correction": "原句可保留；也可Without careful deliberation…。",
+      "id": "U059",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "Without much deliberation, we will not raise this issue."
+      ]
+    },
+    {
+      "prompt": "R3：为什么审核提交材料前需要慎重考虑？",
+      "answer": "Why do we need deliberation before reviewing submissions？",
+      "feedback": "✅ do we need名词结构和before reviewing正确；中文问号属于书面输入，不算口语错误。",
+      "correction": "Why do we need deliberation before reviewing submissions?",
+      "id": "U060",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "Why do we need deliberation before reviewing submissions？"
+      ]
+    },
+    {
+      "prompt": "R4：提出这个问题前需要慎重考虑，对吧？",
+      "answer": "We need much deliberation before raising this issue, don't we?",
+      "feedback": "✅ need实义动词对应don’t we，raise复用正确。much肯定句稍书面，且强调量；careful deliberation更贴原题。",
+      "correction": "We need careful deliberation before raising this issue, don’t we?",
+      "id": "U061",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "We need much deliberation before raising this issue, don't we?"
+      ]
+    },
+    {
+      "prompt": "R5首答：这些提交材料需要慎重考虑，还是可以直接批准？",
+      "answer": "Does the approval of these submissions need careful deliberation or just approve them?",
+      "feedback": "🔴 or后若共享the approval作主语，会变成批准这件事批准材料，语义主语不匹配。前半句does+单数approval本身合法。第二选项需完整主语与情态can we。",
+      "correction": "Do these submissions need careful deliberation, or can we approve them directly?",
+      "id": "U062",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "Does the approval of these submissions need careful deliberation or just approve them?"
+      ]
+    },
+    {
+      "prompt": "R5加练1：这份提交材料需要慎重考虑，还是我们可以直接批准？",
+      "answer": "Does the submissions need careful deliberation or can we approve them directly?",
+      "feedback": "🔴 does与复数submissions不一致；原题单数这份又变复数。or can we approve已修复。单数应Does this/the submission…approve it；复数应Do these submissions…。",
+      "correction": "Does this submission need careful deliberation, or can we approve it directly?",
+      "id": "U063",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "Does the submissions need careful deliberation or can we approve them directly?"
+      ]
+    },
+    {
+      "prompt": "R5加练2。",
+      "answer": "Does the submission need careful deliberation or can we approve it directly?",
+      "feedback": "✅ Does+单数submission与it统一；or后独立问句完整；the合法。加练后通过。",
+      "correction": "原句可保留，可加逗号方便阅读。",
+      "id": "U064",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "Does the submission need careful deliberation or can we approve it directly?"
+      ]
+    },
+    {
+      "prompt": "R6首答：如果有更多时间，我们就会慎重考虑这些提交材料；要求名词deliberation。",
+      "answer": "If we had enough time, we would give these submissions careful liberation.",
+      "feedback": "🔴 liberation为解放，不是本轮deliberation。用户下一条在导师反馈前自行改正，应记录自我监控而非导师教后修复。enough time与more time尚有细差。",
+      "correction": "将liberation改为deliberation；更忠实时间条件用more time。",
+      "id": "U065",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "If we had enough time, we would give these submissions careful liberation."
+      ]
+    },
+    {
+      "prompt": "R6自行修正。",
+      "answer": "If we had enough time, we would give these submissions careful deliberation.",
+      "feedback": "✅ had→would give与目标名词正确。🟡 enough是足够，more是更多；本题背景相容但不完全同义。无需因已自行修正再机械追加同题。",
+      "correction": "If we had more time, we would give these submissions careful deliberation.",
+      "id": "U066",
+      "section": "语言点 6：deliberation 核心六类句式与加练",
+      "sentences": [
+        "If we had enough time, we would give these submissions careful deliberation."
+      ]
+    },
+    {
+      "prompt": "QF1：同事催立即批准，你认为应慎重考虑。",
+      "answer": "We cannot just approve this submission without much deliberation.",
+      "feedback": "✅ cannot just approve清楚表达不能草率批准；without much deliberation成立，submission正确。",
+      "correction": "原句可保留。",
+      "id": "U067",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "We cannot just approve this submission without much deliberation."
+      ]
+    },
+    {
+      "prompt": "QF2首答：两天审议后，委员会决定分批审核材料；要求复数deliberations。",
+      "answer": "After two day deliberation, the committee decided to review submissions in batch.",
+      "feedback": "🔴 two day deliberation结构未到位，in batch应惯常in batches。本题复数目标未用。two-day deliberation作为复合修饰另一合法路线，但不是本轮要求；不能据two days断言of后必须复数。",
+      "correction": "After two days of deliberations, the committee decided to review the submissions in batches.",
+      "id": "U068",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "After two day deliberation, the committee decided to review submissions in batch."
+      ]
+    },
+    {
+      "prompt": "QF2自行修正方式短语。",
+      "answer": "After two day deliberation, the committee decided to review submissions in batches.",
+      "feedback": "✅ 用户自行修正in batches。🔴 two day deliberation仍需修正为two days of deliberations以完成本轮目标。",
+      "correction": "After two days of deliberations, the committee decided to review the submissions in batches.",
+      "id": "U069",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "After two day deliberation, the committee decided to review submissions in batches."
+      ]
+    },
+    {
+      "prompt": "QF2最终修正。",
+      "answer": "After two days of deliberations, the committee decided to review the submissions in batches.",
+      "feedback": "✅ 时间结构、复数目标、decided to及in batches正确。提示后通过，不写首次零误。",
+      "correction": "原句可保留。",
+      "id": "U070",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "After two days of deliberations, the committee decided to review the submissions in batches."
+      ]
+    },
+    {
+      "prompt": "Micro RP首答：经理催立即批准，你建议先慎重考虑、分批审核。",
+      "answer": "Well, I know you want to approve all the submissions immediately, however, I think it's better to review them in batches with careful deliberation.",
+      "feedback": "✅ 三目标及立场正确。🟡 书面however前仅逗号造成comma splice；需句号/分号或改but。口语内容可理解，不把标点判作口语崩溃。with careful deliberation成立。",
+      "correction": "…immediately. However, I think… / …immediately, but I think…。",
+      "id": "U071",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "Well, I know you want to approve all the submissions immediately, however, I think it's better to review them in batches with careful deliberation."
+      ]
+    },
+    {
+      "prompt": "Micro RP修正。",
+      "answer": "Well, I know you want to approve all the submissions immediately, but it's better to review them in batches with careful deliberation.",
+      "feedback": "✅ 逗号+but正确，三个目标完整。it’s better比I think it’s better更直接，两者都成立，不扣礼貌语法分。",
+      "correction": "原句可保留；需要委婉可恢复I think。",
+      "id": "U072",
+      "section": "语言点 6：Quick Fire 与 submission 整合",
+      "sentences": [
+        "Well, I know you want to approve all the submissions immediately, but it's better to review them in batches with careful deliberation."
+      ]
+    },
+    {
+      "prompt": "R1：听取团队正式提交的意见是审核流程的一部分。",
+      "answer": "Hearing a submission from the team is part of the reviewing process.",
+      "feedback": "✅ hear a submission目标、来源、动名词主语is和part of正确。🟡 reviewing process可理解，审核流程更惯常review process。",
+      "correction": "Hearing a submission from the team is part of the review process.",
+      "id": "U073",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "Hearing a submission from the team is part of the reviewing process."
+      ]
+    },
+    {
+      "prompt": "R2首答：我们不会未经慎重考虑就听取这份正式意见。",
+      "answer": "We won't take this submission into consideration without careful deliberation.",
+      "feedback": "✅ 英语语法成立。🔴 take into consideration是纳入考虑，不是hear听取，目标未用。导师先考虑再听取的原题顺序欠自然，需换题而非把全部困难归学生。",
+      "correction": "新题改练Hearing the submission…is not part of this review process。",
+      "id": "U074",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "We won't take this submission into consideration without careful deliberation."
+      ]
+    },
+    {
+      "prompt": "R2加练：听取团队正式提交的意见不属于本次审核流程。",
+      "answer": "Hearing the submission from the team is not part of this review process.",
+      "feedback": "✅ hear+内容、from来源及动名词主语is not正确，part of复用成功。",
+      "correction": "原句可保留。",
+      "id": "U075",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "Hearing the submission from the team is not part of this review process."
+      ]
+    },
+    {
+      "prompt": "R3：为什么听取团队的正式意见是审核流程的一部分？",
+      "answer": "Why is hearing a submission from the team part of the review process?",
+      "feedback": "✅ 长主语前只有一个is，没复发重复is；目标、来源及part of正确。",
+      "correction": "原句可保留。",
+      "id": "U076",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "Why is hearing a submission from the team part of the review process?"
+      ]
+    },
+    {
+      "prompt": "R4：听取团队正式提交的意见是审核流程的一部分，对吧？",
+      "answer": "Hearing the submission from the team is part of the review process, isn't it?",
+      "feedback": "✅ is→isn’t it；it指活动，目标和part of正确。",
+      "correction": "原句可保留。",
+      "id": "U077",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "Hearing the submission from the team is part of the review process, isn't it?"
+      ]
+    },
+    {
+      "prompt": "R5：委员会会先听取团队正式意见，还是先开始审议？",
+      "answer": "Will the committee hear a submission from the team or start the deliberation first?",
+      "feedback": "✅ hear/start共用will，两项平行。first句尾在语境可询问先做哪件；单数the deliberation可成立。为了范围更清楚可用Which will…do first…。",
+      "correction": "Which will the committee do first: hear the team’s submission or begin deliberations?",
+      "id": "U078",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "Will the committee hear a submission from the team or start the deliberation first?"
+      ]
+    },
+    {
+      "prompt": "R6首答：如果委员会当时听取了团队正式意见，就不会忽略现场问题。",
+      "answer": "If the committee had been heard a submission from the team, they would not have overlooked issues in the field.",
+      "feedback": "🔴 委员会主动听取，应had heard；had been heard为被动，不能继续直接接该宾语。主句would not have overlooked正确。they指委员会成员可成立，不强制it。",
+      "correction": "If the committee had heard a submission from the team, they would not have overlooked issues in the field.",
+      "id": "U079",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "If the committee had been heard a submission from the team, they would not have overlooked issues in the field."
+      ]
+    },
+    {
+      "prompt": "R6加练：如果我们当时听取了团队正式意见，就会提出这个问题。",
+      "answer": "If we had heard a submission from the team, we would have raised this issue.",
+      "feedback": "✅ had heard主动结构修复，would have raised与过去反事实匹配；raise this issue正确复用。",
+      "correction": "原句可保留。",
+      "id": "U080",
+      "section": "语言点 7：hear a submission 核心六类句式",
+      "sentences": [
+        "If we had heard a submission from the team, we would have raised this issue."
+      ]
+    },
+    {
+      "prompt": "QF1：主持评审，审议前先听安全团队正式意见。",
+      "answer": "I'd like to hear a submission from the security team first, before the deliberation.",
+      "feedback": "✅ hear搭配、security team来源及时间顺序完整。I’d like作为主持人的意向可以成立；明确排程可We’ll hear…。单数deliberation保留。",
+      "correction": "原句可保留。",
+      "id": "U081",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "I'd like to hear a submission from the security team first, before the deliberation."
+      ]
+    },
+    {
+      "prompt": "QF2首答：纠正已听取误解，说明审议前会听取。",
+      "answer": "Well, the committee has not heard any submission from the security team yet. The committee needs to hear the submission from the team before the deliberation.",
+      "feedback": "✅ 完成时、heard、yet正确；any submission单数合法。🟡 needs只表达需要，尚未明确会听取安排，应will hear；不能用必要性替代已承诺的未来动作。",
+      "correction": "第二句The committee will hear the security team’s submission before deliberations begin.",
+      "id": "U082",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "Well, the committee has not heard any submission from the security team yet.",
+        "The committee needs to hear the submission from the team before the deliberation."
+      ]
+    },
+    {
+      "prompt": "QF2第二句修正。",
+      "answer": "The committee will hear the submission from the security team before the deliberation.",
+      "feedback": "✅ will hear补足未来安排，来源与审议前完整；单数deliberation合法。",
+      "correction": "原句可保留。",
+      "id": "U083",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "The committee will hear the submission from the security team before the deliberation."
+      ]
+    },
+    {
+      "prompt": "Micro RP首答：先听取，再慎重审议，最后决定是否批准。",
+      "answer": "Let's hear the submission from the security team and start careful deliberation before deciding whether to approve submissions.",
+      "feedback": "✅ 两个目标结构、before deciding whether正确；and可按顺序理解。导师建议first/then令先后更明确，不应把未用first判语法错。原名词careful deliberation合法。",
+      "correction": "Let’s first hear… Then we’ll begin deliberations before deciding whether to approve the submissions.",
+      "id": "U084",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "Let's hear the submission from the security team and start careful deliberation before deciding whether to approve submissions."
+      ]
+    },
+    {
+      "prompt": "Micro RP修正1：要求first/then并保留名词deliberation。",
+      "answer": "Let's first hear the submission from the security and then deliberate on whether to approve submissions.",
+      "feedback": "✅ first/then顺序与动词deliberate on正确。🟡 the security未明确team；用了合法动词但未完成保留名词的本轮限制。不是deliberate本身错。",
+      "correction": "补team，并用start deliberations before deciding whether…。",
+      "id": "U085",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "Let's first hear the submission from the security and then deliberate on whether to approve submissions."
+      ]
+    },
+    {
+      "prompt": "Micro RP修正2。",
+      "answer": "Let's first hear the submission from the security team and then start deliberations before deciding whether to approve submissions.",
+      "feedback": "✅ security team、名词deliberations与顺序完整。结尾the submissions更明确本次材料，但不加the仍可成立。",
+      "correction": "原句可保留；特指可approve the submissions。",
+      "id": "U086",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "Let's first hear the submission from the security team and then start deliberations before deciding whether to approve submissions."
+      ]
+    },
+    {
+      "prompt": "part of虚拟轮缺项：如果听取正式意见不属于审核流程，我们就不会安排。",
+      "answer": "If hearing a submission were not part of the review process, we would not arrange it.",
+      "feedback": "✅ were not→would not arrange现在反事实，hear与part of正确；it可指安排该活动。补全历史虚拟轮，不误写为重练整个新语言点。",
+      "correction": "原句可保留。",
+      "id": "U087",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "If hearing a submission were not part of the review process, we would not arrange it."
+      ]
+    },
+    {
+      "prompt": "if I may独立Tag缺项：礼貌插话确认听取属于审核流程。",
+      "answer": "If I may, hearing a submission is part of the review process, isn't it?",
+      "feedback": "✅ if I may引出插话，Tag跟主句is而非may；补全之前独立Tag缺项。不据此宣布所有不适用句式都已覆盖。",
+      "correction": "原句可保留。",
+      "id": "U088",
+      "section": "语言点 7：Quick Fire、deliberation 整合及句式缺项补完",
+      "sentences": [
+        "If I may, hearing a submission is part of the review process, isn't it?"
+      ]
+    },
+    {
+      "prompt": "概念应用：进入会议室选哪个表达？",
+      "answer": "Enter the meeting room.",
+      "feedback": "✅ 进入地点直接enter+宾语；这是词组级作答，不计完整造句六类中的一题。",
+      "correction": "原表达可保留。",
+      "id": "U089",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Enter the meeting room."
+      ]
+    },
+    {
+      "prompt": "肯定句：我们准备与这个团队订立协议。",
+      "answer": "We're going to enter into agreements with this team.",
+      "feedback": "✅ enter into agreements with搭配正确；复数代表多项协议，中文未限定数量，不判复数错。一项用an agreement。",
+      "correction": "单项场景可We’re going to enter into an agreement with this team.",
+      "id": "U090",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "We're going to enter into agreements with this team."
+      ]
+    },
+    {
+      "prompt": "否定句：我们不会未经慎重考虑就与他们订立协议。",
+      "answer": "We won't enter into agreements with them without much considerration.",
+      "feedback": "✅ 目标、否定及with完整。🟡 considerration拼写多r，应consideration；much可成立，careful更贴慎重。不是目标结构失败。",
+      "correction": "We won’t enter into agreements with them without careful consideration.",
+      "id": "U091",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "We won't enter into agreements with them without much considerration."
+      ]
+    },
+    {
+      "prompt": "Wh首答：为什么订立协议前需要慎重考虑？",
+      "answer": "Why there is a necessary to have deliberation before entering into an agreement?",
+      "feedback": "🔴 直接疑问未倒装；necessary为形容词，不能a necessary。entering into an agreement正确。have deliberation可理解，但可直接以deliberation作主语简化。",
+      "correction": "Why is deliberation necessary before entering into an agreement?",
+      "id": "U092",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Why there is a necessary to have deliberation before entering into an agreement?"
+      ]
+    },
+    {
+      "prompt": "Wh加练：为什么与他们订立协议前需要慎重考虑？",
+      "answer": "Why is deliberation necessary before entering into an agreement with them?",
+      "feedback": "✅ is前置、necessary表语、deliberation主语及with them齐全，加练修复。",
+      "correction": "原句可保留。",
+      "id": "U093",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Why is deliberation necessary before entering into an agreement with them?"
+      ]
+    },
+    {
+      "prompt": "Tag：我们不会未经慎重考虑就与他们订立协议，对吧？",
+      "answer": "We won't enter into agreements with them without careful deliberation, will we?",
+      "feedback": "✅ won’t→will we；without不会再把Tag翻转；目标和deliberation完整。",
+      "correction": "原句可保留。",
+      "id": "U094",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "We won't enter into agreements with them without careful deliberation, will we?"
+      ]
+    },
+    {
+      "prompt": "选择：我们会立即与他们订立协议，还是先慎重考虑？",
+      "answer": "Will we enter into agreements with them immediately or shall we give it careful deliberation first?",
+      "feedback": "✅ 两个问句可以连接。shall we带提议语气，will we问预期安排；混用非必然语法错，只改变语气。it可指订立协议这件事，不强制复数them。",
+      "correction": "更统一：Will we enter into agreements with them immediately, or give the matter careful deliberation first?",
+      "id": "U095",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Will we enter into agreements with them immediately or shall we give it careful deliberation first?"
+      ]
+    },
+    {
+      "prompt": "虚拟：如果当时经过慎重考虑，我们就不会与他们订立协议。",
+      "answer": "If we had given it careful deliberation at that time, we would not have entered into agreements with them.",
+      "feedback": "✅ had given→would not have entered正确，at that time完整，it可指该事项。",
+      "correction": "原句可保留。",
+      "id": "U096",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "If we had given it careful deliberation at that time, we would not have entered into agreements with them."
+      ]
+    },
+    {
+      "prompt": "QF1：说明准备与新团队订立合作协议的下一步。",
+      "answer": "Well, after much deliberation, we will enter into agreements with the team.",
+      "feedback": "✅ 未来安排和协议搭配正确；after much deliberation可指此前已慎重考虑，语境亦可指考虑后再订立，不判时间错。",
+      "correction": "原句可保留。",
+      "id": "U097",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Well, after much deliberation, we will enter into agreements with the team."
+      ]
+    },
+    {
+      "prompt": "QF2：纠正已经订立的误解，实际尚未、明天计划订立。",
+      "answer": "Actually, we have not entered into agreements with the team yet. We are going to enter into the agreements tomorrow.",
+      "feedback": "✅ have not entered…yet与going to…tomorrow完整；第二句the agreements可回指拟订立的已知协议，复数合法。",
+      "correction": "原句可保留。",
+      "id": "U098",
+      "section": "语言点 8：enter / enter into 协议义复训",
+      "sentences": [
+        "Actually, we have not entered into agreements with the team yet.",
+        "We are going to enter into the agreements tomorrow."
+      ]
+    },
+    {
+      "prompt": "交叉1：委员会即将进入新的审核阶段。",
+      "answer": "The committee is going to enter a new review phase.",
+      "feedback": "✅ enter+阶段正确，不需into。going to表达安排可接受，若突出马上用about to。",
+      "correction": "更强调临近可The committee is about to enter a new review phase.",
+      "id": "U099",
+      "section": "语言点 8：地点、阶段与讨论交叉检查",
+      "sentences": [
+        "The committee is going to enter a new review phase."
+      ]
+    },
+    {
+      "prompt": "交叉2首答：我们还不准备与他们展开讨论。",
+      "answer": "We have not been ready to enter into discussions with him.",
+      "feedback": "✅ enter into discussions搭配正确。🟡 him替代原题them；have not been ready可表示一段时期未就绪，但本题当前状态用aren’t ready…yet更直接。不能把该完成时在任何语境都判错。",
+      "correction": "We aren’t ready to enter into discussions with them yet.",
+      "id": "U100",
+      "section": "语言点 8：地点、阶段与讨论交叉检查",
+      "sentences": [
+        "We have not been ready to enter into discussions with him."
+      ]
+    },
+    {
+      "prompt": "交叉2修正。",
+      "answer": "We aren't ready to enter into discussions with them yet.",
+      "feedback": "✅ 当前状态、them、yet与讨论搭配完整。",
+      "correction": "原句可保留。",
+      "id": "U101",
+      "section": "语言点 8：地点、阶段与讨论交叉检查",
+      "sentences": [
+        "We aren't ready to enter into discussions with them yet."
+      ]
+    },
+    {
+      "prompt": "交叉3首答：进入会议室后，我们将开始讨论这份协议。",
+      "answer": "After entering the meeting room, we will start to enter into discussions about this contract.",
+      "feedback": "✅ 地点enter与讨论enter into都选对。🟡 enter into已含开始参与，start to在此重复；contract比一般agreement更具体，如确为合同可成立，不能直接判错词。",
+      "correction": "After entering the meeting room, we will enter into discussions about this agreement.",
+      "id": "U102",
+      "section": "语言点 8：地点、阶段与讨论交叉检查",
+      "sentences": [
+        "After entering the meeting room, we will start to enter into discussions about this contract."
+      ]
+    },
+    {
+      "prompt": "交叉3修正。",
+      "answer": "After entering the meeting room, we will enter into discussions about this agreement.",
+      "feedback": "✅ 两个意义正确区分，去掉start to后更简洁；after entering的隐含主语与we一致。",
+      "correction": "原句可保留。",
+      "id": "U103",
+      "section": "语言点 8：地点、阶段与讨论交叉检查",
+      "sentences": [
+        "After entering the meeting room, we will enter into discussions about this agreement."
+      ]
+    },
+    {
+      "prompt": "中文讨论中的英文提议：若表达隶属，能否用affiliated to？",
+      "answer": "the company is affiliated to the university",
+      "feedback": "✅ affiliated to搭配可成立，句首大写属格式。🟡 仍不必然断定大学拥有或管理；affiliated亦可仅正式关联。不能把它与owned/managed完全等同。",
+      "correction": "要明确所有权用The company is owned by the university；管理权用is managed/run by the university。",
+      "id": "U104",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "the company is affiliated to the university"
+      ]
+    },
+    {
+      "prompt": "肯定：这份提交材料与年度计划有关。",
+      "answer": "This submission is linked to the annual plan.",
+      "feedback": "✅ 单数is和linked to正确，只说明关联不擅自推断隶属。",
+      "correction": "原句可保留。",
+      "id": "U105",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "This submission is linked to the annual plan."
+      ]
+    },
+    {
+      "prompt": "否定：这些提交材料与年度计划无关。",
+      "answer": "These submissions are not linked to the annual plan.",
+      "feedback": "✅ 复数are、否定和关联对象完整。",
+      "correction": "原句可保留。",
+      "id": "U106",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "These submissions are not linked to the annual plan."
+      ]
+    },
+    {
+      "prompt": "Wh：这些提交材料与哪个计划有关？",
+      "answer": "Which plan is linked to these submissions?",
+      "feedback": "✅ which plan作主语用is，普通关联语境下改变观察角度仍可表达所问。并非强制保留中文主语；若强调材料作主语用Which plan are these submissions linked to?",
+      "correction": "Which plan are these submissions linked to? 是更贴中文主语顺序的另一合法版本。",
+      "id": "U107",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "Which plan is linked to these submissions?"
+      ]
+    },
+    {
+      "prompt": "Tag：这些提交材料与年度计划有关，对吧？",
+      "answer": "These submissions are linked to the annual plan, aren't they?",
+      "feedback": "✅ are→aren’t they，they指复数材料，关系完整。",
+      "correction": "原句可保留。",
+      "id": "U108",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "These submissions are linked to the annual plan, aren't they?"
+      ]
+    },
+    {
+      "prompt": "选择：材料与年度计划有关，还是预算有关？",
+      "answer": "Which one are the submissions linked to: the annual plan or the budget?",
+      "feedback": "✅ which引出二选一；主语submissions对应are，冒号列选项成立。",
+      "correction": "原句可保留。",
+      "id": "U109",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "Which one are the submissions linked to: the annual plan or the budget?"
+      ]
+    },
+    {
+      "prompt": "虚拟：如果这些材料与预算无关，我们就不会提出这个问题。",
+      "answer": "If these submissions were not linked to the budget, we would not raise this issue.",
+      "feedback": "✅ were not linked→would not raise现在反事实，raise this issue复用正确。",
+      "correction": "原句可保留。",
+      "id": "U110",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "If these submissions were not linked to the budget, we would not raise this issue."
+      ]
+    },
+    {
+      "prompt": "QF1：解释为什么交给预算团队。",
+      "answer": "The submission is linked to the budget.",
+      "feedback": "✅ 简短回答直接给出原因，目标正确，不必再强制完整because句。",
+      "correction": "原句可保留。",
+      "id": "U111",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "The submission is linked to the budget."
+      ]
+    },
+    {
+      "prompt": "QF2首答：只知道公司与大学关联，不知道所有权，纠正同事归大学所有的推断。",
+      "answer": "The company is linked to the university; it is not managed by the university or owned by the university.",
+      "feedback": "✅ 语法、分号和linked to正确。🔴 信息依据越界：不知道是否拥有不等于明确不拥有；还新增明确否定管理权。应保留不确定，不用is not…owned作事实断言。",
+      "correction": "The company is linked to the university, but that doesn’t necessarily mean the university owns it.",
+      "id": "U112",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "The company is linked to the university; it is not managed by the university or owned by the university."
+      ]
+    },
+    {
+      "prompt": "QF2修正。",
+      "answer": "The company is linked to the university, but that doesn't necessarily mean the university owns it.",
+      "feedback": "✅ doesn’t necessarily mean表达不一定，保留未知，没有把未知误成否定，修正通过。",
+      "correction": "原句可保留。",
+      "id": "U113",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "The company is linked to the university, but that doesn't necessarily mean the university owns it."
+      ]
+    },
+    {
+      "prompt": "Micro RP首答：可能与大学有关联公司订协议，但先慎重考虑。",
+      "answer": "We may enter into an agreement with the company that is linked to an university but I think we need careful deliberation before deciding whether to enter into that agreement.",
+      "feedback": "✅ 三目标、whether逻辑完整，重复协议不构成语法错误。🔴 an university应a university，首音/j/是辅音。may表达可能；原场景计划明确时planning to更精确，但可讨论可能合作。",
+      "correction": "We may enter into an agreement with a company linked to a university. However, I think we need careful deliberation before making a decision.",
+      "id": "U114",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "We may enter into an agreement with the company that is linked to an university but I think we need careful deliberation before deciding whether to enter into that agreement."
+      ]
+    },
+    {
+      "prompt": "Micro RP修正。",
+      "answer": "We may enter into agreements with a company linked to a university. However, I think we need careful deliberation before making a decision.",
+      "feedback": "✅ a university修复，非限定所有权无越界；However另句避免逗号拼接。复数agreements说明多项，原场景未明确数量，不强制单数。",
+      "correction": "原句可保留。",
+      "id": "U115",
+      "section": "语言点 9：be linked to 机构关联义与延伸问答",
+      "sentences": [
+        "We may enter into agreements with a company linked to a university.",
+        "However, I think we need careful deliberation before making a decision."
+      ]
+    },
+    {
+      "prompt": "首题：我们收到了两份材料，两份都与年度计划有关。",
+      "answer": "We've got two submissions, both of which are linked to the annual plan.",
+      "feedback": "✅ both of which指两份、are linked正确、逗号正确。🟡 We’ve got通常突出持有，明确收到了用We’ve received更精确；不能不顾上下文把got一概判非获得义。",
+      "correction": "We’ve received two submissions, both of which are linked to the annual plan.",
+      "id": "U116",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We've got two submissions, both of which are linked to the annual plan."
+      ]
+    },
+    {
+      "prompt": "嵌入题首答：既然两份材料都与预算有关，先审核哪份？要求since与both of which。",
+      "answer": "Since these two submissions are linked to the budget, which one should we review first?",
+      "feedback": "✅ 完整since从句和疑问语序正确，语义完整，且比强行嵌入更简洁。🟡 未使用本轮限定both of which；导师中文题不自然强制目标，不能因此判句子错误。",
+      "correction": "仅为练嵌入：Since we have two submissions, both of which are linked to the budget, which one should we review first?",
+      "id": "U117",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "Since these two submissions are linked to the budget, which one should we review first?"
+      ]
+    },
+    {
+      "prompt": "嵌入加练首答。",
+      "answer": "Since we have two submissions and both of which are linked to the budget, which one should we review first?",
+      "feedback": "🔴 and与关系从句连接方式混合；此处应逗号+both of which，或and both of them组成并列。since we have…本身主干已修复。",
+      "correction": "Since we have two submissions, both of which are linked to the budget, which one should we review first?",
+      "id": "U118",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "Since we have two submissions and both of which are linked to the budget, which one should we review first?"
+      ]
+    },
+    {
+      "prompt": "嵌入修正。",
+      "answer": "Since we have two submissions, both of which are linked to the budget, which one should we review first?",
+      "feedback": "✅ 主干完整、两个逗号嵌入、无多余and、问句语序正确。是提示后修复，不据此宣称长期固化。",
+      "correction": "原句可保留。",
+      "id": "U119",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "Since we have two submissions, both of which are linked to the budget, which one should we review first?"
+      ]
+    },
+    {
+      "prompt": "迁移：我们正在审核两个方案，两个都需要慎重考虑。",
+      "answer": "We are reviewing two plans, both of which need careful deliberation.",
+      "feedback": "✅ 新场景正确迁移，both主语对应need非needs，进行时与deliberation正确。",
+      "correction": "原句可保留。",
+      "id": "U120",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We are reviewing two plans, both of which need careful deliberation."
+      ]
+    },
+    {
+      "prompt": "否定首答：收到了两份材料，两份都与预算无关；导师要求both of which。",
+      "answer": "We've received two submissions, both of which are not linked to the budget.",
+      "feedback": "✅ 从句形式正确，可以理解意图；both…not存在否定范围不清，明确两个都不优先neither of which。导师硬性要求both不适合此题，不据此扣目标结构分。",
+      "correction": "We’ve received two submissions, neither of which is linked to the budget.",
+      "id": "U121",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We've received two submissions, both of which are not linked to the budget."
+      ]
+    },
+    {
+      "prompt": "neither修正。",
+      "answer": "We've received two submissions, neither of which is linked to the budget.",
+      "feedback": "✅ neither已否定，后面无not；正式风格单数is正确。",
+      "correction": "原句可保留。",
+      "id": "U122",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We've received two submissions, neither of which is linked to the budget."
+      ]
+    },
+    {
+      "prompt": "neither迁移首答：正在审核两个方案，两个都不涉及预算变更。",
+      "answer": "We are reviewing the two plans, neither of which is linked to the budget change.",
+      "feedback": "✅ neither of which is正确，the two plans可指已知两份。🟡 linked to只说关联，不精确表达方案是否包含/要求变更；the budget change还指一项具体变更，原题未限定。",
+      "correction": "We are reviewing the two plans, neither of which entails any budget changes.",
+      "id": "U123",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We are reviewing the two plans, neither of which is linked to the budget change."
+      ]
+    },
+    {
+      "prompt": "neither迁移修正。",
+      "answer": "We're reviewing the two plans, neither of which entails any budget   changes.",
+      "feedback": "✅ neither→entails单数，any budget changes语义准确；多空格属输入格式。entail在提示后成功复用。",
+      "correction": "原句可保留。",
+      "id": "U124",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We're reviewing the two plans, neither of which entails any budget   changes."
+      ]
+    },
+    {
+      "prompt": "综合：两方案都与年度计划有关，但都不涉及预算变更；要求both/neither。",
+      "answer": "We've received two plans, both of which are linked to the annual plan, but neither of which entails any budget changes.",
+      "feedback": "✅ 两个关系从句可由but并列，共同修饰two plans；此处but合法，与and+首个which混用不同。are与entails正确。合成一句可接受，不因导师建议两句扣分。",
+      "correction": "原句可保留。",
+      "id": "U125",
+      "section": "语言点 10：both of which 历史复测与嵌入加练",
+      "sentences": [
+        "We've received two plans, both of which are linked to the annual plan, but neither of which entails any budget changes."
+      ]
+    },
+    {
+      "prompt": "句首：关于这份提交材料，我想提出一个问题。",
+      "answer": "Regarding this submission, I want to raise a question.",
+      "feedback": "✅ regarding+名词短语正确，raise a question合法。I want较直接，I’d like柔和；不是I want语法错误。",
+      "correction": "正式语气可Regarding this submission, I’d like to raise a question.",
+      "id": "U126",
+      "section": "语言点 11：regarding 历史迁移抽查",
+      "sentences": [
+        "Regarding this submission, I want to raise a question."
+      ]
+    },
+    {
+      "prompt": "问句首答：你们对这两份提交材料有什么顾虑？",
+      "answer": "Do you have any concerns regarding these two submissions ?",
+      "feedback": "✅ concerns regarding正确，问句自然。🟡 Do you have询问是否有，原题What询问具体哪些顾虑；两者会话功能相关但不完全相同。问号前空格纯书面格式。",
+      "correction": "What concerns do you have regarding these two submissions?",
+      "id": "U127",
+      "section": "语言点 11：regarding 历史迁移抽查",
+      "sentences": [
+        "Do you have any concerns regarding these two submissions ?"
+      ]
+    },
+    {
+      "prompt": "问句修正。",
+      "answer": "what concerns do you have regarding these two submissions?",
+      "feedback": "✅ what concerns宾语前置、do you have语序、regarding连接对象正确。句首What需大写，只记录格式建议。",
+      "correction": "What concerns do you have regarding these two submissions?",
+      "id": "U128",
+      "section": "语言点 11：regarding 历史迁移抽查",
+      "sentences": [
+        "what concerns do you have regarding these two submissions?"
+      ]
+    },
+    {
+      "prompt": "首答：前公司有关联机构提交材料，礼貌插话、申报、建议听安全团队再审议。",
+      "answer": "Well, one of the submissions is provided by the company that is linked to me, so I'd like to declare a conflict of interest first, and then let's hear a submission from the security team, and start the deliberations.",
+      "feedback": "✅ 四目标均出现，one…is主谓正确；and串联在口语可用，不按however逗号拼接误判。🔴 linked to me把原题关联前公司改成关联本人。🟡 Well只是缓冲，不明确请求插话。provided by可成立，comes from/was submitted by更直接。",
+      "correction": "May I interrupt for a moment? One of the submissions comes from an organization linked to my former company, so I’d like to declare a conflict of interest first. Then I suggest we hear a submission from the security team before we begin deliberations.",
+      "id": "U129",
+      "section": "65BEC 最终综合场景：申报关联与安排审议",
+      "sentences": [
+        "Well, one of the submissions is provided by the company that is linked to me, so I'd like to declare a conflict of interest first, and then let's hear a submission from the security team, and start the deliberations."
+      ]
+    },
+    {
+      "prompt": "修正前半段。",
+      "answer": "If I may, I'd like to declare a conflict of interest first. One of these submissions is submitted by an organization that is linked to my former company.",
+      "feedback": "✅ if I may与former company修复到位，来源明确。🟡 只答前半段，仍缺听取意见与审议。is submitted可描述状态/惯例，指已收到的一次提交用was submitted更贴切，不一概判错。",
+      "correction": "One of these submissions was submitted by an organization linked to my former company. 后续仍需补流程。",
+      "id": "U130",
+      "section": "65BEC 最终综合场景：申报关联与安排审议",
+      "sentences": [
+        "If I may, I'd like to declare a conflict of interest first.",
+        "One of these submissions is submitted by an organization that is linked to my former company."
+      ]
+    },
+    {
+      "prompt": "补后半段。",
+      "answer": "I'd suggest we hear a submission from the security team first, and then start the deliberations.",
+      "feedback": "✅ suggest后可省略that，hear/start共用we；first/then顺序明确。与上一答合并才完成全场景，不把此独立片段写成重答全部。",
+      "correction": "原句可保留。",
+      "id": "U131",
+      "section": "65BEC 最终综合场景：申报关联与安排审议",
+      "sentences": [
+        "I'd suggest we hear a submission from the security team first, and then start the deliberations."
+      ]
+    },
+    {
+      "prompt": "R1首答：我们已经把这些提交材料的信息分批录入系统。",
+      "answer": "We have entered these submissions into the system.",
+      "feedback": "✅ have entered…into结构正确。🟡 宾语把材料信息改成材料本身，并漏分批；原句独立可成立，但不是完整原题。",
+      "correction": "We have entered the information from these submissions into the system in batches.",
+      "id": "U132",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "We have entered these submissions into the system."
+      ]
+    },
+    {
+      "prompt": "R1修正。",
+      "answer": "We have entered the information from these submissions into the system in batches.",
+      "feedback": "✅ 信息来源、目标系统及in batches全补齐，完成时正确。",
+      "correction": "原句可保留。",
+      "id": "U133",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "We have entered the information from these submissions into the system in batches."
+      ]
+    },
+    {
+      "prompt": "R2：我们还没有把这些提交材料的信息分批录入系统。",
+      "answer": "We have not entered the information from these submissions into the system in batches.",
+      "feedback": "✅ 完成时否定、信息来源和方式完整。yet令还没更明确，缺yet不判语法错。否定加方式语境可能存在范围差异，不推断已逐一录入。",
+      "correction": "可补We haven’t entered the information from these submissions into the system in batches yet.",
+      "id": "U134",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "We have not entered the information from these submissions into the system in batches."
+      ]
+    },
+    {
+      "prompt": "R3：你们为什么要把这些提交材料的信息分批录入系统？",
+      "answer": "Why do you need to enter the information from these submissions into the system in batches?",
+      "feedback": "✅ Why do you need to语序正确，名词对象、into目标、方式全部完整。",
+      "correction": "原句可保留。",
+      "id": "U135",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "Why do you need to enter the information from these submissions into the system in batches?"
+      ]
+    },
+    {
+      "prompt": "R4首答：你们已经把这些提交材料的信息分批录入系统了，对吧？",
+      "answer": "You have entered the information from these submissions into the system, haven't you?",
+      "feedback": "✅ have→haven’t you极性及助动词正确。🟡 再次漏in batches，属信息扫描而非Tag失败。",
+      "correction": "You have entered the information from these submissions into the system in batches, haven’t you?",
+      "id": "U136",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "You have entered the information from these submissions into the system, haven't you?"
+      ]
+    },
+    {
+      "prompt": "R4修正（保留用户Markdown强调）。",
+      "answer": "You have entered the information from these submissions into the system **in batches**, haven’t you?",
+      "feedback": "✅ 分批补齐；原文加粗只强调修正，不视为英语内容错误。提示后通过。",
+      "correction": "去除Markdown后句子原样成立。",
+      "id": "U137",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "You have entered the information from these submissions into the system **in batches**, haven’t you?"
+      ]
+    },
+    {
+      "prompt": "R5：你们会分批录入材料信息，还是一次全部录入？",
+      "answer": "Will you enter the information from these submissions into the system in batches or all at once?",
+      "feedback": "✅ 两方式共用enter结构，Will语序、信息来源与目标系统完整。",
+      "correction": "原句可保留。",
+      "id": "U138",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "Will you enter the information from these submissions into the system in batches or all at once?"
+      ]
+    },
+    {
+      "prompt": "R6：如果材料更少，我们就能把所有信息一次录入系统。",
+      "answer": "If there were fewer submissions, we could enter all the information into the system all at once.",
+      "feedback": "✅ were fewer→could enter准确对应假设与能力；all information和all at once分别强调范围和一次性，不重复。",
+      "correction": "原句可保留。",
+      "id": "U139",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "If there were fewer submissions, we could enter all the information into the system all at once."
+      ]
+    },
+    {
+      "prompt": "QF1：解释正在忙于把材料信息分批录入系统。",
+      "answer": "I'm entering the information from the submissions into the system in batches.",
+      "feedback": "✅ 进行时、信息对象、来源、目标及方式完整。没有遗漏information/in batches。",
+      "correction": "原句可保留。",
+      "id": "U140",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "I'm entering the information from the submissions into the system in batches."
+      ]
+    },
+    {
+      "prompt": "QF2：指导新同事把姓名填在第一个框内。",
+      "answer": "Please enter your name in the first box.",
+      "feedback": "✅ enter+姓名+in+表格位置正确，礼貌祈使自然。证明enter信息义后可有in，补全旧课遗漏分支。",
+      "correction": "原句可保留。",
+      "id": "U141",
+      "section": "语言点 12：enter 信息录入义核心六类句式",
+      "sentences": [
+        "Please enter your name in the first box."
+      ]
+    }
+  ]
+}

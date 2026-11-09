@@ -248,3 +248,119 @@
 - `hear from`：本日正确接 two teams，无 views 框架混合，升 🟡 观察；仍需精确表达意见内容的无提示新场景。
 - `rely on`：本日 on/to 完整，保持既有 🟢，不替记旧未答题通过。
 - `plan submission`：训练中，仅肯定句（修正后）和否定句通过，R3 已出未答；不新增已完成语言点、不增加当前数量。归档无新增可核验证据，保留原历史记录。
+
+
+## 2026-11-05 plan submission 完成证据
+
+| 语言点 | 状态 | 首次训练 | 本次完成 | 证据 |
+| --- | --- | --- | --- | --- |
+| plan submission | 🟡 | 2026-11-04 | 2026-11-05 | 六类句式及两轮 QF 已完成；R3、R5、R6 正确，R4 is it 极性错误后以前否后肯加练修复。QF1 part of our responsibility 可接受，part of our job 更自然；QF2 Who should be responsible for the plan submission? 正确，should 讨论应由谁负责，is 确认现有分工。仍待无提示隔场复测。 |
+
+- 本节优先于上方旧断点；新增 1 项，候选总数由原标注 210 增至 211，未执行归档。part of 在 R5 与 QF1 正确复用；本次 R5 与紧邻前轮相似，不仅据此判定长期固化。
+
+
+## 2026-11-05 declare a conflict of interest 完成证据
+
+| 语言点 | 状态 | 首次训练 | 本次完成 | 证据 |
+| --- | --- | --- | --- | --- |
+| declare a conflict of interest | 🟡 | 2026-11-05 | 2026-11-05 | 六类句式+两轮QF+与 plan submission 的 Micro Role-play 完成；R3 重复 is，加练修复；QF1 公司复数与主语结构经修正通过；my relative 原表达合法；QF2 首答漏 now 和句尾许可，修正通过。Micro RP 两个目标均正确，our team’s responsibility 单数可成立，不强改复数。 |
+
+- 新增 1 项，在前次新增后候选数按原标注增至 212；未归档。rely on 在否定及虚拟轮正确；part of 多次正确但多数题相近；if I may 在提示后正确，不作为无提示固化证据。
+
+
+## 2026-11-05 should have done 完成证据
+
+| 语言点 | 状态 | 首次训练 | 本次完成 | 证据 |
+| --- | --- | --- | --- | --- |
+| should have done / should not have done（过去本该／本不该） | 🟡 | 2026-11-05 | 2026-11-05 | 六类句式+两轮QF完成；have hid→hidden 经加练修复；R6 If you were there→had been 经加练修复；told 可成立但提醒更准确为 reminded。QF1 完整正确；QF2 is my privacy→private matter 修正；最终 This is a private matter. You should not have told others in public. 目标结构正确，in public 添义且未显式说明 about it，属于表达精确度提示。 |
+
+- 新增 1 项，按原标注累计候选数 213；未归档。新语言点连续完成3项，下一步安排不规则过去分词轮换纠偏2题。
+
+
+## 2026-11-07 raise 完成证据
+
+| 语言点 | 状态 | 完成日期 | 证据 |
+| --- | --- | --- | --- |
+| raise an issue（提出问题供讨论） | 🟡 | 2026-11-07 | 六类句式+两轮QF完成；核心句式正确，R2未用yet并非语法错误；R3-R6正确复用in the field，过去反事实had been正确；QF1 gonna适合随意口语，现场背景可隐含；QF2经补足散会前、单数问题与句尾if I may后通过。the issue合法，不强制改an issue。最终原句：I’d like to raise the issue spotted in the field before the meeting ends, if I may. |
+
+- 新增1项，按此前标注累计214项，未归档。if I may经提示并调整位置后正确，维持🟡，不算无提示熟练。下一步should have done与raise的Micro Role-play。
+
+
+## submission 可数材料义完成证据（本聊天续训）
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| submission / submissions（正式提交的材料、方案或意见，可数） | 🟡 | 六类句式+两轮QF完成。核心句式均正确；虚拟句would review合法，could更精确对应就能；QF1 submissions are too many调整为There are too many submissions，前者不绝对判语法不成立。QF2正确输出There are still two teams that have not met the deadline. They have not submitted the materials. I will contact them and ask for the submissions. 含截止、两团队、未提交和联系意图，表达完整；三句可接受，前两句可合并。 |
+
+- 新增1项，按此前标注累计215项，未归档；in batches多次复用正确但题目高度相似，不仅据此判长期固化。
+
+
+## 2026-11-08 deliberation 完成证据
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| deliberation / deliberations（慎重考虑／审议活动） | 🟡 | 六类句式+两轮QF完成。R5 or just approve them 主语逻辑错误→加练 Does the submissions 单复数错误→Does the submission…or can we approve it directly? 修复；R6 liberation自行改deliberation，enough time与more time有语义细差；QF1正确；QF2 two day deliberation→two days of deliberations，in batch自行改in batches。最终：After two days of deliberations, the committee decided to review the submissions in batches. 单复数辨析通过：two days of deliberation同样可用于委员会，不因two days强制复数，不按天数数审议次数。 |
+
+- 新增1项，按此前标注累计216项，未归档。submission和in batches正确复用；题目相近不直接判长期固化。下一步submission与deliberation的Micro Role-play。
+
+
+## hear a submission 完成证据（本聊天续训）
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| hear a submission（听取正式提出供审议的意见／主张） | 🟡 | 六类句式+两轮QF完成。R1 reviewing process可理解，review process更惯常；R2 take into consideration改变含义，原题先考虑再听取措辞欠佳，换题修复；R3-R5正确；R6 had been heard主动被动混淆，had heard加练修复；QF1正确；QF2 needs to hear只表示必要性，改will hear明确未来安排后通过。最终：The committee will hear the submission from the security team before the deliberation. any submission单数可成立，deliberation单数亦可。 |
+
+- 新增1项，按此前标注累计217项，未归档。believe与过去事件的专项练习用户再次主动跳过，不标完成。deliberation与hear a submission已形成两语言点组，下一步Micro Role-play。
+
+
+## 2026-11-08 part of 虚拟轮补全
+
+- 学生：If hearing a submission were not part of the review process, we would not arrange it.
+- 评价：第二条件句、part of及hear a submission正确，虚拟轮覆盖缺项补全；it在语境中指安排听取这一活动。既有核心五类句式+QF仍保留，状态维持🟡，不据提示补题宣称无提示固化。
+- submission/deliberation整合练习最终修正通过：Let’s first hear the submission from the security team and then start deliberations before deciding whether to approve submissions. first/then顺序、security team和deliberations均正确；结尾the submissions更明确但不强制。
+
+
+## 2026-11-08 if I may 反义疑问句补练
+
+- 学生：If I may, hearing a submission is part of the review process, isn’t it?
+- 评价：许可插话与确认问题在场景中成立；is→isn’t it极性和助动词正确，it指听取意见的活动。此前独立Tag轮缺项已补，状态保持🟡；不将Tag机械套在may上，不据一轮宣称其余所有句式已完整覆盖。
+
+
+## enter / enter into 重新激活与补训（本聊天续训）
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| enter / enter into（地点、阶段与协议、讨论搭配） | 🟡 | 学生明确表示不记得，按规则从历史归档重新激活。enter the meeting room判断正确；enter into agreements核心肯定、否定、Wh、Tag、选择、虚拟及2QF完成。Wh首答Why there is a necessary结构错误，加练Why is deliberation necessary…修复；considerration拼写修正。最后Actually, we have not entered into agreements with the team yet. We are going to enter into the agreements tomorrow. 正确。协议复数与后续the均可成立。 |
+
+- 核验纠正旧规则：enter an agreement、enter discussions亦有词典证据，不说协议必加into；enter into discussions不保证深入。当前协议搭配已补训，进入地点/阶段及讨论搭配仍需交叉抽查，不能仅以协议题断言两者全部固化。
+
+
+## be linked to 关联义补训（本聊天续训）
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| be linked to（与……有关联，不必然表示隶属或所有权） | 🟡 | 六类句式+两轮QF完成。Wh以Which plan作主语合法；Tag、选择和虚拟正确。QF1预算关联正确；QF2初答断言大学不管理不拥有，超出只知道关联的场景证据；修正The company is linked to the university, but that doesn’t necessarily mean the university owns it. 后通过。关联≠必然所有，未知≠明确否定。历史linked to后置定语已练，此处补机构关联义。 |
+
+- 旧解释纠正：affiliated to/with也可能只表示正式关联，不能一概等同管理或所有。enter into agreements与be linked to两项复训完成，可安排整合练习。
+
+
+## 2026-11-09 enter 信息录入义补训完成
+
+| 语言点 | 状态 | 证据 |
+| --- | --- | --- |
+| enter information into a system / enter a name in a box（录入／填写信息） | 🟡 | 核心六类句式+两轮QF完成。肯定首答漏信息与分批，补全后通过；否定未用yet非语法错误；Tag漏in batches后补全；Wh、选择、虚拟正确。QF1 I’m entering the information from the submissions into the system in batches. 正确；QF2 Please enter your name in the first box. 正确。牛津明确收录enter something in/into/on something，纠正旧课enter后出现in永错的断言。 |
+
+- 本点补全原文学生enter后何时用in/into的问题分支；首次完成维持🟡，仍需隔场复测。
+
+
+## 2026-11-09｜逐句补录后的复用证据校准
+
+- 权威新证据：[本聊天完整141条作答](../sessions/2026-11-09/session-notes.md)及JSON索引；不以此前分散摘要代替逐句记录。
+- **both of which / neither of which → 🟡观察**：U118 and both of which失败，U119修复；U120新场景正确；U121否定范围需要neither，导师题目限制也有问题；U122、U124及U125正确。旧归档项复测发现结构漏洞，保留主表历史，同时重新激活观察，不声称是全套六类新训。
+- **regarding**：U126正确句首；U127搭配正确但是否有/具体什么顾虑有功能差别；U128按提示修正。保持历史证据，不凭三条相近提示题批量归档。
+- **part of / if I may**：虚拟轮U087、Tag轮U088已答，旧缺项不再待办；两点保持🟡，QF位置多次提示过。
+- **deliberation / hear a submission整合**：U084–U086逐步修正，名词形式与security team最终完整；不是首次无误。
+- **enter协议 / be linked to整合**：U114 an university→U115 a university修复，However另句正确。关联对象与所有权须按实际已知表达。
+- **65BEC最终场景**：U129目标齐但linked to me改变对象；U130改former company及许可；U131补听取和审议安排。三个片段组合后通过，不误写单次完整零误。
+- **enter录入信息**：U132漏信息和分批、U136再次漏分批；U133/U137修复；U138–U141正确。维持🟡，不因QF一次成功升永久固化。
+- **数字口径**：上方历史手写候选总数为各时点粗标注，本次未完成全表去重精确盘点；不虚报已减至80以内。未满足可核验归档条件，不批量归档。
